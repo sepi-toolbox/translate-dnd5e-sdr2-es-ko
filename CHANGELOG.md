@@ -17,16 +17,66 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 - —
 
 ### Changed
-- Reworked GitHub Release workflow:
-  - Releases are now generated as **Draft** by default to allow validation before publication.
-  - Automated module packaging using `dev-tools/buildScripts/build_release.py` (git archive–based build).
-  - Release asset now exclusively uploads `dist/translate-dnd5e-sdr2-es.zip`.
-  - Added explicit `permissions: contents: write` to prevent GitHub Actions permission failures.
+- —
 
 ### Fixed
 - —
 
 ---
+
+## [1.13.4] - 2026-03-31
+
+### Added
+- Spanish vs English consolidation pass (*integración fina v1*) producing a module-ready package per compendium.
+- Optional recommendation for `dnd-monster-manual` to resolve remaining external embeds referenced from `dnd5e.content24`.
+- Release workflow improvements:
+    - Releases are generated as **Draft** by default to allow validation before publication.
+    - Automated module packaging using `dev-tools/buildScripts/build_release.py` (git archive–based build).
+    - Release asset uploads `dist/translate-dnd5e-sdr2-es.zip`.
+    - Explicit `permissions: contents: write` to prevent GitHub Actions permission failures.
+
+### Changed
+- Final compendium files consolidated to best-available integrated outputs:
+    - `dnd5e.content24.json` ← `dnd5e.content24.es.integracion-fina.v1.json`
+        - ES base: `dnd5e.content24.es.mini-correctiva.v2.1.no-key-translation.json`
+        - reference overlay: `dnd5e.content24.references.mini-correctiva.v6.external-mm.json`
+        - reference paths applied: **135**
+        - mismatches: **0**
+        - note: `key` values have **not** been translated (by design).
+        - note: retains **15** intentional external embeds to `dnd-monster-manual.content` (optional dependency).
+    - `dnd5e.actors24.json` ← `dnd5e.actors24.es.integracion-fina.v1.json`
+        - ES base: `dnd5e.actors24.es.mini-correctiva.v2.json`
+        - overlay references: `dnd5e.actors24.references.mini-correctiva.v2.json`
+        - reference paths applied: **28**
+        - mismatches: **0**
+    - `dnd5e.classes24.json` ← `dnd5e.classes24.es.integracion-fina.v1.json`
+        - ES base: `dnd5e.classes24.es.mini-correctiva.v2.json`
+        - references overlay: `dnd5e.classes24.references.mini-correctiva.v1.json`
+        - reference paths applied: **1**
+        - mismatches: **0**
+    - `dnd5e.equipment24.json` ← `dnd5e.equipment24.es.mini-correctiva.v2.json`
+    - `dnd5e.feats24.json` ← `dnd5e.feats24.es.mini-correctiva.v2.json`
+    - `dnd5e.monsterfeatures24.json` ← `dnd5e.monsterfeatures24.es.mini-correctiva.v2.json`
+    - `dnd5e.origins24.json` ← `dnd5e.origins24.es.mini-correctiva.v2.json`
+    - `dnd5e.spells24.json` ← `dnd5e.spells24.es.mini-correctiva.v2.json`
+    - `dnd5e.tables24.json` ← `dnd5e.tables24.es.mini-correctiva.v2.json`
+- Babele support:
+    - Added/confirmed registration for `dnd5e.equipment24` in the Babele register script (module integration support).
+
+### Fixed
+- Final integrity checks after consolidation:
+    - `content24`: changes to `key` fields: **0**
+    - `content24`: external embeds in `dnd-monster-manual.content`: **15**
+    - `actors24`: obsolete references to `phbmobZombie0000`: **0**
+    - `actors24`: obsolete references to `phbmobSkeleton00`: **0**
+    - `classes24`: obsolete reference to `mh3akteBDiLegqFK`: **0**
+
+### Notes
+- `content24` is integrated with the strongest reference fixes available, but retains **15 deliberate external embeds**
+  to `dnd-monster-manual.content`; these are intentional and covered via an optional recommendation.
+
+---
+
 ## [1.13.3] - 2026-03-02
 
 ### Added
