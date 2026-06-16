@@ -1,8 +1,8 @@
 {
   "id": "translate-dnd5e-sdr2-es",
-  "title": "D&D 5e SRD 2024 한국어 번역 (Babele)",
-  "description": "Foundry VTT의 dnd5e 시스템용 공식 D&D 5e SRD 2024 주제집(주문·몬스터·장비·클래스·기원·규칙·표 등) 한국어 번역본 — Babele 기반. 원본은 foundryvtt-sinregistrar의 스페인어 번역 모듈.",
-  "version": "1.13.5",
+  "title": "D&D 5e 한국어 번역 (시스템 UI + SRD 2024)",
+  "description": "Foundry VTT의 dnd5e 시스템 한국어 번역본. 시스템 UI(능력치·시트·상태·주문 등) 전체 한국어화 + D&D 2024 SRD 주제집(주문·몬스터·장비·클래스·기원·규칙·표) Babele 번역 + D&D 2024 스타일 일지/스탯블록 + 한국어 폰트. 원본: LuckyFrico(이탈리아어)·foundryvtt-sinregistrar(스페인어).",
+  "version": "2.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -12,16 +12,6 @@
       "lang": "ko",
       "name": "한국어",
       "path": "lang/ko.json"
-    },
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    },
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "lang/es.json"
     }
   ],
   "relationships": {
@@ -31,7 +21,7 @@
         "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
         "compatibility": {
           "minimum": "5.2.1",
-          "verified": "5.2.5"
+          "verified": "5.3.3"
         },
         "type": "system"
       }
@@ -62,11 +52,59 @@
   },
   "esmodules": [
     "scripts/converters.js",
-    "scripts/babele-register.js"
+    "scripts/babele-register.js",
+    "main.js"
+  ],
+  "styles": [
+    "styles/dnd-ita.css"
+  ],
+  "packs": [
+    {
+      "name": "macro",
+      "label": "미터법 단위 변환",
+      "path": "packs/macro",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "D&D 5e 한국어 번역",
+      "color": "#39b157",
+      "sorting": "m",
+      "packs": [
+        "macro"
+      ],
+      "folders": []
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Nanum Myeongjo",
+      "fonts": [
+        { "urls": ["modules/translate-dnd5e-sdr2-es/fonts/korean/NanumMyeongjo-Regular.woff2"], "weight": 400, "style": "normal" },
+        { "urls": ["modules/translate-dnd5e-sdr2-es/fonts/korean/NanumMyeongjo-Bold.woff2"], "weight": 700, "style": "normal" }
+      ]
+    },
+    {
+      "family": "Pretendard",
+      "fonts": [
+        { "urls": ["modules/translate-dnd5e-sdr2-es/fonts/korean/Pretendard-Regular.woff2"], "weight": 400, "style": "normal" },
+        { "urls": ["modules/translate-dnd5e-sdr2-es/fonts/korean/Pretendard-Bold.woff2"], "weight": 700, "style": "normal" }
+      ]
+    }
   ],
   "authors": [
     {
-      "name": "foundryvtt-sinregistrar"
+      "name": "LuckyFrico (이탈리아어 원본)"
+    },
+    {
+      "name": "foundryvtt-sinregistrar (스페인어 베이스)"
     },
     {
       "name": "sepi-toolbox (한국어 번역)"

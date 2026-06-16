@@ -1,6 +1,6 @@
-# 🇰🇷 D&D 5e SRD 2024 — 한국어 (Babele)
+# 🇰🇷 D&D 5e 한국어 번역 (시스템 UI + SRD 2024)
 
-> **한국어 미러** — foundryvtt-sinregistrar의 스페인어 번역 모듈([translate-dnd5e-sdr2-es](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es))을 기반으로 한국어로 번역한 비공식 미러입니다.
+> **한국어 번역 모듈** — [LuckyFrico의 이탈리아어 번역 모듈](https://github.com/LuckyFrico/dnd5e-it-translation-foundryVTT) 구조를 베이스로, foundryvtt-sinregistrar의 스페인어 SRD 2024 Babele 번역을 결합해 한국어로 만든 비공식 모듈입니다.
 >
 > **설치 매니페스트 URL** (Foundry → 모듈 설치 → 하단 URL 입력란):
 > ```
@@ -8,8 +8,14 @@
 > ```
 >
 > - **요구 사항**: `dnd5e` 시스템 + [Babele](https://gitlab.com/riccisi/foundryvtt-babele) 모듈. Foundry UI 언어를 **한국어**로 설정해야 적용됩니다.
-> - **범위**: 주문·몬스터/NPC·장비·클래스 기능·몬스터 특성·기원·규칙 일지·재주·무작위표 등 SRD 2024 주제집 전체(약 2,280개 항목)를 한국어로 번역. 용어는 Candlekeep D&D 5e 2024 SRD 한국어 용어집을 정본으로 사용.
+> - **포함 내용**
+>   - **시스템 UI 전체 한국어화** — 능력치·시트 라벨·상태이상·피해유형·주문학파·설정 등 dnd5e 인터페이스(약 3,576개 키).
+>   - **D&D 2024 SRD 주제집 Babele 번역** — 주문·몬스터/NPC·장비·클래스 기능·몬스터 특성·기원·규칙 일지·재주·무작위표.
+>   - **D&D 2024 스타일 일지 & 스탯블록** — 한국어 폰트(본문 나눔명조 + UI Pretendard), 낭독문/GM 메모/인용/스탯블록 서식 블록, 일지 섹션·액터 팝업.
+>   - **단위 변환 매크로** — 임페리얼↔미터법(기본값은 피트·파운드 유지, 설정에서 전환).
+> - **용어 정본**: Candlekeep D&D 5e 2024 SRD 한국어 용어집.
 > - 모듈 ID는 원본과 동일(`translate-dnd5e-sdr2-es`)하여 원본 스페인어판과 **동시 설치할 수 없습니다**.
+> - ⚠️ 레거시(2014) SRD 주제집 번역은 다음 업데이트에서 추가될 예정입니다.
 > - 콘텐츠 라이선스: 아래 원문(CC-BY 4.0) 동일.
 
 ---

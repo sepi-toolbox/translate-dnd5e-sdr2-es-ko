@@ -16,11 +16,30 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 ### Added
 - —
 
+---
+
+## [2.0.0] - 2026-06-16
+
+LuckyFrico의 이탈리아어 모듈 구조를 베이스로 전면 개편. 기존 Babele 주제집 번역에 더해 **시스템 UI 전체 + 일지/스탯블록 + 한국어 폰트**를 추가.
+
+### Added
+- **시스템 UI 한국어 번역** — dnd5e 시스템 `lang/en.json`(약 3,576개 키) 전체를 한국어로 번역(`lang/ko.json`). 능력치·시트 라벨·상태이상·피해유형·주문학파·설정 등. 캔들킵 2024 SRD 용어집 정본.
+- **한국어 폰트** — 본문 나눔명조(Nanum Myeongjo) + UI Pretendard. 라틴 장식 폰트(Bookinsanity 등) 뒤에 폴백으로 추가해 영문/숫자 미감 보존.
+- **D&D 2024 일지/스탯블록** — 일지 스타일, `@Statblock`/`@Section` 인리처, 낭독문·GM 메모·인용·스탯블록 ProseMirror 서식 블록, 일지 위 액터 팝업.
+- **단위 변환 매크로 4종** — 장면·무기·주문·액터 임페리얼↔미터법 변환(기본 OFF, 피트·파운드 유지).
+
 ### Changed
-- —
+- 모듈 범위 확대: "SRD 2024 Babele 번역" → "시스템 UI + SRD 2024 + 일지/스탯블록".
+- 단위 정책: **피트·파운드 유지**(미터 변환은 설정에서 선택).
+- `esmodules`에 `main.js` 추가, `styles`·`packs`·`fonts` 등록.
 
 ### Fixed
-- —
+- v14 호환성: `CONFIG.TextEditor`→`CONFIG.ux.TextEditor`, `FormApplication`/`Dialog`→`ApplicationV2`/`DialogV2` 폴백, `mergeObject`/`TextEditor`/`ImagePopout` 네임스페이스화.
+- 섹션 파서 `safeSlug`가 한글 제목 앵커를 제거하던 문제 수정(유니코드 문자 보존).
+- 설정 `int:` 오타를 `hint:`로 수정해 힌트 노출.
+
+### Note
+- 레거시(2014) SRD 주제집 번역은 다음 업데이트 예정.
 
 ---
 
