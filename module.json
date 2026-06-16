@@ -2,10 +2,10 @@
   "id": "translate-dnd5e-sdr2-es",
   "title": "D&D 5e SRD 2024 한국어 번역 (Babele)",
   "description": "Foundry VTT의 dnd5e 시스템용 공식 D&D 5e SRD 2024 주제집(주문·몬스터·장비·클래스·기원·규칙·표 등) 한국어 번역본 — Babele 기반. 원본은 foundryvtt-sinregistrar의 스페인어 번역 모듈.",
-  "version": "1.13.4",
+  "version": "1.13.5",
   "compatibility": {
     "minimum": "13",
-    "verified": "13.351"
+    "verified": "14"
   },
   "languages": [
     {
