@@ -1,13 +1,18 @@
 {
   "id": "translate-dnd5e-sdr2-es",
-  "title": "D&D 5e SRD 2024 Spanish Translation (Babele)",
-  "description": "Spanish translation for the official D&D 5e SRD 2024 compendiums using Babele. Includes structured mappings, activities, effects, and semantic normalization.",
+  "title": "D&D 5e SRD 2024 한국어 번역 (Babele)",
+  "description": "Foundry VTT의 dnd5e 시스템용 공식 D&D 5e SRD 2024 주제집(주문·몬스터·장비·클래스·기원·규칙·표 등) 한국어 번역본 — Babele 기반. 원본은 foundryvtt-sinregistrar의 스페인어 번역 모듈.",
   "version": "1.13.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
   },
   "languages": [
+    {
+      "lang": "ko",
+      "name": "한국어",
+      "path": "lang/ko.json"
+    },
     {
       "lang": "en",
       "name": "English",
@@ -62,13 +67,16 @@
   "authors": [
     {
       "name": "foundryvtt-sinregistrar"
+    },
+    {
+      "name": "sepi-toolbox (한국어 번역)"
     }
   ],
-  "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es/main/module.json",
-  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es/releases/latest/download/translate-dnd5e-sdr2-es.zip",
-  "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es/issues",
-  "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es/blob/main/README.md",
-  "changelog": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es/releases",
-  "license": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es/blob/main/LICENSE"
+  "url": "https://github.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko",
+  "manifest": "https://raw.githubusercontent.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/main/module.json",
+  "download": "https://github.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/archive/refs/heads/main.zip",
+  "bugs": "https://github.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/issues",
+  "readme": "https://github.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/blob/main/README.md",
+  "changelog": "https://github.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/commits/main",
+  "license": "https://github.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/blob/main/LICENSE"
 }

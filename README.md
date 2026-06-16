@@ -1,3 +1,22 @@
+# 🇰🇷 D&D 5e SRD 2024 — 한국어 (Babele)
+
+> **한국어 미러** — foundryvtt-sinregistrar의 스페인어 번역 모듈([translate-dnd5e-sdr2-es](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-sdr2-es))을 기반으로 한국어로 번역한 비공식 미러입니다.
+>
+> **설치 매니페스트 URL** (Foundry → 모듈 설치 → 하단 URL 입력란):
+> ```
+> https://raw.githubusercontent.com/sepi-toolbox/translate-dnd5e-sdr2-es-ko/main/module.json
+> ```
+>
+> - **요구 사항**: `dnd5e` 시스템 + [Babele](https://gitlab.com/riccisi/foundryvtt-babele) 모듈. Foundry UI 언어를 **한국어**로 설정해야 적용됩니다.
+> - **범위**: 주문·몬스터/NPC·장비·클래스 기능·몬스터 특성·기원·규칙 일지·재주·무작위표 등 SRD 2024 주제집 전체(약 2,280개 항목)를 한국어로 번역. 용어는 Candlekeep D&D 5e 2024 SRD 한국어 용어집을 정본으로 사용.
+> - 모듈 ID는 원본과 동일(`translate-dnd5e-sdr2-es`)하여 원본 스페인어판과 **동시 설치할 수 없습니다**.
+> - 콘텐츠 라이선스: 아래 원문(CC-BY 4.0) 동일.
+
+---
+
+<details>
+<summary>원본 README (Español / English)</summary>
+
 # 🇪🇸 D&D 5e SRD 2024 -- Español (Babele)
 
 ![Foundry v13](https://img.shields.io/badge/Foundry-v13-green) ![dnd5e
@@ -126,3 +145,5 @@ Consulta: **CHANGELOG.md**
 ## 👤 Autor
 
 foundryvtt-sinregistrar
+
+</details>

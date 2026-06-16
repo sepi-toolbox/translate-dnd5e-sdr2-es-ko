@@ -1,5 +1,5 @@
 {
-  "label": "Orígenes de personaje",
+  "label": "캐릭터 기원",
   "mapping": {
     "activities": {
       "path": "system.activities",
@@ -15,830 +15,830 @@
     }
   },
   "folders": {
-    "Backgrounds": "Trasfondos",
-    "Dragonborn": "Dracónido",
-    "Dwarf": "Enano",
-    "Elf": "Elfo",
-    "Gnome": "Gnomo",
-    "Goliath": "Goliat",
-    "Halfling": "Mediano",
-    "Human": "Humano",
-    "Orc": "Orco",
-    "Species": "Especies",
-    "Tiefling": "Tiflin",
-    "Traits": "Rasgos"
+    "Backgrounds": "배경",
+    "Dragonborn": "드래곤본",
+    "Dwarf": "드워프",
+    "Elf": "엘프",
+    "Gnome": "노움",
+    "Goliath": "골리앗",
+    "Halfling": "하플링",
+    "Human": "인간",
+    "Orc": "오크",
+    "Species": "종족",
+    "Tiefling": "티플링",
+    "Traits": "특성"
   },
   "entries": {
     "phbbgAcolyte0000": {
-      "name": "Acólito",
-      "description": "<p><strong>Puntuaciones de característica:</strong> inteligencia, sabiduría, carisma</p><p><strong>Dote:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{Iniciado en la magia} (Clérigo)</p><p><strong>Competencias en habilidades:</strong> Perspicacia y Religión</p><p><strong>Competencia con herramientas:</strong> Útiles de calígrafo</p><p><strong>Equipo:</strong> <em>Elige A o B:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{Suministros de calígrafo}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{Libro} (oraciones), @UUID[Compendium.dnd5e.equipment24.Item.phbagHolySymbolV]{Símbolo sagrado (varía)}, @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{Pergamino} (10 hojas), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{Toga}, 8 po; o (B) 50 po</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgAcolyte0000 inline classes=\"free-rules-embed\"]</p>",
+      "name": "복사",
+      "description": "<p><strong>능력치:</strong> 지능, 지혜, 매력</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (클레릭)</p><p><strong>기술 숙련:</strong> 통찰 및 종교</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (기도서), @UUID[Compendium.dnd5e.equipment24.Item.phbagHolySymbolV]{성표 (종류 다양)}, @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgAcolyte0000 inline classes=\"free-rules-embed\"]</p>",
       "advancement": {
         "kDI6zoUamHzFTvHG": {
-          "title": "Mejora de puntuaciones por trasfondo",
-          "hint": "Tu trasfondo te permite aumentar tus puntuaciones de inteligencia, sabiduría y carisma; aumenta una de ellas en 2 y otra diferente en 1, o aumenta las tres en 1. Ninguno de estos aumentos puede elevar una puntuación por encima de 20."
+          "title": "배경에 따른 능력치 향상",
+          "hint": "당신의 배경은 지능, 지혜, 매력 능력치를 높일 수 있게 해 준다. 그중 하나를 2 올리고 다른 하나를 1 올리거나, 세 가지를 모두 1씩 올린다. 이러한 향상으로 능력치를 20을 초과하여 올릴 수는 없다."
         },
         "Lk1ScjOCqRDtX2Tg": {
-          "title": "Competencias del trasfondo",
-          "hint": "Tu trasfondo te otorga competencia en Perspicacia y Religión. También te otorga competencia con los útiles de calígrafo."
+          "title": "배경 숙련",
+          "hint": "당신의 배경은 통찰과 종교에 숙련을 부여한다. 또한 서기의 도구에 숙련을 부여한다."
         },
         "ygyW1bVUTnCnjxY2": {
-          "title": "Dote del trasfondo",
-          "hint": "Tu trasfondo te otorga la dote Iniciado en la magia (Clérigo)."
+          "title": "배경 재주",
+          "hint": "당신의 배경은 마법 입문(클레릭) 재주를 부여한다."
         },
         "McRHkSL3WnG2Po7g": {
-          "title": "Elige idiomas",
-          "hint": "Tu personaje conoce al menos tres idiomas: Común más dos idiomas que tiras o eliges de la tabla de Idiomas estándar."
+          "title": "언어 선택",
+          "hint": "당신의 캐릭터는 최소 세 가지 언어를 안다. 공용어와 더불어 표준 언어 표에서 굴리거나 선택하는 두 가지 언어이다."
         }
       },
       "activities": {},
       "effects": {}
     },
     "phbbgCriminal000": {
-      "name": "Criminal",
-      "description": "<p><strong>Puntuaciones de característica:</strong> destreza, constitución, inteligencia</p><p><strong>Dote:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftAlert000000]{Alerta}</p><p><strong>Competencias en habilidades:</strong> Juego de Manos y Sigilo</p><p><strong>Competencia con herramientas:</strong> Herramientas de ladrón</p><p><strong>Equipo:</strong> <em>Elige A o B:</em> (A) 2 @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{Daga}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{Herramientas de ladrón}, @UUID[Compendium.dnd5e.equipment24.Item.phbagCrowbar0000]{Palanca}, 2 @UUID[Compendium.dnd5e.equipment24.Item.phbagPouch000000]{Faltriquera}, @UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{Ropas de viajero}, 16 PO; o (B) 50 PO</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgCriminal000 inline classes=\"free-rules-embed\"]</p>",
+      "name": "범죄자",
+      "description": "<p><strong>능력치:</strong> 민첩, 건강, 지능</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftAlert000000]{경계}</p><p><strong>기술 숙련:</strong> 손재주 및 은신</p><p><strong>도구 숙련:</strong> 도둑 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagCrowbar0000]{쇠지렛대}, @UUID[Compendium.dnd5e.equipment24.Item.phbagPouch000000]{주머니} 2개, @UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{여행자의 의상}, 16 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgCriminal000 inline classes=\"free-rules-embed\"]</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "8gFHAigaFboVUSgH": {
-          "title": "Mejora de puntuaciones de característica del trasfondo",
-          "hint": "Tu trasfondo te permite aumentar tus puntuaciones de destreza, constitución y carisma; aumenta una de ellas en 2 y otra diferente en 1, o aumenta las tres en 1. Ninguno de estos aumentos puede elevar una puntuación por encima de 20."
+          "title": "배경에 따른 능력치 향상",
+          "hint": "당신의 배경은 민첩, 건강, 매력 능력치를 높일 수 있게 해 준다. 그중 하나를 2 올리고 다른 하나를 1 올리거나, 세 가지를 모두 1씩 올린다. 이러한 향상으로 능력치를 20을 초과하여 올릴 수는 없다."
         },
         "WJA48TLxfqlc3ygz": {
-          "title": "Dote del trasfondo",
-          "hint": "Tu trasfondo te otorga la dote Alerta."
+          "title": "배경 재주",
+          "hint": "당신의 배경은 경계 재주를 부여한다."
         },
         "CdiCt0Cr9bP9FQNO": {
-          "title": "Competencias del trasfondo",
-          "hint": "Tu trasfondo te otorga competencia en Juego de Manos y Sigilo. También te otorga competencia con Herramientas de ladrón."
+          "title": "배경 숙련",
+          "hint": "당신의 배경은 손재주와 은신에 숙련을 부여한다. 또한 도둑 도구에 숙련을 부여한다."
         },
         "pLGiyOjTP7nwuwTl": {
-          "title": "Elegir idiomas",
-          "hint": "Tu personaje conoce al menos tres idiomas: Común más otros dos que elijas o determines en la tabla de Idiomas estándar."
+          "title": "언어 선택",
+          "hint": "당신의 캐릭터는 최소 세 가지 언어를 안다. 공용어와 더불어 표준 언어 표에서 선택하거나 결정하는 다른 두 가지 언어이다."
         }
       }
     },
     "phbbgSage0000000": {
-      "name": "Sabio",
-      "description": "<p><strong>Puntuaciones de característica:</strong> constitución, inteligencia, sabiduría</p><p><strong>Dote:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{Iniciado en la magia} (Mago)</p><p><strong>Competencias en habilidades:</strong> Arcana e Historia</p><p><strong>Competencia con herramientas:</strong> Útiles de calígrafo</p><p><strong>Equipo:</strong> <em>Elige A o B:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{Bastón (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{Suministros de calígrafo}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{Libro} (historia), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{Pergamino} (8 hojas), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{Toga}, 8 PO; o (B) 50 PO</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
+      "name": "현자",
+      "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전학 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사서), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "3O61L5uTy5jRCqJb": {
-          "title": "Mejora de puntuaciones de característica del trasfondo",
-          "hint": "Tu trasfondo te permite aumentar tus puntuaciones de constitución, inteligencia y sabiduría; aumenta una de ellas en 2 y otra diferente en 1, o aumenta las tres en 1. Ninguno de estos aumentos puede elevar una puntuación por encima de 20."
+          "title": "배경에 따른 능력치 향상",
+          "hint": "당신의 배경은 건강, 지능, 지혜 능력치를 높일 수 있게 해 준다. 그중 하나를 2 올리고 다른 하나를 1 올리거나, 세 가지를 모두 1씩 올린다. 이러한 향상으로 능력치를 20을 초과하여 올릴 수는 없다."
         },
         "DMd8rikwPlZdpP1l": {
-          "title": "Competencias del trasfondo",
-          "hint": "Tu trasfondo te otorga competencia en Arcana e Historia. También te otorga competencia con Útiles de calígrafo."
+          "title": "배경 숙련",
+          "hint": "당신의 배경은 비전학과 역사에 숙련을 부여한다. 또한 서기의 도구에 숙련을 부여한다."
         },
         "kKt7VMmZUuRr35dP": {
-          "title": "Dote del trasfondo",
-          "hint": "Tu trasfondo te otorga la dote Iniciado en la magia (Mago)."
+          "title": "배경 재주",
+          "hint": "당신의 배경은 마법 입문(위저드) 재주를 부여한다."
         },
         "pLGiyOjTP7nwuwTl": {
-          "title": "Elegir idiomas",
-          "hint": "Tu personaje conoce al menos tres idiomas: Común más otros dos que elijas o determines en la tabla de Idiomas estándar."
+          "title": "언어 선택",
+          "hint": "당신의 캐릭터는 최소 세 가지 언어를 안다. 공용어와 더불어 표준 언어 표에서 선택하거나 결정하는 다른 두 가지 언어이다."
         }
       }
     },
     "phbbgSoldier0000": {
-      "name": "Soldado",
-      "description": "<p><strong>Puntuaciones de característica:</strong> fuerza, destreza, constitución</p><p><strong>Dote:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftSavageAttac]{Atacante salvaje}</p><p><strong>Competencias en habilidades:</strong> Atletismo e Intimidación</p><p><strong>Competencia con herramientas:</strong> <em>Elige un tipo de</em> <em>Juego de azar</em> (ver @UUID[Compendium.dnd5e.content24.JournalEntry.phbEquipment0000.JournalEntryPage.GCvg8n7Q7ltSPRxe#gaming-set-(varies)]{capítulo 6})</p><p><strong>Equipo:</strong> <em>Elige A o B:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{Lanza}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{Arco corto}, 20 @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{Flechas}, Juego de azar (el mismo elegido antes), @UUID[Compendium.dnd5e.equipment24.Item.phbagHealersKit0]{Botiquín}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{Carcaj}, @UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{Ropas de viajero}, 14 PO; o (B) 50 PO</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSoldier0000 inline classes=\"free-rules-embed\"]</p>",
+      "name": "군인",
+      "description": "<p><strong>능력치:</strong> 근력, 민첩, 건강</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftSavageAttac]{맹렬한 공격자}</p><p><strong>기술 숙련:</strong> 운동 및 위협</p><p><strong>도구 숙련:</strong> <em>한 종류의</em> <em>게임 세트</em>를 선택 (@UUID[Compendium.dnd5e.content24.JournalEntry.phbEquipment0000.JournalEntryPage.GCvg8n7Q7ltSPRxe#gaming-set-(varies)]{6장} 참조)</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, 게임 세트(앞서 선택한 것과 동일), @UUID[Compendium.dnd5e.equipment24.Item.phbagHealersKit0]{치유사의 키트}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{여행자의 의상}, 14 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSoldier0000 inline classes=\"free-rules-embed\"]</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "5hLHlmqxzoAta0uf": {
-          "title": "Mejora de puntuaciones de característica del trasfondo",
-          "hint": "Tu trasfondo te permite aumentar tus puntuaciones de fuerza, destreza y constitución; aumenta una de ellas en 2 y otra diferente en 1, o aumenta las tres en 1. Ninguno de estos aumentos puede elevar una puntuación por encima de 20."
+          "title": "배경에 따른 능력치 향상",
+          "hint": "당신의 배경은 근력, 민첩, 건강 능력치를 높일 수 있게 해 준다. 그중 하나를 2 올리고 다른 하나를 1 올리거나, 세 가지를 모두 1씩 올린다. 이러한 향상으로 능력치를 20을 초과하여 올릴 수는 없다."
         },
         "y4FZ4I6wU0F8DEjO": {
-          "title": "Competencias del trasfondo",
-          "hint": "Tu trasfondo te otorga competencia en Atletismo e Intimidación. También te otorga competencia con cualquier Juego de azar."
+          "title": "배경 숙련",
+          "hint": "당신의 배경은 운동과 위협에 숙련을 부여한다. 또한 임의의 게임 세트에 숙련을 부여한다."
         },
         "tk8CFgIW7fXL0mlu": {
-          "title": "Dote del trasfondo",
-          "hint": "Tu trasfondo te otorga la dote Atacante salvaje."
+          "title": "배경 재주",
+          "hint": "당신의 배경은 맹렬한 공격자 재주를 부여한다."
         },
         "pLGiyOjTP7nwuwTl": {
-          "title": "Elegir idiomas",
-          "hint": "Tu personaje conoce al menos tres idiomas: Común más otros dos que elijas o determines en la tabla de Idiomas estándar."
+          "title": "언어 선택",
+          "hint": "당신의 캐릭터는 최소 세 가지 언어를 안다. 공용어와 더불어 표준 언어 표에서 선택하거나 결정하는 다른 두 가지 언어이다."
         }
       }
     },
     "phbspAbyssalTief": {
-      "name": "Tiefling, abisal",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspTiefling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"abyssal\">Abisal</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspAbyssalTief inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"tiefling-traits\">Rasgos de tiefling</h3><p><strong>Tipo de criatura</strong>: Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 3–4 pies de altura), elegido cuando seleccionas esta especie</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como tiefling, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Legado infernal.</strong> Eres el receptor de un legado que te otorga habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles de personaje 3 y 5, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro, y recuperas la capacidad de lanzarlo de esa manera cuando terminas un Descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado. inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo (elige la característica cuando selecciones el legado).</p><p><strong>Presencia de otro mundo.</strong> Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{Taumaturgia}. Cuando lo lanzas con este rasgo, el conjuro usa la misma característica de lanzamiento de conjuros que usas para tu rasgo Legado infernal.</p><table><caption>Rasgos del legado abisal</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tienes Resistencia al daño de veneno. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplPoisonSpra]{Rociada venenosa}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{Rayo nauseabundo}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHoldPerson]{Inmovilizar persona}</td></tr></tbody></table>",
+      "name": "티플링, 심연",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspTiefling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"abyssal\">심연</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspAbyssalTief inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"tiefling-traits\">티플링 특성</h3><p><strong>크리처 유형</strong>: 인간형</p><p><strong>체격: </strong>중형(키 약 4~7피트) 또는 소형(키 약 3~4피트), 이 종족을 선택할 때 결정</p><p><strong>속도:</strong> 30피트</p><p>티플링으로서 당신은 다음과 같은 특수 특성을 지닌다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닌다.</p><p><strong>지옥의 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 계승자이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 상위 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비 상태로 둔다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그 방식으로 다시 시전할 수 있는 능력을 회복한다. 또한 보유한 적절한 레벨의 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 정한다).</p><p><strong>이세계의 존재감.</strong> 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{단순마술} 소마법을 안다. 이 특성으로 시전할 때, 그 주문은 지옥의 혈통 특성에 사용하는 것과 동일한 주문 시전 능력치를 사용한다.</p><table><caption>심연 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 독성 피해에 대한 저항을 지닌다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplPoisonSpra]{독 분사} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{독 광선}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHoldPerson]{인간형 포박}</td></tr></tbody></table>",
       "activities": {},
       "effects": {},
       "advancement": {
         "lskxIeib6rIreZ1h": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 3–4 pies de altura)"
+          "title": "체격",
+          "hint": "중형(키 약 4~7피트) 또는 소형(키 약 3~4피트)"
         },
         "T8T6H9TudTleafUL": {
-          "title": "Rasgos de tiefling",
+          "title": "티플링 특성",
           "hint": ""
         },
         "V8h8fLg4XG1QGewy": {
-          "title": "Rasgos de tiefling abisal",
-          "hint": "Tienes Resistencia al daño de veneno."
+          "title": "심연 티플링 특성",
+          "hint": "당신은 독성 피해에 대한 저항을 지닌다."
         },
         "VhCiGFOLtG8H93jy": {
-          "title": "Rasgos de tiefling abisal",
-          "hint": "inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo."
+          "title": "심연 티플링 특성",
+          "hint": "이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다."
         },
         "KwcwntR3Ai0R5iPN": {
-          "title": "Rasgos de tiefling abisal",
-          "hint": "inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo."
+          "title": "심연 티플링 특성",
+          "hint": "이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다."
         },
         "9iZufhdzY3XN7Em3": {
-          "title": "Rasgos de tiefling abisal",
-          "hint": "inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo."
+          "title": "심연 티플링 특성",
+          "hint": "이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다."
         },
         "YENpPevreTnGrRVK": {
-          "title": "Presencia de otro mundo",
+          "title": "이세계의 존재감",
           "hint": ""
         }
       }
     },
     "phbspChthonicTie": {
-      "name": "Tiefling, ctónico",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspTiefling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"chthonic\">Ctónico</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspChthonicTie inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"tiefling-traits\">Rasgos de tiefling</h3><p><strong>Tipo de criatura:</strong> Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 3–4 pies de altura), elegido cuando seleccionas esta especie</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como tiefling, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Legado infernal.</strong> Eres el receptor de un legado que te otorga habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles de personaje 3 y 5, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro, y recuperas la capacidad de lanzarlo de esa manera cuando terminas un Descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado. inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo (elige la característica cuando selecciones el legado).</p><p><strong>Presencia de otro mundo.</strong> Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{Taumaturgia}. Cuando lo lanzas con este rasgo, el conjuro usa la misma característica de lanzamiento de conjuros que usas para tu rasgo Legado infernal.</p><table><caption>Legados infernales</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tienes Resistencia al daño necrótico. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplChillTouch]{Toque helado}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFalseLife0]{Falsa vida}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofEnfee]{Rayo debilitador}</td></tr></tbody></table>",
+      "name": "티플링, 명계",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspTiefling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"chthonic\">명계</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspChthonicTie inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"tiefling-traits\">티플링 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 4~7피트) 또는 소형(키 약 3~4피트), 이 종족을 선택할 때 결정</p><p><strong>속도:</strong> 30피트</p><p>티플링으로서 당신은 다음과 같은 특수 특성을 지닌다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닌다.</p><p><strong>지옥의 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 계승자이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 상위 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비 상태로 둔다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그 방식으로 다시 시전할 수 있는 능력을 회복한다. 또한 보유한 적절한 레벨의 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 정한다).</p><p><strong>이세계의 존재감.</strong> 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{단순마술} 소마법을 안다. 이 특성으로 시전할 때, 그 주문은 지옥의 혈통 특성에 사용하는 것과 동일한 주문 시전 능력치를 사용한다.</p><table><caption>지옥의 혈통</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 사령 피해에 대한 저항을 지닌다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplChillTouch]{뼛속 냉기} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFalseLife0]{거짓 목숨}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofEnfee]{약화 광선}</td></tr></tbody></table>",
       "activities": {},
       "effects": {},
       "advancement": {
         "lskxIeib6rIreZ1h": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 3–4 pies de altura)"
+          "title": "체격",
+          "hint": "중형(키 약 4~7피트) 또는 소형(키 약 3~4피트)"
         },
         "T8T6H9TudTleafUL": {
-          "title": "Rasgos de tiefling",
+          "title": "티플링 특성",
           "hint": ""
         },
         "kcfmKwJkaV9btwJU": {
-          "title": "Presencia de otro mundo",
+          "title": "이세계의 존재감",
           "hint": ""
         },
         "O6M9VGAwHx9Kkfhj": {
-          "title": "Rasgos de tiefling ctónico",
-          "hint": "Tienes Resistencia al daño necrótico."
+          "title": "명계 티플링 특성",
+          "hint": "당신은 사령 피해에 대한 저항을 지닌다."
         },
         "pIi692Cevlw7qZRe": {
-          "title": "Rasgos de tiefling ctónico",
-          "hint": "inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo."
+          "title": "명계 티플링 특성",
+          "hint": "이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다."
         },
         "DU7Y6D1IJSSgObJK": {
-          "title": "Rasgos de tiefling ctónico",
-          "hint": "inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo."
+          "title": "명계 티플링 특성",
+          "hint": "이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다."
         },
         "R0k1RmQximNOQw1R": {
-          "title": "Rasgos de tiefling ctónico",
-          "hint": "inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo."
+          "title": "명계 티플링 특성",
+          "hint": "이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다."
         }
       }
     },
     "phbspDragonborn0": {
-      "name": "Dracónido",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDragonborn0 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"dragonborn-traits\">Rasgos de dracónido</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 5–7 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como dracónido, tienes los siguientes rasgos especiales.</p><p><strong>Ascendencia dracónica.</strong> Tu linaje proviene de un dragón progenitor. Elige el tipo de dragón de la tabla de Ancestros dracónicos. Tu elección afecta a tus rasgos de Arma de aliento y Resistencia al daño, así como a tu apariencia.</p><table><caption>Ancestros dracónicos</caption><thead><tr><td>Dragón</td><td>Tipo de daño</td><td>Dragón</td><td>Tipo de daño</td></tr></thead><tbody><tr><td>Negro</td><td>Ácido</td><td>Dorado</td><td>Fuego</td></tr><tr><td>Azul</td><td>Relámpago</td><td>Verde</td><td>Veneno</td></tr><tr><td>Latón</td><td>Fuego</td><td>Rojo</td><td>Fuego</td></tr><tr><td>Bronce</td><td>Relámpago</td><td>Plateado</td><td>Frío</td></tr><tr><td>Cobrizo</td><td>Ácido</td><td>Blanco</td><td>Frío</td></tr></tbody></table><p><strong>Arma de aliento.</strong> Cuando realizas la acción de Ataque en tu turno, puedes reemplazar uno de tus ataques por una exhalación de energía mágica en un Cono de 15 pies o en una Línea de 30 pies de largo y 5 pies de ancho (elige la forma cada vez). Cada criatura en esa área debe hacer una tirada de salvación de destreza (CD 8 + tu modificador de constitución + tu Bonificador por competencia). Con una salvación fallida, la criatura sufre 1d10 de daño del tipo determinado por tu rasgo Ascendencia dracónica. Con una salvación exitosa, sufre la mitad del daño. Este daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10). Puedes usar esta Arma de aliento un número de veces igual a tu Bonificador por competencia, y recuperas todos los usos gastados cuando terminas un Descanso largo.</p><p><strong>Resistencia al daño. </strong>Tienes Resistencia al tipo de daño determinado por tu rasgo Ascendencia dracónica.</p><p><strong>Visión en la oscuridad. </strong>Tienes visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Vuelo dracónico.</strong> Cuando alcanzas el nivel 5, puedes canalizar magia dracónica para otorgarte vuelo temporal. Como Acción adicional, te brotan alas espectrales en la espalda que duran 10 minutos o hasta que las retraigas (sin acción requerida) o tengas la condición incapacitado. Durante ese tiempo, tienes una Velocidad de vuelo igual a tu Velocidad. Tus alas parecen estar formadas por la misma energía que tu Arma de aliento. Una vez usas este rasgo, no puedes volver a usarlo hasta que termines un Descanso largo.</p>",
+      "name": "드래곤본",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDragonborn0 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"dragonborn-traits\">드래곤본 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>중형(키 약 5~7피트)</p><p><strong>속도:</strong> 30피트</p><p>드래곤본으로서 당신은 다음과 같은 특수 특성을 지닌다.</p><p><strong>드래곤 혈통.</strong> 당신의 혈통은 어느 드래곤 시조에서 비롯된다. 드래곤 조상 표에서 드래곤 유형을 선택한다. 이 선택은 당신의 숨결 무기 및 피해 저항 특성과 외모에 영향을 미친다.</p><table><caption>드래곤 조상</caption><thead><tr><td>드래곤</td><td>피해 유형</td><td>드래곤</td><td>피해 유형</td></tr></thead><tbody><tr><td>블랙</td><td>산성</td><td>골드</td><td>화염</td></tr><tr><td>블루</td><td>번개</td><td>그린</td><td>독성</td></tr><tr><td>브라스</td><td>화염</td><td>레드</td><td>화염</td></tr><tr><td>브론즈</td><td>번개</td><td>실버</td><td>냉기</td></tr><tr><td>코퍼</td><td>산성</td><td>화이트</td><td>냉기</td></tr></tbody></table><p><strong>숨결 무기.</strong> 자신의 턴에 공격 행동을 할 때, 공격 중 하나를 15피트 원뿔이나 길이 30피트에 너비 5피트인 직선으로 마법 에너지를 내뿜는 것으로 대체할 수 있다(매번 형태를 선택한다). 그 범위 내의 모든 크리처는 민첩 내성 굴림(DC 8 + 당신의 건강 수정치 + 당신의 숙련 보너스)을 해야 한다. 내성에 실패하면, 그 크리처는 당신의 드래곤 혈통 특성으로 결정되는 유형의 피해를 1d10 받는다. 내성에 성공하면, 피해의 절반을 받는다. 이 피해는 5레벨(2d10), 11레벨(3d10), 17레벨(4d10)에 도달할 때 1d10씩 증가한다. 이 숨결 무기는 당신의 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 긴 휴식을 마칠 때 소모한 사용 횟수를 모두 회복한다.</p><p><strong>피해 저항. </strong>당신은 드래곤 혈통 특성으로 결정되는 피해 유형에 대한 저항을 지닌다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닌다.</p><p><strong>드래곤 비행.</strong> 5레벨에 도달하면, 드래곤 마법을 발휘하여 일시적으로 비행 능력을 얻을 수 있다. 보조 행동으로, 등에서 유령 같은 날개가 돋아나 10분간, 또는 (행동이 필요 없이) 날개를 거두거나 행동불능 상태가 될 때까지 유지된다. 그동안 당신은 자신의 속도와 같은 비행 속도를 지닌다. 당신의 날개는 숨결 무기와 동일한 에너지로 이루어진 것처럼 보인다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 사용할 수 없다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "65BqBxGcj6z4S803": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 5–7 pies de altura)"
+          "title": "체격",
+          "hint": "중형(키 약 5~7피트)"
         },
         "XA1fKbmfBiCHnVzs": {
-          "title": "Arma de aliento",
+          "title": "숨결 무기",
           "hint": ""
         },
         "raWgGHnxSicEwTb9": {
-          "title": "Ascendencia dracónica",
+          "title": "드래곤 혈통",
           "hint": ""
         },
         "8maGZKJ9TOIgNR80": {
-          "title": "Resistencia al daño",
-          "hint": "Tienes Resistencia al tipo de daño determinado por tu rasgo Ascendencia dracónica."
+          "title": "피해 저항",
+          "hint": "당신은 드래곤 혈통 특성으로 결정되는 피해 유형에 대한 저항을 지닌다."
         },
         "jOGAWKkPIAbshOpo": {
-          "title": "Vuelo dracónico",
+          "title": "드래곤 비행",
           "hint": ""
         }
       }
     },
     "phbspDrow0000000": {
-      "name": "Elfo, drow",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">Drow</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">Rasgos de elfo</h3><p><strong>Tipo de criatura:</strong> Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 5–6 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como elfo, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Linaje élfico. </strong>Perteneces a un linaje que te otorga habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro, y recuperas la capacidad de lanzarlo de esa manera cuando terminas un Descanso largo. También puedes lanzarlo usando cualquier espacio de conjuro que tengas del nivel apropiado. inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lanzas con este rasgo (elige la característica cuando selecciones el linaje).</p><table><caption>Rasgos del linaje drow</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>El alcance de tu visión en la oscuridad aumenta a 120 pies. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{Luces danzantes}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{Fuego feérico}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{Oscuridad}</td></tr></tbody></table><p><strong>Ascendencia feérica.</strong> Tienes Ventaja en las tiradas de salvación para evitar o terminar la condición &amp;Reference[Charmed].</p><p><strong>Sentidos agudos.</strong> Tienes competencia en la habilidad Perspicacia, Percepción o Supervivencia.</p><p><strong>Trance.</strong> No necesitas dormir, y la magia no puede ponerte a dormir. Puedes completar un Descanso largo en 4 horas si pasas ese tiempo en una meditación similar al trance, durante la cual mantienes la consciencia.</p>",
+      "name": "엘프, 드로우",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특수 특성을 지닌다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닌다.</p><p><strong>엘프의 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통에 속한다.</p><p>레벨 3과 5에 도달하면, 표에 나온 대로 상위 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비 상태로 둔다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그 방식으로 다시 시전할 수 있는 능력을 회복한다. 또한 보유한 적절한 레벨의 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 이 특성으로 시전하는 주문의 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 정한다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 암시야 범위가 120피트로 증가한다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련을 지닌다.</p><p><strong>황홀경.</strong> 당신은 잠을 잘 필요가 없으며, 마법으로 잠들게 할 수 없다. 의식을 유지한 채 황홀경과 유사한 명상에 그 시간을 보낸다면 4시간 만에 긴 휴식을 마칠 수 있다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "5w2FaHXRKiN7v1rE": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 5–6 pies de altura)"
+          "title": "체격",
+          "hint": "중형(키 약 5~6피트)"
         },
         "boHzoT53gYPvJ9o2": {
-          "title": "Rasgos de elfo",
+          "title": "엘프 특성",
           "hint": ""
         },
         "nccRK77cXNtEHCHX": {
-          "title": "Sentidos agudos",
-          "hint": "Tienes competencia en Perspicacia, Percepción o Supervivencia."
+          "title": "예리한 감각",
+          "hint": "당신은 통찰, 포착 또는 생존에 숙련을 지닌다."
         },
         "LWGXpgeZc3PwUgTg": {
-          "title": "Rasgos drow",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como característica de lanzamiento de conjuros."
+          "title": "드로우 특성",
+          "hint": "지능, 지혜 또는 매력을 주문 시전 능력치로 선택할 수 있다."
         },
         "hIn6cR8fRweVWhTp": {
-          "title": "Rasgos drow",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como característica de lanzamiento de conjuros."
+          "title": "드로우 특성",
+          "hint": "지능, 지혜 또는 매력을 주문 시전 능력치로 선택할 수 있다."
         },
         "18x2qczDE0MerZfa": {
-          "title": "Rasgos drow",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como característica de lanzamiento de conjuros."
+          "title": "드로우 특성",
+          "hint": "지능, 지혜 또는 매력을 주문 시전 능력치로 선택할 수 있다."
         }
       }
     },
     "phbspDwarf000000": {
-      "name": "Enano",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDwarf000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"dwarf-traits\">Rasgos de enano</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 4–5 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como enano, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes visión en la oscuridad con un alcance de 120 pies.</p><p><strong>Resistencia enana.</strong> Tienes Resistencia al daño por Veneno. También tienes Ventaja en las tiradas de salvación para evitar o terminar la condición envenenado.</p><p><strong>Dureza enana.</strong> Tu máximo de Puntos de Golpe aumenta en 1, y vuelve a aumentar en 1 cada vez que subes de nivel.</p><p><strong>Conocimiento pétreo.</strong> Como Acción adicional, obtienes Sentido sísmico con un alcance de 60 pies durante 10 minutos. Debes estar sobre una superficie de piedra o tocando una superficie de piedra para usar este Sentido sísmico. La piedra puede ser natural o trabajada. Puedes usar esta Acción adicional un número de veces igual a tu Bonificador por competencia, y recuperas todos los usos gastados cuando terminas un Descanso largo.</p>",
+      "name": "드워프",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDwarf000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"dwarf-traits\">드워프 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>중형(키 약 4~5피트)</p><p><strong>속도:</strong> 30피트</p><p>드워프로서 당신은 다음과 같은 특수 특성을 지닌다.</p><p><strong>암시야. </strong>당신은 120피트 범위의 암시야를 지닌다.</p><p><strong>드워프의 저항.</strong> 당신은 독성 피해에 대한 저항을 지닌다. 또한 중독 상태를 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>드워프의 강인함.</strong> 당신의 최대 HP가 1 증가하며, 레벨이 오를 때마다 다시 1씩 증가한다.</p><p><strong>암석 지식.</strong> 보조 행동으로, 10분간 60피트 범위의 진동감지를 얻는다. 이 진동감지를 사용하려면 돌 표면 위에 있거나 돌 표면을 만지고 있어야 한다. 돌은 자연적이거나 가공된 것일 수 있다. 이 보조 행동은 당신의 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 긴 휴식을 마칠 때 소모한 사용 횟수를 모두 회복한다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "6HdONjMD4UozXSfC": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 4–5 pies de altura)"
+          "title": "체격",
+          "hint": "중형(키 약 4~5피트)"
         },
         "PphNMhWLl5mEgAZf": {
-          "title": "Rasgos de enano",
+          "title": "드워프 특성",
           "hint": ""
         },
         "S3kro3b0bq0Ks6Y8": {
-          "title": "Resistencia enana",
-          "hint": "Tienes Resistencia al daño por Veneno."
+          "title": "드워프의 저항",
+          "hint": "당신은 독성 피해에 대한 저항을 지닌다."
         }
       }
     },
     "phbspForestGnome": {
-      "name": "Gnomo, del bosque",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspGnome000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"gnome-traits\">Rasgos de gnomo</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Pequeño (aprox. 3–4 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como gnomo, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Astucia gnómica.</strong> Tienes Ventaja en las tiradas de salvación de inteligencia, sabiduría y carisma.</p><p><strong>Linaje gnómico.</strong> Formas parte de un linaje que te otorga habilidades sobrenaturales. Sea cual sea el linaje que elijas, inteligencia, sabiduría o carisma es tu característica de lanzamiento de conjuros para los conjuros que lances con este rasgo (elige la característica cuando selecciones el linaje):</p><p><strong>Gnomo del bosque.</strong> Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplMinorIllus]{Ilusión menor}. Además, siempre tienes preparado el conjuro @UUID[Compendium.dnd5e.spells24.Item.phbsplSpeakwithA]{Hablar con los animales}. Puedes lanzarlo sin gastar un espacio de conjuro un número de veces igual a tu Bonificador por competencia, y recuperas todos los usos gastados cuando terminas un Descanso largo. También puedes usar cualquier espacio de conjuro que tengas para lanzar el conjuro.</p>",
+      "name": "노움, 숲",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspGnome000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"gnome-traits\">노움 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>소형 (키 약 3~4피트)</p><p><strong>속도:</strong> 30피트</p><p>노움으로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>노움의 교활함.</strong> 당신은 지능, 지혜, 매력 내성 굴림에 유리 보정을 받는다.</p><p><strong>노움 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부이다. 어떤 혈통을 선택하든, 이 특성으로 시전하는 주문에 대한 당신의 주문 시전 능력치는 지능, 지혜, 매력 중 하나이다(혈통을 선택할 때 능력치를 고른다):</p><p><strong>숲 노움.</strong> 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplMinorIllus]{하급 환영} 소마법을 안다. 또한, 당신은 항상 @UUID[Compendium.dnd5e.spells24.Item.phbsplSpeakwithA]{동물과 대화} 주문을 준비한 상태이다. 당신은 주문 슬롯을 소모하지 않고 숙련 보너스와 같은 횟수만큼 이를 시전할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복한다. 또한 당신이 가진 어떤 주문 슬롯이든 사용하여 이 주문을 시전할 수 있다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "O7gYRGMSW3atQ2Yc": {
-          "title": "Tamaño",
-          "hint": "Pequeño (aprox. 3–4 pies de altura)"
+          "title": "체격",
+          "hint": "소형 (키 약 3~4피트)"
         },
         "LcGnqnqKYFw0PcE9": {
-          "title": "Rasgos de gnomo",
+          "title": "노움 특성",
           "hint": ""
         },
         "KIOe7GcuEGboouMQ": {
-          "title": "Conjuro del linaje de gnomo del bosque",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como característica de lanzamiento de conjuros."
+          "title": "숲 노움 혈통 주문",
+          "hint": "지능, 지혜, 매력 중 하나를 주문 시전 능력치로 선택할 수 있다."
         },
         "5ENIyYfAxcpuh426": {
-          "title": "Truco del linaje de gnomo del bosque",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como característica de lanzamiento de conjuros."
+          "title": "숲 노움 혈통 소마법",
+          "hint": "지능, 지혜, 매력 중 하나를 주문 시전 능력치로 선택할 수 있다."
         }
       }
     },
     "phbspGoliath0000": {
-      "name": "Goliat",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspGoliath0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"goliath-traits\">Rasgos de goliat</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 7–8 pies de altura)</p><p><strong>Velocidad:</strong> 35 pies</p><p>Como goliat, tienes los siguientes rasgos especiales.</p><p><strong>Ascendencia gigante.</strong> Desciendes de gigantes. Elige uno de los siguientes beneficios —un don sobrenatural de tu linaje—; puedes usar el beneficio elegido un número de veces igual a tu Bonificador por competencia, y recuperas todos los usos gastados cuando terminas un Descanso largo:</p><p><strong>Paso de la nube (Gigante de las nubes). </strong>Como Acción adicional, te teletransportas mágicamente hasta 30 pies a un espacio desocupado que puedas ver.</p><p><strong>Ardor del fuego (Gigante de fuego).</strong> Cuando impactas a un objetivo con una tirada de ataque y le infliges daño, también puedes infligir 1d10 de daño de Fuego a ese objetivo.</p><p><strong>Frío de la escarcha (Gigante de escarcha).</strong> Cuando impactas a un objetivo con una tirada de ataque y le infliges daño, también puedes infligir 1d6 de daño de Frío a ese objetivo y reducir su Velocidad en 10 pies hasta el inicio de tu siguiente turno.</p><p><strong>Golpe de la colina (Gigante de las colinas). </strong>Cuando impactas a una criatura Grande o menor con una tirada de ataque y le infliges daño, puedes imponerle la condición &amp;Reference[Prone].</p><p><strong>Resistencia pétrea (Gigante de piedra).</strong> Cuando recibes daño, puedes usar tu Reacción para tirar 1d12. Suma tu modificador de constitución al resultado y reduce el daño en esa cantidad.</p><p><strong>Trueno de la tormenta (Gigante de tormenta).</strong> Cuando una criatura situada a 60 pies o menos de ti te inflige daño, puedes usar tu Reacción para infligirle 1d8 de daño de Trueno.</p><p><strong>Forma grande.</strong> A partir del nivel 5 de personaje, puedes cambiar tu tamaño a Grande como Acción adicional si estás en un espacio lo bastante amplio. Esta transformación dura 10 minutos o hasta que la finalices (no requiere acción). Durante ese tiempo, tienes Ventaja en las pruebas de fuerza y tu Velocidad aumenta en 10 pies. Una vez que uses este rasgo, no podrás volver a usarlo hasta que termines un Descanso largo.</p><p><strong>constitución poderosa.</strong> Tienes Ventaja en cualquier prueba de característica que hagas para terminar la condición agarrado. Además, cuentas como una categoría de tamaño mayor al determinar tu capacidad de carga.</p>",
+      "name": "골리앗",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspGoliath0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"goliath-traits\">골리앗 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>중형 (키 약 7~8피트)</p><p><strong>속도:</strong> 35피트</p><p>골리앗으로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>거인 혈통.</strong> 당신은 거인의 후예이다. 다음 혜택 중 하나—당신 혈통의 초자연적 재능—를 선택한다. 선택한 혜택은 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복한다:</p><p><strong>구름 걸음 (구름 거인). </strong>보조 행동으로, 당신은 볼 수 있는 비점유 공간으로 최대 30피트까지 마법적으로 순간이동한다.</p><p><strong>화염의 열기 (화염 거인).</strong> 명중 굴림으로 목표를 맞히고 피해를 입힐 때, 당신은 그 목표에게 1d10의 화염 피해를 추가로 입힐 수도 있다.</p><p><strong>서리의 냉기 (서리 거인).</strong> 명중 굴림으로 목표를 맞히고 피해를 입힐 때, 당신은 그 목표에게 1d6의 냉기 피해를 추가로 입히고 당신의 다음 턴 시작 시까지 그 목표의 속도를 10피트 감소시킬 수도 있다.</p><p><strong>언덕의 강타 (언덕 거인). </strong>명중 굴림으로 대형 이하의 크리처를 맞히고 피해를 입힐 때, 당신은 그 크리처에게 &amp;Reference[Prone] 상태이상을 부여할 수 있다.</p><p><strong>돌의 저항 (돌 거인).</strong> 피해를 받을 때, 당신은 대응을 사용하여 1d12를 굴릴 수 있다. 결과에 당신의 건강 수정치를 더하고 그 양만큼 피해를 감소시킨다.</p><p><strong>폭풍의 천둥 (폭풍 거인).</strong> 당신으로부터 60피트 이내에 있는 크리처가 당신에게 피해를 입힐 때, 당신은 대응을 사용하여 그 크리처에게 1d8의 천둥 피해를 입힐 수 있다.</p><p><strong>대형 형상.</strong> 캐릭터 5레벨부터, 충분히 넓은 공간에 있다면 보조 행동으로 당신의 체격을 대형으로 바꿀 수 있다. 이 변신은 10분 동안 또는 당신이 끝낼 때까지 지속된다(행동을 요구하지 않음). 그동안 당신은 근력 판정에 유리 보정을 받고 당신의 속도가 10피트 증가한다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 사용할 수 없다.</p><p><strong>강력한 건강.</strong> 당신은 붙잡힘 상태이상을 끝내기 위해 하는 어떤 능력 판정에도 유리 보정을 받는다. 또한, 운반 용량을 결정할 때 당신은 한 단계 큰 체격 범주로 간주된다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "LETPMtBLvmzWUUb0": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 7–8 pies de altura)"
+          "title": "체격",
+          "hint": "중형 (키 약 7~8피트)"
         },
         "PZxMcT5tVtvvf62P": {
-          "title": "Rasgos de goliat",
+          "title": "골리앗 특성",
           "hint": ""
         },
         "LrdYfRLrRlgsZrNn": {
-          "title": "Ascendencia gigante",
-          "hint": "Desciendes de gigantes. Elige uno de los siguientes beneficios —un don sobrenatural de tu linaje—; puedes usar el beneficio elegido un número de veces igual a tu Bonificador por competencia, y recuperas todos los usos gastados cuando terminas un Descanso largo."
+          "title": "거인 혈통",
+          "hint": "당신은 거인의 후예이다. 다음 혜택 중 하나—당신 혈통의 초자연적 재능—를 선택한다. 선택한 혜택은 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복한다."
         },
         "9cKoMls1KVDsdD4A": {
-          "title": "Rasgos de goliat",
+          "title": "골리앗 특성",
           "hint": ""
         }
       }
     },
     "phbspHalfling000": {
-      "name": "Mediano",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHalfling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"halfling-traits\">Rasgos de mediano</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Pequeño (aprox. 2–3 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como mediano, tienes los siguientes rasgos especiales.</p><p><strong>Valiente.</strong> Tienes Ventaja en las tiradas de salvación para evitar o terminar la condición asustado.</p><p><strong>Agilidad de mediano.</strong> Puedes moverte a través del espacio de cualquier criatura que sea al menos una categoría de tamaño mayor que tú, pero no puedes terminar tu movimiento en ese mismo espacio.</p><p><strong>Suerte.</strong> Cuando sacas un 1 en el d20 de una prueba de D20, puedes volver a tirar el dado y debes usar el nuevo resultado.</p><p><strong>Sigilo natural.</strong> Puedes realizar la acción Esconderse incluso cuando solo estás Oscurecido por una criatura que sea al menos una categoría de tamaño mayor que tú.</p>",
+      "name": "하플링",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHalfling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"halfling-traits\">하플링 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>소형 (키 약 2~3피트)</p><p><strong>속도:</strong> 30피트</p><p>하플링으로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>용감함.</strong> 당신은 공포 상태이상을 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>하플링의 민첩함.</strong> 당신은 당신보다 적어도 한 단계 큰 체격 범주인 어떤 크리처의 공간이든 통과하여 이동할 수 있지만, 그 같은 공간에서 이동을 끝낼 수는 없다.</p><p><strong>행운.</strong> D20 테스트의 d20에서 1이 나왔을 때, 당신은 주사위를 다시 굴릴 수 있으며 새로운 결과를 사용해야 한다.</p><p><strong>자연적 은신.</strong> 당신은 당신보다 적어도 한 단계 큰 체격 범주인 크리처에 의해서만 가려져 있을 때에도 숨기 행동을 할 수 있다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "GYp1vi82hSEoe3mO": {
-          "title": "Tamaño",
-          "hint": "Pequeño (aprox. 2–3 pies de altura)"
+          "title": "체격",
+          "hint": "소형 (키 약 2~3피트)"
         },
         "GFHErdA52SfUBvB5": {
-          "title": "Rasgos de mediano",
+          "title": "하플링 특성",
           "hint": ""
         }
       }
     },
     "phbspHighElf0000": {
-      "name": "Elfo, Alto",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">Elfos altos</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">Rasgos de elfo</h3><p><strong>Tipo de criatura:</strong> Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 5–6 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como elfo, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes Visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Linaje élfico. </strong>Formas parte de un linaje que te otorga habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de ese modo cuando terminas un Descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado. inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo (eliges la característica cuando seleccionas el linaje).</p><table><caption>Rasgos del linaje de elfo alto</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{Prestidigitación}. Cada vez que terminas un Descanso largo, puedes reemplazar ese truco por otro truco de la @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{Lista de conjuros de mago}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{Detectar magia}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{Paso brumoso}</td></tr></tbody></table><p><strong>Ascendencia feérica.</strong> Tienes Ventaja en las tiradas de salvación para evitar o terminar la condición &amp;Reference[Charmed].</p><p><strong>Sentidos agudos.</strong> Tienes competencia en la habilidad Perspicacia, Percepción o Supervivencia.</p><p><strong>Trance.</strong> No necesitas dormir y la magia no puede obligarte a dormir. Puedes completar un Descanso largo en 4 horas si pasas ese tiempo en una meditación similar a un trance, durante la cual permaneces consciente.</p>",
+      "name": "엘프, 하이",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형 (키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나타난 대로 더 높은 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비한 상태이다. 당신은 주문 슬롯을 소모하지 않고 한 번 이를 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 레벨의 어떤 주문 슬롯이든 사용하여 그 주문을 시전할 수 있다. 이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 안다. 긴 휴식을 마칠 때마다, 당신은 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{마법사 주문 목록}의 다른 소마법으로 교체할 수 있다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 당신을 잠들게 할 수 없다. 당신은 트랜스와 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "5w2FaHXRKiN7v1rE": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 5–6 pies de altura)"
+          "title": "체격",
+          "hint": "중형 (키 약 5~6피트)"
         },
         "boHzoT53gYPvJ9o2": {
-          "title": "Rasgos de elfo",
+          "title": "엘프 특성",
           "hint": ""
         },
         "wyzOrBj4qIVsCKc7": {
-          "title": "Sentidos agudos",
-          "hint": "Tienes competencia en la habilidad Perspicacia, Percepción o Supervivencia."
+          "title": "예리한 감각",
+          "hint": "당신은 통찰, 감지 또는 생존 기술에 숙련을 가진다."
         },
         "hraql8YRB41ssDA6": {
-          "title": "Rasgos de elfo alto",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como tu característica para lanzar conjuros."
+          "title": "하이 엘프 특성",
+          "hint": "지능, 지혜, 매력 중 하나를 주문 시전 능력치로 선택할 수 있다."
         },
         "iztB4GPENKXiA72M": {
-          "title": "Rasgos de elfo alto",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como tu característica para lanzar conjuros."
+          "title": "하이 엘프 특성",
+          "hint": "지능, 지혜, 매력 중 하나를 주문 시전 능력치로 선택할 수 있다."
         },
         "1LZlC6uInez1oV7n": {
-          "title": "Rasgos de elfo alto",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como tu característica para lanzar conjuros."
+          "title": "하이 엘프 특성",
+          "hint": "지능, 지혜, 매력 중 하나를 주문 시전 능력치로 선택할 수 있다."
         }
       }
     },
     "phbspHuman000000": {
-      "name": "Humano",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHuman000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"human-traits\">Rasgos de humano</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 2–4 pies de altura), elegido al seleccionar esta especie</p><p><strong>Velocidad: </strong>30 pies</p><p>Como humano, tienes los siguientes rasgos especiales.</p><p><strong>Ingenioso. </strong>Obtienes Inspiración heroica cada vez que terminas un Descanso largo.</p><p><strong>Hábil. </strong>Obtienes competencia en una habilidad de tu elección.</p><p><strong>Versátil.</strong> Obtienes una dote de Origen de tu elección (ver capítulo 5). Se recomienda Hábil.</p>",
+      "name": "인간",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHuman000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"human-traits\">인간 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>중형 (키 약 4~7피트) 또는 소형 (키 약 2~4피트), 이 종족을 선택할 때 고른다</p><p><strong>속도: </strong>30피트</p><p>인간으로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>기지. </strong>당신은 긴 휴식을 마칠 때마다 영웅적 영감을 얻는다.</p><p><strong>숙련됨. </strong>당신은 선택한 기술 하나에 숙련을 얻는다.</p><p><strong>다재다능.</strong> 당신은 선택한 기원 재주 하나를 얻는다(5장 참조). 숙련자가 권장된다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "dLxv96vt2B2KOEe2": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 2–4 pies de altura), elegido al seleccionar esta especie"
+          "title": "체격",
+          "hint": "중형 (키 약 4~7피트) 또는 소형 (키 약 2~4피트), 이 종족을 선택할 때 고른다"
         },
         "2H3yQa0PfjBgXw2W": {
-          "title": "Rasgos de humano",
+          "title": "인간 특성",
           "hint": ""
         },
         "xIdIaWtTj1cBERln": {
-          "title": "Hábil",
-          "hint": "Obtienes competencia en una habilidad de tu elección."
+          "title": "숙련됨",
+          "hint": "당신은 선택한 기술 하나에 숙련을 얻는다."
         },
         "KB8IQLwyuL6SOFnv": {
-          "title": "Versátil",
-          "hint": "Obtienes una dote de Origen de tu elección. Se recomienda Hábil."
+          "title": "다재다능",
+          "hint": "당신은 선택한 기원 재주 하나를 얻는다. 숙련자가 권장된다."
         }
       }
     },
     "phbspInfernalTie": {
-      "name": "Tiflin, Infernal",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspTiefling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"infernal\">Infernal</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspInfernalTie inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"tiefling-traits\">Rasgos de tiefling</h3><p><strong>Tipo de criatura:</strong> Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 3–4 pies de altura), elegido al seleccionar esta especie</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como tiefling, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes Visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Legado infernal.</strong> Eres el receptor de un legado que te concede habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de hacerlo de ese modo cuando terminas un Descanso largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro que tengas del nivel apropiado. inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo (eliges la característica cuando seleccionas el legado).</p><p><strong>Presencia sobrenatural.</strong> Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{Taumaturgia}. Cuando lo lanzas con este rasgo, el conjuro utiliza la misma característica para lanzar conjuros que uses para tu rasgo Legado infernal.</p><table><caption>Legados infernales</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tienes Resistencia al daño de Fuego. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplFireBolt00]{Descarga de fuego}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHellishReb]{Reprensión infernal}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{Oscuridad}</td></tr></tbody></table>",
+      "name": "티플링, 인페르날",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspTiefling000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"infernal\">인페르날</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspInfernalTie inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"tiefling-traits\">티플링 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형 (키 약 4~7피트) 또는 소형 (키 약 3~4피트), 이 종족을 선택할 때 고른다</p><p><strong>속도:</strong> 30피트</p><p>티플링으로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>인페르날 유산.</strong> 당신은 초자연적 능력을 부여하는 유산의 수령자이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나타난 대로 더 높은 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비한 상태이다. 당신은 주문 슬롯을 소모하지 않고 한 번 이를 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 레벨의 어떤 주문 슬롯이든 사용하여 그 주문을 시전할 수 있다. 이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다(유산을 선택할 때 능력치를 고른다).</p><p><strong>초자연적 존재감.</strong> 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{단순마술} 소마법을 안다. 이 특성으로 이를 시전할 때, 그 주문은 당신의 인페르날 유산 특성에 사용하는 것과 동일한 주문 시전 능력치를 사용한다.</p><table><caption>인페르날 유산</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 화염 피해에 대한 저항을 가진다. 또한 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplFireBolt00]{화염살} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHellishReb]{지옥의 질책}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table>",
       "activities": {},
       "effects": {},
       "advancement": {
         "lskxIeib6rIreZ1h": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 4–7 pies de altura) o Pequeño (aprox. 3–4 pies de altura)"
+          "title": "체격",
+          "hint": "중형 (키 약 4~7피트) 또는 소형 (키 약 3~4피트)"
         },
         "T8T6H9TudTleafUL": {
-          "title": "Rasgos de tiefling",
+          "title": "티플링 특성",
           "hint": ""
         },
         "bD2XFMWGPkFJLr2w": {
-          "title": "Presencia sobrenatural",
+          "title": "초자연적 존재감",
           "hint": ""
         },
         "9V9xGP0Fsqh3NDsB": {
-          "title": "Rasgos de tiefling infernal",
-          "hint": "Tienes Resistencia al daño de Fuego."
+          "title": "인페르날 티플링 특성",
+          "hint": "당신은 화염 피해에 대한 저항을 가진다."
         },
         "gMovXMwHeD9cCL99": {
-          "title": "Rasgos de tiefling infernal",
-          "hint": "inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo."
+          "title": "인페르날 티플링 특성",
+          "hint": "이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다."
         },
         "ol3SWLw2FTNEiXrb": {
-          "title": "Rasgos de tiefling infernal",
-          "hint": "inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo."
+          "title": "인페르날 티플링 특성",
+          "hint": "이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다."
         },
         "cj8h25IH0Zvdy3Bm": {
-          "title": "Rasgos de tiefling infernal",
-          "hint": "inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo."
+          "title": "인페르날 티플링 특성",
+          "hint": "이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다."
         }
       }
     },
     "phbspOrc00000000": {
-      "name": "Orco",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspOrc00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"orc-traits\">Rasgos de orco</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Mediano (aprox. 6–7 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como orco, tienes los siguientes rasgos especiales.</p><p><strong>Arrebato de adrenalina. </strong>Puedes realizar la acción Correr como Acción adicional. Cuando lo haces, obtienes un número de puntos de golpe temporales igual a tu Bonificador por competencia. Puedes usar este rasgo un número de veces igual a tu Bonificador por competencia y recuperas todos los usos gastados cuando terminas un Descanso corto o largo.</p><p><strong>Visión en la oscuridad.</strong> Tienes Visión en la oscuridad con un alcance de 120 pies.</p><p><strong>Aguante implacable.</strong> Cuando tus Puntos de Golpe se reducen a 0 pero no mueres al instante, puedes quedarte con 1 Punto de golpe en su lugar. Una vez que usas este rasgo, no puedes volver a hacerlo hasta que termines un Descanso largo.</p>",
+      "name": "오크",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspOrc00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"orc-traits\">오크 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>중형 (키 약 6~7피트)</p><p><strong>속도:</strong> 30피트</p><p>오크로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>아드레날린 분출. </strong>당신은 질주 행동을 보조 행동으로 할 수 있다. 그렇게 할 때, 당신은 숙련 보너스와 같은 양의 임시 히트 포인트를 얻는다. 당신은 이 특성을 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 짧은 휴식 또는 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복한다.</p><p><strong>암시야.</strong> 당신은 120피트 범위의 암시야를 가진다.</p><p><strong>끈질긴 인내.</strong> 당신의 HP가 0으로 감소했지만 즉시 죽지 않을 때, 당신은 대신 1 HP로 남을 수 있다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 할 수 없다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "B2sUOuY0KhoULqlX": {
-          "title": "Tamaño",
-          "hint": "Mediano (aprox. 6–7 pies de altura)"
+          "title": "체격",
+          "hint": "중형 (키 약 6~7피트)"
         },
         "C2ehwp5W2SMJ88Wy": {
-          "title": "Rasgos de orco",
+          "title": "오크 특성",
           "hint": ""
         }
       }
     },
     "phbspRockGnome00": {
-      "name": "Gnomo, de las rocas",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspGnome000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"gnome-traits\">Rasgos de gnomo</h3><p><strong>Tipo de criatura: </strong>Humanoide</p><p><strong>Tamaño: </strong>Pequeño (aprox. 3–4 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como gnomo, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la oscuridad. </strong>Tienes Visión en la oscuridad con un alcance de 60 pies.</p><p><strong>Astucia gnómica.</strong> Tienes Ventaja en las tiradas de salvación de inteligencia, sabiduría y carisma.</p><p><strong>Linaje gnómico.</strong> Formas parte de un linaje que te concede habilidades sobrenaturales. Sea cual sea el linaje que elijas, inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo (eliges la característica cuando seleccionas el linaje):</p><p><strong>Gnomo de las rocas.</strong> Conoces los trucos @UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{Reparar} y @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{Prestidigitación}. Además, puedes dedicar 10 minutos a lanzar <em>Prestidigitación</em> para crear un diminuto dispositivo mecánico (CA 5, 1 PG), como un juguete, encendedor o caja de música. Cuando creas el dispositivo, determinas su función eligiendo uno de los efectos de <em>Prestidigitación</em>; el dispositivo produce ese efecto cada vez que tú u otra criatura usa una Acción adicional para activarlo tocándolo. Si el efecto elegido tiene opciones internas, eliges una de ellas al crear el dispositivo. Por ejemplo, si eliges el efecto de encender-apagar, determinas si el dispositivo enciende o apaga fuego; no hace ambas cosas. Puedes tener hasta tres de estos dispositivos a la vez, y cada uno se descompone 8 horas después de su creación o cuando lo desmontas tocándolo como acción Utilizar.</p>",
+      "name": "노움, 바위",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspGnome000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"gnome-traits\">노움 특성</h3><p><strong>크리처 유형: </strong>인간형</p><p><strong>체격: </strong>소형 (키 약 3~4피트)</p><p><strong>속도:</strong> 30피트</p><p>노움으로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>노움의 교활함.</strong> 당신은 지능, 지혜, 매력 내성 굴림에 유리 보정을 받는다.</p><p><strong>노움 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부이다. 어떤 혈통을 선택하든, 이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다(혈통을 선택할 때 능력치를 고른다):</p><p><strong>바위 노움.</strong> 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{수리}와 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 안다. 또한, 당신은 10분을 들여 <em>요술</em>을 시전하여 장난감, 라이터 또는 오르골과 같은 초소형 기계 장치(AC 5, 1 HP)를 만들 수 있다. 장치를 만들 때, 당신은 <em>요술</em>의 효과 중 하나를 선택하여 그 기능을 결정한다. 당신이나 다른 크리처가 보조 행동을 사용해 그것을 만져 작동시킬 때마다 장치는 그 효과를 낸다. 선택한 효과에 내부 옵션이 있다면, 당신은 장치를 만들 때 그중 하나를 고른다. 예를 들어, 켜기-끄기 효과를 선택한다면, 장치가 불을 켜는지 끄는지 결정한다. 둘 다 하지는 않는다. 당신은 한 번에 이런 장치를 최대 세 개까지 가질 수 있으며, 각각은 만들어진 지 8시간 후에 또는 활용 행동으로 만져 분해할 때 망가진다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "O7gYRGMSW3atQ2Yc": {
-          "title": "Tamaño",
-          "hint": "Pequeño (aprox. 3–4 pies de altura)"
+          "title": "체격",
+          "hint": "소형 (키 약 3~4피트)"
         },
         "LcGnqnqKYFw0PcE9": {
-          "title": "Rasgos de gnomo",
+          "title": "노움 특성",
           "hint": ""
         },
         "RNvJhB97kaJrZTfU": {
-          "title": "Rasgos de gnomo de las rocas",
-          "hint": "inteligencia, sabiduría o carisma puede elegirse como tu característica para lanzar conjuros."
+          "title": "바위 노움 특성",
+          "hint": "지능, 지혜, 매력 중 하나를 주문 시전 능력치로 선택할 수 있다."
         }
       }
     },
     "phbsptAbyssalLeg": {
-      "name": "Legado Infernal, Abisal",
-      "description": "<p>Eres el receptor de un legado que te concede habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de mayor nivel, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de lanzarlo de ese modo cuando terminas un Descanso Largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro apropiado que tengas. inteligencia, sabiduría o carisma es tu característica para el lanzamiento de conjuros con este rasgo (elige la característica cuando selecciones el legado).</p><h3 data-anchor=\"abyssal\">Abisal</h3><p>La entropía del Abismo, el caos de Pandemonium y la desesperación de Carceri llaman a los tieflings que poseen el legado abisal. Cuernos, pelaje, colmillos y olores peculiares son rasgos físicos comunes entre estos tieflings, muchos de los cuales llevan sangre demoníaca en sus venas.</p><table><caption>Rasgos del Legado Abisal</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tienes Resistencia al daño de Veneno. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplPoisonSpra]{Rociada venenosa}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{Rayo nauseabundo}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHoldPerson]{Inmovilizar persona}</td></tr></tbody></table><section class=\"secret\" id=\"secret-AZFLMUN7pgAxMG7Q\"><p><strong>Nota de Foundry</strong></p><p>La Resistencia y los conjuros se te otorgan automáticamente y se te pedirá que elijas la característica para el lanzamiento de conjuros durante el avance.</p></section>",
+      "name": "마족 유산, 심연",
+      "description": "<p>당신은 초자연적 능력을 부여하는 유산의 수령자이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나타난 대로 더 높은 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비한 상태이다. 당신은 주문 슬롯을 소모하지 않고 한 번 이를 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 어떤 주문 슬롯이든 사용하여 그 주문을 시전할 수 있다. 이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다(유산을 선택할 때 능력치를 고른다).</p><h3 data-anchor=\"abyssal\">심연</h3><p>심연의 엔트로피, 판데모니움의 혼돈, 그리고 카르세리의 절망이 심연 유산을 지닌 티플링들을 부른다. 뿔, 털, 송곳니, 그리고 독특한 냄새는 이러한 티플링들 사이에서 흔한 신체적 특징이며, 그들 중 다수는 혈관에 악마의 피가 흐른다.</p><table><caption>심연 유산 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 독성 피해에 대한 저항을 가진다. 또한 당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPoisonSpra]{독 분사} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofSickn]{독 광선}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHoldPerson]{인간형 포박}</td></tr></tbody></table><section class=\"secret\" id=\"secret-AZFLMUN7pgAxMG7Q\"><p><strong>Foundry 참고</strong></p><p>저항과 주문은 자동으로 당신에게 부여되며, 성장 중에 주문 시전 능력치를 선택하라는 요청을 받게 된다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptAdrenaline": {
-      "name": "Arremetida de Adrenalina",
-      "description": "<p>Puedes realizar la acción Correr como Acción Adicional. Cuando lo haces, obtienes una cantidad de puntos de golpe temporales igual a tu Bono de Competencia. Puedes usar este rasgo un número de veces igual a tu Bono de Competencia y recuperas todos los usos gastados cuando terminas un Descanso Corto o un Descanso Largo.</p>",
+      "name": "아드레날린 분출",
+      "description": "<p>당신은 질주 행동을 보조 행동으로 할 수 있다. 그렇게 할 때, 당신은 숙련 보너스와 같은 양의 임시 히트 포인트를 얻는다. 당신은 이 특성을 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 짧은 휴식 또는 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복한다.</p>",
       "activities": {
         "jN5Zo6mDXll3c4Cz": {
-          "name": "Arremetida de Adrenalina: Correr"
+          "name": "아드레날린 분출: 질주"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptBrave00000": {
-      "name": "Valentía",
-      "description": "<p>Tienes Ventaja en las tiradas de salvación que realizas para evitar o finalizar la condición &amp;Reference[Frightened].</p>",
+      "name": "용감함",
+      "description": "<p>당신은 &amp;Reference[Frightened] 상태이상을 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받는다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptBreathWeap": {
-      "name": "Arma de Aliento",
-      "description": "<p>Cuando realizas la acción Atacar en tu turno, puedes reemplazar uno de tus ataques por una exhalación de energía mágica en forma de un Cono de 15 pies o una Línea de 30 pies de largo y 5 pies de ancho (eliges la forma cada vez). Cada criatura en esa área debe realizar una tirada de salvación de destreza (CD 8 + tu modificador de constitución + tu Bono de Competencia). Con una salvación fallida, una criatura recibe 1d10 de daño del tipo determinado por tu rasgo de Ascendencia Dracónica. Con una salvación exitosa, recibe la mitad del daño. Este daño aumenta en 1d10 cuando alcanzas los niveles 5 (2d10), 11 (3d10) y 17 (4d10) de personaje. Puedes usar esta Arma de Aliento un número de veces igual a tu Bono de Competencia y recuperas todos los usos gastados cuando terminas un Descanso Largo.</p><section class=\"secret\" id=\"secret-iuhfGfxgl8GeYWBf\"><p><strong>Nota de Foundry</strong></p><p>Las actividades <strong>Arma de Aliento (Cono)</strong> y <strong>Arma de Aliento (Línea)</strong> están configuradas con su tipo de plantilla e incluyen todos los tipos de daño. El daño también escala a medida que subes de nivel.</p><p>Puedes seleccionar el tipo de daño en el cuadro de diálogo de la tirada de daño. Recordará tu elección posteriormente. Puedes editar las actividades para eliminar otros tipos de daño y omitir esta selección.</p></section>",
+      "name": "숨결 무기",
+      "description": "<p>당신의 턴에 공격 행동을 할 때, 당신은 공격 중 하나를 15피트 원뿔 또는 길이 30피트, 너비 5피트의 직선 형태로 마법 에너지를 내뿜는 것으로 대체할 수 있다(매번 형태를 고른다). 그 범위 내의 각 크리처는 민첩 내성 굴림(DC 8 + 당신의 건강 수정치 + 당신의 숙련 보너스)을 해야 한다. 내성에 실패하면, 크리처는 당신의 거인 혈통 특성에 의해 결정된 유형의 1d10 피해를 받는다. 내성에 성공하면, 절반의 피해를 받는다. 이 피해는 당신이 캐릭터 5레벨(2d10), 11레벨(3d10), 17레벨(4d10)에 도달할 때 1d10씩 증가한다. 당신은 이 숨결 무기를 숙련 보너스와 같은 횟수만큼 사용할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복한다.</p><section class=\"secret\" id=\"secret-iuhfGfxgl8GeYWBf\"><p><strong>Foundry 참고</strong></p><p><strong>숨결 무기 (원뿔)</strong>와 <strong>숨결 무기 (직선)</strong> 활동은 해당 템플릿 유형으로 설정되어 있으며 모든 피해 유형을 포함한다. 피해 또한 레벨이 오를수록 증가한다.</p><p>피해 굴림 대화상자에서 피해 유형을 선택할 수 있다. 이후 당신의 선택을 기억한다. 활동을 편집하여 다른 피해 유형을 제거하고 이 선택을 생략할 수 있다.</p></section>",
       "activities": {
         "dxCRYmNSSGp6L2yh": {
-          "name": "Arma de Aliento (Cono)"
+          "name": "숨결 무기 (원뿔)"
         },
         "iyK44COq6gbdbkc2": {
-          "name": "Arma de Aliento (Línea)"
+          "name": "숨결 무기 (직선)"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptChthonicLe": {
-      "name": "Legado Infernal, Ctónico",
-      "description": "<p>Eres el receptor de un legado que te concede habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de mayor nivel, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de lanzarlo de ese modo cuando terminas un Descanso Largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro apropiado que tengas. inteligencia, sabiduría o carisma es tu característica para el lanzamiento de conjuros con este rasgo (elige la característica cuando selecciones el legado).</p><h3 data-anchor=\"chthonic\">Ctónico</h3><p>Los tieflings que poseen el legado ctónico sienten no solo la atracción de Carceri, sino también la codicia de Gehenna y la penumbra de Hades. Algunos de estos tieflings tienen un aspecto cadavérico. Otros poseen la belleza antinatural de una súcubo, o comparten rasgos físicos con una bruja nocturna, un yugoloth u otro ancestro infernal Neutral Malvado.</p><table><caption>Rasgos del Legado Ctónico</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tienes Resistencia al daño Necrótico. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplChillTouch]{Toque helado}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFalseLife0]{Falsa vida}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofEnfee]{Rayo debilitador}</td></tr></tbody></table><section class=\"secret\" id=\"secret-GmBAOZVbkBYItbCL\"><p><strong>Nota de Foundry</strong></p><p>La Resistencia y los conjuros se te otorgan automáticamente y se te pedirá que elijas la característica para el lanzamiento de conjuros durante el avance.</p></section>",
+      "name": "마족 유산, 지저",
+      "description": "<p>당신은 초자연적 능력을 부여하는 유산을 물려받았습니다.</p><p>3레벨과 5레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비된 상태로 유지합니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복합니다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 주문시전 능력치입니다(유산을 선택할 때 능력치를 고르십시오).</p><h3 data-anchor=\"chthonic\">지저</h3><p>지저 유산을 지닌 티플링은 카르세리의 이끌림뿐만 아니라 게헨나의 탐욕과 하데스의 어스름도 느낍니다. 이러한 티플링 중 일부는 시체 같은 외모를 지닙니다. 다른 일부는 서큐버스의 부자연스러운 아름다움을 지니거나, 밤의 마녀, 유골로스, 또는 그 외의 중립 악 성향 마족 조상과 신체적 특징을 공유합니다.</p><table><caption>지저 유산 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 사령 피해에 대한 저항을 지닙니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplChillTouch]{뼛속 냉기} 소마법을 익힙니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFalseLife0]{거짓 목숨}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplRayofEnfee]{약화 광선}</td></tr></tbody></table><section class=\"secret\" id=\"secret-GmBAOZVbkBYItbCL\"><p><strong>Foundry 참고</strong></p><p>저항과 주문은 자동으로 부여되며, 상승 과정에서 주문시전 능력치를 선택하라는 요청을 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptCloudsJaun": {
-      "name": "Paso de Nube",
-      "description": "<p>Como Acción Adicional, te teletransportas mágicamente hasta 30 pies a un espacio desocupado que puedas ver.</p>",
+      "name": "구름의 도약",
+      "description": "<p>보조 행동으로, 당신은 볼 수 있는 비점유 공간으로 최대 30피트까지 마법적으로 순간이동합니다.</p>",
       "activities": {
         "t4npBWLqABsnPZwL": {
-          "name": "Paso de Nube"
+          "name": "구름의 도약"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptDraconicFl": {
-      "name": "Vuelo dracónico",
-      "description": "<p>Cuando alcanzas el nivel de personaje 5, puedes canalizar magia dracónica para obtener vuelo temporal. Como Acción adicional, te brotan alas espectrales en la espalda que duran 10 minutos o hasta que retraigas las alas (no requiere acción) o tengas la condición incapacitado. Durante ese tiempo, tienes una Velocidad de vuelo igual a tu Velocidad. Tus alas parecen estar hechas de la misma energía que tu Arma de aliento. Una vez uses este rasgo, no puedes volver a hacerlo hasta que termines un Descanso Largo.</p><section id=\"secret-pP4PH5jVYBp1OEa3\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye un Efecto activo para el seguimiento, pero no otorga automáticamente la Velocidad de vuelo.</p></section>",
+      "name": "용의 비행",
+      "description": "<p>5레벨에 도달하면, 당신은 드래곤 마법을 발휘하여 일시적인 비행 능력을 얻을 수 있습니다. 보조 행동으로, 등에서 유령 같은 날개가 돋아나며, 이는 10분 동안 또는 당신이 날개를 거둘 때(행동 불필요)나 행동불능 상태가 될 때까지 지속됩니다. 그동안 당신은 자신의 속도와 동일한 비행 속도를 지닙니다. 당신의 날개는 당신의 숨결 무기와 동일한 에너지로 이루어진 것처럼 보입니다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 사용할 수 없습니다.</p><section id=\"secret-pP4PH5jVYBp1OEa3\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 특성은 추적을 위한 활성 효과를 포함하지만, 비행 속도를 자동으로 부여하지는 않습니다.</p></section>",
       "activities": {
         "FrsJbUcch66Cr7OZ": {
-          "name": "Vuelo dracónico"
+          "name": "용의 비행"
         }
       },
       "effects": {
         "waI4oHqhpbKUem0M": {
-          "name": "Vuelo dracónico"
+          "name": "용의 비행"
         }
       },
       "advancement": {}
     },
     "phbsptDrowElfLin": {
-      "name": "Linaje Élfico, Drow",
-      "description": "<p>Formas parte de un linaje que te concede habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de mayor nivel, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de lanzarlo de ese modo cuando terminas un Descanso Largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro apropiado que tengas. inteligencia, sabiduría o carisma es tu característica para el lanzamiento de conjuros con este rasgo (elige la característica cuando selecciones el linaje).</p><h3>Rasgos del Linaje Drow</h3><table><thead><tr><td><p>Nivel 1</p></td><td><p>Nivel 3</p></td><td><p>Nivel 5</p></td></tr></thead><tbody><tr><td><p>El alcance de tu Visión en la Oscuridad aumenta a 120 pies. Además, conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{Luces danzantes}.</p></td><td><p>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{Fuego feérico}</p></td><td><p>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{Oscuridad}</p></td></tr></tbody></table><section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\"><p><strong>Nota de Foundry</strong></p><p>Recibirás automáticamente los rasgos y conjuros correspondientes cuando selecciones la especie y a medida que subas de nivel.</p></section>",
+      "name": "엘프 혈통, 드로우",
+      "description": "<p>당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>3레벨과 5레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비된 상태로 유지합니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복합니다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 주문시전 능력치입니다(혈통을 선택할 때 능력치를 고르십시오).</p><h3>드로우 혈통 특성</h3><table><thead><tr><td><p>1레벨</p></td><td><p>3레벨</p></td><td><p>5레벨</p></td></tr></thead><tbody><tr><td><p>당신의 암시야 거리가 120피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 익힙니다.</p></td><td><p>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</p></td><td><p>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</p></td></tr></tbody></table><section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\"><p><strong>Foundry 참고</strong></p><p>종족을 선택하고 레벨을 올릴 때 해당하는 특성과 주문을 자동으로 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptDwarvenRes": {
-      "name": "Resistencia Enana",
-      "description": "<p>Tienes Resistencia al daño por Veneno. También tienes Ventaja en las tiradas de salvación que realizas para evitar o finalizar la condición envenenado.</p><section id=\"secret-EDaMIgklKLK2il2D\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Se te otorgará automáticamente la Resistencia al daño por Veneno, pero no la Ventaja en las tiradas de salvación para evitar/finalizar la condición envenenado.</p></section>",
+      "name": "드워프 저항력",
+      "description": "<p>당신은 독성 피해에 대한 저항을 지닙니다. 또한 중독 상태를 피하거나 끝내기 위해 행하는 내성 굴림에 유리 보정을 받습니다.</p><section id=\"secret-EDaMIgklKLK2il2D\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>독성 피해에 대한 저항은 자동으로 부여되지만, 중독 상태를 피하거나/끝내기 위한 내성 굴림의 유리 보정은 부여되지 않습니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptDwarvenTou": {
-      "name": "Robustez Enana",
-      "description": "<p>Tu máximo de Puntos de Golpe aumenta en 1 y vuelve a aumentar en 1 cada vez que subes de nivel.</p><section class=\"secret\" id=\"secret-FK9DFLudP5EzEss9\"><p><strong>Nota de Foundry</strong></p><p>El aumento del máximo de Puntos de Golpe se gestiona automáticamente en cada nivel.</p></section>",
+      "name": "드워프 강건함",
+      "description": "<p>당신의 최대 HP가 1 증가하며, 레벨을 올릴 때마다 다시 1씩 증가합니다.</p><section class=\"secret\" id=\"secret-FK9DFLudP5EzEss9\"><p><strong>Foundry 참고</strong></p><p>최대 HP 증가는 각 레벨마다 자동으로 처리됩니다.</p></section>",
       "activities": {},
       "effects": {
         "Na7W3p67eT9YqW87": {
-          "name": "Robustez Enana"
+          "name": "드워프 강건함"
         }
       },
       "advancement": {}
     },
     "phbsptFeyAncestr": {
-      "name": "Ascendencia Feérica",
-      "description": "<p>Tienes Ventaja en las tiradas de salvación que realizas para evitar o finalizar la condición &amp;Reference[Charmed].</p>",
+      "name": "요정 혈통",
+      "description": "<p>당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 행하는 내성 굴림에 유리 보정을 받습니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptFiresBurn0": {
-      "name": "Ardor del Fuego",
-      "description": "<p>Cuando impactas a un objetivo con una tirada de ataque y le infliges daño, también puedes infligirle 1d10 de daño por Fuego.</p>",
+      "name": "불의 작열",
+      "description": "<p>당신이 명중 굴림으로 목표를 명중시켜 피해를 입힐 때, 추가로 1d10의 화염 피해를 입힐 수도 있습니다.</p>",
       "activities": {
         "002cv19dj8WGzSl2": {
-          "name": "Arder"
+          "name": "작열"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptForestGnom": {
-      "name": "Linaje Gnómico, del Bosque",
-      "description": "<p>Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplMinorIllus]{Ilusión menor}. Además, siempre tienes preparado el conjuro @UUID[Compendium.dnd5e.spells24.Item.phbsplSpeakwithA]{Hablar con los animales}. Puedes lanzarlo sin gastar un espacio de conjuro un número de veces igual a tu Bono de Competencia, y recuperas todos los usos gastados cuando terminas un Descanso Largo. También puedes usar cualquier espacio de conjuro apropiado que tengas para lanzarlo.</p><section id=\"secret-CwVBuqSGI27gl6R9\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Los lanzamientos gratuitos están incluidos en el conjuro.</p></section>",
+      "name": "노움 혈통, 숲",
+      "description": "<p>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplMinorIllus]{하급 환영} 소마법을 익힙니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplSpeakwithA]{동물과 대화} 주문을 항상 준비된 상태로 유지합니다. 당신은 숙련 보너스와 동일한 횟수만큼 주문 슬롯을 소모하지 않고 이 주문을 시전할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복합니다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 시전할 수도 있습니다.</p><section id=\"secret-CwVBuqSGI27gl6R9\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>무료 시전은 주문에 포함되어 있습니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptFrostsChil": {
-      "name": "Escarcha Helada",
-      "description": "<p>Cuando impactas a un objetivo con una tirada de ataque y le infliges daño, también puedes infligirle 1d6 de daño por Frío y reducir su Velocidad en 10 pies hasta el inicio de tu siguiente turno.</p><section id=\"secret-jxuUuY0r33aiP0zL\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye un Active Effect que puede utilizarse para el seguimiento y reduce su Velocidad en 10.</p></section>",
+      "name": "서리의 한기",
+      "description": "<p>당신이 명중 굴림으로 목표를 명중시켜 피해를 입힐 때, 추가로 1d6의 냉기 피해를 입히고 당신의 다음 턴이 시작될 때까지 목표의 속도를 10피트 감소시킬 수도 있습니다.</p><section id=\"secret-jxuUuY0r33aiP0zL\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 특성은 추적에 사용할 수 있고 속도를 10 감소시키는 Active Effect를 포함합니다.</p></section>",
       "activities": {
         "6goWQaWLexUqgig8": {
-          "name": "Helar"
+          "name": "결빙"
         }
       },
       "effects": {
         "YHKgdj2KIbQRBZWW": {
-          "name": "Helado"
+          "name": "결빙됨"
         }
       },
       "advancement": {}
     },
     "phbsptGiantAnces": {
-      "name": "Ascendencia Gigante",
-      "description": "<p>Desciendes de Gigantes. Elige uno de los siguientes beneficios—un don sobrenatural de tu linaje; puedes usar el beneficio elegido un número de veces igual a tu Bono de Competencia y recuperas todos los usos gastados cuando terminas un Descanso Largo:</p><p><strong>Desplazamiento de las Nubes (Gigante de las Nubes). </strong>Como Acción Adicional, te teletransportas mágicamente hasta 30 pies a un espacio desocupado que puedas ver.</p><p><strong>Ardor del Fuego (Gigante del Fuego).</strong> Cuando impactas a un objetivo con una tirada de ataque y le infliges daño, también puedes infligirle 1d10 de daño por Fuego.</p><p><strong>Escarcha Helada (Gigante de Hielo).</strong> Cuando impactas a un objetivo con una tirada de ataque y le infliges daño, también puedes infligirle 1d6 de daño por Frío y reducir su Velocidad en 10 pies hasta el inicio de tu siguiente turno.</p><p><strong>Golpe Atronador (Gigante de las Colinas). </strong>Cuando impactas a una criatura Grande o menor con una tirada de ataque y le infliges daño, puedes hacer que ese objetivo sufra la condición Prone.</p><p><strong>Resistencia Pétrea (Gigante de Piedra).</strong> Cuando recibes daño, puedes usar tu Reacción para tirar 1d12. Suma tu modificador de constitución al resultado y reduce el daño en esa cantidad.</p><p><strong>Trueno de la Tormenta (Gigante de la Tormenta).</strong> Cuando recibes daño de una criatura a 60 pies o menos de ti, puedes usar tu Reacción para infligir 1d8 de daño por Trueno a esa criatura.</p>",
+      "name": "거인 혈통",
+      "description": "<p>당신은 거인의 후손입니다. 다음 혜택 중 하나를 선택하십시오. 이는 당신 혈통이 주는 초자연적 재능입니다. 선택한 혜택은 숙련 보너스와 동일한 횟수만큼 사용할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복합니다:</p><p><strong>구름의 이동(구름 거인). </strong>보조 행동으로, 당신은 볼 수 있는 비점유 공간으로 최대 30피트까지 마법적으로 순간이동합니다.</p><p><strong>불의 작열(화염 거인).</strong> 당신이 명중 굴림으로 목표를 명중시켜 피해를 입힐 때, 추가로 1d10의 화염 피해를 입힐 수도 있습니다.</p><p><strong>서리의 한기(얼음 거인).</strong> 당신이 명중 굴림으로 목표를 명중시켜 피해를 입힐 때, 추가로 1d6의 냉기 피해를 입히고 당신의 다음 턴이 시작될 때까지 목표의 속도를 10피트 감소시킬 수도 있습니다.</p><p><strong>언덕의 강타(언덕 거인). </strong>당신이 명중 굴림으로 대형 이하의 크리처를 명중시켜 피해를 입힐 때, 그 목표가 넘어짐 상태가 되도록 할 수 있습니다.</p><p><strong>돌의 인내(돌 거인).</strong> 당신이 피해를 받을 때, 대응을 사용하여 1d12를 굴릴 수 있습니다. 그 결과에 당신의 건강 수정치를 더하고 그 양만큼 피해를 감소시킵니다.</p><p><strong>폭풍의 천둥(폭풍 거인).</strong> 당신으로부터 60피트 이내에 있는 크리처로부터 피해를 받을 때, 대응을 사용하여 그 크리처에게 1d8의 천둥 피해를 입힐 수 있습니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptGnomishCun": {
-      "name": "Astucia Gnómica",
-      "description": "<p>Tienes Ventaja en las tiradas de salvación de inteligencia, sabiduría y carisma.</p>",
+      "name": "노움 교활함",
+      "description": "<p>당신은 지능, 지혜, 매력 내성 굴림에 유리 보정을 받습니다.</p>",
       "activities": {},
       "effects": {
         "KNWLGPsZSHtINp6L": {
-          "name": "Astucia Gnómica",
-          "description": "<p>Tienes Ventaja en las tiradas de salvación de inteligencia, sabiduría y carisma.</p>"
+          "name": "노움 교활함",
+          "description": "<p>당신은 지능, 지혜, 매력 내성 굴림에 유리 보정을 받습니다.</p>"
         }
       },
       "advancement": {}
     },
     "phbsptHalflingNi": {
-      "name": "Agilidad Mediana",
-      "description": "<p>Puedes moverte a través del espacio de cualquier criatura que sea de un tamaño mayor que tú, pero no puedes terminar tu movimiento en ese mismo espacio.</p>",
+      "name": "하플링 민첩성",
+      "description": "<p>당신은 자신보다 한 단계 큰 크기의 어떤 크리처의 공간도 통과해 이동할 수 있지만, 그 같은 공간에서 이동을 끝낼 수는 없습니다.</p>",
       "activities": {},
       "effects": {
         "HtNoV5usxEadPbqp": {
-          "name": "Agilidad Mediana"
+          "name": "하플링 민첩성"
         }
       },
       "advancement": {}
     },
     "phbsptHighElfLin": {
-      "name": "Linaje Élfico, Alto Elfo",
-      "description": "<p>Formas parte de un linaje que te otorga habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles de personaje 3 y 5, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro, y recuperas la capacidad de lanzarlo de esta manera cuando terminas un Descanso Largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro del nivel apropiado que tengas. inteligencia, sabiduría o carisma es tu característica para lanzar conjuros para los conjuros que lanzas con este rasgo (elige la característica cuando selecciones el linaje).</p><table><caption>Rasgos del Linaje de Alto Elfo</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{Prestidigitación}. Cada vez que terminas un Descanso Largo, puedes reemplazar ese truco por otro truco de la lista de conjuros de mago.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{Detectar magia}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{Paso brumoso}</td></tr></tbody></table><section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\"><p><strong>Nota de Foundry</strong></p><p>Recibirás automáticamente los rasgos y conjuros correspondientes cuando selecciones la especie y al subir de nivel.</p></section>",
+      "name": "엘프 혈통, 하이 엘프",
+      "description": "<p>당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>3레벨과 5레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비된 상태로 유지합니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 이 방식으로 시전하는 능력을 회복합니다. 또한 당신이 가진 적절한 레벨의 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 시전하는 주문의 주문시전 능력치입니다(혈통을 선택할 때 능력치를 고르십시오).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 익힙니다. 긴 휴식을 마칠 때마다, 그 소마법을 위저드 주문 목록의 다른 소마법으로 교체할 수 있습니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\"><p><strong>Foundry 참고</strong></p><p>종족을 선택하고 레벨을 올릴 때 해당하는 특성과 주문을 자동으로 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptHillsTumbl": {
-      "name": "Derribo de las Colinas",
-      "description": "<p>Cuando impactas a una criatura Grande o menor con una tirada de ataque y le infliges daño, puedes hacer que ese objetivo sufra la condición &amp;Reference[Prone].</p>",
+      "name": "언덕의 강타",
+      "description": "<p>당신이 명중 굴림으로 대형 이하의 크리처를 명중시켜 피해를 입힐 때, 그 목표가 &amp;Reference[Prone] 상태가 되도록 할 수 있습니다.</p>",
       "activities": {
         "I2wKOUDxhIb5hHb7": {
-          "name": "Derribo de las Colinas"
+          "name": "언덕의 강타"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptInfernalLe": {
-      "name": "Legado Infernal",
-      "description": "<p>Eres el receptor de un legado que te otorga habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles de personaje 3 y 5, aprendes un conjuro de nivel superior, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro, y recuperas la capacidad de lanzarlo de esta manera cuando terminas un Descanso Largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro del nivel apropiado que tengas. inteligencia, sabiduría o carisma es tu característica para lanzar conjuros para los conjuros que lanzas con este rasgo (elige la característica cuando selecciones el legado).</p><h3 data-anchor=\"infernal\">Infernal</h3><p>El legado infernal conecta a los tieflings no solo con Gehenna, sino también con los Nueve Infiernos y los campos de batalla en llamas de Aqueronte. Cuernos, espinas, colas, ojos dorados y un tenue olor a azufre o humo son rasgos físicos comunes de estos tieflings, la mayoría de los cuales trazan su linaje hasta los diablos.</p><table><caption>Rasgos del Legado Infernal</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tienes Resistencia al daño de Fuego. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplFireBolt00]{Descarga de fuego}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHellishReb]{Reprensión infernal}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{Oscuridad}</td></tr></tbody></table><section class=\"secret\" id=\"secret-UpLnecebx3jeydEG\"><p><strong>Nota de Foundry</strong></p><p>La Resistencia y los conjuros se te otorgan automáticamente y se te pedirá que elijas la característica para lanzar conjuros durante el avance.</p></section>",
+      "name": "마족 유산, 지옥",
+      "description": "<p>당신은 초자연적 능력을 부여하는 유산을 물려받았습니다.</p><p>3레벨과 5레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비된 상태로 유지합니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 이 방식으로 시전하는 능력을 회복합니다. 또한 당신이 가진 적절한 레벨의 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 시전하는 주문의 주문시전 능력치입니다(유산을 선택할 때 능력치를 고르십시오).</p><h3 data-anchor=\"infernal\">지옥</h3><p>지옥 유산은 티플링을 게헨나뿐만 아니라 나인 헬과 아케론의 불타는 전장과도 연결합니다. 뿔, 가시, 꼬리, 황금빛 눈, 그리고 희미한 유황이나 연기 냄새는 이러한 티플링의 흔한 신체적 특징이며, 이들 대부분은 자신의 혈통을 데빌까지 거슬러 올라갑니다.</p><table><caption>지옥 유산 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 화염 피해에 대한 저항을 지닙니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplFireBolt00]{화염살} 소마법을 익힙니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplHellishReb]{지옥의 질책}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><section class=\"secret\" id=\"secret-UpLnecebx3jeydEG\"><p><strong>Foundry 참고</strong></p><p>저항과 주문은 자동으로 부여되며, 상승 과정에서 주문시전 능력치를 선택하라는 요청을 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptKeenSenses": {
-      "name": "Sentidos Agudos",
-      "description": "<p>Tienes competencia en la habilidad de Perspicacia, Percepción o Supervivencia.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Se te pedirá que elijas la habilidad tras seleccionar esta especie.</p></section>",
+      "name": "예리한 감각",
+      "description": "<p>당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 기술을 선택하라는 요청을 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptLargeForm0": {
-      "name": "Forma Grande",
-      "description": "<p>A partir del nivel 5 de personaje, puedes cambiar tu tamaño a Grande como Acción Adicional si estás en un espacio lo suficientemente amplio. Esta transformación dura 10 minutos o hasta que la finalices (no requiere acción). Durante ese tiempo, tienes Ventaja en las pruebas de fuerza y tu Velocidad aumenta en 10 pies. Una vez que usas este rasgo, no puedes volver a usarlo hasta que termines un Descanso Largo.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye un Efecto Activo que automatiza el aumento de Velocidad y la Ventaja en las pruebas de fuerza.</p></section>",
+      "name": "대형 형상",
+      "description": "<p>5레벨부터, 충분히 넓은 공간에 있다면 보조 행동으로 당신의 크기를 대형으로 바꿀 수 있습니다. 이 변형은 10분 동안 또는 당신이 끝낼 때(행동 불필요)까지 지속됩니다. 그동안 당신은 근력 판정에 유리 보정을 받고 당신의 속도가 10피트 증가합니다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 사용할 수 없습니다.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Foundry 참고</strong></p><p>이 특성은 속도 증가와 근력 판정의 유리 보정을 자동화하는 활성 효과를 포함합니다.</p></section>",
       "activities": {
         "5jJ0wfYo2b4k26Em": {
-          "name": "Agrandar"
+          "name": "확대"
         }
       },
       "effects": {
         "QI7POclNlvX9a8VD": {
-          "name": "Forma Grande",
-          "description": "<p>A partir del nivel 5 de personaje, puedes cambiar tu tamaño a Grande como Acción Adicional si estás en un espacio lo suficientemente amplio. Esta transformación dura 10 minutos o hasta que la finalices (no requiere acción). Durante ese tiempo, tienes Ventaja en las pruebas de fuerza y tu Velocidad aumenta en 10 pies. Una vez que usas este rasgo, no puedes volver a usarlo hasta que termines un Descanso Largo.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye un Efecto Activo que automatiza el aumento de Velocidad y la Ventaja en las pruebas de fuerza.</p></section>"
+          "name": "대형 형상",
+          "description": "<p>5레벨부터, 충분히 넓은 공간에 있다면 보조 행동으로 당신의 크기를 대형으로 바꿀 수 있습니다. 이 변형은 10분 동안 또는 당신이 끝낼 때(행동 불필요)까지 지속됩니다. 그동안 당신은 근력 판정에 유리 보정을 받고 당신의 속도가 10피트 증가합니다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 사용할 수 없습니다.</p><section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\"><p><strong>Foundry 참고</strong></p><p>이 특성은 속도 증가와 근력 판정의 유리 보정을 자동화하는 활성 효과를 포함합니다.</p></section>"
         }
       },
       "advancement": {}
     },
     "phbsptLuck000000": {
-      "name": "Suerte",
-      "description": "<p>Cuando obtienes un 1 en el d20 de una Prueba de D20, puedes volver a tirar el dado, y debes usar el nuevo resultado.</p>",
+      "name": "행운",
+      "description": "<p>D20 테스트의 d20에서 1이 나오면, 주사위를 다시 굴릴 수 있으며 새로운 결과를 사용해야 합니다.</p>",
       "activities": {},
       "effects": {
         "k1FDpZEBCHzRsFSA": {
-          "name": "Suerte"
+          "name": "행운"
         }
       },
       "advancement": {}
     },
     "phbsptNaturallyS": {
-      "name": "Sigiloso por Naturaleza",
-      "description": "<p>Puedes realizar la acción &amp;Reference[Hide]{Esconderse} incluso cuando estés Oscurecido únicamente por una criatura que sea al menos una categoría de tamaño mayor que tú.</p>",
+      "name": "타고난 은신",
+      "description": "<p>당신은 자신보다 적어도 한 단계 큰 크기의 크리처에 의해서만 가려진 상태일 때에도 &amp;Reference[Hide]{숨기} 행동을 할 수 있습니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptOtherworld": {
-      "name": "Presencia de Otro Mundo",
-      "description": "<p>Conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{Taumaturgia}. Cuando lo lanzas mediante este rasgo, el conjuro utiliza la misma característica para lanzar conjuros que empleas para tu rasgo de Legado Infernal.</p><section id=\"secret-i3PjM9HLuO2Xcae7\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Cuando se te conceda este conjuro, podrás elegir tu característica para lanzar conjuros.</p></section>",
+      "name": "다른 세계의 존재감",
+      "description": "<p>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplThaumaturg]{단순마술} 소마법을 익힙니다. 이 특성을 통해 시전할 때, 그 주문은 당신의 마족 유산 특성에 사용하는 것과 동일한 주문시전 능력치를 사용합니다.</p><section id=\"secret-i3PjM9HLuO2Xcae7\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 주문을 받게 되면, 당신의 주문시전 능력치를 선택할 수 있습니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptPowerfulBu": {
-      "name": "constitución Poderosa",
-      "description": "<p>Tienes Ventaja en cualquier prueba de característica que realices para poner fin a la condición &amp;Reference[Grappled apply=false]{Agarrado}. Además, se te considera de una categoría de tamaño mayor a efectos de determinar tu capacidad de carga.</p><section class=\"secret\" id=\"secret-7qaTRjmRe4PD41G3\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye un Efecto Activo que aumenta automáticamente tu tamaño al calcular la capacidad de carga.</p></section>",
+      "name": "강력한 체격",
+      "description": "<p>당신은 &amp;Reference[Grappled apply=false]{붙잡힘} 상태를 끝내기 위해 행하는 모든 능력 판정에 유리 보정을 받습니다. 또한 운반 용량을 결정할 때 당신은 한 단계 큰 크기로 간주됩니다.</p><section class=\"secret\" id=\"secret-7qaTRjmRe4PD41G3\"><p><strong>Foundry 참고</strong></p><p>이 특성은 운반 용량을 계산할 때 당신의 크기를 자동으로 증가시키는 활성 효과를 포함합니다.</p></section>",
       "activities": {},
       "effects": {
         "ge1u3EIFvsoj3jZu": {
-          "name": "constitución Poderosa"
+          "name": "강력한 체격"
         }
       },
       "advancement": {}
     },
     "phbsptRelentless": {
-      "name": "Resistencia Implacable",
-      "description": "<p>Cuando quedas reducido a 0 Puntos de Golpe pero no mueres instantáneamente, puedes quedar en su lugar con 1 Punto de Golpe. Una vez que uses este rasgo, no podrás volver a usarlo hasta que completes un Descanso Largo.</p>",
+      "name": "끈질긴 인내",
+      "description": "<p>당신이 HP가 0으로 줄었으나 즉사하지 않을 때, 대신 1 HP로 남을 수 있습니다. 이 특성을 한 번 사용하면, 긴 휴식을 마칠 때까지 다시 사용할 수 없습니다.</p>",
       "activities": {
         "DULUqgjDy0u99UKM": {
-          "name": "Resistir Implacablemente"
+          "name": "끈질기게 버티기"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptResourcefu": {
-      "name": "Ingenioso",
-      "description": "<p>Obtienes Inspiración Heroica cada vez que completas un Descanso Largo.</p>",
+      "name": "기지 넘침",
+      "description": "<p>당신은 긴 휴식을 마칠 때마다 영웅적 영감을 얻습니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptRockGnomeL": {
-      "name": "Linaje gnómico, de las rocas",
-      "description": "<p>Conoces los trucos @UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{Reparar} y @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{Prestidigitación}. Además, puedes dedicar 10 minutos a lanzar <em>Prestidigitación</em> para crear un diminuto dispositivo mecánico (CA 5, 1 PG), como un juguete, un encendedor o una caja de música. Cuando creas el dispositivo, determinas su función eligiendo uno de los efectos de <em>Prestidigitación</em>; el dispositivo produce ese efecto cada vez que tú u otra criatura use una Acción Adicional para activarlo con un toque. Si el efecto elegido tiene varias opciones, eliges una de ellas al crear el dispositivo. Por ejemplo, si eliges el efecto de encender/apagar del conjuro, determinas si el dispositivo enciende o apaga fuego; no puede hacer ambas cosas. Puedes tener hasta tres dispositivos de este tipo al mismo tiempo, y cada uno se desintegra 8 horas después de su creación o cuando lo desmontas con un toque como acción de Utilizar.</p>",
+      "name": "노움 혈통, 바위",
+      "description": "<p>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplMending000]{수리}와 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 익힙니다. 또한 10분을 들여 <em>요술</em>을 시전하여 장난감, 점화기, 또는 오르골 같은 작은 기계 장치(AC 5, 1 HP)를 만들 수 있습니다. 장치를 만들 때, <em>요술</em>의 효과 중 하나를 선택하여 그 기능을 결정합니다. 장치는 당신이나 다른 크리처가 접촉을 통해 보조 행동으로 그것을 작동시킬 때마다 그 효과를 일으킵니다. 선택한 효과에 여러 선택지가 있다면, 장치를 만들 때 그중 하나를 고릅니다. 예를 들어, 주문의 점화/소화 효과를 선택했다면, 장치가 불을 켜는지 끄는지 결정합니다. 둘 다 할 수는 없습니다. 당신은 이러한 장치를 동시에 최대 세 개까지 가질 수 있으며, 각 장치는 만들어진 지 8시간 후에 또는 활용 행동으로 접촉하여 분해할 때 붕괴됩니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptSkillful00": {
-      "name": "Hábil",
-      "description": "<p>Obtienes competencia en una habilidad a tu elección.</p><section id=\"secret-lvP62g2xTxkz2VN3\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Se te pedirá que elijas la habilidad cuando selecciones esta Especie.</p></section>",
+      "name": "숙련됨",
+      "description": "<p>당신은 선택한 기술 하나에 숙련을 얻습니다.</p><section id=\"secret-lvP62g2xTxkz2VN3\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택할 때 기술을 선택하라는 요청을 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptStonecunni": {
-      "name": "Afinidad con la piedra",
-      "description": "<p>Como Acción Adicional, obtienes &amp;Reference[Tremorsense]{Sentido de vibraciones} con un alcance de 60 pies durante 10 minutos. Debes estar sobre una superficie de piedra o en contacto con ella para usar este sentido. La piedra puede ser natural o trabajada. Puedes usar esta Acción Adicional un número de veces igual a tu Bonificador por Competencia, y recuperas todos los usos gastados cuando completes un Descanso Largo.</p><section class=\"secret\" id=\"secret-7BtT80083mC3Eavg\"><p><strong>Nota de Foundry</strong></p><p>Este rasgo incluye los usos limitados y un Efecto Activo que te concede 60 pies de Sentido de vibraciones. No actualiza automáticamente la configuración de visión del Token.</p></section>",
+      "name": "석재 감응",
+      "description": "<p>보조 행동으로, 당신은 10분 동안 60피트 범위의 &amp;Reference[Tremorsense]{진동감지}를 얻습니다. 이 감각을 사용하려면 돌 표면 위에 있거나 그것과 접촉하고 있어야 합니다. 돌은 자연석이거나 가공된 것일 수 있습니다. 당신은 숙련 보너스와 동일한 횟수만큼 이 보조 행동을 사용할 수 있으며, 긴 휴식을 마치면 소모한 모든 사용 횟수를 회복합니다.</p><section class=\"secret\" id=\"secret-7BtT80083mC3Eavg\"><p><strong>Foundry 참고</strong></p><p>이 특성은 제한된 사용 횟수와 60피트의 진동감지를 부여하는 활성 효과를 포함합니다. 토큰의 시야 설정을 자동으로 업데이트하지는 않습니다.</p></section>",
       "activities": {
         "NTjnXm1AYqdOUJOB": {
-          "name": "Afinidad con la piedra"
+          "name": "석재 감응"
         }
       },
       "effects": {
         "SAbuNo2AO3XXtkdv": {
-          "name": "Afinidad con la piedra"
+          "name": "석재 감응"
         }
       },
       "advancement": {}
     },
     "phbsptStonesEndu": {
-      "name": "Resistencia pétrea",
-      "description": "<p>Cuando recibes daño, puedes usar tu Reacción para tirar 1d12. Suma tu modificador de constitución al resultado y reduce el daño en esa cantidad.</p>",
+      "name": "돌의 인내",
+      "description": "<p>당신이 피해를 받을 때, 대응을 사용하여 1d12를 굴릴 수 있습니다. 그 결과에 당신의 건강 수정치를 더하고 그 양만큼 피해를 감소시킵니다.</p>",
       "activities": {
         "vrWhAQ6Bj4gznxHq": {
-          "name": "Resistencia pétrea"
+          "name": "돌의 인내"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptStormsThun": {
-      "name": "Trueno de la tormenta",
-      "description": "<p>Cuando recibes daño de una criatura a 60 pies o menos de ti, puedes usar tu Reacción para infligir 1d8 de daño de Trueno a esa criatura.</p>",
+      "name": "폭풍의 천둥",
+      "description": "<p>당신으로부터 60피트 이내에 있는 크리처로부터 피해를 받을 때, 대응을 사용하여 그 크리처에게 1d8의 천둥 피해를 입힐 수 있습니다.</p>",
       "activities": {
         "3eWfDnXfYJVJqT1z": {
-          "name": "Trueno de la tormenta"
+          "name": "폭풍의 천둥"
         }
       },
       "effects": {},
       "advancement": {}
     },
     "phbsptTrance0000": {
-      "name": "Trance",
-      "description": "<p>No necesitas dormir y la magia no puede hacer que te duermas. Puedes completar un Descanso Largo en 4 horas si pasas ese tiempo en una meditación similar a un trance, durante la cual permaneces consciente.</p>",
+      "name": "트랜스",
+      "description": "<p>당신은 잠잘 필요가 없으며 마법으로도 당신을 잠들게 할 수 없습니다. 트랜스와 유사한 명상으로 4시간을 보내면 긴 휴식을 마칠 수 있으며, 그동안 당신은 의식을 유지합니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptVersatile0": {
-      "name": "Versátil",
-      "description": "<p>Obtienes una dote de Origen a tu elección. @UUID[Compendium.dnd5e.feats24.Item.phbftSkilled0000]{Hábil} es una opción recomendada.</p><section id=\"secret-9E1yve6WHohyBage\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>Se te pedirá que elijas la dote cuando selecciones esta Especie.</p></section>",
+      "name": "다재다능",
+      "description": "<p>당신은 선택한 기원 재주 하나를 얻습니다. @UUID[Compendium.dnd5e.feats24.Item.phbftSkilled0000]{숙련됨}이 추천 선택지입니다.</p><section id=\"secret-9E1yve6WHohyBage\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택할 때 재주를 선택하라는 요청을 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbsptWoodElfLin": {
-      "name": "Linaje élfico, elfo del bosque",
-      "description": "<p>Formas parte de un linaje que te concede habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles de personaje 3 y 5, aprendes un conjuro de nivel superior, como se indica en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas esta capacidad cuando completas un Descanso Largo. También puedes lanzarlo usando cualquier espacio de conjuro que tengas del nivel apropiado. inteligencia, sabiduría o carisma es tu característica para lanzar conjuros con este rasgo (elige la característica cuando selecciones el linaje).</p><table><caption>Rasgos del linaje del elfo del bosque</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tu Velocidad aumenta a 35 pies. Además, conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{Saber Druidico}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{Zancada prodigiosa}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{Pasar sin rastro}</td></tr></tbody></table><section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\"><p><strong>Nota de Foundry</strong></p><p>Los rasgos y conjuros correspondientes se te conceden automáticamente al seleccionar la especie y al subir de nivel.</p></section>",
+      "name": "엘프 혈통, 우드 엘프",
+      "description": "<p>당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>3레벨과 5레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비된 상태로 유지합니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 이 능력을 회복합니다. 또한 당신이 가진 적절한 레벨의 주문 슬롯을 사용하여 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 주문시전 능력치입니다(혈통을 선택할 때 능력치를 고르십시오).</p><table><caption>우드 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 익힙니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\"><p><strong>Foundry 참고</strong></p><p>종족을 선택하고 레벨을 올릴 때 해당하는 특성과 주문이 자동으로 부여됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {}
     },
     "phbspWoodElf0000": {
-      "name": "Elfo, Silvano",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">Elfos Silvanos</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">Rasgos de Elfo</h3><p><strong>Tipo de criatura:</strong> Humanoide</p><p><strong>Tamaño: </strong>Mediano (aproximadamente 5–6 pies de altura)</p><p><strong>Velocidad:</strong> 30 pies</p><p>Como Elfo, tienes los siguientes rasgos especiales.</p><p><strong>Visión en la Oscuridad. </strong>Tienes Visión en la Oscuridad con un alcance de 60 pies.</p><p><strong>Linaje Élfico. </strong>Perteneces a un linaje que te concede habilidades sobrenaturales.</p><p>Cuando alcanzas los niveles 3 y 5 de personaje, aprendes un conjuro de mayor nivel, como se muestra en la tabla. Siempre tienes ese conjuro preparado. Puedes lanzarlo una vez sin gastar un espacio de conjuro y recuperas la capacidad de lanzarlo de ese modo cuando terminas un Descanso Largo. También puedes lanzar el conjuro usando cualquier espacio de conjuro apropiado que tengas. inteligencia, sabiduría o carisma es tu característica para el lanzamiento de conjuros con este rasgo (elige la característica cuando selecciones el linaje).</p><table><caption>Rasgos del Linaje de Elfo Silvano</caption><thead><tr><td>Nivel 1</td><td>Nivel 3</td><td>Nivel 5</td></tr></thead><tbody><tr><td>Tu Velocidad aumenta a 35 pies. También conoces el truco @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{Saber Druidico}.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{Zancada prodigiosa}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{Pasar sin rastro}</td></tr></tbody></table><p><strong>Ascendencia Feérica.</strong> Tienes Ventaja en las tiradas de salvación que realizas para evitar o finalizar la condición &amp;Reference[Charmed].</p><p><strong>Sentidos Agudos.</strong> Tienes competencia en la habilidad de Perspicacia, Percepción o Supervivencia.</p><p><strong>Trance.</strong> No necesitas dormir y la magia no puede hacerte dormir. Puedes completar un Descanso Largo en 4 horas si pasas ese tiempo en una meditación similar a un trance, durante la cual permaneces consciente.</p>",
+      "name": "엘프, 우드",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">우드 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특별한 특성을 지닙니다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통에 속해 있습니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비 상태로 둡니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 다시 시전할 수 있는 능력을 회복합니다. 또한 보유한 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 능력치입니다(혈통을 선택할 때 능력치를 고릅니다).</p><table><caption>우드 엘프 혈통 특성</caption><thead><tr><td>레벨 1</td><td>레벨 3</td><td>레벨 5</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 익힙니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 실시하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>망아.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 잠들지 않습니다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 당신은 의식을 유지합니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
         "5w2FaHXRKiN7v1rE": {
-          "title": "Tamaño",
-          "hint": "Mediano (aproximadamente 5–6 pies de altura)"
+          "title": "체격",
+          "hint": "중형(키 약 5~6피트)"
         },
         "boHzoT53gYPvJ9o2": {
-          "title": "Rasgos de Elfo",
+          "title": "엘프 특성",
           "hint": ""
         },
         "YFS9oEa9Iw1molNm": {
-          "title": "Rasgos de Elfo Silvano",
+          "title": "우드 엘프 특성",
           "hint": ""
         },
         "FRJszO7cYchbaGzt": {
-          "title": "Rasgos de Elfo Silvano",
-          "hint": "inteligencia, sabiduría o carisma es tu característica para el lanzamiento de conjuros con este rasgo."
+          "title": "우드 엘프 특성",
+          "hint": "지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 능력치입니다."
         },
         "zFsEPXauTgmYxqiJ": {
-          "title": "Rasgos de Elfo Silvano",
-          "hint": "inteligencia, sabiduría o carisma es tu característica para el lanzamiento de conjuros con este rasgo."
+          "title": "우드 엘프 특성",
+          "hint": "지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 능력치입니다."
         },
         "RwuXccrKfMuuWLKr": {
-          "title": "Sentidos Agudos",
-          "hint": "Tienes competencia en la habilidad de Perspicacia, Percepción o Supervivencia."
+          "title": "예리한 감각",
+          "hint": "당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다."
         }
       }
     }
