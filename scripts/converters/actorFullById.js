@@ -1,3 +1,5 @@
+import { ACTIVITY_NAME_MAP } from "./activity-names.js";
+
 /**
  * actorFullById
  * - Aplica traducción a Actor + embedded Items + Activities + Effects
@@ -102,15 +104,16 @@ function mergeItemsByIdOnActor(actor, tItems) {
             it.system.requirements = reqv;
         }
 
-        // activities por _id: it.system.activities.{id}.name
-        if (t.activities) {
-            const tActById = normalizeByIdObject(t.activities);
-            const acts = it.system?.activities ?? {};
-            for (const [actId, act] of Object.entries(acts)) {
-                const ta = tActById[actId];
-                if (!ta) continue;
-                if (typeof ta.name === "string") acts[actId].name = ta.name;
-            }
+        // activities: 전역 활동명 사전(ACTIVITY_NAME_MAP) + 항목별 번역(per-id)
+        const acts = it.system?.activities ?? {};
+        const tActById = t.activities ? normalizeByIdObject(t.activities) : {};
+        for (const [actId, act] of Object.entries(acts)) {
+            if (!act) continue;
+            // 1) 전역 사전으로 영문 활동명 치환
+            if (typeof act.name === "string" && ACTIVITY_NAME_MAP[act.name]) act.name = ACTIVITY_NAME_MAP[act.name];
+            // 2) 항목별 번역이 있으면 우선 적용
+            const ta = tActById[actId];
+            if (ta && typeof ta.name === "string") act.name = ta.name;
         }
 
         // item effects por _id

@@ -18,6 +18,13 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 
 ---
 
+## [2.0.4] - 2026-06-16
+
+### Fixed
+- **활동(activity) 이름 한국어화** — 아이템 "활동" 탭의 활동 이름(`system.activities[].name`)이 영어로 표시되던 문제 수정(예: "Save"→"내성", "Cast"→"시전"). 734종 활동명 사전(`ACTIVITY_NAME_MAP`)을 만들어 컨버터로 일괄 치환. standalone 아이템 팩은 Babele Item 매핑에 `activities` 필드 컨버터 추가, actors24 임베디드 아이템은 `actorFullById` 컨버터에서 적용. 항목별 per-id 번역이 있으면 우선.
+
+---
+
 ## [2.0.3] - 2026-06-16
 
 ### Fixed
