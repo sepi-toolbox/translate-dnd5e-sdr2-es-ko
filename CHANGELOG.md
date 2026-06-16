@@ -18,6 +18,14 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 
 ---
 
+## [2.0.3] - 2026-06-16
+
+### Fixed
+- **`[[lookup]]` 출력 텍스트 한국어화** — dnd5e의 lookup 인리처는 데이터 enum 값을 그대로 출력하므로(`@target.affects.type`→"creature" 등 영문), 설명문 내 텍스트형 lookup 토큰을 시스템 데이터와 조인해 한국어로 인라인 치환(485건). enum(affects.type→크리처/자신/물체, template.type→구체/원뿔/직선, units→피트/접촉, damage.onSave→절반/없음) + 자유텍스트(affects.special·activation.condition·range.special 282종) 번역. 숫자 lookup(`@save.dc.value` 등)과 `@name`은 동적 유지.
+- **"CD" → "DC" 오역 수정** — 스페인어 베이스의 "CD"(Clase de Dificultad)가 한국어 설명에 남아 난이도가 "CD"로 표기되던 문제 563건 수정.
+
+---
+
 ## [2.0.2] - 2026-06-16
 
 ### Fixed
