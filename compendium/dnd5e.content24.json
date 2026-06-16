@@ -2674,227 +2674,283 @@
       "pages": {
         "0a2umg2mJMAzM9Q3": {
           "name": "집중",
-          "key": "Concentration"
+          "key": "Concentration",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.ow58p27ctAnr4VPH inline]</p>"
         },
         "0Hx2Lxtr8a0LPqlV": {
           "name": "아군",
-          "key": "Ally"
+          "key": "Ally",
+          "text": "<p>어떤 크리처가 당신의 모험 일행 구성원이거나, 당신의 친구이거나, 전투에서 당신 편이거나, 규칙이나 GM이 당신의 아군으로 지정한 크리처라면, 그 크리처는 당신의 아군이다.</p>"
         },
         "0r3UkdVTPBHa78ea": {
           "name": "숙련",
-          "key": "Proficiency"
+          "key": "Proficiency",
+          "text": "<p>당신이 어떤 것에 숙련을 가지고 있다면, 그것을 사용해 수행하는 @UUID[.nxPH59t3iNtWJxnU]{D20 테스트}에 자신의 숙련 보너스를 더할 수 있다. 크리처는 기술이나 내성 굴림, 또는 무기나 도구에 숙련을 가질 수 있다.</p>"
         },
         "24I7GDO2vVahRan1": {
           "name": "약간 가려짐",
-          "key": "Lightly Obscured"
+          "key": "Lightly Obscured",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.MAxtfJyvJV7EpzWN inline] <em>다음도 참고:</em> &amp;Reference[Dim Light] 및 @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{탐험}.</p>"
         },
         "2dMF1Nsw7ysf6X6e": {
           "name": "치명타",
-          "key": "Critical Hit"
+          "key": "Critical Hit",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.gFL1VhSEljL1zvje inline]</p>"
         },
         "2Uvc5myrDs18Cf19": {
           "name": "비무장 공격",
-          "key": "Unarmed Strike"
+          "key": "Unarmed Strike",
+          "text": "<p>근접 공격을 할 때 무기를 사용하는 대신, 주먹질, 발차기, 박치기 등 이와 유사한 강력한 타격을 사용할 수 있다. 게임 용어로 이는 비무장 공격이며, 자신의 몸을 사용해 5피트 이내의 목표에게 피해를 주거나, 붙잡거나, 밀어내는 근접 공격이다.</p><p>비무장 공격을 사용할 때마다, 그 효과로 다음 선택지 중 하나를 고른다.</p><p><em><strong>피해.</strong></em> 목표에 대해 명중 굴림을 한다. 굴림에 더하는 보너스는 자신의 근력 수정치에 숙련 보너스를 더한 값이다. 명중 시 목표는 1에 자신의 근력 수정치를 더한 만큼의 타격 피해를 받는다.</p><p><em><strong>붙잡기.</strong></em> 목표는 근력 또는 민첩 내성 굴림(목표가 선택)에 성공해야 하며, 실패하면 @UUID[.KbQ1k0OIowtZeQgp]{붙잡힘} 상태이상을 받는다. 내성 굴림 및 모든 탈출 시도의 DC는 8에 자신의 근력 수정치와 숙련 보너스를 더한 값이다. 이 붙잡기는 목표가 당신보다 한 단계 이상 크지 않고, 당신이 그것을 잡을 빈 손이 하나 있을 때에만 가능하다. <em>다음도 참고:</em> @UUID[.YSLWJcQCP6kzsPql]{붙잡기}.</p><p><em><strong>밀치기.</strong></em> 목표는 근력 또는 민첩 내성 굴림(목표가 선택)에 성공해야 하며, 실패하면 당신은 그것을 5피트 밀어내거나 @UUID[.QxCrRcgMdUd3gfzz]{넘어짐} 상태이상을 받게 한다. 내성 굴림의 DC는 8에 자신의 근력 수정치와 숙련 보너스를 더한 값이다. 이 밀치기는 목표가 당신보다 한 단계 이상 크지 않을 때에만 가능하다.</p>"
         },
         "3Poomjri6b55DDUC": {
           "name": "점유 공간",
-          "key": "Occupied Space"
+          "key": "Occupied Space",
+          "text": "<p>어떤 공간에 크리처가 있거나 물체로 완전히 채워져 있다면, 그 공간은 점유된 것이다.</p>"
         },
         "3RRDH9XNKf1LHgWl": {
           "name": "소마법",
-          "key": "Cantrip"
+          "key": "Cantrip",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.jZD5mCTnMPJ9jW67 inline]</p><p><em>다음도 참고:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000]{7장}.</p>"
         },
         "3YJIuyCMmuUrfmuX": {
           "name": "회피",
-          "key": "Dodge"
+          "key": "Dodge",
+          "text": "<p>회피 행동을 취하면 다음 이점을 얻는다. 다음 자기 턴이 시작될 때까지, 당신을 상대로 한 모든 명중 굴림은 당신이 공격자를 볼 수 있는 경우 &amp;Reference[Disadvantage]를 받으며, 당신은 민첩 내성 굴림을 &amp;Reference[Advantage]로 한다.</p><p>당신이 행동불능 상태이상을 가지고 있거나 속도가 0이면 이 이점을 잃는다.</p>"
         },
         "4i3G895hy99piand": {
           "name": "행동불능",
-          "key": "Incapacitated"
+          "key": "Incapacitated",
+          "text": "<p>&amp;Reference[incapacitated] 상태이상을 가지고 있는 동안, 당신은 다음 효과를 받는다.</p><p><em><strong>비활성.</strong></em> 당신은 어떤 @UUID[.SsIXfzS2ZttwAaKj]{행동}, @UUID[.EjR3KL7KLTwjWBS0]{보조 행동}, @UUID[.OhSIWaQ61dOp7S8M]{대응}도 취할 수 없다.</p><p><em><strong>집중 불가.</strong></em> 당신의 @UUID[.0a2umg2mJMAzM9Q3]{집중}이 깨진다.</p><p><em><strong>발화 불가.</strong></em> 당신은 말할 수 없다.</p><p><em><strong>기습당함.</strong></em> 당신이 선제권을 굴릴 때 행동불능 상태라면, 그 굴림에 &amp;Reference[Disadvantage]를 받는다.</p>"
         },
         "4V59Q1dlWjNhpJGo": {
           "name": "영향",
-          "key": "Influence"
+          "key": "Influence",
+          "text": "<p>영향 행동으로, 당신은 몬스터가 무언가를 하도록 설득한다. 몬스터와 어떻게 소통하는지 묘사하거나 연기하라. 속이려 하는가, 위협하려 하는가, 즐겁게 해 주려 하는가, 아니면 부드럽게 설득하려 하는가? 그러면 GM은 당신의 상호작용으로 인해 몬스터가 기꺼이 응할지, 응하지 않을지, 망설일지를 판단한다. 이 판단은 아래 설명대로 능력 판정이 필요한지 여부를 결정한다.</p><p><em><strong>기꺼이.</strong></em> 당신의 설득이 몬스터의 욕구와 부합한다면 능력 판정이 필요 없다. 몬스터는 자신이 선호하는 방식으로 당신의 요청을 들어준다.</p><p><em><strong>응하지 않음.</strong></em> 당신의 설득이 몬스터에게 혐오스럽거나 그 성향에 반한다면 능력 판정이 필요 없다. 몬스터는 따르지 않는다.</p><p><em><strong>망설임.</strong></em> 몬스터가 망설이는 일을 하도록 설득한다면, 당신은 능력 판정을 해야 하며, 이는 몬스터의 태도(무관심, 우호적, 적대적, 각각 이 용어집에 정의됨)에 영향을 받는다. 영향 판정표는 당신이 몬스터와 어떻게 상호작용하는지에 따라 어떤 능력 판정을 할지 제안한다. GM이 판정을 선택하며, 기본 DC는 15 또는 몬스터의 지능 점수 중 더 높은 값이다. 판정에 성공하면 몬스터는 설득대로 행동한다. 판정에 실패하면, 같은 방식으로 다시 설득하기 전에 24시간(또는 DM이 정한 기간)을 기다려야 한다.</p><table><caption>영향 판정</caption><thead><tr><th><p>능력 판정</p></th><th><p>상호작용</p></th></tr></thead><tbody><tr><td><p>[[/check dec]]</p></td><td><p>당신을 이해하는 몬스터를 속이기</p></td></tr><tr><td><p>[[/check itm]]</p></td><td><p>몬스터를 위협하기</p></td></tr><tr><td><p>[[/check prf]]</p></td><td><p>몬스터를 즐겁게 하기</p></td></tr><tr><td><p>[[/check per]]</p></td><td><p>당신을 이해하는 몬스터를 설득하기</p></td></tr><tr><td><p>[[/check ani]]</p></td><td><p>야수나 괴물체를 부드럽게 달래기</p></td></tr></tbody></table>"
         },
         "53c9JMqckHagYYB5": {
           "name": "수영",
-          "key": "Swimming"
+          "key": "Swimming",
+          "text": "<p>수영하는 동안 이동 거리 1피트마다 1피트의 추가 비용이 든다(@UUID[.9tzB6KQDTIuw1FlZ]{험지}에서는 2피트 추가). 수영 속도를 가지고 있고 그것을 사용해 수영한다면 이 추가 비용을 무시한다. DM의 재량에 따라, 거친 물에서 어떤 거리든 이동하려면 [[/check dc=15 ath]] 판정에 성공해야 할 수 있다.</p>"
         },
         "5hyEitPd1Kb27fP5": {
           "name": "위험 요소",
-          "key": "Hazard"
+          "key": "Hazard",
+          "text": "<p>위험 요소는 환경적 위험이다. @UUID[.mPBGM1vguT5IPzxT]{화상}, @UUID[.FZFvLNOX0lHaHZ1k]{탈수}, @UUID[.lCwPWK4ODxw2IV1x]{추락}, @UUID[.earBo4vQPC1ti4g7]{영양실조}, @UUID[.gAvV8TLyS8UGq00x]{질식}도 참고하라.</p>"
         },
         "5MKyFnOiAVifvbuI": {
           "name": "능력치 및 수정치",
-          "key": "Ability Score and Modifier"
+          "key": "Ability Score and Modifier",
+          "text": "<p>크리처는 여섯 가지 능력치(근력, 민첩, 건강, 지능, 지혜, 매력)를 가지며, 각각은 그에 대응하는 수정치를 가진다. 해당 능력으로 &amp;Reference[D20 Test]를 하거나 규칙이 그렇게 요구할 때 수정치를 더한다.</p>"
         },
         "5S8i59qskkd9GGcJ": {
           "name": "돕기",
-          "key": "Help"
+          "key": "Help",
+          "text": "<p>돕기 행동을 취하면 다음 중 하나를 한다.</p><p><em><strong>능력 판정 돕기.</strong></em> 자신의 기술 또는 도구 숙련 중 하나와, 능력 판정을 할 때 당신이 말이나 행동으로 도울 수 있을 만큼 가까운 아군 한 명을 선택한다. 그 아군은 선택한 기술이나 도구로 하는 다음 능력 판정에 &amp;Reference[Advantage]를 받는다. 아군이 당신의 다음 턴이 시작되기 전에 이 이점을 사용하지 않으면 소멸한다. 당신의 도움이 가능한지 여부는 GM이 최종 결정한다.</p><p><em><strong>명중 굴림 돕기.</strong></em> 5피트 이내의 적 하나를 잠시 주의를 흐트러뜨려, 당신의 아군 하나가 그 적을 상대로 하는 다음 명중 굴림에 유리를 부여한다. 이 이점은 당신의 다음 턴이 시작될 때 소멸한다.</p>"
         },
         "69nu4Sk3V5O15GFf": {
           "name": "통달",
-          "key": "Expertise"
+          "key": "Expertise",
+          "text": "<p>통달은 기술 숙련의 사용을 강화하는 특성이다. 통달을 가진 기술 숙련으로 능력 판정을 할 때, 다른 특성에 의해 보너스가 두 배가 되지 않는 한, 그 판정에 자신의 숙련 보너스가 두 배가 된다.</p><p>통달을 얻으면, 자신이 숙련을 가진 기술 하나에 대해 통달을 얻는다. 같은 기술 숙련에 대해 통달을 두 번 이상 가질 수 없다.</p><p><em>다음도 참고:</em> 1장 @UUID[Compendium.dnd5e.content24.JournalEntry.phbPlayingTheGam]{숙련}.</p>"
         },
         "6l6nBKip4LqB1sCU": {
           "name": "질주",
-          "key": "Dash"
+          "key": "Dash",
+          "text": "<p>질주 행동을 취하면 현재 턴에 추가 이동을 얻는다. 증가량은 모든 수정치를 적용한 후의 자신의 &amp;Reference[Speed]와 같다. 예를 들어 속도가 30피트라면, 질주 시 자신의 턴에 최대 60피트까지 이동할 수 있다. 속도 30피트가 15피트로 감소했다면, 질주 시 이번 턴에 최대 30피트까지 이동할 수 있다.</p><p>비행 속도나 수영 속도 같은 특수 속도를 가지고 있다면, 이 행동을 취할 때 자신의 속도 대신 그 속도를 사용할 수 있다. 행동을 취할 때마다 어떤 속도를 사용할지 선택한다.</p>"
         },
         "6vtLuQT9lwZ9N299": {
           "name": "석화",
-          "key": "Petrified"
+          "key": "Petrified",
+          "text": "<p>석화 상태이상을 가지고 있는 동안, 당신은 다음 효과를 받는다.</p><p><em><strong>무생물로 변함.</strong></em> 당신은 착용하고 휴대한 모든 비마법적 물체와 함께 단단한 무생물 물질(보통 돌)로 변한다. 당신의 무게는 열 배로 증가하며, 노화가 멈춘다.</p><p><em><strong>행동불능.</strong></em> 당신은 &amp;Reference[Incapacitated] 상태이상을 받는다.</p><p><em><strong>속도 0.</strong></em> 당신의 속도는 0이며 증가할 수 없다.</p><p><em><strong>공격 영향.</strong></em> 당신을 상대로 한 명중 굴림은 &amp;Reference[Advantage]를 받는다.</p><p><em><strong>내성 굴림 영향.</strong></em> 당신은 근력 및 민첩 내성 굴림에 자동으로 실패한다.</p><p><em><strong>피해 저항.</strong></em> 당신은 모든 피해에 &amp;Reference[Resistance]를 가진다.</p><p><em><strong>독성 면역.</strong></em> 당신은 &amp;Reference[Poisoned] 상태이상에 면역을 가진다.</p>"
         },
         "6YfqSe0sucLuGL3j": {
           "name": "목표",
-          "key": "Target"
+          "key": "Target",
+          "text": "<p>목표란 명중 굴림의 대상이 되거나, 어떤 효과에 의해 내성 굴림을 하도록 강제되거나, 주문이나 다른 현상의 효과를 받도록 선택된 크리처나 물체를 말한다.</p>"
         },
         "7vQ1hLQ5fS6SSUqF": {
           "name": "암시야",
-          "key": "Darkvision"
+          "key": "Darkvision",
+          "text": "<p>암시야를 가지고 있다면, 지정된 거리 이내의 &amp;Reference[Dim Light]에서는 밝은 빛인 것처럼, 그 거리 이내의 &amp;Reference[Darkness]에서는 약한 빛인 것처럼 볼 수 있다. 그 어둠 속에서는 색을 회색 음영으로만 구별한다. <em>다음도 참고:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{탐험}.</p>"
         },
         "82BB8JUr7qEyo0jN": {
           "name": "성향",
-          "key": "Alignment"
+          "key": "Alignment",
+          "text": "<p>크리처의 성향은 그 윤리적 태도와 이상을 폭넓게 설명한다. 성향은 두 가지 요소의 조합이다. 하나는 도덕성(선, 악, 또는 중립)을 나타내고, 다른 하나는 질서에 대한 태도(질서, 혼돈, 또는 중립)를 설명한다. 이 요소들은 질서 선이나 중립 악처럼 아홉 가지 가능한 조합을 만들어낸다.</p>"
         },
         "8gPSPovZD9reqFet": {
           "name": "기습",
-          "key": "Surprise"
+          "key": "Surprise",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.YmOt8HderKveA19K inline]</p><p><em>다음도 참고:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{1장 (전투)}.</p>"
         },
         "93uaingTESo8N1qL": {
           "name": "공포",
-          "key": "Frightened"
+          "key": "Frightened",
+          "text": "<p>공포 상태이상을 가지고 있는 동안, 당신은 다음 효과를 받는다.</p><p><em><strong>능력 판정 및 공격 영향.</strong></em> 공포의 근원이 시야선 내에 있는 동안, 당신은 능력 판정과 명중 굴림에 &amp;Reference[Disadvantage]를 받는다.</p><p><em><strong>접근 불가.</strong></em> 당신은 공포의 근원에 자발적으로 더 가까이 이동할 수 없다.</p>"
         },
         "9Otf0bjl7X3tubNv": {
           "name": "동시 발생 효과",
-          "key": "Simultaneous Effects"
+          "key": "Simultaneous Effects",
+          "text": "<p>한 턴에 둘 이상의 일이 동시에 일어나면, 그 턴의 주인인 게임 테이블의 사람(플레이어 또는 DM)이 그 일들이 일어나는 순서를 결정한다. 예를 들어, 플레이어 캐릭터의 턴이 시작될 때 두 가지 효과가 발생한다면, 플레이어가 어느 효과를 먼저 일어나게 할지 결정한다.</p>"
         },
         "9SzoRkB9GUlofZEB": {
           "name": "히트 다이스",
-          "key": "Hit Point Dice"
+          "key": "Hit Point Dice",
+          "text": "<p>히트 포인트 다이스, 줄여서 히트 다이스는 2장에서 설명하듯이 플레이어 캐릭터의 최대 히트 포인트를 결정하는 데 도움을 준다. 대부분의 몬스터도 히트 다이스를 가지고 있다. 크리처는 @UUID[.wVuNbEADtC16ejAi]{짧은 휴식} 중에 히트 다이스를 소모해 히트 포인트를 회복할 수 있다.</p>"
         },
         "9tzB6KQDTIuw1FlZ": {
           "name": "험지",
-          "key": "Difficult Terrain"
+          "key": "Difficult Terrain",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.6tqz947qO8vPyxvD inline]</p><p>어떤 공간이 다음 중 하나 또는 유사한 것을 포함하고 있다면 그 공간은 험지이다.</p><ul><li><p>초소형이 아니며 당신의 아군도 아닌 크리처</p></li><li><p>당신 체격이거나 그 이상의 크리처에 맞춰 제작된 가구</p></li><li><p>두꺼운 눈, 얼음, 잔해, 또는 덤불</p></li><li><p>정강이에서 허리 깊이 사이의 액체</p></li><li><p>당신보다 한 단계 작은 크리처에 맞는 좁은 통로</p></li><li><p>20도 이상의 경사</p></li></ul>"
         },
         "a4CjDIEMeSbRaEjA": {
           "name": "등반",
-          "key": "Climbing"
+          "key": "Climbing",
+          "text": "<p>등반하는 동안에는 이동 1피트마다 1피트가 추가로 소모됩니다(@UUID[.9tzB6KQDTIuw1FlZ]{험지}에서는 2피트 추가). 등반 속도를 가지고 있고 그것을 사용해 등반한다면 이 추가 비용을 무시합니다.</p><p>DM의 재량에 따라, 미끄러운 표면이나 붙잡을 곳이 거의 없는 표면을 등반할 때는 [[/check dc=15 ath]] 판정에 성공해야 할 수 있습니다.</p>"
         },
         "aaJOlRhI1H6vAxt9": {
           "name": "도약",
-          "key": "Jumping"
+          "key": "Jumping",
+          "text": "<p>도약할 때는 멀리뛰기(수평) 또는 높이뛰기(수직) 중 하나를 합니다.</p><p>@Embed[.NcSh8lVwlfk58VAO inline]</p><p>@Embed[.sy6xon5AxuIZV1ca inline]</p>"
         },
         "afnB0KZZk2hKtjv4": {
           "name": "난이도",
-          "key": "Difficulty Class"
+          "key": "Difficulty Class",
+          "text": "<p>난이도(DC)는 능력 판정이나 내성 굴림의 목표 수치입니다. <em>참고</em> 1장</p><p>@UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000]{D20 테스트}.</p>"
         },
         "Agsv3qZNLTNij9mm": {
           "name": "내림",
-          "key": "Round Down"
+          "key": "Round Down",
+          "text": "<p>게임에서 수를 나누거나 곱할 때마다, 결과에 분수가 생기면 그 분수가 2분의 1 이상이더라도 내림합니다. 일부 규칙은 예외로 올림하라고 지시합니다.</p>"
         },
         "ahMxQJTGDhq08GWQ": {
           "name": "태도",
-          "key": "Attitude"
+          "key": "Attitude",
+          "text": "<p>몬스터는 플레이어 캐릭터에 대해 시작 태도를 가집니다: &amp;Reference[Friendly], &amp;Reference[Hostile], 또는 &amp;Reference[Indifferent]. &amp;Reference[Influence]도 참고하십시오.</p>"
         },
         "AKYkasQ56Pnatfmz": {
           "name": "주문 매개체",
-          "key": "Spellcasting Focus"
+          "key": "Spellcasting Focus",
+          "text": "<p>주문 매개체는 특정 크리처가 주문의 물질 구성요소가 주문에 의해 소모되지 않고 명시된 비용이 없는 경우 그 물질 대신 사용할 수 있는 물체입니다. 일부 클래스는 그 구성원이 특정 종류의 주문 매개체를 사용할 수 있도록 허용합니다. <em>참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.iBFe4NyaCUinDoz3]{주문 시전}.</p>"
         },
         "AQ1oTG7jHy5kZuN9": {
           "name": "영웅적 영감",
-          "key": "Heroic Inspiration"
+          "key": "Heroic Inspiration",
+          "text": "<p>당신(플레이어 캐릭터)이 영웅적 영감을 가지고 있다면, 주사위를 굴린 직후에 그것을 소비해 그 주사위를 다시 굴릴 수 있으며, 반드시 새로운 결과를 사용해야 합니다.</p><p>영웅적 영감을 얻었지만 이미 가지고 있다면, 그것을 가지고 있지 않은 플레이어 캐릭터에게 넘겨주지 않는 한 사라집니다.</p>"
         },
         "bCU0JHnmZsZf1SHp": {
           "name": "취약",
-          "key": "Vulnerability"
+          "key": "Vulnerability",
+          "text": "<p>어떤 피해 유형에 대해 취약을 가지고 있다면, 그 유형의 피해는 당신에게 두 배가 됩니다. 취약은 하나의 피해 사례에 한 번만 적용됩니다. <em>참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "be7g0q1xBAwb8drv": {
           "name": "진시야",
-          "key": "Truesight"
+          "key": "Truesight",
+          "text": "<p>진시야를 가지고 있다면, 지정된 범위 내에서 시야가 강화됩니다. 그 범위 내에서 당신의 시야는 다음을 꿰뚫어 봅니다:</p><p><strong>어둠.</strong> 일반 및 마법적 @UUID[.UY4RGoKw9rOeazur]{어둠} 속에서 볼 수 있습니다.</p><p><strong>투명.</strong> @UUID[.MQIZ1zRLWRcNOtPN]{투명} 상태이상을 가진 크리처와 물체를 봅니다.</p><p><strong>시각적 환영.</strong> 시각적 환영은 당신에게 투명하게 보이며, 그에 대한 내성 굴림에 자동으로 성공합니다.</p><p><strong>변형.</strong> 마법에 의해 변형된 크리처나 물체를 보면 그 진정한 형태를 식별합니다.</p><p><strong>에테르계.</strong> 에테르계를 들여다볼 수 있습니다.</p>"
         },
         "BMoxmXB8pX6bOBus": {
           "name": "도전지수",
-          "key": "Challenge Rating"
+          "key": "Challenge Rating",
+          "text": "<p>도전지수(CR)는 네 명의 플레이어 캐릭터 무리에게 몬스터가 가하는 위협을 요약합니다. 몬스터의 CR을 캐릭터들의 레벨과 비교하십시오. CR이 더 높다면 그 몬스터는 위험할 가능성이 높습니다. CR이 더 낮다면 그 몬스터는 위협이 거의 되지 않을 가능성이 높습니다. 하지만 상황과 플레이어 캐릭터의 수는 실제 플레이에서 몬스터가 얼마나 위협적인지를 크게 바꿀 수 있습니다. 게임 마스터 가이드는 잠재적인 전투 조우를 계획할 때 CR을 사용하는 방법에 관한 지침을 GM에게 제공합니다. @UUID[.St3ANvrKOgxECnTn]{스텟 블록}도 참고하십시오.</p>"
         },
         "BNxLbtJofbNGzjsp": {
           "name": "적대적",
-          "key": "Hostile"
+          "key": "Hostile",
+          "text": "<p>적대적인 크리처는 당신을 호의적이지 않게 봅니다. 적대적인 크리처에게 영향을 주기 위한 능력 판정에 불리를 받습니다. <em>참고</em> &amp;Reference[Influence].</p>"
         },
         "Brc9AnUXBeg0MTX6": {
           "name": "상시 포착",
-          "key": "Passive Perception"
+          "key": "Passive Perception",
+          "text": "<p>상시 포착은 크리처가 주변 환경을 전반적으로 인지하는 정도를 반영하는 점수입니다. GM은 크리처가 의식적으로 지혜(통찰) 판정을 하지 않고도 무언가를 알아채는지 판단할 때 이 점수를 사용합니다.</p><p>크리처의 상시 포착은 10에 그 크리처의 지혜(통찰) 판정 보너스를 더한 값과 같습니다. 그러한 판정에 유리를 가지고 있다면 점수를 5 증가시킵니다. 그에 대해 &amp;Reference[Disadvantage]를 가지고 있다면 점수를 5 감소시킵니다. 예를 들어, 지혜 15에 통찰에 숙련된 레벨 1 캐릭터의 상시 포착은 14(10 + 2 + 2)입니다. 그 캐릭터가 지혜(통찰) 판정에 유리를 가지고 있다면 점수는 19가 됩니다.</p>"
         },
         "CpD1zLLviYjS9FBX": {
           "name": "조율",
-          "key": "Attunement"
+          "key": "Attunement",
+          "text": "<p>일부 마법 아이템은 크리처가 그 아이템의 마법적 속성을 사용하기 전에 조율이라 불리는 결속을 그것과 형성하도록 요구합니다. 크리처는 한 번에 최대 세 개의 마법 아이템과 조율할 수 있습니다. @UUID[Compendium.dnd5e.content24.JournalEntry.phbMagicItems000]{마법 아이템}도 참고하십시오.</p>"
         },
         "cyCc2YhnD2TrMreG": {
           "name": "약한 빛",
-          "key": "Dim Light"
+          "key": "Dim Light",
+          "text": "<p>약한 빛이 있는 구역은 &amp;Reference[Lightly Obscured]입니다. @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{탐험}도 참고하십시오.</p>"
         },
         "DksBBFbqPY2FCReT": {
           "name": "경험치",
-          "key": "Experience Points"
+          "key": "Experience Points",
+          "text": "<p>캐릭터는 도전을 극복하고 모험을 완수하면서 경험치(XP)를 획득하며, 이는 게임 마스터가 수여합니다. 캐릭터의 XP 총합이 특정 임계값을 넘으면 캐릭터의 레벨이 상승합니다. 게임 마스터 가이드는 XP 수여에 관한 지침을 제공합니다.</p><p><em>참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.Vz5QcYKA74tWkDqy]{레벨 상승}.</p>"
         },
         "dqLeGdpHtb8FfcxX": {
           "name": "포박",
-          "key": "Restrained"
+          "key": "Restrained",
+          "text": "<p>포박 상태이상을 가지고 있는 동안, 다음의 효과를 겪습니다.</p><p><em><strong>속도 0.</strong></em> 당신의 &amp;Reference[Speed]는 0이며 증가할 수 없습니다.</p><p><em><strong>공격에 영향.</strong></em> 당신에 대한 명중 굴림은 유리를 받고, 당신의 명중 굴림은 &amp;Reference[Disadvantage]를 받습니다.</p><p><em><strong>내성 굴림에 영향.</strong></em> 민첩 내성 굴림에 불리를 받습니다.</p>"
         },
         "dSMhNOxGIJglsjnX": {
           "name": "무기",
-          "key": "Weapon"
+          "key": "Weapon",
+          "text": "<p>무기는 단순 또는 군용 무기 범주에 속하는 물체입니다. <em>참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbEquipment0000.JournalEntryPage.dWQ2ZTLOuKr3PMAx]{무기}.</p>"
         },
         "Dyw6b9rQIdbkIIQD": {
           "name": "즉석 무기",
-          "key": "Improvised Weapons"
+          "key": "Improvised Weapons",
+          "text": "<p>즉석 무기는 깨진 유리, 탁자 다리, 프라이팬처럼 임시 무기로 휘두르는 물체입니다. 단순 또는 군용 무기도 설계와 어긋나는 방식으로 휘두르면 즉석 무기로 간주됩니다. 원거리 무기로 근접 공격을 하거나 투척 속성이 없는 근접 무기를 던지면 그 무기는 즉석 무기로 간주됩니다. 즉석 무기는 아래 규칙을 따릅니다.</p><p><em><strong>숙련.</strong></em> 즉석 무기로 하는 명중 굴림에는 숙련 보너스를 더하지 않습니다.</p><p><em><strong>피해.</strong></em> 명중 시, 그 무기는 GM이 그 물체에 적절하다고 판단하는 유형의 [[/damage 1d4]] 피해를 입힙니다.</p><p><em><strong>사거리.</strong></em> 그 무기를 던지면, 일반 사거리는 20피트이고 장거리 사거리는 60피트입니다.</p><p><em><strong>무기 등가물.</strong></em> 즉석 무기가 단순 또는 군용 무기와 닮았다면, GM은 그것이 그 무기로 기능하며 그 무기의 규칙을 사용한다고 정할 수 있습니다. 예를 들어, GM은 탁자 다리를 곤봉으로 취급할 수 있습니다.</p>"
         },
         "e3DmlL7JEghucu8V": {
           "name": "모험",
-          "key": "Adventure"
+          "key": "Adventure",
+          "text": "<p>모험은 일련의 @UUID[.JEinwUMBhr5bP8PP]{조우}입니다. 그것들을 플레이하면서 이야기가 떠오릅니다.</p>"
         },
         "earBo4vQPC1ti4g7": {
           "name": "영양실조",
-          "key": "Malnutrition"
+          "key": "Malnutrition",
+          "text": "<p>크리처는 하루치 사료 표에 나온 대로 자신의 체격에 따른 양의 음식이 하루에 필요합니다. 음식을 먹되 하루에 필요한 음식의 절반 미만을 섭취한 크리처는 [[/save dc=10 con]] 내성 굴림에 성공하지 못하면 그날 끝에 &amp;Reference[exhaustion] 1단계를 얻습니다. 5일 동안 아무것도 먹지 않은 크리처는 5일째 끝에 자동으로 탈진 1단계를 얻으며, 음식 없이 보내는 이후의 날마다 끝에 추가로 1단계씩 얻습니다.</p><p>영양실조로 인한 탈진은 크리처가 하루에 필요한 음식의 전량을 먹을 때까지 제거될 수 없습니다.</p><table><caption>하루치 사료</caption><thead><tr><th><p>체격</p></th><th><p>음식</p></th><th></th><th><p>체격</p></th><th><p>음식</p></th></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>1/4 파운드</p></td><td></td><td><p>대형</p></td><td><p>4파운드</p></td></tr><tr><td><p>소형</p></td><td><p>1파운드</p></td><td></td><td><p>거대형</p></td><td><p>16파운드</p></td></tr><tr><td><p>중형</p></td><td><p>1파운드</p></td><td></td><td><p>초대형</p></td><td><p>64파운드</p></td></tr></tbody></table>"
         },
         "EIknqkxeOWwz7Qk5": {
           "name": "기술",
-          "key": "Skill"
+          "key": "Skill",
+          "text": "<p>기술은 능력 판정과 연관된 전문 분야입니다. 어떤 기술에 숙련을 가지고 있다면, 그 기술과 연관된 능력 판정을 할 때 숙련 보너스를 더할 수 있습니다. <em>참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000.JournalEntryPage.zU9fgQbLaVbJvPRX]{숙련}</p>"
         },
         "EjbXjvyQAMlDyANI": {
           "name": "기절",
-          "key": "Stunned"
+          "key": "Stunned",
+          "text": "<p>기절 상태이상을 가지고 있을 때, 다음의 효과를 겪습니다.</p><p><em><strong>행동불능.</strong></em> @UUID[.4i3G895hy99piand]{행동불능} 상태이상을 가집니다.</p><p><em><strong>내성 굴림에 영향.</strong></em> 근력 및 민첩 내성 굴림에 자동으로 실패합니다.</p><p><em><strong>공격에 영향.</strong></em> 당신에 대한 명중 굴림은 &amp;Reference[Advantage]를 받습니다.</p>"
         },
         "EjR3KL7KLTwjWBS0": {
           "name": "보조 행동",
-          "key": "Bonus Action"
+          "key": "Bonus Action",
+          "text": "<p>다양한 클래스 특성, 주문, 그 외의 능력은 당신의 턴에 보조 행동이라 불리는 추가 행동을 취할 수 있게 합니다. 예를 들어 @UUID[Compendium.dnd5e.classes24.Item.phbrgeCunningAct]{교활한 행동} 특성은 로그가 보조 행동을 취할 수 있게 합니다. 특수 능력, 주문, 또는 게임의 다른 특성이 무언가를 보조 행동으로 할 수 있다고 명시할 때만 보조 행동을 취할 수 있습니다. 그렇지 않으면 취할 수 있는 보조 행동이 없습니다.</p><p>당신의 턴에 보조 행동은 하나만 취할 수 있으므로, 둘 이상이 사용 가능하다면 어떤 보조 행동을 사용할지 선택해야 합니다.</p><p>보조 행동의 시점이 명시되어 있지 않은 한, 당신의 턴 중 언제 보조 행동을 취할지 선택합니다. 행동을 취하는 능력을 박탈하는 모든 것은 보조 행동을 취하는 것 역시 막습니다.</p>"
         },
         "eNvzQabiTqTtfzis": {
           "name": "허점 공격",
-          "key": "Opportunity Attacks"
+          "key": "Opportunity Attacks",
+          "text": "<p>당신이 볼 수 있는 크리처가 자신의 행동, 보조 행동, 대응, 또는 자신의 속도 중 하나를 사용해 당신의 간격을 벗어날 때 허점 공격을 할 수 있습니다. 허점 공격을 하려면, 대응을 사용해 도발한 크리처에게 무기나 비무장 공격으로 근접 공격을 한 번 합니다. 그 공격은 크리처가 당신의 간격을 벗어나기 직전에 발생합니다. <em>참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{전투} 장.</p>"
         },
         "eSsITWhcNMkoa9WP": {
           "name": "발산",
-          "key": "Emanation"
+          "key": "Emanation",
+          "text": "<p>발산은 크리처나 물체로부터 모든 방향으로 직선으로 뻗어나가는 효과 범위입니다. 발산을 생성하는 효과는 그것이 뻗어나가는 거리를 명시합니다.</p><p>발산은 즉각 효과나 고정 효과가 아닌 한 그 기원이 되는 크리처나 물체와 함께 이동합니다.</p><p>발산의 기원(크리처나 물체)은 그 생성자가 달리 결정하지 않는 한 효과 범위에 포함되지 않습니다.</p>"
         },
         "eX6eSNKZ3LKGwrVz": {
           "name": "피해",
-          "key": "Damage"
+          "key": "Damage",
+          "text": "<p>피해는 크리처나 물체가 히트 포인트를 잃게 만드는 손상을 나타냅니다.</p>"
         },
         "eYX5eimGuYhHPoj4": {
           "name": "무관심",
-          "key": "Indifferent"
+          "key": "Indifferent",
+          "text": "<p>무관심한 크리처는 당신을 돕거나 방해할 욕구가 없습니다. 무관심은 몬스터의 기본 태도입니다. <em>참고</em> &amp;Reference[Influence].</p>"
         },
         "f4fZHwBvpbpzRyn4": {
           "name": "공격",
-          "key": "Attack"
+          "key": "Attack",
+          "text": "<p>공격 행동을 취하면, 무기나 비무장 공격으로 명중 굴림을 한 번 할 수 있습니다.</p><p><em><strong>무기 장비 및 해제.</strong></em> 이 행동의 일부로 공격을 할 때 무기 하나를 장비하거나 해제할 수 있습니다. 이는 공격 전이나 후에 합니다. 공격 전에 무기를 장비한다면, 그 공격에 그것을 사용할 필요는 없습니다. 무기 장비에는 칼집에서 뽑거나 집어 드는 것이 포함됩니다. 무기 해제에는 칼집에 넣거나, 보관하거나, 떨어뜨리는 것이 포함됩니다.</p><p><em><strong>공격 사이 이동.</strong></em> 당신의 턴에 이동하고 추가 공격 같은 특성이 있어 공격 행동의 일부로 둘 이상의 공격을 할 수 있다면, 그 이동의 일부 또는 전부를 그 공격들 사이에 이동하는 데 사용할 수 있습니다.</p>"
         },
         "fFrHBgqKUMY0Nnco": {
           "name": "불리 보정",
-          "key": "Disadvantage"
+          "key": "Disadvantage",
+          "text": "<p>어떤 &amp;Reference[D20 Test]에 불리를 가지고 있다면, d20 두 개를 굴려 더 낮은 결과를 사용합니다. 하나의 굴림은 둘 이상의 불리에 영향받을 수 없으며, 같은 굴림에 대한 유리와 불리는 서로 상쇄됩니다.</p>"
         },
         "fJVuu8cS9oxNWGTC": {
           "name": "치유",
-          "key": "Healing"
+          "key": "Healing",
+          "text": "<p>치유는 히트 포인트를 회복하는 방법이다. <em>다음도 참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "FvDonO0qOQWp1RIw": {
           "name": "용어집 규약",
@@ -2903,271 +2959,338 @@
         },
         "fZCRaKEJd4KoQCqH": {
           "name": "무의식",
-          "key": "Unconscious"
+          "key": "Unconscious",
+          "text": "<p>무의식 상태이상을 가지고 있는 동안, 다음 효과들을 받는다.</p><p><em><strong>무력화.</strong></em> &amp;Reference[Incapacitated] 및 &amp;Reference[Prone] 상태이상을 받으며, 들고 있던 것을 모두 떨어뜨린다. 이 상태이상이 끝나면 넘어짐 상태는 유지된다.</p><p><em><strong>속도 0.</strong></em> &amp;Reference[Speed]가 0이 되며 증가할 수 없다.</p><p><em><strong>공격 영향.</strong></em> 당신을 대상으로 한 명중 굴림은 &amp;Reference[Advantage]를 받는다.</p><p><em><strong>내성 굴림 영향.</strong></em> 근력 및 민첩 내성 굴림에 자동으로 실패한다.</p><p><em><strong>자동 치명타.</strong></em> 공격자가 당신으로부터 5피트 이내에 있다면, 당신을 명중시키는 명중 굴림은 모두 치명타가 된다.</p>"
         },
         "FZFvLNOX0lHaHZ1k": {
           "name": "탈수",
-          "key": "Dehydration"
+          "key": "Dehydration",
+          "text": "<p>크리처는 자신의 체격에 따라 하루에 일정량의 물이 필요하며, 이는 하루치 물 필요량 표에 나와 있다. 하루에 필요한 물의 절반 미만을 마신 크리처는 그날이 끝날 때 탈진 1단계를 얻는다. 탈수로 인한 @UUID[.jSQtPgNm0i4f3Qi3]{탈진}은 크리처가 하루에 필요한 물의 양을 전부 마실 때까지 제거할 수 없다.</p><table><caption>하루치 물 필요량</caption><thead><tr><th><p>체격</p></th><th><p>물</p></th></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>1/4갤런</p></td></tr><tr><td><p>소형</p></td><td><p>1갤런</p></td></tr><tr><td><p>중형</p></td><td><p>1갤런</p></td></tr><tr><td><p>대형</p></td><td><p>4갤런</p></td></tr><tr><td><p>거대형</p></td><td><p>16갤런</p></td></tr><tr><td><p>초대형</p></td><td><p>64갤런</p></td></tr></tbody></table>"
         },
         "g7DDgHsdjxZUqGD2": {
           "name": "굴착 속도",
-          "key": "Burrow Speed"
+          "key": "Burrow Speed",
+          "text": "<p>굴착 속도를 가진 크리처는 그 속도를 사용해 모래, 흙, 진흙, 얼음 속을 이동할 수 있다. 그렇게 할 수 있는 특성을 가지고 있지 않은 한, 크리처는 단단한 암석을 뚫고 굴착할 수 없다.</p>"
         },
         "gAvV8TLyS8UGq00x": {
           "name": "질식",
-          "key": "Suffocation"
+          "key": "Suffocation",
+          "text": "<p>크리처는 질식이 시작되기 전까지 1에 자신의 건강 수정치를 더한 값(최소 30초)과 같은 분(分)만큼 숨을 참을 수 있다. 크리처가 숨이 다하거나 질식하고 있을 때, 자신의 턴이 끝날 때마다 &amp;Reference[Exhaustion] 1단계를 얻는다. 크리처가 다시 숨을 쉴 수 있게 되면, 질식으로 인해 얻은 탈진 단계를 모두 제거한다.</p>"
         },
         "gMTdiYGmbiwDyymt": {
           "name": "정신감응",
-          "key": "Telepathy"
+          "key": "Telepathy",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.geTidcFIYWuUvD2L inline]</p>"
         },
         "gTBHin4uKrs9cjjW": {
           "name": "몬스터",
-          "key": "Monster"
+          "key": "Monster",
+          "text": "<p>몬스터는 비록 선의의 크리처라 할지라도 DM이 조종하는 크리처이다. <em>다음도 참고</em> @UUID[.qt6cd0mBRQhsElwd]{크리처} 및 @UUID[.VNSwzt3GIwcM3Iil]{NPC}.</p>"
         },
         "gxjZq9Df96FZIl6y": {
           "name": "주문 공격",
-          "key": "Spell Attack"
+          "key": "Spell Attack",
+          "text": "<p>주문 공격은 주문이나 그 밖의 마법적 효과의 일부로 이루어지는 명중 굴림이다. <em>다음도 참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.iBFe4NyaCUinDoz3]{주문 시전}.</p>"
         },
         "H0gs01OOjU1EJBp9": {
           "name": "크리처 유형",
-          "key": "Creature Type"
+          "key": "Creature Type",
+          "text": "<p>모든 플레이어 캐릭터를 포함한 모든 크리처는 그것이 어떤 종류의 크리처인지 식별하는 태그를 규칙상 가진다. 대부분의 플레이어 캐릭터는 인간형 유형이다. 다음은 게임의 크리처 유형들이다:</p><ul><li><p>기괴체</p></li><li><p>야수</p></li><li><p>천족</p></li><li><p>구조물</p></li><li><p>용</p></li><li><p>정령</p></li><li><p>요정</p></li><li><p>마족</p></li><li><p>거인</p></li><li><p>인간형</p></li><li><p>괴물체</p></li><li><p>점액류</p></li><li><p>식물</p></li><li><p>언데드</p></li></ul><p>이 유형들 자체에는 규칙이 없지만, 게임의 일부 규칙은 특정 유형의 크리처에게 서로 다른 방식으로 영향을 미친다.</p>"
         },
         "HBCtsDayuQfxwqV9": {
           "name": "방어구 훈련",
-          "key": "Armor Training"
+          "key": "Armor Training",
+          "text": "<p>방어구 훈련은 특정 범주의 방어구를 다음의 단점 없이 사용할 수 있게 해준다. 경갑, 평갑, 또는 중갑을 착용하면서 그에 대한 훈련이 없다면, 근력이나 민첩과 관련된 모든 &amp;Reference[D20 Test]에 &amp;Reference[disadvantage]를 받으며, 주문을 시전할 수 없다. 방패를 사용하면서 그에 대한 훈련이 없다면, 그 AC 보너스를 얻지 못한다. 다음도 참고 @UUID[Compendium.dnd5e.content24.JournalEntry.phbEquipment0000.JournalEntryPage.flJnTPWIwTrAzqTi]{방어구}.</p>"
         },
         "HiJGoeVyu4nhm6a3": {
           "name": "부양",
-          "key": "Hover"
+          "key": "Hover",
+          "text": "<p>일부 크리처는 스텟 블록에 명시된 대로 부양할 수 있으며, 일부 주문과 그 밖의 효과는 부양 능력을 부여한다. 비행 중 부양하는 것은 특정 상황에서 추락을 방지한다. <em>다음도 참고 </em>@UUID[.ozHhbP8JVHCJAx0b]{비행}.</p>"
         },
         "hlPFubXjQG9gnnd5": {
           "name": "강도",
-          "key": "Damage Threshold"
+          "key": "Damage Threshold",
+          "text": "<p>강도를 가진 크리처나 물체는, 단일 공격이나 효과로부터 자신의 강도와 같거나 그 이상의 피해를 받지 않는 한 모든 피해에 면역을 가지며, 그러한 경우에는 그 피해 전체를 받는다. 강도에 도달하거나 그를 넘지 못하는 모든 피해는 표면적인 것으로 히트 포인트를 감소시키지 않는다. 예를 들어, 어떤 물체의 강도가 10이라면, 그 물체에 9의 피해가 가해질 경우 그 피해는 강도를 넘지 못하므로 물체는 피해를 받지 않는다. 같은 물체에 11의 피해가 가해진다면, 그 피해 전부를 받는다.</p>"
         },
         "HPEbNLJucJDVsnUZ": {
           "name": "피해 굴림",
-          "key": "Damage Roll"
+          "key": "Damage Roll",
+          "text": "<p>피해 굴림은 적용 가능한 수정치로 조정되어 대상에게 피해를 입히는 주사위 굴림이다. <em>다음도 참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "hTXYRfVTvcL9LYiB": {
           "name": "캐릭터 시트",
-          "key": "Character Sheet"
+          "key": "Character Sheet",
+          "text": "<p>캐릭터 시트는 캐릭터의 정보를 기록하는 데 사용하는 종이 또는 디지털 기록이다. 다음도 참고 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar]{2장}.</p>"
         },
         "Hu6UgMgAPFIWjBkN": {
           "name": "빙의",
-          "key": "Possession"
+          "key": "Possession",
+          "text": "<p>일부 효과는 크리처가 다른 크리처나 존재에게 빙의되도록 한다. 빙의 효과는 그 빙의가 어떻게 작동하는지 정의한다. 빙의는 @UUID[Compendium.dnd5e.spells24.Item.phbEvilAndGoodPr]{선악 보호} 주문으로 방지할 수 있고, @UUID[Compendium.dnd5e.spells24.Item.phbsplDispelEvil]{선악 해제} 주문으로 끝낼 수 있다.</p>"
         },
         "HWs8kEojffqwTSJz": {
           "name": "중독",
-          "key": "Poisoned"
+          "key": "Poisoned",
+          "text": "<p>중독 상태이상을 가지고 있는 동안, 다음 효과를 받는다.</p><p><em><strong>능력 판정 및 공격 영향.</strong></em> 명중 굴림과 능력 판정에 &amp;Reference[Disadvantage]를 받는다.</p>"
         },
         "i3ijpxEn5LuSO7C0": {
           "name": "원통",
-          "key": "Cylinder"
+          "key": "Cylinder",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.jZFp4R7tXsIqkiG3 inline]</p>"
         },
         "iIIDUsmSOkL0xNzF": {
           "name": "마법",
-          "key": "Magic"
+          "key": "Magic",
+          "text": "<p>마법 행동을 취하면, 시전 시간이 1행동인 주문을 시전하거나, 마법 행동으로 활성화해야 하는 특징이나 마법 물품을 사용한다.</p><p>시전 시간이 1분 이상인 주문을 시전한다면, 그 시전의 매 턴마다 마법 행동을 취해야 하며, 그렇게 하는 동안 &amp;Reference[Concentration]를 유지해야 한다. 집중이 깨지면 주문은 실패하지만, 주문 슬롯은 소모하지 않는다.</p>"
         },
         "IiOTDqJ2YtRPmuFE": {
           "name": "주문",
-          "key": "Spell"
+          "key": "Spell",
+          "text": "<p>주문은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.dWVioXxEGjcPsI9Y]{7장}에 설명된 특성을 가진 마법적 효과이다.</p>"
         },
         "IL73rq9BlQowdon7": {
           "name": "AC",
-          "key": "Armor Class"
+          "key": "Armor Class",
+          "text": "<p>AC(Armor Class)는 명중 굴림의 목표 수치이다. AC는 대상을 명중시키기가 얼마나 어려운지를 나타낸다.</p><p>기본 AC 계산은 10에 자신의 민첩 수정치를 더한 값이다. 어떤 규칙이 다른 기본 AC 계산을 제공한다면, 어느 계산을 사용할지 선택하며, 둘 이상을 동시에 사용할 수 없다. 다음도 참고 @UUID[Compendium.dnd5e.content24.JournalEntry.phbPlayingTheGam]{명중 굴림}.</p>"
         },
         "j4c5BbPA97hDIgoY": {
           "name": "플레이어 캐릭터",
-          "key": "Player Character"
+          "key": "Player Character",
+          "text": "<p>플레이어 캐릭터는 플레이어가 조종하는 캐릭터이다. <em>다음도 참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar]{2장}.</p>"
         },
         "JEinwUMBhr5bP8PP": {
           "name": "조우",
-          "key": "Encounter"
+          "key": "Encounter",
+          "text": "<p>조우는 게임의 세 가지 기둥, 즉 사회적 상호작용, 탐험, 전투 중 적어도 하나에 해당하는 모험 속의 한 장면이다. <em>다음도 참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSocialInterac]{사회적 상호작용}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{탐험}, 그리고 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{전투}).</p>"
         },
         "JLuw5ep1YQkig2T5": {
           "name": "저주",
-          "key": "Curses"
+          "key": "Curses",
+          "text": "<p>일부 게임 효과는 크리처나 물체에 저주를 건다. 저주를 부여하는 효과가 그 저주가 무엇을 하는지 정의한다. 저주는 @UUID[Compendium.dnd5e.spells24.Item.phbsplRemoveCurs]{저주 해제}와 @UUID[Compendium.dnd5e.spells24.Item.phbsplGreaterRes]{상급 회복} 주문이나, 명시적으로 저주를 끝내는 그 밖의 마법으로 제거할 수 있다.</p>"
         },
         "jSQtPgNm0i4f3Qi3": {
           "name": "탈진",
-          "key": "Exhaustion"
+          "key": "Exhaustion",
+          "text": "<p>탈진 상태이상을 가지고 있는 동안, 다음 효과들을 받는다.</p><p><em><strong>탈진 단계.</strong></em> 이 상태이상은 누적된다. 받을 때마다 탈진 1단계를 얻는다. 탈진 단계가 6이 되면 사망한다.</p><p><em><strong>D20 테스트 영향.</strong></em> &amp;Reference[D20 Test]를 할 때, 그 굴림은 탈진 단계의 2배만큼 감소한다.</p><p><em><strong>속도 감소.</strong></em> &amp;Reference[Speed]가 탈진 단계의 5배에 해당하는 피트만큼 감소한다.</p><p><em><strong>탈진 단계 제거.</strong></em> &amp;Reference[Long Rest]를 마치면 탈진 1단계가 제거된다. 탈진 단계가 0에 도달하면 이 상태이상은 끝난다.</p>"
         },
         "JwK8XOkGSX9xE5Dc": {
           "name": "원뿔",
-          "key": "Cone"
+          "key": "Cone",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.DqqAOr5JnX71OCOw inline]</p>"
         },
         "jxgi4EtQj7G0LkD9": {
           "name": "캠페인",
-          "key": "Campaign"
+          "key": "Campaign",
+          "text": "<p>캠페인은 일련의 모험이다. 다음도 참고 @UUID[.e3DmlL7JEghucu8V]{모험}.</p>"
         },
         "KbQ1k0OIowtZeQgp": {
           "name": "붙잡힘",
-          "key": "Grappled"
+          "key": "Grappled",
+          "text": "<p>붙잡힘 상태이상을 가지고 있는 동안, 다음 효과들을 받는다.</p><p><em><strong>속도 0.</strong></em> 속도가 0이 되며 증가할 수 없다.</p><p><em><strong>공격 영향.</strong></em> 붙잡은 상대 외의 어떤 대상을 향한 명중 굴림에 &amp;Reference[Disadvantage]를 받는다.</p><p><em><strong>이동 가능.</strong></em> 붙잡은 상대는 자신이 이동할 때 당신을 끌거나 옮길 수 있지만, 당신이 초소형이거나 그보다 두 단계 이상 작은 체격이 아닌 한 모든 1피트의 이동마다 1피트의 추가 이동력이 소모된다.</p>"
         },
         "klXWp4c90n7Kt5LB": {
           "name": "안정",
-          "key": "Stable"
+          "key": "Stable",
+          "text": "<p>크리처는 히트 포인트가 0이지만 @UUID[.VtyVX7M159v6UVqG]{죽음 내성 굴림}을 할 필요가 없는 경우 안정 상태이다. <em>다음도 참고</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "L90M4NKEpO6sIkui": {
           "name": "적",
-          "key": "Enemy"
+          "key": "Enemy",
+          "text": "<p>크리처가 전투에서 당신에게 맞서 싸우거나, 적극적으로 당신을 해치려 하거나, 규칙이나 DM에 의해 당신의 적으로 지정된 경우 그 크리처는 당신의 적이다.</p>"
         },
         "lCwPWK4ODxw2IV1x": {
           "name": "추락",
-          "key": "Falling"
+          "key": "Falling",
+          "text": "<p>추락하는 크리처는 추락이 끝날 때 추락한 매 10피트마다 [[/damage 1d6 type=bludgeoning]]의 피해를 받으며, 최대 [[/damage 20d6 type=bludgeoning]]의 피해까지 받는다. 크리처가 착지할 때, 추락으로 인한 피해를 전혀 받지 않은 경우가 아닌 한 @UUID[.QxCrRcgMdUd3gfzz]{넘어짐} 상태이상을 받는다.</p><p>물이나 다른 액체로 추락하는 크리처는 자신의 @UUID[.OhSIWaQ61dOp7S8M]{대응}을 사용해 머리나 발부터 수면에 닿도록 [[/check dc=15 ath]] 또는 [[/check dc=15 acr]] 판정을 할 수 있다. 판정에 성공하면, 추락으로 인한 모든 피해가 절반으로 줄어든다.</p>"
         },
         "LgpZdAOhTnSHGCNa": {
           "name": "구체",
-          "key": "Sphere"
+          "key": "Sphere",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.npdEWb2egUPnB5Fa inline]</p>"
         },
         "lvs9RRDi1UA1Lff8": {
           "name": "유리 보정",
-          "key": "Advantage"
+          "key": "Advantage",
+          "text": "<p>@UUID[.nxPH59t3iNtWJxnU]{D20 테스트}에 유리 보정을 가지고 있다면, d20 두 개를 굴려 더 높은 굴림값을 사용한다. 하나의 굴림은 둘 이상의 유리 보정의 영향을 받을 수 없으며, 같은 굴림에 대한 유리 보정과 불리 보정은 서로 상쇄된다.</p>"
         },
         "mPBGM1vguT5IPzxT": {
           "name": "화상",
-          "key": "Burning"
+          "key": "Burning",
+          "text": "<p>화상을 입은 크리처나 물체는 자신의 턴이 시작될 때마다 [[/damage 1d4 type=fire]]의 피해를 받는다. 행동으로, 스스로에게 @UUID[.QxCrRcgMdUd3gfzz]{넘어짐} 상태이상을 부여하고 땅바닥을 구르는 것으로 몸에 붙은 불을 끌 수 있다. 또한 불에 물을 끼얹거나, 물에 잠기거나, 산소가 차단되면 불이 꺼진다.</p>"
         },
         "MQIZ1zRLWRcNOtPN": {
           "name": "투명",
-          "key": "Invisible"
+          "key": "Invisible",
+          "text": "<p>투명 상태이상을 가지고 있는 동안, 당신은 다음 효과를 받습니다.</p><p><em><strong>기습.</strong></em> 투명 상태에서 선제권을 굴린다면, 그 굴림에 &amp;Reference[Advantage]를 받습니다.</p><p><em><strong>은폐.</strong></em> 효과의 창시자가 어떻게든 당신을 볼 수 있는 경우가 아니라면, 당신은 대상을 볼 수 있어야 하는 어떤 효과에도 영향받지 않습니다. 당신이 착용하거나 휴대하고 있는 모든 장비 또한 은폐됩니다.</p><p><em><strong>공격에 미치는 영향.</strong></em> 당신을 노리는 명중 굴림은 &amp;Reference[Disadvantage]를 받으며, 당신의 명중 굴림은 유리를 받습니다. 어떤 크리처가 어떻게든 당신을 볼 수 있다면, 당신은 그 크리처를 상대로 이 이점을 얻지 못합니다.</p>"
         },
         "NcSh8lVwlfk58VAO": {
           "name": "멀리뛰기",
-          "key": "Long Jump"
+          "key": "Long Jump",
+          "text": "<p>멀리뛰기를 할 때, 도약 직전에 최소 10피트를 이동했다면 당신의 근력 점수만큼의 피트 거리를 수평으로 도약합니다. 제자리에서 멀리뛰기를 할 때는 그 절반 거리만 도약할 수 있습니다. 어느 쪽이든, 도약한 1피트마다 이동력 1피트가 소모됩니다.</p><p>&amp;Reference[difficult-terrain]에 착지한다면, [[/check 10 acr]] 판정에 성공해야 하며 실패하면 &amp;Reference[Prone] 상태이상을 받습니다.</p><p>이 멀리뛰기 규칙은 개울이나 협곡을 가로지르는 도약처럼 도약의 높이가 중요하지 않은 경우를 전제로 합니다. DM의 재량에 따라, 산울타리나 낮은 벽처럼 낮은 장애물(도약 거리의 4분의 1 이하 높이)을 넘으려면 [[/check 10 ath]] 판정에 성공해야 합니다. 그러지 못하면 장애물에 부딪칩니다.</p>"
         },
         "NGmwolHLA5ppbIZY": {
           "name": "긴 휴식",
-          "key": "Long Rest"
+          "key": "Long Rest",
+          "text": "<p>긴 휴식은 어떤 크리처든 취할 수 있는, 최소 8시간 동안 이어지는 연장된 휴식 시간입니다. 긴 휴식 동안 당신은 최소 6시간을 수면하고, 독서, 대화, 식사, 보초 서기 등 가벼운 활동을 2시간 이내로 수행합니다.</p><p>수면 중에는 &amp;Reference[Unconscious] 상태이상을 받습니다. 긴 휴식을 마친 후에는, 또 다른 긴 휴식을 시작하기 전에 최소 16시간을 기다려야 합니다.</p><p><em><strong>휴식의 이점.</strong></em> 긴 휴식을 시작하려면 최소 1 히트 포인트를 가지고 있어야 합니다. 휴식을 마치면 다음과 같은 이점을 얻습니다.</p><p><strong>모든 HP 회복.</strong> 잃었던 모든 히트 포인트와 소모한 모든 히트 다이스를 회복합니다. 히트 포인트 최대치가 감소했었다면 정상으로 돌아옵니다.</p><p><strong>능력치 회복.</strong> 당신의 능력치 중 어느 하나라도 감소했었다면 정상으로 돌아옵니다.</p><p><strong>탈진 감소.</strong> &amp;Reference[Exhaustion] 상태이상을 가지고 있다면 그 레벨이 1 감소합니다.</p><p><strong>특수 특징.</strong> 일부 특징은 긴 휴식으로 재충전됩니다. 그러한 특징을 가지고 있다면, 그 설명에 명시된 방식대로 재충전됩니다.</p><p><em><strong>휴식의 방해.</strong></em> 긴 휴식은 다음과 같은 방해로 중단됩니다.</p><ul><li class=\"Core-Styles_Core-Bulleted\">선제권 굴림</li><li class=\"Core-Styles_Core-Bulleted\">소마법 이외의 주문 시전</li><li class=\"Core-Styles_Core-Bulleted\">어떤 피해라도 받음</li><li class=\"Core-Styles_Core-Bulleted\">1시간 동안의 걷기 또는 기타 육체 활동</li></ul><p>방해받기 전에 최소 1시간 동안 휴식했다면, @UUID[.wVuNbEADtC16ejAi]{짧은 휴식}의 이점을 얻습니다.</p><p>방해 직후에 긴 휴식을 즉시 재개할 수 있습니다. 그렇게 한다면, 휴식을 마치는 데 방해당 1시간이 추가로 필요합니다.</p>"
         },
         "nI9tN6Oq7fCV7hcA": {
           "name": "준비",
-          "key": "Ready"
+          "key": "Ready",
+          "text": "<p>당신은 행동하기 전에 특정한 상황을 기다리기 위해 대기 행동을 취합니다. 그렇게 하려면 당신의 차례에 이 행동을 취하며, 이를 통해 다음 차례가 시작되기 전에 @UUID[.OhSIWaQ61dOp7S8M]{대응}을 취해 행동할 수 있게 됩니다.</p><p>먼저, 어떤 인지 가능한 상황이 당신의 대응을 촉발할지 결정합니다. 그런 다음, 그 방아쇠에 반응하여 취할 행동을 선택하거나, 그에 반응하여 당신의 속도만큼 이동하기를 선택합니다. 예시로는 “사교도가 함정문을 밟으면, 나는 그것을 여는 레버를 당긴다” 그리고 “좀비가 내 옆으로 다가오면, 나는 물러난다” 등이 있습니다.</p><p>방아쇠가 발생하면, 방아쇠가 끝난 직후에 당신의 대응을 취하거나 방아쇠를 무시할 수 있습니다.</p><p>주문을 대기시킬 때는, 평소처럼 그 주문을 시전(시전에 사용되는 자원을 소모)하되 그 에너지를 붙들고 있다가, 방아쇠가 발생하면 당신의 대응으로 방출합니다. 대기시키려면 주문의 시전 시간이 행동이어야 하며, 주문의 마법을 붙들고 있으려면 @UUID[.0a2umg2mJMAzM9Q3]{집중}이 필요합니다. 이 집중은 다음 차례가 시작될 때까지 유지할 수 있습니다. 집중이 깨지면, 주문은 효과를 발휘하지 못하고 흩어집니다.</p>"
         },
         "niL3uQqxKnfsgmDI": {
           "name": "하루당",
-          "key": "Per Day"
+          "key": "Per Day",
+          "text": "<p>어떤 규칙이 무언가를 하루에 일정 횟수 사용할 수 있다고 한다면, 그것은 사용 횟수가 떨어진 후 다시 사용하려면 @UUID[.NGmwolHLA5ppbIZY]{긴 휴식}을 마쳐야 한다는 뜻입니다.</p>"
         },
         "NSU7TjeJbJ0vVQaZ": {
           "name": "속도",
-          "key": "Speed"
+          "key": "Speed",
+          "text": "<p>크리처는 속도를 가지는데, 이는 크리처가 자신의 차례에 이동할 때 나아갈 수 있는 피트 단위의 거리입니다. @UUID[.a4CjDIEMeSbRaEjA]{등반}, @UUID[.zRZl7vdjzjqpazxn]{포복}, @UUID[.ozHhbP8JVHCJAx0b]{비행}, @UUID[.aaJOlRhI1H6vAxt9]{도약}, @UUID[.53c9JMqckHagYYB5]{수영}도 <em>참조</em>하십시오.</p><p><em><strong>특수 속도.</strong></em> 일부 크리처는 굴착 속도, 등반 속도, 비행 속도, 수영 속도 같은 특수 속도를 가지며, 각각은 이 용어집에서 정의됩니다. 둘 이상의 속도를 가지고 있다면, 이동할 때 어느 것을 사용할지 선택하며, 이동 중에 속도들을 전환할 수 있습니다. 전환할 때마다 이미 이동한 거리를 새로운 속도에서 뺍니다. 그 결과가 당신이 얼마나 더 이동할 수 있는지를 결정합니다. 결과가 0 이하라면, 현재 이동 중에는 그 새로운 속도를 사용할 수 없습니다. 예를 들어, 당신이 속도 30과 비행 속도 40을 가지고 있다면, 10피트를 날고, 10피트를 걷고, 공중으로 뛰어올라 20피트를 더 날 수 있습니다.</p><p><em><strong>속도의 변화.</strong></em> 어떤 효과가 일정 시간 동안 당신의 속도를 증가시키거나 감소시킨다면, 당신이 가진 어떤 특수 속도도 같은 기간 동안 동일한 양만큼 증가하거나 감소합니다. 예를 들어, 당신의 속도가 0으로 감소하고 당신이 등반 속도를 가지고 있다면, 당신의 등반 속도 또한 0으로 감소합니다. 마찬가지로, 당신의 속도가 절반이 되고 당신이 비행 속도를 가지고 있다면, 당신의 비행 속도 또한 절반이 됩니다.</p>"
         },
         "nteEPAs5mlT6Z0Fl": {
           "name": "내성",
-          "key": "Save"
+          "key": "Save",
+          "text": "<p>내성은 내성 굴림을 가리키는 또 다른 이름입니다. @UUID[.Vlri6Mp6grn9wt3g]{내성 굴림}도 <em>참조</em>하십시오.</p>"
         },
         "Nuz0Wx4a4aAPcC34": {
           "name": "연구",
-          "key": "Study"
+          "key": "Study",
+          "text": "<p>연구 행동을 취할 때, 당신은 지능 판정을 하여 자신의 기억, 책, 단서, 또는 다른 지식의 원천을 살피고 그에 관한 중요한 정보 한 조각을 떠올립니다.</p><p>지식 영역 표는 다양한 지식 영역에 어떤 기술이 적용되는지를 제안합니다.</p><table><caption>지식 영역</caption><thead><tr><th><p>기술</p></th><th><p>영역</p></th></tr></thead><tbody><tr><td><p>비전학</p></td><td><p>주문, 마법 물품, 섬뜩한 상징, 마법 전통, 존재의 차원, 그리고 특정 크리처(기괴체, 구조물, 정령, 요정, 괴물체)</p></td></tr><tr><td><p>역사학</p></td><td><p>역사적 사건과 인물, 고대 문명, 전쟁, 그리고 특정 크리처(거인과 인간형)</p></td></tr><tr><td><p>수사</p></td><td><p>함정, 암호, 수수께끼, 그리고 기계 장치</p></td></tr><tr><td><p>자연학</p></td><td><p>지형, 식물상, 날씨, 그리고 특정 크리처(야수, 용, 점액류, 식물)</p></td></tr><tr><td><p>종교학</p></td><td><p>신, 종교 위계와 의례, 성표, 사교, 그리고 특정 크리처(천족, 마족, 언데드)</p></td></tr></tbody></table>"
         },
         "nxPH59t3iNtWJxnU": {
           "name": "D20 테스트",
-          "key": "D20 Test"
+          "key": "D20 Test",
+          "text": "<p>D20 테스트는 게임의 세 가지 주요 d20 굴림, 즉 능력 판정, 명중 굴림, 내성 굴림을 포괄합니다. 게임의 어떤 것이 D20 테스트에 영향을 미친다면, 그것은 이 세 가지 굴림 모두에 영향을 미칩니다. DM은 주어진 상황에서 D20 테스트가 필요한지를 결정합니다. @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000]{D20 테스트}도 <em>참조</em>하십시오.</p>"
         },
         "OhSIWaQ61dOp7S8M": {
           "name": "대응",
-          "key": "Reaction"
+          "key": "Reaction",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.2VqLyxMyMxgXe2wC inline]</p><p>@UUID[.eNvzQabiTqTtfzis]{허점 공격}과 1장 @UUID[Compendium.dnd5e.content24.JournalEntry.phbActions000000]{행동}도 <em>참조</em>하십시오.</p>"
         },
         "On6Sg3vUokAkXBB5": {
           "name": "효과 범위",
-          "key": "Area of Effect"
+          "key": "Area of Effect",
+          "text": "<p>효과 범위는 기원점, 즉 효과의 에너지가 분출되는 위치를 가집니다. 각 형태에 대한 규칙은 기원점을 어떻게 위치시킬지를 명시합니다. 기원점에서 효과 범위 내의 어떤 위치로 뻗는 모든 직선이 차단된다면, 그 위치는 효과 범위에 포함되지 않습니다. 직선을 차단하려면 장애물이 완전 엄폐를 제공해야 합니다. @UUID[.pGXkTaY8kLgqQuDa]{엄폐}도 <em>참조</em>하십시오.</p><p>효과 범위의 창시자가 보이지 않는 지점에 그것을 설치하고, 창시자와 그 지점 사이에 벽 같은 장애물이 있다면, 기원점은 장애물의 가까운 쪽에 생겨납니다.</p><h3>원뿔</h3><p>@Embed[.JwK8XOkGSX9xE5Dc inline]</p><h3>입방체</h3><p>@Embed[.p5qUBMQO7shfNeCD inline]</p><h3>원통</h3><p>@Embed[.i3ijpxEn5LuSO7C0 inline]</p><h3>발산</h3><p>@Embed[.eSsITWhcNMkoa9WP inline]</p><h3>직선</h3><p>@Embed[.T1ln1l6uKkkMuieP inline]</p><h3>구체</h3><p>@Embed[.LgpZdAOhTnSHGCNa inline]</p>"
         },
         "OP0YhS6iOm4yfPIt": {
           "name": "죽음",
-          "key": "Dead"
+          "key": "Dead",
+          "text": "<p>죽은 크리처는 히트 포인트가 없으며, 사자 소생이나 생환 주문 같은 마법으로 먼저 되살아나기 전에는 히트 포인트를 회복할 수 없습니다. 그러한 주문이 시전될 때, 영혼은 누가 그것을 시전하는지 알고 거부할 수 있습니다. 죽은 크리처의 영혼은 몸을 떠나 외부 차원으로 떠났으며, 그 크리처를 되살리려면 영혼을 다시 불러와야 합니다.</p><p>크리처가 생명으로 돌아온다면, 소생 효과가 그 크리처의 현재 히트 포인트를 결정합니다. 달리 명시되지 않는 한, 크리처는 죽을 당시에 영향을 미치던 모든 상태이상, 마법적 감염, 또는 저주를 그 효과들의 지속 시간이 아직 진행 중이라면 그대로 지닌 채 생명으로 돌아옵니다. 크리처가 @UUID[.jSQtPgNm0i4f3Qi3]{탈진} 레벨을 지닌 채 죽었다면, 1 적은 레벨로 돌아옵니다. 크리처가 하나 이상의 마법 물품에 조율되어 있었다면, 더 이상 그것들에 조율되어 있지 않습니다.</p>"
         },
         "ozHhbP8JVHCJAx0b": {
           "name": "비행",
-          "key": "Flying"
+          "key": "Flying",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.0B1fxfmw0a48tPsc inline]</p><p>&amp;Reference[Falling]과 @UUID[.pBcRxpYx5FCVGThO]{비행 속도}도 <em>참조</em>하십시오.</p>"
         },
         "P2NwvmLhmPGu7iQB": {
           "name": "무기 공격",
-          "key": "Weapon Attack"
+          "key": "Weapon Attack",
+          "text": "<p>무기 공격은 무기로 하는 명중 굴림입니다. @UUID[.dSMhNOxGIJglsjnX]{무기}도 참조하십시오.</p>"
         },
         "p5qUBMQO7shfNeCD": {
           "name": "입방체",
-          "key": "Cube"
+          "key": "Cube",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.dRfDIwuaHmUQ06uA inline]</p>"
         },
         "pBcRxpYx5FCVGThO": {
           "name": "비행 속도",
-          "key": "Fly Speed"
+          "key": "Fly Speed",
+          "text": "<p>비행 속도는 공중을 이동하는 데 사용할 수 있습니다. 비행 속도를 가지고 있는 동안, 당신은 착지하거나, 떨어지거나, 죽기 전까지 공중에 머무를 수 있습니다. &amp;Reference[Flying]과 &amp;Reference[Speed]도 <em>참조</em>하십시오.</p>"
         },
         "pGXkTaY8kLgqQuDa": {
           "name": "엄폐",
-          "key": "Cover"
+          "key": "Cover",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.W7f7PcRubNUMIq2S inline]</p>"
         },
         "PjXBMVcEaWuKjder": {
           "name": "크리처를 무력화하기",
-          "key": "Knocking Out a Creature"
+          "key": "Knocking Out a Creature",
+          "text": "<p>근접 공격으로 크리처를 0 히트 포인트로 떨어뜨리게 될 때, 대신 그 크리처를 1 히트 포인트로 떨어뜨릴 수 있습니다. 그러면 그 크리처는 @UUID[.fZCRaKEJd4KoQCqH]{무의식} 상태이상을 받고 @UUID[.wVuNbEADtC16ejAi]{짧은 휴식}을 시작합니다.</p><p>크리처는 히트 포인트를 회복하거나, 누군가가 행동을 사용해 응급 처치를 해줄 때까지 무의식 상태로 남아 있습니다. 응급 처치는 [[/check dc=10 med]] 판정 성공이 필요합니다.</p>"
         },
         "PyQgGFRDNLr0DznN": {
           "name": "물체",
-          "key": "Object"
+          "key": "Object",
+          "text": "<p>물체는 살아 있지 않은 별개의 사물입니다. 건물 같은 복합물은 둘 이상의 물체로 구성됩니다. @UUID[.RXTLVpAwcGm1qtKf]{물체 파괴}도 <em>참조</em>하십시오.</p>"
         },
         "q4iARGB5cUXXX1Al": {
           "name": "마법적 효과",
-          "key": "Magical Effect"
+          "key": "Magical Effect",
+          "text": "<p>어떤 효과가 주문, 마법 물품, 또는 규칙이 마법적이라고 명시한 현상에 의해 생성되었다면, 그 효과는 마법적입니다.</p>"
         },
         "q6Bs0h1U9weuUqHk": {
           "name": "의식",
-          "key": "Ritual"
+          "key": "Ritual",
+          "text": "<p>의식 태그가 있는 주문을 준비해 두었다면, 그 주문을 의식으로 시전할 수 있습니다. 주문의 의식 버전은 평소보다 시전에 10분이 더 걸립니다. 또한 주문 슬롯을 소모하지 않는데, 이는 주문의 의식 버전이 더 높은 레벨로 시전될 수 없다는 뜻입니다. @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000]{7장}도 <em>참조</em>하십시오.</p>"
         },
         "qlRw66tJhk0zLnwq": {
           "name": "실청",
-          "key": "Deafened"
+          "key": "Deafened",
+          "text": "<p><strong>들을 수 없음.</strong> 당신은 들을 수 없으며, 청력이 필요한 모든 능력 판정에 자동으로 실패합니다.</p>"
         },
         "qOKtJt8CB2qRaTNA": {
           "name": "임시 HP",
-          "key": "Temporary Hit Points"
+          "key": "Temporary Hit Points",
+          "text": "<p>임시 HP는 특정 효과로 부여되며, 실제 @UUID[.sh9GYVdAi8hfH1ru]{히트 포인트}를 잃는 것에 대한 완충 역할을 합니다. @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}도 <em>참조</em>하십시오.</p>"
         },
         "qt6cd0mBRQhsElwd": {
           "name": "크리처",
-          "key": "Creature"
+          "key": "Creature",
+          "text": "<p>플레이어의 캐릭터를 포함하여 게임에 등장하는 모든 존재는 크리처다. <em>다음도 참고:</em> @UUID[.H0gs01OOjU1EJBp9]{크리처 유형}.</p>"
         },
         "QxCrRcgMdUd3gfzz": {
           "name": "넘어짐",
-          "key": "Prone"
+          "key": "Prone",
+          "text": "<p>넘어짐 상태이상에 처해 있는 동안 다음 효과를 받는다.</p><p><em><strong>이동 제한.</strong></em> 이동 수단은 포복하거나, &amp;Reference[Speed]의 절반(내림)에 해당하는 이동력을 소모해 일어나서 이 상태이상을 끝내는 것뿐이다. 속도가 0이라면 일어날 수 없다.</p><p><em><strong>공격 영향.</strong></em> 명중 굴림에 &amp;Reference[Disadvantage]를 받는다. 당신을 노리는 명중 굴림은 공격자가 당신으로부터 5피트 이내에 있으면 &amp;Reference[Advantage]를 받는다. 그렇지 않으면 그 명중 굴림은 불리 보정을 받는다.</p>"
         },
         "r64UrNusMhwJVnxb": {
           "name": "진동감지",
-          "key": "Tremorsense"
+          "key": "Tremorsense",
+          "text": "<p>진동감지를 지닌 크리처는, 진동감지를 지닌 크리처와 감지 대상이 모두 동일한 표면(예: 바닥, 벽, 천장)이나 동일한 액체에 접촉해 있다면, 특정 범위 내에 있는 크리처와 움직이는 물체의 위치를 정확히 파악할 수 있다.</p><p>진동감지는 공중에 있는 크리처나 물체를 감지할 수 없으며, 시각의 한 형태로 취급하지 않는다.</p>"
         },
         "RnxZoTglPnLc6UPb": {
           "name": "마비",
-          "key": "Paralyzed"
+          "key": "Paralyzed",
+          "text": "<p>마비 상태이상에 처해 있는 동안 다음 효과를 받는다.</p><p><em><strong>행동불능.</strong></em> 당신은 &amp;Reference[Incapacitated] 상태이상에 처한다.</p><p><em><strong>속도 0.</strong></em> 당신의 속도는 0이 되며 증가할 수 없다.</p><p><em><strong>내성 굴림 영향.</strong></em> 근력 및 민첩 내성 굴림에 자동으로 실패한다.</p><p><em><strong>공격 영향.</strong></em> 당신을 노리는 명중 굴림은 &amp;Reference[Advantage]를 받는다.</p><p><em><strong>자동 치명타.</strong></em> 공격자가 당신으로부터 5피트 이내에 있으면 당신을 명중시키는 모든 명중 굴림은 치명타가 된다.</p>"
         },
         "rqhOsUY4wWa1oHTy": {
           "name": "숨기",
-          "key": "Hide"
+          "key": "Hide",
+          "text": "<p>숨기 행동을 사용하면 자신을 은폐하려 시도한다. 그러려면 @UUID[.YkuKTIH2YaYW8lTS]{완전히 가려짐} 상태이거나 &amp;Reference[Three-Quarters Cover] 또는 &amp;Reference[Total Cover] 뒤에 있는 상태에서 [[/check stealth dc=15]] 판정에 성공해야 하며, 또한 어떤 적의 시야선에서도 벗어나 있어야 한다. 크리처를 볼 수 있다면, 그 크리처가 당신을 볼 수 있는지 여부를 알아챌 수 있다.</p><p>판정에 성공하면 숨어 있는 동안 &amp;Reference[Invisible] 상태이상을 얻는다. 판정의 총합을 기록해 두는데, 이는 크리처가 [[/check prc]] 판정으로 당신을 찾기 위한 DC가 된다.</p><p>다음 중 어느 하나라도 일어나면 그 즉시 당신의 이 상태이상이 끝난다: 속삭임보다 큰 소리를 낸 경우, 적이 당신을 찾아낸 경우, 명중 굴림을 한 경우, 또는 발성 구성요소가 있는 주문을 시전한 경우.</p>"
         },
         "RVcWSqblHIs7SUzn": {
           "name": "우호적",
-          "key": "Friendly"
+          "key": "Friendly",
+          "text": "<p>우호적인 크리처는 당신을 호의적으로 본다. 우호적인 크리처에게 영향을 미치기 위한 능력 판정에 유리 보정을 받는다. <em>다음도 참고:</em> &amp;Reference[Influence].</p>"
         },
         "rwZa7b0CHh2n6mmA": {
           "name": "선제권",
-          "key": "Initiative"
+          "key": "Initiative",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.RcwElV4GAcVXKWxo inline]</p><p><em>다음도 참고:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{전투}.</p>"
         },
         "RXTLVpAwcGm1qtKf": {
           "name": "물체 파괴",
-          "key": "Breaking Objects"
+          "key": "Breaking Objects",
+          "text": "<p>물체는 아래 규칙에 따라 공격과 일부 주문으로 피해를 입을 수 있다. 물체가 지나치게 부서지기 쉬운 경우, GM은 크리처가 @UUID[.f4fZHwBvpbpzRyn4]{공격}이나 @UUID[.UDlogfdiT2uYEZz4]{활용} 행동으로 그것을 자동으로 부수도록 허용할 수 있다.</p><p><em><strong>방어도.</strong></em> 물체 방어도 표는 다양한 재질에 대한 AC를 제시한다.</p><table><caption>물체 방어도</caption><thead><tr><th><p>AC</p></th><th><p>재질</p></th></tr></thead><tbody><tr><td><p>11</p></td><td><p>천, 종이, 밧줄</p></td></tr><tr><td><p>13</p></td><td><p>수정, 유리, 얼음</p></td></tr><tr><td><p>15</p></td><td><p>나무</p></td></tr><tr><td><p>17</p></td><td><p>돌</p></td></tr><tr><td><p>19</p></td><td><p>철, 강철</p></td></tr><tr><td><p>21</p></td><td><p>미스랄</p></td></tr><tr><td><p>23</p></td><td><p>아다만틴</p></td></tr></tbody></table><p><em><strong>히트 포인트.</strong></em> 물체는 HP가 0이 되면 파괴된다. 물체 히트 포인트 표는 대형 이하 크기의 부서지기 쉬운 물체와 견고한 물체에 대한 HP를 제시한다. 거대형이나 초대형 물체의 HP를 추적하려면, 그것을 대형 이하의 구획으로 나누고 각 구획의 HP를 따로 추적한다. 물체의 일부를 파괴하면 전체가 무너지는지 여부는 GM이 결정한다.</p><table><caption>물체 히트 포인트</caption><thead><tr><th><p>크기</p></th><th><p>부서지기 쉬움</p></th><th><p>견고함</p></th></tr></thead><tbody><tr><td><p>초소형(병, 자물쇠)</p></td><td><p>2 (1d4)</p></td><td><p>5 ([[/r 2d4]])</p></td></tr><tr><td><p>소형(상자, 류트)</p></td><td><p>3 (1d6)</p></td><td><p>10 ([[/r 3d6]])</p></td></tr><tr><td><p>중형(통, 샹들리에)</p></td><td><p>4 (1d8)</p></td><td><p>18 ([[/r 4d8]])</p></td></tr><tr><td><p>대형(수레, 식탁)</p></td><td><p>5 (1d10)</p></td><td><p>27 ([[/r 5d10]])</p></td></tr></tbody></table><p><em><strong>피해 유형과 물체.</strong></em> 물체는 독성 및 정신 피해에 면역을 지닌다. GM은 일부 피해 유형이 물체에 더 효과적이거나 덜 효과적이라고 판정할 수 있다. 예를 들어, 타격 피해는 물건을 부수는 데에는 효과적이지만 베는 데에는 그렇지 않다. 종이나 천으로 된 물체는 화염 피해에 취약을 지닐 수 있다.</p><p><em><strong>능력치 없음.</strong></em> 규칙이 물체에 능력치를 부여하지 않는 한, 물체는 능력치를 지니지 않는다. 능력치가 없으면 물체는 능력 판정을 할 수 없고, 모든 내성 굴림에 실패한다.</p>"
         },
         "SGPAyMHJnd0MZC31": {
           "name": "형상변화",
-          "key": "Shape-Shifting"
+          "key": "Shape-Shifting",
+          "text": "<p>@UUID[Compendium.dnd5e.classes24.Item.phbdrdWildShape0]{야생 변신}이나 @UUID[Compendium.dnd5e.spells24.Item.phbsplPolymorph0]{변신} 주문처럼 형상을 바꾸게 해 주는 효과가 있다면, 그 설명에 당신에게 무슨 일이 일어나는지가 명시된다. 그 설명에서 달리 언급하지 않는 한, 당신에게 진행 중인 모든 효과—상태이상, 주문, 저주 등—는 한 형태에서 다른 형태로 유지된다. 당신이 죽으면 본래의 형태로 되돌아간다.</p>"
         },
         "sh9GYVdAi8hfH1ru": {
           "name": "HP",
-          "key": "Hit Points"
+          "key": "Hit Points",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.PFbzoMBviI2DD9QP inline]</p><p><em>다음도 참고:</em> @UUID[.RXTLVpAwcGm1qtKf]{물체 파괴} 및 @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "shZaSIlFPpHufPFn": {
           "name": "피투성이",
-          "key": "Bloodied"
+          "key": "Bloodied",
+          "text": "<p>크리처는 남은 HP가 절반 이하일 때 피투성이 상태가 된다.</p>"
         },
         "SsIXfzS2ZttwAaKj": {
           "name": "행동",
-          "key": "Action"
+          "key": "Action",
+          "text": "<p>자신의 차례에는 한 가지 행동을 취할 수 있다. 아래 행동들이나 당신의 특징이 제공하는 특수 행동 중에서 취할 행동을 선택한다.</p><ul><li><p>@UUID[.f4fZHwBvpbpzRyn4]{공격}</p></li><li><p>@UUID[.6l6nBKip4LqB1sCU]{질주}</p></li><li><p>@UUID[.w1AGsemFERfjqWNx]{철수}</p></li><li><p>@UUID[.3YJIuyCMmuUrfmuX]{회피}</p></li><li><p>@UUID[.5S8i59qskkd9GGcJ]{돕기}</p></li><li><p>@UUID[.rqhOsUY4wWa1oHTy]{숨기}</p></li><li><p>@UUID[.4V59Q1dlWjNhpJGo]{영향}</p></li><li><p>@UUID[.iIIDUsmSOkL0xNzF]{마법}</p></li><li><p>@UUID[.nI9tN6Oq7fCV7hcA]{대기}</p></li><li><p>@UUID[.ySj4gYZ4ADZoia7R]{탐색}</p></li><li><p>@UUID[.Nuz0Wx4a4aAPcC34]{연구}</p></li><li><p>@UUID[.UDlogfdiT2uYEZz4]{활용}</p></li></ul>"
         },
         "St3ANvrKOgxECnTn": {
           "name": "스텟 블록",
@@ -3176,111 +3299,138 @@
         },
         "sy6xon5AxuIZV1ca": {
           "name": "높이뛰기",
-          "key": "High Jump"
+          "key": "High Jump",
+          "text": "<p>높이뛰기를 할 때, 뛰기 직전에 도보로 최소 10피트를 이동했다면 3에 자신의 근력 수정치를 더한 값(최소 0피트)만큼의 피트 수를 공중으로 뛰어오른다. 제자리에서 높이뛰기를 할 때는 그 거리의 절반만 뛸 수 있다. 어느 경우든, 뛰기의 1피트마다 이동력 1피트가 소모된다.</p><p>뛰는 동안 자기 키의 절반만큼 팔을 머리 위로 뻗을 수 있다. 따라서 뛴 높이에 자기 키의 1½배를 더한 거리까지 닿을 수 있다.</p>"
         },
         "T1ln1l6uKkkMuieP": {
           "name": "직선",
-          "key": "Line"
+          "key": "Line",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.6DOoBgg7okm9gBc6 inline]</p>"
         },
         "tdtmXZbUIOZGSnKT": {
           "name": "맹시야",
-          "key": "Blindsight"
+          "key": "Blindsight",
+          "text": "<p>맹시야를 지니고 있다면, 물리적 시각에 의존하지 않고도 특정 범위 내를 볼 수 있다. 그 범위 내에서는 &amp;Reference[Blinded] 상태이상이 있거나 &amp;Reference[Darkness] 속에 있더라도 &amp;Reference[Total Cover] 뒤에 있지 않은 모든 것을 볼 수 있다. 또한 그 범위 내에서는 투명 상태이상을 지닌 것을 볼 수 있다.</p>"
         },
         "UDlogfdiT2uYEZz4": {
           "name": "활용",
-          "key": "Utilize"
+          "key": "Utilize",
+          "text": "<p>당신은 보통 다른 일을 하면서 물체와 상호작용하는데, 예를 들어 @UUID[.f4fZHwBvpbpzRyn4]{공격} 행동의 일부로 검을 뽑는 경우가 그렇다. 물체를 사용하는 데 행동이 필요한 경우, 당신은 활용 행동을 취한다.</p>"
         },
         "uDogReMO6QtH6NDw": {
           "name": "실명",
-          "key": "Blinded"
+          "key": "Blinded",
+          "text": "<p><em><strong>볼 수 없음.</strong></em> 당신은 볼 수 없으며, 시각이 필요한 능력 판정에 자동으로 실패한다.</p><p><em><strong>공격 영향.</strong></em> 당신을 노리는 명중 굴림은 유리 보정을 받고, 당신의 명중 굴림은 &amp;Reference[Disadvantage]를 받는다.</p>"
         },
         "UIKLZmiLuENHk1wn": {
           "name": "상태이상",
-          "key": "Condition"
+          "key": "Condition",
+          "text": "<p>상태이상은 일시적인 게임 상태다. 상태이상의 정의는 그것이 대상에게 어떻게 영향을 미치는지를 설명하며, 여러 규칙이 상태이상을 끝내는 방법을 정의한다. 이 용어집은 다음 상태이상들을 정의한다.</p><ul><li>@UUID[.uDogReMO6QtH6NDw]{실명}</li><li>@UUID[.vLAsIUa0FhZNsyLk]{매혹}</li><li>@UUID[.qlRw66tJhk0zLnwq]{실청}</li><li>@UUID[.jSQtPgNm0i4f3Qi3]{탈진}</li><li>@UUID[.93uaingTESo8N1qL]{공포}</li><li>@UUID[.KbQ1k0OIowtZeQgp]{붙잡힘}</li><li>@UUID[.4i3G895hy99piand]{행동불능}</li><li>@UUID[.MQIZ1zRLWRcNOtPN]{투명}</li><li>@UUID[.RnxZoTglPnLc6UPb]{마비}</li><li>@UUID[.6vtLuQT9lwZ9N299]{석화}</li><li>@UUID[.HWs8kEojffqwTSJz]{중독}</li><li>@UUID[.QxCrRcgMdUd3gfzz]{넘어짐}</li><li>@UUID[.dqLeGdpHtb8FfcxX]{포박}</li><li>@UUID[.EjbXjvyQAMlDyANI]{기절}</li><li>@UUID[.fZCRaKEJd4KoQCqH]{무의식}</li></ul><p>상태이상은 그 자체와 중첩되지 않는다. 대상은 어떤 상태이상을 지니고 있거나 지니고 있지 않거나 둘 중 하나다. &amp;Reference[Exhaustion] 상태이상은 그 규칙의 예외다. <em>다음도 참고:</em> 1장 @UUID[Compendium.dnd5e.content24.JournalEntry.phbConditions000.JournalEntryPage.BuIBCfux6QYAah3q]{상태이상}.</p>"
         },
         "Uk3xhCTvEfx8BN1O": {
           "name": "저항",
-          "key": "Resistance"
+          "key": "Resistance",
+          "text": "<p>어떤 피해 유형에 대해 저항을 지니고 있다면, 당신에게 가해지는 그 유형의 피해는 절반(내림)이 된다. 저항은 한 번의 피해 발생에 단 한 번만 적용된다. <em>다음도 참고:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "uTXM3EuuC8wNemmc": {
           "name": "순간이동",
-          "key": "Teleportation"
+          "key": "Teleportation",
+          "text": "<p>순간이동은 특수한 종류의 마법적 이동이다. 순간이동을 하면, 사이의 공간을 거치지 않고 즉시 사라졌다가 다른 곳에 다시 나타난다. 규칙이 달리 말하지 않는 한 이 이동은 이동력을 소모하지 않으며, 순간이동은 결코 허점 공격을 유발하지 않는다.</p><p>순간이동을 할 때, 당신이 착용하고 휴대 중인 모든 장비도 함께 순간이동한다. 순간이동할 때 다른 크리처와 접촉하고 있더라도, 그 순간이동 효과가 달리 명시하지 않는 한 그 크리처는 당신과 함께 순간이동하지 않는다.</p><p>순간이동의 목적지 공간이 다른 크리처에게 점유되어 있거나 단단한 장애물로 막혀 있다면, 그 대신 당신은 자신이 선택한 가장 가까운 비점유 공간에 나타난다.</p><p>순간이동의 목적지를 보아야 하는지 여부는 그 순간이동 효과의 설명에 명시된다.</p>"
         },
         "UY4RGoKw9rOeazur": {
           "name": "어둠",
-          "key": "Darkness"
+          "key": "Darkness",
+          "text": "<p><strong>어둠</strong>의 영역은 @UUID[.YkuKTIH2YaYW8lTS]{완전히 가려짐} 상태다. 다음도 참고: @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{탐험}.</p>"
         },
         "vLAsIUa0FhZNsyLk": {
           "name": "매혹",
-          "key": "Charmed"
+          "key": "Charmed",
+          "text": "<p>매혹 상태이상에 처해 있는 동안 다음 효과를 받는다.</p><p><em><strong>매혹시킨 자를 해칠 수 없음.</strong></em> 당신은 매혹시킨 자를 공격하거나, 피해를 주는 능력이나 마법적 효과로 매혹시킨 자를 목표로 삼을 수 없다.</p><p><em><strong>사회적 유리 보정.</strong></em> 매혹시킨 자는 당신과 사회적으로 상호작용하는 모든 능력 판정에 유리 보정을 받는다.</p>"
         },
         "Vlri6Mp6grn9wt3g": {
           "name": "내성 굴림",
-          "key": "Saving Throw"
+          "key": "Saving Throw",
+          "text": "<p>내성 굴림—세이브라고도 한다—은 위협을 회피하거나 견뎌 내려는 시도를 나타낸다. 당신은 보통 규칙이 요구할 때에만 내성 굴림을 하지만, 굴리지 않고 세이브에 실패하기로 결정할 수도 있다. 세이브의 결과는 그것을 허용한 효과에 상세히 설명되어 있다. 대상이 세이브를 강요받았으나 그 세이브에 사용되는 능력치가 없다면, 대상은 자동으로 실패한다. <em>다음도 참고:</em> 1장 @UUID[Compendium.dnd5e.content24.JournalEntry.phbD20Tests00000]{D20 테스트}.</p>"
         },
         "VNSwzt3GIwcM3Iil": {
           "name": "논플레이어 캐릭터(NPC)",
-          "key": "Nonplayer Character (NPC)"
+          "key": "Nonplayer Character (NPC)",
+          "text": "<p>논플레이어 캐릭터(NPC)는 고유한 이름과 뚜렷한 개성을 지닌 몬스터다. <em>다음도 참고:</em> @UUID[.gTBHin4uKrs9cjjW]{몬스터}.</p>"
         },
         "VtyVX7M159v6UVqG": {
           "name": "죽음 내성 굴림",
-          "key": "Death Saving Throw"
+          "key": "Death Saving Throw",
+          "text": "<p>플레이어 캐릭터는 자신의 차례를 0 히트 포인트로 시작하면 죽음 내성 굴림(죽음 내성이라고도 함)을 해야 한다. <em>참조</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}.</p>"
         },
         "vuK6Tth0DFgU74A6": {
           "name": "면역",
-          "key": "Immunity"
+          "key": "Immunity",
+          "text": "<p>특정 피해 유형이나 상태이상에 면역이 있으면, 그것은 당신에게 어떤 식으로도 영향을 주지 못한다.</p>"
         },
         "w1AGsemFERfjqWNx": {
           "name": "철수",
-          "key": "Disengage"
+          "key": "Disengage",
+          "text": "<p>철수 행동을 취하면, 이번 차례가 끝날 때까지 당신의 이동이 &amp;Reference[Opportunity Attacks]를 유발하지 않는다.</p>"
         },
         "W8uJrd1D8NeOuawp": {
           "name": "명중 굴림",
-          "key": "Attack Roll"
+          "key": "Attack Roll",
+          "text": "<p>명중 굴림은 무기, 비무장 공격, 또는 주문으로 공격하는 것을 나타내는 &amp;Reference[D20 Test]이다.</p>"
         },
         "wDGTuzKQunNrnkC8": {
           "name": "수영 속도",
-          "key": "Swim Speed"
+          "key": "Swim Speed",
+          "text": "<p>수영 속도를 사용하면 평소 수영에 따르는 추가 이동력을 소모하지 않고 헤엄칠 수 있다. <em>참조</em> @UUID[.53c9JMqckHagYYB5]{수영} 및 &amp;Reference[Speed].</p>"
         },
         "whTwAEsEXJJXBOt5": {
           "name": "밝은 빛",
-          "key": "Bright Light"
+          "key": "Bright Light",
+          "text": "<p><strong>밝은 빛</strong>은 대부분의 크리처가 정상적으로 볼 수 있게 해 준다. 흐린 날조차도 밝은 빛을 제공하며, 특정 반경 내의 횃불, 랜턴, 불, 그 밖의 광원도 마찬가지다.</p>"
         },
         "wVuNbEADtC16ejAi": {
           "name": "짧은 휴식",
-          "key": "Short Rest"
+          "key": "Short Rest",
+          "text": "<p>짧은 휴식은 1시간 동안의 휴식 시간으로, 그동안 크리처는 독서, 대화, 식사, 보초 서기보다 격렬한 일은 하지 않는다. 짧은 휴식을 시작하려면 히트 포인트가 최소 1 이상이어야 한다.</p><p><em><strong>휴식의 이점.</strong></em> 휴식을 마치면 다음의 이점을 얻는다:</p><p><strong>히트 다이스 소모.</strong> 히트 다이스를 하나 이상 소모하여 히트 포인트를 회복할 수 있다. 이런 식으로 소모하는 히트 다이스마다 해당 주사위를 굴리고 건강 수정치를 더한다. 그 합계만큼(최소 1 히트 포인트) 히트 포인트를 회복한다. 각 굴림 후에 추가로 히트 다이스를 소모할지 결정할 수 있다.</p><p><strong>특수 특성.</strong> 일부 특성은 짧은 휴식으로 재충전된다. 그런 특성이 있다면, 해당 설명에 명시된 방식으로 재충전된다.</p><p><em><strong>휴식 방해.</strong></em> 짧은 휴식은 다음의 방해로 중단된다:</p><ul><li class=\"Core-Styles_Core-Bulleted\">선제권 굴리기</li><li class=\"Core-Styles_Core-Bulleted\">소마법 이외의 주문 시전</li><li class=\"Core-Styles_Core-Bulleted\">피해를 받음</li></ul><p>방해받은 짧은 휴식은 아무런 이점도 주지 않는다.</p>"
         },
         "XBQqXCoTbvp5Dika": {
           "name": "능력 판정",
-          "key": "Ability Check"
+          "key": "Ability Check",
+          "text": "<p>능력 판정은 여섯 가지 능력치 중 하나—또는 그 능력치와 연관된 특정 기술—를 사용하여 도전을 극복하는 것을 나타내는 D20 테스트이다.</p>"
         },
         "xk9KqsS54w8EpbZn": {
           "name": "운반 용량",
-          "key": "Carrying Capacity"
+          "key": "Carrying Capacity",
+          "text": "<p>당신의 체격과 근력 점수가 운반 용량 표에 나온 대로 당신이 운반할 수 있는 최대 무게(파운드)를 결정한다. 이 표는 또한 당신이 끌거나, 들거나, 밀 수 있는 최대 무게도 보여 준다.</p><p>운반할 수 있는 최대 무게를 초과하여 끌거나, 들거나, 미는 동안 당신의 속도는 5피트를 넘을 수 없다.</p><table><caption>운반 용량</caption><thead><tr><td><p>크리처 체격</p></td><td><p>운반</p></td><td><p>끌기/들기/밀기</p></td></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>근력 x 7.5 lb.</p></td><td><p>근력 x 15 lb.</p></td></tr><tr><td><p>소형/중형</p></td><td><p>근력 x 15 lb.</p></td><td><p>근력 x 30 lb.</p></td></tr><tr><td><p>대형</p></td><td><p>근력 x 30 lb.</p></td><td><p>근력 x 60 lb.</p></td></tr><tr><td><p>거대형</p></td><td><p>근력 x 60 lb.</p></td><td><p>근력 x 120 lb.</p></td></tr><tr><td><p>초대형</p></td><td><p>근력 x 120 lb.</p></td><td><p>근력 x 240 lb.</p></td></tr></tbody></table>"
         },
         "xoQXfwUFahXBoiur": {
           "name": "등반 속도",
-          "key": "Climb Speed"
+          "key": "Climb Speed",
+          "text": "<p>등반 속도를 &amp;reference[Speed] 대신 사용하여, 평소 등반에 따르는 추가 이동력을 소모하지 않고 수직 표면을 가로지를 수 있다.</p>"
         },
         "y6TV02fVzqpJBvDt": {
           "name": "비점유 공간",
-          "key": "Unoccupied Space"
+          "key": "Unoccupied Space",
+          "text": "<p>어떤 공간에 크리처가 없고 물체로 완전히 채워져 있지 않으면 그 공간은 비점유 상태이다.</p>"
         },
         "YkuKTIH2YaYW8lTS": {
           "name": "완전히 가려짐",
-          "key": "Heavily Obscured"
+          "key": "Heavily Obscured",
+          "text": "<p>완전히 가려진 공간에서 무언가를 보려 할 때 당신은 &amp;Reference[Blinded] 상태이상을 받는다. 참조: &amp;Reference[Blinded], &amp;Reference[Darkness], 그리고 @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00]{탐험}.</p>"
         },
         "ySj4gYZ4ADZoia7R": {
           "name": "탐색",
-          "key": "Search"
+          "key": "Search",
+          "text": "<p>탐색 행동을 취하면, 명백하지 않은 무언가를 알아내기 위해 지혜 판정을 한다. 탐색 표는 당신이 무엇을 감지하려 하느냐에 따라 이 행동을 취할 때 어떤 기술이 적용되는지 제안한다.</p><table><caption>탐색</caption><thead><tr><th><p>기술</p></th><th><p>감지 대상</p></th></tr></thead><tbody><tr><td><p>통찰</p></td><td><p>크리처의 심리 상태</p></td></tr><tr><td><p>의학</p></td><td><p>크리처의 질환 또는 사망 원인</p></td></tr><tr><td><p>관찰</p></td><td><p>숨겨진 크리처나 물체</p></td></tr><tr><td><p>생존</p></td><td><p>흔적이나 식량</p></td></tr></tbody></table>"
         },
         "YSLWJcQCP6kzsPql": {
           "name": "붙잡기",
-          "key": "Grappling"
+          "key": "Grappling",
+          "text": "<p>크리처는 다른 크리처를 붙잡을 수 있다. 캐릭터는 보통 비무장 공격을 사용하여 붙잡는다. 많은 몬스터는 먹잇감을 신속하게 붙잡을 수 있는 특수 공격을 지니고 있다. 어떻게 붙잡기가 시작되든, 그것은 다음 규칙을 따른다. <em>참조</em> @UUID[.2Uvc5myrDs18Cf19]{비무장 공격} 및 &amp;Reference[Grappled].</p><p><em><strong>붙잡힘 상태이상. </strong></em>크리처를 성공적으로 붙잡으면 그 크리처에게 붙잡힘 상태이상이 부여된다.</p><p><em><strong>손당 붙잡기 하나.</strong></em> 크리처는 다른 크리처를 붙잡으려면 빈 손이 하나 있어야 한다. 일부 스텟 블록과 게임 효과는 크리처가 촉수, 아가리, 또는 다른 신체 부위를 사용하여 붙잡는 것을 허용한다. 붙잡는 자가 어떤 부위를 사용하든, 그 부위로는 한 번에 한 크리처만 붙잡을 수 있으며, 붙잡기를 종료하지 않는 한 그 부위를 다른 크리처를 노리는 데 사용할 수 없다.</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.2TZKy9YbMN3ZY3h8 inline]</p>"
         },
         "YwNA2I9Rzi4p8kjr": {
           "name": "체격",
-          "key": "Size"
+          "key": "Size",
+          "text": "<p>크리처나 물체는 체격 범주에 속한다: 초소형, 소형, 중형, 대형, 거대형, 또는 초대형. 크리처의 체격은 그 크리처가 전투에서 차지하는 공간의 크기를 결정한다. 물체의 체격은 그 히트 포인트에 영향을 준다. <em>참조</em> @UUID[.RXTLVpAwcGm1qtKf]{물체 파괴} 및 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{전투}.</p>"
         },
         "Za4Q2V2fpuIMkSXH": {
           "name": "피해 유형",
@@ -3289,11 +3439,13 @@
         },
         "ZJYZERJF2fjKJGoP": {
           "name": "환영",
-          "key": "Illusions"
+          "key": "Illusions",
+          "text": "<p>주문과 그 밖의 효과는 때때로 마법적 환영을 만들어 낸다. 그러한 효과는 환영이 무엇을 하는지, 그리고 어떤 감각이나 정신 능력을 속이는지 규정한다.</p><p>환영이 공간에 나타나면, 그 환영은 실체가 없고 무게가 없지만, 환영을 만든 효과가 달리 명시하지 않는 한 마치 실제인 것처럼 환경의 영향을 받는 것처럼 보인다. 예를 들어, 크리처의 시각적 환영은 그림자와 반사를 드리우고, 바람은 환영 크리처에 영향을 미치는 것처럼 보인다. 마찬가지로, 청각적 환영은 울림이 있는 공간에서 메아리친다.</p>"
         },
         "zRZl7vdjzjqpazxn": {
           "name": "포복",
-          "key": "Crawling"
+          "key": "Crawling",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.VWG9qe8PUNtS28Pw inline]</p><p><em>참조</em> @UUID[.NSU7TjeJbJ0vVQaZ]{속도}.</p>"
         }
       }
     },
@@ -3302,755 +3454,943 @@
       "pages": {
         "07PtjpMxiRIhkBEp": {
           "name": "본거지 행동 (2014)",
-          "key": "Lair Actions (2014)"
+          "key": "Lair Actions (2014)",
+          "text": "<p>전설적 크리처가 본거지 행동을 지니고 있으면, 그것을 사용하여 본거지의 주변 마법을 활용할 수 있다. 선제권 카운트 20에(모든 선제권 동점에서 패배), 본거지 행동 선택지 중 하나를 사용할 수 있다. 행동불능 상태이거나 그 밖의 이유로 행동을 취할 수 없는 동안에는 그렇게 할 수 없다. 기습당했다면, 전투에서 첫 번째 차례가 끝날 때까지는 사용할 수 없다.</p>"
         },
         "0B1fxfmw0a48tPsc": {
           "name": "비행 이동",
-          "key": "Flying Movement"
+          "key": "Flying Movement",
+          "text": "<p>다양한 효과가 크리처를 날 수 있게 한다. 비행하는 동안, 당신은 &amp;Reference[Incapacitated]나 &amp;Reference[Prone] 상태이상을 받거나 비행 속도가 0으로 줄어들면 추락한다. 부양할 수 있다면 그러한 상황에서도 공중에 머무를 수 있다.</p>"
         },
         "0Dgs9HZmRIFKVeca": {
           "name": "AC",
-          "key": "Armor Class"
+          "key": "Armor Class",
+          "text": "<p>몬스터의 AC는 천연 갑옷, 민첩, 장비, 그 밖의 방어 수단을 포함한다.</p>"
         },
         "1oT7t6tHE4kZuSN1": {
           "name": "식물",
-          "key": "Plants"
+          "key": "Plants",
+          "text": "<p class=\"p1\"><strong>식물</strong>은 셰임블링 마운드나 트린트처럼 지각이 있는 식생 및 균류 몬스터이다.</p>"
         },
         "1PnjDBKbQJIVyc2t": {
           "name": "운반 용량",
-          "key": "Carrying Capacity"
+          "key": "Carrying Capacity",
+          "text": "<table><caption>운반 용량</caption><thead><tr><td><p>크리처 체격</p></td><td><p>운반</p></td><td><p>끌기/들기/밀기</p></td></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>근력 x 7.5 lb.</p></td><td><p>근력 x 15 lb.</p></td></tr><tr><td><p>소형/중형</p></td><td><p>근력 x 15 lb.</p></td><td><p>근력 x 30 lb.</p></td></tr><tr><td><p>대형</p></td><td><p>근력 x 30 lb.</p></td><td><p>근력 x 60 lb.</p></td></tr><tr><td><p>거대형</p></td><td><p>근력 x 60 lb.</p></td><td><p>근력 x 120 lb.</p></td></tr><tr><td><p>초대형</p></td><td><p>근력 x 120 lb.</p></td><td><p>근력 x 240 lb.</p></td></tr></tbody></table>"
         },
         "1s2swI3UsjUUgbt2": {
           "name": "짧은 휴식",
-          "key": "Short Rest"
+          "key": "Short Rest",
+          "text": "<p>짧은 휴식은 1시간 동안의 휴식 시간으로, 그동안 크리처는 독서, 대화, 식사, 보초 서기보다 격렬한 일은 하지 않는다. 짧은 휴식을 시작하려면 히트 포인트가 최소 1 이상이어야 한다.</p><p><em><strong>휴식의 이점.</strong></em> 휴식을 마치면 다음의 이점을 얻는다:</p><p><strong>히트 다이스 소모.</strong> 히트 다이스를 하나 이상 소모하여 히트 포인트를 회복할 수 있다. 이런 식으로 소모하는 히트 다이스마다 해당 주사위를 굴리고 건강 수정치를 더한다. 그 합계만큼(최소 1 히트 포인트) 히트 포인트를 회복한다. 각 굴림 후에 추가로 히트 다이스를 소모할지 결정할 수 있다.</p><p><strong>특수 특성.</strong> 일부 특성은 짧은 휴식으로 재충전된다. 그런 특성이 있다면, 해당 설명에 명시된 방식으로 재충전된다.</p><p><em><strong>휴식 방해.</strong></em> 짧은 휴식은 다음의 방해로 중단된다:</p><ul><li class=\"Core-Styles_Core-Bulleted\">선제권 굴리기</li><li class=\"Core-Styles_Core-Bulleted\">소마법 이외의 주문 시전</li><li class=\"Core-Styles_Core-Bulleted\">피해를 받음</li></ul><p>방해받은 짧은 휴식은 아무런 이점도 주지 않는다.</p>"
         },
         "1U0myNrOvIVBUdJV": {
           "name": "멀리뛰기",
-          "key": "Long Jump"
+          "key": "Long Jump",
+          "text": "<p><strong>멀리뛰기.</strong> 멀리뛰기를 할 때, 도약 직전에 최소 10피트를 이동하면 근력 점수까지의 피트만큼 수평으로 뛴다. 제자리에서 멀리뛰기를 할 때는 그 거리의 절반만 뛸 수 있다. 어느 쪽이든, 뛴 거리 1피트마다 이동력 1피트가 소모된다.</p><p>&amp;Reference[difficult-terrain]에 착지하면 [[/check dc=10 acr]] 판정에 성공해야 하며, 그러지 못하면 &amp;Reference[prone] 상태이상을 받는다.</p><p>이 멀리뛰기 규칙은 개울이나 협곡을 뛰어넘는 경우처럼 도약의 높이가 중요하지 않다고 가정한다. DM의 재량에 따라, 도약 거리의 4분의 1보다 높지 않은 낮은 장애물(생울타리나 낮은 벽 등)을 넘으려면 [[/check dc=10 ath]] 판정에 성공해야 한다. 그러지 못하면 그 장애물에 부딪힌다.</p>"
         },
         "2fu2CXsDg8gQmGGw": {
           "name": "보조 행동",
-          "key": "Bonus Actions"
+          "key": "Bonus Actions",
+          "text": "<p>다양한 클래스 특성, 주문, 그 밖의 능력은 당신의 차례에 보조 행동이라고 불리는 추가 행동을 취하게 해 준다. 예를 들어 교활한 행동 특성은 로그가 보조 행동을 취할 수 있게 한다. 보조 행동은 특수 능력, 주문, 또는 게임의 다른 특성이 당신이 무언가를 보조 행동으로 할 수 있다고 명시할 때만 취할 수 있다. 그렇지 않으면 취할 수 있는 보조 행동이 없다.</p><p>당신의 차례에 보조 행동은 하나만 취할 수 있으므로, 사용 가능한 보조 행동이 둘 이상이라면 어느 것을 사용할지 선택해야 한다.</p><p>보조 행동의 시점이 명시되어 있지 않은 한, 당신의 차례 중 언제 보조 행동을 취할지 선택한다. 당신이 행동을 취할 능력을 박탈하는 것은 무엇이든 보조 행동을 취하는 것도 막는다.</p>"
         },
         "2TZKy9YbMN3ZY3h8": {
           "name": "붙잡기 종료",
-          "key": "Ending a Grapple"
+          "key": "Ending a Grapple",
+          "text": "<p><em><strong>붙잡기 종료.</strong></em> 붙잡힌 크리처는 자신의 행동을 사용하여 붙잡기의 탈출 DC를 상대로 [[/check ath]] 또는 [[/check acr]]을 할 수 있으며, 성공하면 자신에게 걸린 상태이상이 종료된다. 붙잡는 자가 행동불능 상태이상을 받거나 붙잡힌 대상과 붙잡는 자 사이의 거리가 붙잡기의 범위를 초과하면 그 상태이상도 종료된다. 또한, 붙잡는 자는 언제든지 대상을 풀어줄 수 있다(행동 불필요).</p>"
         },
         "2VqLyxMyMxgXe2wC": {
           "name": "대응",
-          "key": "Reactions"
+          "key": "Reactions",
+          "text": "<p>대응은 대응의 설명에 규정된 발동 조건에 응하여 취하는 특수 행동이다. 다른 크리처의 차례에 대응을 취할 수 있으며, 당신의 차례에 취한다면 행동, 보조 행동, 또는 둘 다를 취하더라도 대응을 취할 수 있다. 일단 대응을 취하면 다음 차례가 시작될 때까지 또 다른 대응을 취할 수 없다. 허점 공격은 모든 크리처가 사용할 수 있는 대응이다.</p>"
         },
         "39LFrlef94JIYO8m": {
           "name": "타격",
-          "key": "Bludgeoning"
+          "key": "Bludgeoning",
+          "text": "<p><strong>타격. </strong>둔탁한 물체, 압박, 추락</p>"
         },
         "3LkAmY7ENZwUBBdM": {
           "name": "탄약 (2014)",
-          "key": "Ammunition (2014)"
+          "key": "Ammunition (2014)",
+          "text": "<p>몬스터는 원거리 공격을 하기에 충분한 탄약을 지니고 있다. 몬스터가 투척 무기 공격용으로 2d4개의 탄약을, 활이나 석궁 같은 발사 무기용으로 2d10개의 탄약을 가지고 있다고 가정해도 된다.</p>"
         },
         "4dfREIDjG5N4fvxd": {
           "name": "어둠",
-          "key": "Darkness"
+          "key": "Darkness",
+          "text": "<p><strong>어둠</strong>은 &amp;Reference[heavily-obscured] 지역을 만든다. 캐릭터는 밤의 야외(달빛이 비치는 대부분의 밤도 포함)에서, 불을 밝히지 않은 던전이나 지하 금고의 내부에서, 또는 마법적 어둠의 지역에서 어둠과 마주하게 된다.</p>"
         },
         "4H9SLM95OCLfFizz": {
           "name": "높은 레벨로 주문 시전하기",
-          "key": "Casting a Spell at a Highler Level"
+          "key": "Casting a Spell at a Highler Level",
+          "text": "<p>주문시전자가 주문보다 높은 레벨의 슬롯을 사용하여 주문을 시전하면, 그 시전에 한해 주문은 더 높은 레벨이 된다. 예를 들어, 위저드가 마력탄을 2레벨 슬롯으로 시전하면 그 마력탄은 2레벨이 된다. 사실상 주문은 자신이 담긴 슬롯을 채우도록 확장된다.</p><p>마력탄이나 상처 치료 같은 일부 주문은 더 높은 레벨로 시전될 때 주문 설명에 명시된 대로 더 강력한 효과를 발휘한다.</p>"
         },
         "4MfrpERNiQXmvgCI": {
           "name": "은신",
-          "key": "Stealth"
+          "key": "Stealth",
+          "text": "<p><strong>예시: </strong>조용히 이동하고 물체 뒤에 숨어 발각을 피한다.</p>"
         },
         "4R5H8iIsdFQTsj3X": {
           "name": "설득",
-          "key": "Persuasion"
+          "key": "Persuasion",
+          "text": "<p><strong>예시: </strong>정직하고 정중하게 누군가에게 무언가를 납득시킨다.</p>"
         },
         "4VHHI2gJ1jEsppfg": {
           "name": "위협",
-          "key": "Intimidation"
+          "key": "Intimidation",
+          "text": "<p><strong>예시: </strong>외경심을 불러일으키거나 위협하여 원하는 대로 누군가를 따르게 한다.</p>"
         },
         "4xsFUooHDEdfhw6g": {
           "name": "냉기",
-          "key": "Cold"
+          "key": "Cold",
+          "text": "<p><strong>냉기. </strong>얼어붙는 물, 얼음 돌풍</p>"
         },
         "5tcK9buXWDOw8yHH": {
           "name": "광휘",
-          "key": "Radiant"
+          "key": "Radiant",
+          "text": "<p><strong>광휘. </strong>신성한 에너지, 작열하는 방사선</p>"
         },
         "5ZJNwEPlsGurecg5": {
           "name": "보이지 않는 공격자와 목표",
-          "key": "Unseen Attackers and Targets"
+          "key": "Unseen Attackers and Targets",
+          "text": "<p>볼 수 없는 목표를 상대로 명중 굴림을 할 때, 그 굴림에 불리를 받는다. 이는 목표의 위치를 추측하는 경우든, 들을 수는 있지만 볼 수 없는 크리처를 목표로 삼는 경우든 마찬가지다. 목표가 당신이 지정한 위치에 없다면 빗나간다.</p><p>크리처가 당신을 볼 수 없을 때, 당신은 그 크리처를 상대로 한 명중 굴림에 유리를 받는다.</p><p>명중 굴림을 할 때 숨어 있는 상태라면, 공격이 명중하든 빗나가든 당신의 위치가 드러난다.</p>"
         },
         "63gRBbKNthvnmFmh": {
           "name": "행동",
-          "key": "Actions"
+          "key": "Actions",
+          "text": "<p>몬스터는 이 글로서리에 상세히 설명된 행동에 더하여 다음 행동을 취할 수 있다.</p><h3>근접 및 원거리 공격</h3><p>몬스터의 공격 항목은 먼저 그 공격이 근접 공격인지 원거리 공격인지 밝히고, 이어서 명중 굴림의 보너스, 간격 또는 사거리, 그리고 명중 시 일어나는 일을 제공한다. 공격은 그 항목에서 달리 명시하지 않는 한 목표 하나를 대상으로 한다.</p>"
         },
         "6bTHn7pZek9YX2tv": {
           "name": "야수",
-          "key": "Beasts"
+          "key": "Beasts",
+          "text": "<p class=\"p1\"><strong>야수</strong>는 말이나 늑대처럼 인간형이 아닌 자연 크리처와 대부분의 거대 동물을 가리킨다.</p>"
         },
         "6cLtjbHn4KV2R7G9": {
           "name": "긴 휴식",
-          "key": "Long Rest"
+          "key": "Long Rest",
+          "text": "<p>긴 휴식은 어떤 크리처든 취할 수 있는 최소 8시간 이상의 장시간 휴식 기간이다. 긴 휴식 동안 당신은 최소 6시간 동안 잠을 자고, 독서, 대화, 식사, 보초 서기 같은 가벼운 활동을 2시간 이내로 한다.</p><p>잠을 자는 동안 당신은 무의식 상태이상에 걸린다. 긴 휴식을 마친 뒤에는 또 다른 긴 휴식을 시작하기 전까지 최소 16시간을 기다려야 한다.</p><p><em><strong>휴식의 혜택.</strong></em> 긴 휴식을 시작하려면 최소 1 히트 포인트가 있어야 한다. 휴식을 마치면 다음 혜택을 얻는다:</p><p><strong>모든 HP 회복.</strong> 잃은 모든 히트 포인트와 소비한 모든 히트 다이스를 회복한다. 히트 포인트 최대치가 감소했었다면 정상으로 돌아온다.</p><p><strong>능력치 회복.</strong> 능력치가 감소했었다면 정상으로 돌아온다.</p><p><strong>탈진 감소.</strong> 탈진 상태이상에 걸려 있다면 그 단계가 1 감소한다.</p><p><strong>특수 특징.</strong> 일부 특징은 긴 휴식으로 재충전된다. 그러한 특징이 있다면 해당 설명에 명시된 방식대로 재충전된다.</p><p><em><strong>휴식 중단.</strong></em> 긴 휴식은 다음 방해 요소로 중단된다:</p><ul><li class=\"Core-Styles_Core-Bulleted\">선제권 굴림</li><li class=\"Core-Styles_Core-Bulleted\">소마법 이외의 주문 시전</li><li class=\"Core-Styles_Core-Bulleted\">피해를 받음</li><li class=\"Core-Styles_Core-Bulleted\">1시간의 걷기나 기타 신체적 노력</li></ul><p>방해받기 전에 최소 1시간 이상 휴식했다면, @UUID[.wVuNbEADtC16ejAi]{짧은 휴식}의 혜택을 얻는다.</p><p>방해받은 직후 긴 휴식을 다시 이어갈 수 있다. 그럴 경우, 휴식을 마치는 데 방해당 1시간이 추가로 필요하다.</p>"
         },
         "6DOoBgg7okm9gBc6": {
           "name": "직선",
-          "key": "Line"
+          "key": "Line",
+          "text": "<p>직선은 기원점에서 그 길이를 따라 일직선 경로로 뻗어 나가며, 너비로 정의되는 영역을 덮는 효과 범위다. 직선을 만드는 효과는 그 길이와 너비를 명시한다.</p><p>직선의 기원점은 그 제작자가 달리 정하지 않는 한 효과 범위에 포함되지 않는다.</p>"
         },
         "6dXTwUjnG05rZC1o": {
           "name": "지능 내성 굴림",
-          "key": "Intelligence Saving Throw"
+          "key": "Intelligence Saving Throw",
+          "text": "<p>환영을 가짜로 알아차리려면 지능 내성 굴림을 한다.</p>"
         },
         "6Icem7G3CICdNOkM": {
           "name": "광기 치료 (2014)",
-          "key": "Curing Madness (2014)"
+          "key": "Curing Madness (2014)",
+          "text": "<p>@UUID[Compendium.dnd5e.spells24.Item.phbsplCalmEmotio]{평정심} 주문은 광기의 효과를 억제할 수 있고, @UUID[Compendium.dnd5e.spells24.Item.phbsplLesserRest]{하급 회복} 주문은 캐릭터의 단기 또는 장기 광기를 없앨 수 있다. 광기의 원인에 따라 @UUID[Compendium.dnd5e.spells24.Item.phbsplRemoveCurs]{저주 해제}나 @UUID[Compendium.dnd5e.spells24.Item.phbsplDispelMagi]{마법 해제}<em> </em>도 효과적일 수 있다. 캐릭터의 무기한 광기를 없애려면 @UUID[Compendium.dnd5e.spells24.Item.phbsplGreaterRes]{상급 회복} 주문이나 더 강력한 마법이 필요하다.</p>"
         },
         "6tqz947qO8vPyxvD": {
           "name": "험지",
-          "key": "Difficult Terrain"
+          "key": "Difficult Terrain",
+          "text": "<p>어떤 공간이 험지라면, 그 공간에서의 이동은 1피트마다 1피트가 추가로 든다. 예를 들어, 험지를 통과해 5피트를 이동하는 데 10피트의 이동력이 든다. 험지는 중첩되지 않는다. 어떤 공간은 험지이거나 험지가 아니거나 둘 중 하나다.</p>"
         },
         "6UXTNWMCQ0nSlwwx": {
           "name": "음성 (V)",
-          "key": "Verbal (V)"
+          "key": "Verbal (V)",
+          "text": "<p>음성 구성요소는 입문하지 않은 자에게는 무의미한 소리로 들리는 난해한 단어들을 영창하는 것이다. 단어는 평상시의 말하는 목소리로 발화해야 한다. 단어 자체가 주문의 힘의 원천은 아니다. 오히려 특정한 음높이와 공명을 지닌 소리의 특정 조합이 마법의 가닥을 움직이게 한다. 따라서 재갈이 물렸거나 마법적 침묵의 지역에 있는 크리처는 음성 구성요소가 있는 주문을 시전할 수 없다.</p><aside class=\"notable\"><h3>음성 구성요소 만들기</h3><p>주문의 음성 구성요소를 말하고 싶다면, 단어를 직접 지어내도 된다. 어떻게 만들든 목표는 말하기 쉽고 현실 세계에서 아무 의미도 없는 무언가를 만드는 것이다. 다음 방법을 고려해 보라: 주문의 이름을 가져와 각 글자를 하나씩만 남기고, 남은 글자들을 단어로 재배열한다. 예를 들어, Fireball에서 두 번째 l을 제거하고 남은 글자들을 재배열하여 Ber Fila나 Fel Bira를 만든다.</p></aside>"
         },
         "6zVOeLyq4iMnrQT4": {
           "name": "수중 전투",
-          "key": "Underwater Combat"
+          "key": "Underwater Combat",
+          "text": "<p>수중 전투는 다음 규칙을 따른다.</p><h2>방해받는 무기</h2><p>수중에서 무기로 근접 명중 굴림을 할 때, 수영 속도가 없는 크리처는 그 무기가 관통 피해를 입히지 않는 한 명중 굴림에 불리를 받는다.</p><p>수중에서 무기로 하는 원거리 명중 굴림은 무기의 일반 사거리를 벗어난 목표에게 자동으로 빗나가며, 일반 사거리 내의 목표에게는 명중 굴림에 불리를 받는다.</p><h2>화염 저항</h2><p>수중에 있는 모든 것은 화염 피해에 저항을 갖는다(@UUID[Compendium.dnd5e.content24.JournalEntry.phbDamageAndHeal]{피해와 치유}에서 설명함).</p>"
         },
         "7MN2Hp5KnjtddH3m": {
           "name": "무기 숙달",
-          "key": "Weapon Masteries"
+          "key": "Weapon Masteries",
+          "text": "<p>각 무기에는 숙달 속성이 있으며, 이는 무기 숙달처럼 해당 속성을 캐릭터에게 개방하는 특징을 가진 캐릭터만이 사용할 수 있다. 속성은 아래에 정의되어 있다.</p><h3>가르기</h3><p>@Embed[.ULDpodOdTxTTiNEx inline]</p><h3>스치기</h3><p>@Embed[.PPnaXKPsQvAZp0J4 inline]</p><h3>찌르기</h3><p>@Embed[.l0uao3UVco5ptQso inline]</p><h3>밀치기</h3><p>@Embed[.BPD7ScnLyuPwl145 inline]</p><h3>약화</h3><p>@Embed[.fPkZQ7TkKCCA3nTc inline]</p><h3>둔화</h3><p>@Embed[.OQQ7hAp6OAxX1rXY inline]</p><h3>쓰러뜨리기</h3><p>@Embed[.IMnpuysdrSalmZJg inline]</p><h3>괴롭히기</h3><p>@Embed[.hg3adn9O1O5Z2QxL inline]</p>"
         },
         "7z1LXGGkXpHuzkFh": {
           "name": "정령",
-          "key": "Elementals"
+          "key": "Elementals",
+          "text": "<p><strong>정령</strong>은 이프리트나 물의 정령처럼 정령계에서 온 존재다.</p>"
         },
         "849AYEWw9FHD6JNz": {
           "name": "방호",
-          "key": "Abjuration"
+          "key": "Abjuration",
+          "text": "<p><strong>방호 </strong>주문은 해로운 효과를 막거나 되돌린다.</p>"
         },
         "8BG05mA0mEzwmrHU": {
           "name": "즉사",
-          "key": "Instant Death"
+          "key": "Instant Death",
+          "text": "<p>크리처가 즉시 죽을 수 있는 주요 경우는 다음과 같다.</p><p><em><strong>히트 포인트 최대치 0.</strong></em> 크리처의 히트 포인트 최대치가 0에 이르면 죽는다. 특정 효과는 생명력을 빨아들여 크리처의 히트 포인트 최대치를 감소시킨다.</p><p><em><strong>막대한 피해.</strong></em> 피해가 캐릭터를 0 히트 포인트로 떨어뜨리고도 피해가 남았을 때, 그 나머지가 캐릭터의 히트 포인트 최대치와 같거나 그것을 초과하면 캐릭터는 죽는다. 예를 들어, 당신의 캐릭터의 히트 포인트 최대치가 12이고 현재 6 히트 포인트인데 18 피해를 받으면, 캐릭터는 0 히트 포인트로 떨어지지만 12 피해가 남는다. 12가 캐릭터의 히트 포인트 최대치와 같으므로 캐릭터는 죽는다.</p>"
         },
         "8DajfNll90eeKcmB": {
           "name": "내성 굴림",
-          "key": "Saving Throws"
+          "key": "Saving Throws",
+          "text": "<p>많은 주문은 목표가 주문 효과의 일부 또는 전부를 피하기 위해 내성 굴림을 한다고 명시한다. 주문은 목표가 내성에 사용하는 능력치와 성공 또는 실패 시 일어나는 일을 명시한다. 당신의 주문에 대한 DC를 계산하는 방법은 다음과 같다:</p><p style=\"text-align:center\"><strong>주문 내성 DC</strong> = 8 + 당신의 주문시전 능력치 수정치 + 당신의 숙련 보너스</p>"
         },
         "8HxbRceQQUAhyWRt": {
           "name": "기원점",
-          "key": "Point of Origin"
+          "key": "Point of Origin",
+          "text": "<p>효과 범위에는 기원점, 즉 효과의 에너지가 분출되는 위치가 있다. 각 형태에 대한 규칙은 그 기원점을 어떻게 배치하는지 명시한다. 기원점에서 효과 범위 내의 어떤 위치로 뻗어 나가는 모든 직선이 차단된다면, 그 위치는 효과 범위에 포함되지 않는다. 직선을 차단하려면 장애물이 &amp;Reference[Total Cover]을 제공해야 한다.</p><p>효과 범위의 제작자가 그것을 보이지 않는 지점에 배치하고, 제작자와 그 지점 사이에 벽 같은 장애물이 있다면, 기원점은 장애물의 가까운 쪽에 생성된다.</p>"
         },
         "8i9W8vECXrwMunQC": {
           "name": "성향",
-          "key": "Alignment"
+          "key": "Alignment",
+          "text": "<p>몬스터의 스텟 블록에 명시된 성향은 게임에서의 전통적 역할이나 실제 민담에서 영감을 받아, 그 몬스터를 어떻게 롤플레이할지에 대한 기본 제안이다. 당신의 이야기 전개에 맞게 몬스터의 성향을 바꾸어도 된다. 특히 중립 성향은 개체가 다른 성향 중 하나로 기우는지 고려해 보라는 권유다.</p>"
         },
         "8R5SMbAGbECNgO8z": {
           "name": "통찰",
-          "key": "Insight"
+          "key": "Insight",
+          "text": "<p><strong>예시:</strong> 사람의 기분과 의도를 간파한다.</p>"
         },
         "95agSnEGTdAmKhyC": {
           "name": "관통",
-          "key": "Piercing"
+          "key": "Piercing",
+          "text": "<p><strong>관통.</strong> 송곳니, 구멍을 뚫는 물체</p>"
         },
         "988C2hQNyvqkdbND": {
           "name": "상시 포착",
-          "key": "Passive Perception"
+          "key": "Passive Perception",
+          "text": "<p><strong>상시 포착</strong>은 크리처가 주변 환경을 전반적으로 인지하는 정도를 반영하는 점수다. GM은 크리처가 의식적으로 지혜(감지) 판정을 하지 않고도 무언가를 알아차리는지 판단할 때 이 점수를 사용한다.</p><p>크리처의 상시 포착은 10에 그 크리처의 지혜(감지) 판정 보너스를 더한 값이다. 크리처가 그러한 판정에 유리를 받는다면 점수를 5 늘린다. 불리를 받는다면 5 줄인다. 예를 들어, 지혜가 15이고 감지에 숙련된 1레벨 캐릭터의 상시 포착은 14다(10 + 2 + 2). 그 캐릭터가 지혜(감지) 판정에 유리를 받는다면 점수는 19가 된다.</p>"
         },
         "9FyghudYFV5QJOuG": {
           "name": "매력",
-          "key": "Charisma"
+          "key": "Charisma",
+          "text": "<p>매력은 자신감, 침착함, 그리고 매혹을 측정한다.</p><h3>매력 판정</h3><p>매력 <strong>판정</strong>을 하여 영향을 주거나, 즐겁게 하거나, 속인다.</p><h3>주문시전 능력치</h3><p>바드, 팔라딘, 소서러, 워락은 매력을 주문시전 능력치로 사용하며, 이는 그들이 시전하는 주문의 내성 굴림 DC를 결정하는 데 도움이 된다.</p>"
         },
         "9jV1fFF163dr68vd": {
           "name": "설명용 태그",
-          "key": "Descriptive Tags"
+          "key": "Descriptive Tags",
+          "text": "<p>몬스터는 그 유형 뒤에 괄호 안으로 하나 이상의 태그를 가질 수 있다. 그러한 태그는 추가 분류를 제공하며 자체 규칙은 없지만, 특정 게임 효과가 그것을 참조할 수 있다.</p>"
         },
         "9LJZhqvCburpags3": {
           "name": "강도",
-          "key": "Damage Threshold"
+          "key": "Damage Threshold",
+          "text": "<p>강도를 가진 크리처나 물체는 모든 피해에 면역을 가지지만, 단일 공격이나 효과로 자신의 강도와 같거나 그 이상의 피해를 받는 경우에는 그 피해 전체를 받는다. 강도에 도달하거나 초과하지 못한 피해는 표면적인 것이며 히트 포인트를 감소시키지 않는다. 예를 들어, 강도가 10인 물체에 9의 피해가 가해지면 그 피해는 강도를 초과하지 못하므로 물체는 피해를 받지 않는다. 같은 물체에 11의 피해가 가해지면 그 피해 전부를 받는다.</p>"
         },
         "9mp0SRsptjvJcq1e": {
           "name": "지속시간",
-          "key": "Duration"
+          "key": "Duration",
+          "text": "<p>주문의 지속시간은 주문이 시전된 후 효과가 지속되는 시간의 길이다. 지속시간은 일반적으로 다음 형태 중 하나를 취한다:</p><h3>즉시</h3><p>@Embed[.kdlgZOpRMB6bGCod inline]</p><h3>집중</h3><p>@Embed[.ow58p27ctAnr4VPH inline]</p>"
         },
         "9SaxFJ9bM3SutaMC": {
           "name": "번개",
-          "key": "Lightning"
+          "key": "Lightning",
+          "text": "<p><strong>번개. </strong>전기</p>"
         },
         "9ZWCknaXCOdhyOrX": {
           "name": "다른 크리처 주위로 이동하기",
-          "key": "Moving Around Other Creatures"
+          "key": "Moving Around Other Creatures",
+          "text": "<p>이동하는 동안 당신은 아군, &amp;Reference[Incapacitated] 상태인 크리처, 초소형 크리처, 또는 자신보다 두 단계 더 크거나 작은 크리처의 공간을 통과할 수 있다.</p><p>다른 크리처의 공간은 당신에게 &amp;Reference[Difficult Terrain]이며, 그 크리처가 초소형이거나 당신의 아군인 경우는 예외다.</p><p>당신은 다른 크리처가 점유한 공간에서 자발적으로 이동을 끝낼 수 없다. 어떤 이유로든 다른 크리처가 있는 공간에서 턴을 끝내게 되면, 당신이 초소형이거나 그 다른 크리처보다 더 큰 크기가 아닌 한 당신은 &amp;Reference[Prone] 상태가 된다.</p>"
         },
         "A6k5fS0kFqPXTW3v": {
           "name": "주문 레벨",
-          "key": "Spell Level"
+          "key": "Spell Level",
+          "text": "<p>모든 주문은 0에서 9까지의 레벨을 가지며, 이는 주문 설명에 표시된다. 주문의 레벨은 그 주문이 얼마나 강력한지를 나타내는 지표다. 거의 외워서 시전할 수 있는 단순한 주문인 소마법은 레벨 0이다. 각 주문시전 클래스의 규칙은 그 구성원이 언제 특정 레벨의 주문에 접근할 수 있는지를 명시한다.</p>"
         },
         "AeH5eDS4YeM9RETC": {
           "name": "물질 (M)",
-          "key": "Material (M)"
+          "key": "Material (M)",
+          "text": "<p>물질 구성요소는 주문 시전에 사용되는 특정한 물질로, 구성요소 항목의 괄호 안에 명시된다. 주문 설명에서 달리 명시하지 않는 한 이 물질들은 주문에 의해 소모되지 않는다. 주문시전자는 이 물질에 접근하기 위해 한 손이 비어 있어야 하지만, 동작 구성요소가 있다면 그것을 수행하는 데 사용한 손과 같은 손이어도 된다.</p><p>주문이 물질을 소모하지 않고 그 비용을 명시하지 않는 경우, 주문시전자는 주문에 명시된 물질을 제공하는 대신 구성요소 주머니를 사용할 수 있으며, 또는 그러한 대체를 허용하는 특징을 가진 경우 주문시전 매개체로 대체할 수 있다. 구성요소 주머니를 사용하려면 그 안에 손을 넣을 수 있도록 한 손이 비어 있어야 하고, 주문시전 매개체를 사용하려면 그 설명에서 달리 명시하지 않는 한 그것을 들고 있어야 한다.</p>"
         },
         "aeJoiagWfLPkJSFM": {
           "name": "특성",
-          "key": "Traits"
+          "key": "Traits",
+          "text": "<p>몬스터의 특성은, 있는 경우, 항상 또는 특정 상황에서 활성화되는 기능이다.</p>"
         },
         "AOXn3Mv5vPZwo0Uf": {
           "name": "거인",
-          "key": "Giants"
+          "key": "Giants",
+          "text": "<p class=\"p1\"><strong>거인</strong>은 화염 거인이나 트롤처럼 인간과 유사한 형상을 가진 우뚝 솟은 존재다.</p>"
         },
         "AoykthgwEP3T0XsL": {
           "name": "내성 굴림",
-          "key": "Saving Throws"
+          "key": "Saving Throws",
+          "text": "<p>내성 굴림은 위협을 회피하거나 저항하려는 시도를 나타낸다. 당신은 보통 규칙이 요구할 때만 내성 굴림을 하지만, 굴리지 않고 내성에 실패하기로 결정할 수도 있다. 내성의 결과는 그것을 허용한 효과에 상세히 설명되어 있다. 대상이 내성 굴림을 강제받았으나 그에 사용되는 능력치가 없다면, 대상은 자동으로 실패한다.</p>"
         },
         "avHnt4RvYYnzhDDj": {
           "name": "히트 포인트가 0이 되기",
-          "key": "Dropping to 0 Hit Points"
+          "key": "Dropping to 0 Hit Points",
+          "text": "<p>크리처가 히트 포인트 0으로 떨어지면, 아래에 설명된 대로 즉시 죽거나 무의식 상태가 된다.</p><h3>즉사</h3><p>@Embed[.8BG05mA0mEzwmrHU inline]</p><h3>무의식에 빠지기</h3><p>당신이 히트 포인트 0에 도달했으나 즉시 죽지 않았다면, 히트 포인트를 회복할 때까지 &amp;Reference[Unconscious] 상태가 되며, 이제 죽음 내성 굴림을 해야 한다.</p><h3>죽음 내성 굴림</h3><p>@Embed[.JL8LePEJQYFdNuLL inline]</p><h3>크리처 안정시키기</h3><p>@Embed[.r1CgZXLcqFop6Dlx inline]</p><h3>몬스터와 죽음</h3><p><em><strong>몬스터의 죽음.</strong></em> 몬스터는 히트 포인트 0으로 떨어지는 순간 죽지만, 게임 마스터는 개별 몬스터에 대해 이 규칙을 무시하고 캐릭터처럼 다룰 수 있다.</p>"
         },
         "AvvBLEHNl7kuwPkN": {
           "name": "곡예",
-          "key": "Acrobatics"
+          "key": "Acrobatics",
+          "text": "<p><strong>예시:</strong> 까다로운 상황에서 두 발로 버티거나 곡예 묘기를 펼친다.</p>"
         },
         "bghE3dOp2KMcc3b3": {
           "name": "광기에 빠지기 (2014)",
-          "key": "Going Mad (2014)"
+          "key": "Going Mad (2014)",
+          "text": "<p>다양한 마법적 효과는 본래 안정된 정신에 광기를 불어넣을 수 있다. @UUID[Compendium.dnd5e.spells24.Item.phbsplContactOth]{이차원 접촉}과 @UUID[Compendium.dnd5e.spells24.Item.phbsplSymbol0000]{문양} 같은 특정 주문은 광기를 일으킬 수 있으며, 당신은 그 주문들의 효과 대신 여기에 있는 광기 규칙을 사용할 수 있다. 질병, 독, 그리고 정신 폭풍이나 판데모니움의 울부짖는 바람 같은 이차원적 효과도 모두 광기를 일으킬 수 있다. 일부 유물 또한 그것을 사용하거나 조율한 캐릭터의 정신을 무너뜨릴 수 있다.</p><p>광기를 유발하는 효과에 저항하려면 보통 지혜 또는 매력 내성 굴림이 필요하다.</p>"
         },
         "BhPCJ7FryjIRAzap": {
           "name": "크리처 수정하기 (2014)",
-          "key": "Modifying Creatures (2014)"
+          "key": "Modifying Creatures (2014)",
+          "text": "<p>이 책에 실린 다재다능한 몬스터 모음에도 불구하고, 모험의 한 부분에 딱 맞는 크리처를 찾을 때 막막할 수 있다. 기존 크리처를 자유롭게 손봐서, 어쩌면 다른 몬스터에서 특성 한두 개를 빌려오거나 이 책에 있는 것과 같은 <strong>변종</strong>이나 <strong>템플릿</strong>을 사용해서, 당신에게 더 유용한 무언가로 만들어 보라. 템플릿을 적용하는 경우를 포함해 몬스터를 수정하면 그 도전 지수가 바뀔 수 있다는 점을 명심하라.</p>"
         },
         "BIlnr0xYhqt4TGsi": {
           "name": "질식",
-          "key": "Suffocating"
+          "key": "Suffocating",
+          "text": "<p>크리처는 질식이 시작되기 전까지 1에 자신의 건강 수정치를 더한 값(최소 30초)과 같은 분 수만큼 숨을 참을 수 있다. 크리처가 숨이 다하거나 질식하고 있을 때, 매 턴이 끝날 때마다 &amp;Reference[Exhaustion] 1단계를 얻는다. 크리처가 다시 숨을 쉴 수 있게 되면, 질식으로 얻은 모든 탈진 단계를 제거한다.</p>"
         },
         "BKUAxXuPEzxiEOeL": {
           "name": "완전 엄폐",
-          "key": "Total Cover"
+          "key": "Total Cover",
+          "text": "<p><strong>완전 엄폐</strong>를 받는 대상은 직접 목표로 지정할 수 없다.</p>"
         },
         "bM4hvojHpH6eqAtX": {
           "name": "기술",
-          "key": "Skills"
+          "key": "Skills",
+          "text": "<p>기술 항목은 몬스터의 기술 숙련을, 있는 경우, 명시한다. 예를 들어, 매우 예리하고 은밀한 몬스터는 지혜(감지) 및 민첩(은신) 판정에 보너스를 가질 수 있다. 기술 보너스는 몬스터의 관련 능력 수정치와 숙련 보너스의 합이다. 다른 수정치가 적용될 수도 있다. 이 항목은 몬스터의 기술 숙련을, 있는 경우, 나열한다.</p>"
         },
         "BPD7ScnLyuPwl145": {
           "name": "밀치기",
-          "key": "Push"
+          "key": "Push",
+          "text": "<p>이 무기로 크리처를 명중시킨 경우, 그 크리처가 대형 이하라면 당신으로부터 멀어지는 직선 방향으로 최대 10피트까지 밀어낼 수 있다.</p>"
         },
         "bV8akkBdVUUG21CO": {
           "name": "넘어진 상태",
-          "key": "Being Prone"
+          "key": "Being Prone",
+          "text": "<p>넘어짐 상태인 동안 당신은 다음 효과를 겪는다.</p><p><em><strong>이동 제한.</strong></em> 당신의 유일한 이동 선택지는 기어가거나, 자신의 속도 절반(내림)과 같은 이동력을 소비해 일어서서 이 상태를 끝내는 것이다. 당신의 속도가 0이라면 일어설 수 없다.</p><p><em><strong>공격에 미치는 영향.</strong></em> 당신은 명중 굴림에 불리를 받는다. 공격자가 당신으로부터 5피트 이내에 있다면 당신에 대한 명중 굴림은 유리를 받는다. 그 외의 경우 그 명중 굴림은 불리를 받는다.</p><p>@Embed[.hwTLpAtSS5OqQsI1 inline]</p><p>@Embed[.VWG9qe8PUNtS28Pw inline]</p>"
         },
         "BXlHhE4ZoiFwiXLK": {
           "name": "숨기",
-          "key": "Hide"
+          "key": "Hide",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.rqhOsUY4wWa1oHTy inline]</p>"
         },
         "C1awOyZh78pq1xmY": {
           "name": "전설적 행동 (2014)",
-          "key": "Legendary Actions (2014)"
+          "key": "Legendary Actions (2014)",
+          "text": "<p>전설적 크리처는 자신의 턴이 아닐 때 정해진 횟수만큼 전설적 행동이라 불리는 특별한 행동을 취할 수 있다. 전설적 행동 선택지는 한 번에 하나만 사용할 수 있으며, 다른 크리처의 턴이 끝날 때만 사용할 수 있다. 크리처는 자신의 턴이 시작될 때 소비한 전설적 행동을 회복한다. 크리처는 그것을 사용하지 않기로 할 수 있으며, 행동불능 상태이거나 그 외에 행동을 취할 수 없는 동안에는 사용할 수 없다. 기습당한 경우, 전투에서 자신의 첫 턴이 끝날 때까지는 사용할 수 없다.</p>"
         },
         "cgzIC1ecG03D97Fg": {
           "name": "점액류",
-          "key": "Oozes"
+          "key": "Oozes",
+          "text": "<p class=\"p1\"><strong>점액류</strong>는 블랙 푸딩과 젤라티너스 큐브를 포함한 젤리 같은 크리처다.</p>"
         },
         "CI6KiNhPoh5AL0sD": {
           "name": "방어구, 무기 및 도구 숙련 (2014)",
-          "key": "Armor, Weapon, and Tool Proficiencies (2014)"
+          "key": "Armor, Weapon, and Tool Proficiencies (2014)",
+          "text": "<p>크리처는 자신의 방어구, 무기, 도구에 숙련되어 있다고 가정한다. 당신이 그것들을 교체한다면, 그 크리처가 새 장비에 숙련되어 있는지는 당신이 결정한다.</p><p>예를 들어, 힐 자이언트는 보통 가죽 갑옷을 입고 대형 곤봉을 휘두른다. 대신 힐 자이언트에게 사슬 갑옷과 대형 도끼를 장비시키고, 그 거인이 둘 다, 둘 중 하나, 또는 어느 것에도 숙련되어 있지 않다고 가정할 수 있다.</p><p>숙련 없이 방어구나 무기를 사용하는 규칙은 <em>플레이어 핸드북</em>을 참조하라.</p>"
         },
         "CXVzERHdP4qLhJXM": {
           "name": "종교",
-          "key": "Religion"
+          "key": "Religion",
+          "text": "<p><strong>예시:</strong> 신, 종교 의식, 성표에 관한 지식을 떠올린다.</p>"
         },
         "D2BdqS1GeD5rcZ6q": {
           "name": "언데드",
-          "key": "Undead"
+          "key": "Undead",
+          "text": "<p class=\"p1\"><strong>언데드</strong>는 유령, 뱀파이어, 좀비처럼 영혼이나 되살아난 죽은 자다.</p>"
         },
         "D8K6ansoz1q6P37s": {
           "name": "탈것과 승용물",
-          "key": "Mounts and Vehicles"
+          "key": "Mounts and Vehicles",
+          "text": "<p><strong>탈것과 승용물.</strong> 짐마차, 마차, 또는 기타 지상 승용물을 탄 여행자는 평소대로 이동 속도를 선택한다. 수상 선박에 탄 캐릭터는 선박의 속도로 제한되며, 이동 속도를 선택하지 않는다. 선박과 승무원의 규모에 따라, 배는 하루에 최대 24시간까지 이동할 수 있다. 6장에 판매용 승용물이 실려 있다.</p>"
         },
         "DABoaeeF6w31UCsj": {
           "name": "주문 (2014)",
-          "key": "Spells (2014)"
+          "key": "Spells (2014)",
+          "text": "<p>일부 마법 물품은 사용자가 그 물품으로부터 주문을 시전할 수 있게 한다. 물품 설명에서 달리 명시하지 않는 한, 그 주문은 가능한 가장 낮은 주문 레벨로 시전되고, 사용자의 주문 슬롯을 전혀 소모하지 않으며, 구성요소를 필요로 하지 않는다. 주문은 평소의 시전 시간, 사정거리, 지속시간을 사용하며, 주문이 집중을 요구한다면 물품의 사용자가 집중해야 한다. 물약 같은 많은 물품은 주문 시전 과정을 건너뛰고 평소의 지속시간으로 주문의 효과를 부여한다. 특정 물품은 이 규칙에 예외를 두어 주문의 시전 시간, 지속시간, 또는 기타 부분을 변경한다.</p><p>특정 지팡이 같은 일부 마법 물품은 당신이 그 물품으로 주문을 시전할 때 자신의 주문시전 능력을 사용하도록 요구할 수 있다. 둘 이상의 주문시전 능력이 있다면, 당신은 그 물품과 함께 사용할 능력을 선택한다. 주문시전 능력이 없다면—어쩌면 마법 장치 사용 기능을 가진 로그일 수도 있다—그 물품에 대한 당신의 주문시전 능력 수정치는 +0이며, 숙련 보너스는 적용된다.</p>"
         },
         "DOKv3OuN2jzjOnX8": {
           "name": "속도",
-          "key": "Speed"
+          "key": "Speed",
+          "text": "<p>속도 항목은 몬스터의 속도를 명시한다. 일부 몬스터는 다음 속도 중 하나 이상을 가진다: 굴착, 등반, 비행, 수영.</p><h3>굴착</h3><p>굴착 속도를 가진 크리처는 그 속도를 사용해 모래, 흙, 진흙, 또는 얼음 속을 이동할 수 있다. 크리처는 그렇게 할 수 있는 특성이 없는 한 단단한 바위를 뚫고 나아갈 수 없다.</p><h3>등반</h3><p>등반 속도는 수직 표면을 가로지를 때 보통 등반에 수반되는 추가 이동력을 소비하지 않고 속도 대신 사용할 수 있다.</p><h3>비행</h3><p>비행 속도는 공중을 이동하는 데 사용할 수 있다. 비행 속도를 가지고 있는 동안, 당신은 착지하거나, 떨어지거나, 죽을 때까지 공중에 떠 있을 수 있다.</p><h3>수영</h3><p>수영 속도는 보통 수영에 수반되는 추가 이동력을 소비하지 않고 헤엄치는 데 사용할 수 있다.</p>"
         },
         "dpHJXYLigIdEseIb": {
           "name": "휴식하기",
-          "key": "Resting"
+          "key": "Resting",
+          "text": "<p>캐릭터가 휴식하는 방법은 두 가지가 있다:</p><ul><li><p>&amp;Reference[short rest]</p></li><li><p>&amp;Reference[long rest]</p></li></ul>"
         },
         "DqqAOr5JnX71OCOw": {
           "name": "원뿔",
-          "key": "Cone"
+          "key": "Cone",
+          "text": "<p>원뿔은 시전자가 선택한 방향으로 기점에서 직선으로 뻗어 나가는 효과 범위다. 원뿔의 길이를 따라 어느 지점에서든 그 너비는 기점으로부터 그 지점까지의 거리와 같다. 예를 들어, 원뿔은 기점으로부터 15피트 떨어진 길이 지점에서 너비가 15피트다. 원뿔을 생성하는 효과는 그 최대 길이를 명시한다.</p><p>원뿔의 기점은 그 생성자가 달리 결정하지 않는 한 효과 범위에 포함되지 않는다.</p>"
         },
         "dRfDIwuaHmUQ06uA": {
           "name": "입방체",
-          "key": "Cube"
+          "key": "Cube",
+          "text": "<p>입방체는 입방체의 한 면 위 임의의 위치에 자리한 기점에서 직선으로 뻗어 나가는 효과 범위다. 입방체를 생성하는 효과는 그 크기를 명시하며, 이는 각 변의 길이다.</p><p>입방체의 기점은 그 생성자가 달리 결정하지 않는 한 효과 범위에 포함되지 않는다.</p>"
         },
         "DZ7AhdQ94xggG4bj": {
           "name": "함정 탐지 및 해제하기 (2014)",
-          "key": "Detecting and Disabling a Trap (2014)"
+          "key": "Detecting and Disabling a Trap (2014)",
+          "text": "<p>대개 함정의 어떤 요소는 주의 깊게 살펴보면 눈에 띈다. 캐릭터는 압력판을 감추고 있는 고르지 못한 포석을 알아채거나, 건드림 줄에 빛이 반사되는 것을 발견하거나, 화염이 뿜어져 나올 벽의 작은 구멍을 눈치채거나, 그 밖에 함정의 존재를 가리키는 무언가를 탐지할 수 있다.</p><p>함정의 설명에는 그것을 탐지하거나 무력화하거나 둘 다 하는 데 필요한 판정과 DC가 명시되어 있다. 함정을 적극적으로 찾는 캐릭터는 함정의 DC에 대해 지혜(통찰력) 판정 대신 지혜(감지) 판정을 시도할 수 있다. 또한 함정을 탐지하는 DC를 각 캐릭터의 상시 지혜(감지) 점수와 비교하여, 일행 중 누군가가 지나가다 함정을 알아채는지 판단할 수도 있다. 모험가들이 함정을 발동하기 전에 탐지한다면, 그것을 영구히 또는 지나칠 만큼만 해제할 수 있을 것이다. 캐릭터가 무엇을 해야 하는지 추론하기 위해 지능(수사) 판정을 요구한 뒤, 필요한 방해 작업을 수행하기 위해 도둑 도구를 사용한 민첩 판정을 요구할 수 있다.</p><p>어떤 캐릭터든 함정 설명에 명시된 다른 판정에 더하여, 마법 함정을 탐지하거나 해제하기 위해 지능(비전학) 판정을 시도할 수 있다. 사용된 판정에 관계없이 DC는 동일하다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDispelMagi]{마법 해제}는 대부분의 마법 함정을 무력화할 가능성이 있다. 마법 함정의 설명은 <em>마법 해제</em>를 사용할 때 수행하는 능력 판정의 DC를 제공한다.</p><p>대부분의 경우, 함정의 설명은 캐릭터의 행동이 함정을 찾아내거나 무산시키는지 판정할 수 있을 만큼 충분히 명확하다. 다른 많은 상황과 마찬가지로, 주사위 굴림이 영리한 플레이와 좋은 계획을 무효화하도록 허용해서는 안 된다. 함정의 설명을 바탕으로 무슨 일이 일어나는지 결정하되, 상식을 활용하라. 어떤 함정의 설계도 캐릭터가 시도할 수 있는 모든 행동을 예측할 수는 없다.</p><p>어떤 행동이 함정의 존재를 명백히 드러낸다면, 능력 판정 없이도 캐릭터가 함정을 발견하도록 허용해야 한다. 예를 들어, 캐릭터가 압력판을 감춘 양탄자를 들어 올린다면, 그 캐릭터는 발동 장치를 찾은 것이며 판정이 필요하지 않다.</p><p>함정을 무산시키는 일은 조금 더 복잡할 수 있다. 함정이 걸린 보물 상자를 생각해 보라. 양옆에 달린 두 손잡이를 먼저 당기지 않고 상자를 열면, 안쪽의 장치가 그 앞에 있는 모든 대상에게 독 가시 세례를 발사한다. 상자를 살펴보고 몇 차례 판정을 한 뒤에도 캐릭터들은 함정이 걸려 있는지 확신하지 못한다. 그저 상자를 여는 대신, 그들은 상자 앞에 방패를 받쳐 두고 철 막대로 멀리서 상자를 밀어 연다. 이 경우 함정은 여전히 발동하지만, 가시 세례는 방패에 박혀 무해하게 발사된다.</p><p>함정은 흔히 해제하거나 우회할 수 있는 장치를 갖추도록 설계된다. 자신의 소굴 안이나 주변에 함정을 설치하는 지적인 몬스터들은 그 함정에 자신이 다치지 않고 지나갈 방법이 필요하다. 그런 함정에는 발동 장치를 무력화하는 숨겨진 레버가 있거나, 비밀 문이 함정을 우회하는 통로를 감추고 있을 수 있다.</p>"
         },
         "eFAISahBloR2X8MX": {
           "name": "이동 속도",
-          "key": "Travel Pace"
+          "key": "Travel Pace",
+          "text": "<p>전투 밖에서 이동할 때, 무리는 이동 속도 표에 나와 있듯이 빠름, 보통, 느림 속도로 이동할 수 있다. 표는 일정 시간 동안 일행이 얼마나 멀리 이동할 수 있는지 나타낸다. 말이나 다른 탈것을 타면 1시간 동안 그 거리의 두 배를 이동할 수 있으며, 그 후 탈것은 다시 그 빠른 속도로 이동하기 전에 &amp;Reference[Short Rest]{짧은} 휴식이나 &amp;Reference[Long Rest]가 필요하다(판매용 탈것 목록은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbMountsAndVehi.JournalEntryPage.NVPIUDJEdFDaErTg]{6장} 참조). <em>게임 마스터 안내서</em>에는 특정 유형의 지형에서 선택할 수 있는 속도에 영향을 주는 규칙이 있다.</p><table><caption>이동 속도</caption><thead><tr><th></th><th colspan=\"3\"><p>다음 단위당 이동 거리 …</p></th></tr><tr><th><p>속도</p></th><th><p>분</p></th><th><p>시간</p></th><th colspan=\"2\"><p>일</p></th></tr></thead><tbody><tr><td><p>빠름</p></td><td><p>400피트</p></td><td><p>4마일</p></td><td><p>30마일</p></td></tr><tr><td><p>보통</p></td><td><p>300피트</p></td><td><p>3마일</p></td><td><p>24마일</p></td></tr><tr><td><p>느림</p></td><td><p>200피트</p></td><td><p>2마일</p></td><td><p>18마일</p></td></tr></tbody></table><p>각 이동 속도에는 아래에 정의된 게임 효과가 있다.</p><p><strong>빠름.</strong> 빠름 속도로 이동하면 여행자의 지혜(감지 또는 생존) 판정과 민첩(은신) 판정에 불리 보정을 부여한다.</p><p><strong>보통.</strong> 보통 속도로 이동하면 민첩(은신) 판정에 불리 보정을 부여한다.</p><p><strong>느림.</strong> 느림 속도로 이동하면 지혜(감지 또는 생존) 판정에 유리 보정을 부여한다.</p>"
         },
         "eFTWzngD8dKWQuUR": {
           "name": "근력",
-          "key": "Force"
+          "key": "Force",
+          "text": "<p><strong>역장. </strong>순수한 마법 에너지</p>"
         },
         "eihqNjwpZ3HM4IqY": {
           "name": "날씨 (2014)",
-          "key": "Time (2014)"
+          "key": "Time (2014)",
+          "text": "<p>시간의 흐름을 추적하는 것이 중요한 상황에서는, GM이 어떤 작업에 필요한 시간을 결정한다. GM은 당면한 상황의 맥락에 따라 다른 시간 척도를 사용할 수 있다. 던전 환경에서 모험가들의 이동은 <strong>분</strong> 단위 척도로 이루어진다. 긴 복도를 살금살금 내려가는 데 약 1분, 복도 끝 문에 함정이 있는지 확인하는 데 또 1분, 그 너머의 방에서 흥미롭거나 값진 무언가를 찾는 데 족히 10분이 걸린다.</p><p>도시나 야생에서는 <strong>시간</strong> 단위 척도가 더 적절한 경우가 많다. 숲 한가운데의 외딴 탑에 닿고자 안달하는 모험가들은 그 15마일을 4시간이 채 안 되는 시간에 가로지른다.</p><p>긴 여정에는 <strong>일</strong> 단위 척도가 가장 알맞다. 발더스 게이트에서 워터딥까지 길을 따라가던 모험가들은 고블린의 매복이 여정을 가로막기 전까지 별일 없이 나흘을 보낸다.</p><p>전투를 비롯한 빠르게 진행되는 상황에서는, 게임이 6초 길이의 시간 단위인 <strong>라운드</strong>에 의존한다.</p>"
         },
         "ElHKBJeiJPC7gj6k": {
           "name": "마족",
-          "key": "Fiends"
+          "key": "Fiends",
+          "text": "<p class=\"p1\"><strong>마족</strong>은 발러와 헬 하운드 같이, 끔찍한 하위 세계와 연결된 크리처다.</p>"
         },
         "eqXkPKiwiACNXkfw": {
           "name": "유형",
-          "key": "Type"
+          "key": "Type",
+          "text": "<p>모든 플레이어 캐릭터를 포함하여, 모든 크리처는 그것이 어떤 종류의 크리처인지 식별하는 태그를 규칙상 가진다. 대부분의 플레이어 캐릭터는 인간형 유형이다. 다음은 게임의 크리처 유형이다.</p><ul><li><p>기괴체</p></li><li><p>야수</p></li><li><p>천족</p></li><li><p>구조물</p></li><li><p>용</p></li><li><p>정령</p></li><li><p>요정</p></li><li><p>마족</p></li><li><p>거인</p></li><li><p>인간형</p></li><li><p>괴물체</p></li><li><p>점액류</p></li><li><p>식물</p></li><li><p>언데드</p></li></ul><p>유형 자체에는 규칙이 없지만, 게임의 일부 규칙은 특정 유형의 크리처에게 서로 다른 방식으로 영향을 준다.</p>"
         },
         "ER8CKDUWLsFXuARJ": {
           "name": "민첩",
-          "key": "Dexterity"
+          "key": "Dexterity",
+          "text": "<p>민첩은 민첩성, 반사 신경, 균형 감각을 나타낸다.</p><h3>민첩 판정</h3><p>날렵하게, 빠르게, 또는 조용히 움직이려면 민첩 <strong>판정</strong>을 하라.</p><h3>명중 굴림과 피해</h3><p>무릿매나 장궁 같은 원거리 무기로 공격할 때, 명중 굴림과 피해 굴림에 민첩 수정치를 더한다. 단검이나 레이피어처럼 교묘함 속성을 가진 근접 무기로 공격할 때도 명중 굴림과 피해 굴림에 민첩 수정치를 더할 수 있다.</p><h3>AC</h3><p>착용한 방어구에 따라, AC에 민첩 수정치의 일부 또는 전부를 더할 수 있다.</p><h3>선제권</h3><p>선제권은 전투 중 턴의 순서를 결정한다. 전투가 시작되면 모든 참가자가 선제권을 굴린다. 즉, 선제권 순서에서 자신의 위치를 결정하는 민첩 판정을 한다. 몬스터는 GM이 굴린다. 동일한 크리처 무리의 경우 GM이 한 번만 굴리므로, 무리의 각 구성원은 같은 선제권을 가진다.</p><div class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/equipment/back/cloak-hooded-blue.webp\" class=\"round\" /></figure><article><h4>숨기</h4><p>@Embed[.plHuoNdS0j3umPNS inline]</p></article></div>"
         },
         "f1S66aQJi4PmOng6": {
           "name": "화염",
-          "key": "Fire"
+          "key": "Fire",
+          "text": "<p><strong>화염. </strong>불길, 견디기 힘든 열기</p>"
         },
         "FjWqT5iyJ89kohdA": {
           "name": "의식",
-          "key": "Rituals"
+          "key": "Rituals",
+          "text": "<p>의식 태그가 있는 주문을 준비해 두었다면, 그 주문을 의식으로 시전할 수 있다. 주문의 의식 버전은 평소보다 시전에 10분이 더 걸린다. 또한 주문 슬롯을 소모하지 않으며, 이는 주문의 의식 버전을 더 높은 레벨로 시전할 수 없음을 뜻한다.</p>"
         },
         "fPkZQ7TkKCCA3nTc": {
           "name": "약화시키기",
-          "key": "Sap"
+          "key": "Sap",
+          "text": "<p>이 무기로 크리처를 명중시키면, 그 크리처는 당신의 다음 턴이 시작되기 전까지 다음 명중 굴림에 불리 보정을 받는다.</p>"
         },
         "FQTS08uH74A6psL2": {
           "name": "쌍수 전투 (2014)",
-          "key": "Two-Weapon Fighting (2014)"
+          "key": "Two-Weapon Fighting (2014)",
+          "text": "<p>공격 행동을 취하면서 한 손에 들고 있는 경량 근접 무기로 공격할 때, 보너스 행동을 사용하여 다른 손에 들고 있는 다른 경량 근접 무기로 공격할 수 있다. 그 수정치가 음수가 아닌 한, 보너스 공격의 피해에는 능력 수정치를 더하지 않는다.</p><p>두 무기 중 하나가 투척 속성을 가지고 있다면, 그 무기로 근접 공격을 하는 대신 던질 수 있다.</p>"
         },
         "G80AIQr04sxdVpw4": {
           "name": "목표",
-          "key": "Targets"
+          "key": "Targets",
+          "text": "<p>일반적인 주문은 시전자가 주문의 마법에 영향을 받을 하나 이상의 목표를 고르도록 요구한다. 주문의 설명은 그 주문이 크리처, 물체, 또는 그 밖의 무언가를 목표로 하는지를 명시한다.</p><h3>목표까지의 트인 경로</h3><p>주문으로 무언가를 목표로 삼으려면 시전자가 그것까지 트인 경로를 가지고 있어야 하며, 따라서 완전 엄폐 뒤에 있을 수 없다.</p><h3>자신을 목표로 삼기</h3><p>주문이 당신이 선택한 크리처를 목표로 한다면, 그 크리처가 반드시 적대적이어야 하거나 명시적으로 당신이 아닌 다른 크리처여야 하는 경우가 아닌 한, 당신 자신을 선택할 수 있다.</p>"
         },
         "geTidcFIYWuUvD2L": {
           "name": "정신감응",
-          "key": "Telepathy"
+          "key": "Telepathy",
+          "text": "<p>정신감응은 지정된 범위 내의 다른 크리처와 정신적으로 의사소통할 수 있게 해 주는 마법 능력이다. 규칙에서 달리 명시하지 않는 한, 접촉된 크리처는 이 의사소통을 이해하기 위해 정신감응자와 언어를 공유할 필요가 없다. 다만 접촉된 크리처는 적어도 하나의 언어를 이해할 수 있거나 자신이 정신감응 능력을 가지고 있어야 이해할 수 있다.</p><p>정신감응자는 접촉된 크리처를 볼 필요가 없으며, 언제든지(행동 불필요) 정신감응 접촉을 시작하거나 끝낼 수 있다. 정신감응자나 상대 크리처가 행동불능 상태이상에 빠지면 정신감응 접촉을 시작할 수 없고 즉시 끊긴다. 또한 접촉된 크리처가 더 이상 정신감응의 범위 내에 있지 않거나, 정신감응자가 범위 내의 다른 크리처와 접촉하는 경우에도 정신감응 접촉이 끊긴다.</p><p>정신감응 능력이 없는 크리처는 정신감응 메시지를 받을 수는 있지만 정신감응 대화를 먼저 시작할 수는 없다. 일단 정신감응 대화가 시작되면, 정신감응 능력이 없는 자도 정신감응 연결이 끝날 때까지 정신감응자에게 정신적으로 의사를 전할 수 있다.</p>"
         },
         "GeYmM7BVfSCAga4o": {
           "name": "의술",
-          "key": "Medicine"
+          "key": "Medicine",
+          "text": "<p><strong>예시:</strong> 질병을 진단하거나, 최근에 죽은 자의 사인을 밝힌다.</p>"
         },
         "gFL1VhSEljL1zvje": {
           "name": "치명타",
-          "key": "Critical Hits"
+          "key": "Critical Hits",
+          "text": "<p>명중 굴림으로 d20에서 20이 나오면 치명타가 발생하며, 어떤 수정치나 목표의 AC에 관계없이 공격이 명중한다. 치명타는 목표에게 가하는 공격의 피해에 추가 주사위를 굴리게 해 준다. 공격의 모든 피해 주사위를 두 번 굴려 합산하라. 그런 다음 관련된 수정치를 모두 더한다.</p>"
         },
         "gi8IKhtOlBVhMJrN": {
           "name": "주문 두루마리",
-          "key": "Spell Scroll"
+          "key": "Spell Scroll",
+          "text": "<p>주문 두루마리에는 신비한 암호로 적힌 단 하나의 주문에 대한 문구가 담겨 있다. 그 주문이 당신의 주문 목록에 있다면, 당신은 두루마리를 읽어 물질 구성요소 없이 그 주문을 시전할 수 있다. 그렇지 않다면 두루마리는 해독할 수 없다. 두루마리를 읽어 주문을 시전하려면 그 주문의 통상적인 시전 시간이 필요하다. 주문이 시전되고 나면 두루마리는 먼지가 되어 부스러진다. 시전이 방해받으면 두루마리는 사라지지 않는다.</p><p>그 주문이 당신의 주문 목록에 있지만 당신이 평소에 시전할 수 있는 레벨보다 높다면, 당신은 주문시전 능력치를 사용한 능력 판정을 굴려 주문을 시전하는지 여부를 결정한다. DC는 10에 그 주문의 레벨을 더한 값과 같다. 판정에 실패하면 주문은 다른 효과 없이 두루마리에서 사라진다.</p><p>두루마리에 적힌 주문의 레벨은 그 주문의 내성 굴림 DC와 명중 보너스를 결정하며, 아래 표에 나오듯 두루마리의 희귀도도 결정한다.</p><table><thead><tr><th><p>주문 레벨</p></th><th><p>희귀도</p></th><th><p>내성 DC</p></th><th><p>명중 보너스</p></th></tr></thead><tbody><tr><td><p>소마법</p></td><td><p>일반</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>1</p></td><td><p>일반</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>2</p></td><td><p>비범</p></td><td><p>13</p></td><td><p>+5</p></td></tr><tr><td><p>3</p></td><td><p>비범</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>4</p></td><td><p>희귀</p></td><td><p>15</p></td><td><p>+7</p></td></tr><tr><td><p>5</p></td><td><p>희귀</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>6</p></td><td><p>매우 희귀</p></td><td><p>17</p></td><td><p>+9</p></td></tr><tr><td><p>7</p></td><td><p>매우 희귀</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>8</p></td><td><p>매우 희귀</p></td><td><p>18</p></td><td><p>+10</p></td></tr><tr><td><p>9</p></td><td><p>전설</p></td><td><p>19</p></td><td><p>+11</p></td></tr></tbody></table><p><em><strong>두루마리를 주문서에 옮겨 적기.</strong></em> 주문 두루마리에 적힌 위저드 주문은 주문서에 옮겨 적을 수 있다. 이렇게 주문을 옮겨 적을 때, 옮겨 적는 자는 10에 그 주문의 레벨을 더한 값과 같은 DC의 지능(비전학) 판정에 성공해야 한다. 판정에 성공하면 주문이 옮겨진다. 판정의 성공 여부와 상관없이 주문 두루마리는 파괴된다.</p>"
         },
         "gOAIRFCyPUx42axn": {
           "name": "더 긴 시전 시간",
-          "key": "Longer Casting Times"
+          "key": "Longer Casting Times",
+          "text": "<p>의식으로 시전하는 주문을 포함한 특정 주문은 시전하는 데 더 많은 시간, 즉 몇 분 또는 심지어 몇 시간이 걸린다. 시전 시간이 1분 이상인 주문을 시전하는 동안, 당신은 매 턴마다 &amp;Reference[Magic] 행동을 취해야 하며, 그렇게 하는 동안 &amp;Reference[Concentration]을 유지해야 한다. 집중이 깨지면 주문은 실패하지만, 주문 슬롯을 소모하지는 않는다. 그 주문을 다시 시전하려면 처음부터 다시 시작해야 한다.</p>"
         },
         "GTk6emvzNxl8Oosl": {
           "name": "근접 공격",
-          "key": "Melee Attacks"
+          "key": "Melee Attacks",
+          "text": "<p>근접 공격은 당신의 도달거리 안에 있는 대상을 공격할 수 있게 해준다. 근접 공격은 일반적으로 손에 든 무기나 비무장 공격을 사용한다. 많은 몬스터는 발톱, 이빨, 또는 다른 신체 부위로 근접 공격을 한다. 일부 주문도 근접 공격을 수반한다.</p><p>크리처는 5피트의 도달거리를 가지며, 따라서 근접 공격을 할 때 5피트 안의 대상을 공격할 수 있다. 일부 크리처는 그 설명에 명시된 대로 5피트보다 긴 도달거리의 근접 공격을 가진다.</p><p>@Embed[.xJjJ4lhymAYXAOvO inline]</p><h3>허점 공격</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.eNvzQabiTqTtfzis inline]</p><h3>붙잡기</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.YSLWJcQCP6kzsPql inline]</p><p></p>"
         },
         "h3bYSPge8IOqne1N": {
           "name": "비전",
-          "key": "Arcana"
+          "key": "Arcana",
+          "text": "<p><strong>예시: </strong>주문, 마법 물품, 그리고 존재의 차원에 대한 지식을 떠올린다.</p>"
         },
         "hd26AqKrCqtcQBWy": {
           "name": "피해 굴림",
-          "key": "Damage Rolls"
+          "key": "Damage Rolls",
+          "text": "<p>피해 굴림은 적용 가능한 수정치로 조정되어 대상에게 피해를 입히는 주사위 굴림이다.</p><h2>치명타</h2><p>@Embed[.gFL1VhSEljL1zvje inline]</p><h2>피해 유형</h2><p>@Embed[.jVOgf7DNEhkzYNIe inline]</p>"
         },
         "hFW5BR2yHHwwgurD": {
           "name": "험지",
-          "key": "Difficult Terrain"
+          "key": "Difficult Terrain",
+          "text": "<p>험지에서는 한 칸 안에 여러 가지가 험지로 간주되더라도, 이동하는 1피트마다 1피트가 추가로 소모된다.</p>"
         },
         "hg3adn9O1O5Z2QxL": {
           "name": "괴롭히기",
-          "key": "Vex"
+          "key": "Vex",
+          "text": "<p>당신이 이 무기로 크리처를 명중시켜 그 크리처에게 피해를 입히면, 다음 턴이 끝나기 전까지 그 크리처에 대한 다음 명중 굴림에 유리를 얻는다.</p>"
         },
         "hgZ5ZN4B3y7tmFlt": {
           "name": "도달거리",
-          "key": "Reach"
+          "key": "Reach",
+          "text": "<p>크리처는 5피트의 도달거리를 가지며, 따라서 근접 공격을 할 때 5피트 안의 대상을 공격할 수 있다. 일부 크리처는 그 설명에 명시된 대로 5피트보다 긴 도달거리의 근접 공격을 가진다.</p>"
         },
         "HhqeIiSj8sE1v1qZ": {
           "name": "속도",
-          "key": "Speed"
+          "key": "Speed",
+          "text": "<p>크리처는 속도를 가지며, 이는 크리처가 자신의 턴에 이동할 때 나아갈 수 있는 피트 단위의 거리이다. <em>다음도 참조:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.a4CjDIEMeSbRaEjA]{등반}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.zRZl7vdjzjqpazxn]{포복}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.aaJOlRhI1H6vAxt9]{도약}, @UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.53c9JMqckHagYYB5]{수영}.</p><p><em><strong>특수 속도.</strong></em> 일부 크리처는 굴착 속도, 등반 속도, 비행 속도, 수영 속도 같은 특수 속도를 가지며, 각각은 이 용어집에 정의되어 있다. 둘 이상의 속도를 가지고 있다면, 이동할 때 어떤 것을 사용할지 선택하며, 이동 중에 속도를 전환할 수 있다. 전환할 때마다 이미 이동한 거리를 새 속도에서 빼라. 그 결과가 당신이 얼마나 더 이동할 수 있는지를 결정한다. 결과가 0 이하라면, 이번 이동 동안 새 속도를 사용할 수 없다. 예를 들어, 속도가 30이고 비행 속도가 40이라면, 10피트를 날고, 10피트를 걷고, 공중으로 뛰어올라 20피트를 더 날 수 있다.</p><p><em><strong>속도의 변화.</strong></em> 어떤 효과가 일정 시간 동안 당신의 속도를 증가 또는 감소시키면, 당신이 가진 어떤 특수 속도든 같은 기간 동안 동일한 양만큼 증가 또는 감소한다. 예를 들어, 당신의 속도가 0으로 감소하고 당신이 등반 속도를 가지고 있다면, 당신의 등반 속도도 0으로 감소한다. 마찬가지로, 당신의 속도가 절반이 되고 당신이 비행 속도를 가지고 있다면, 당신의 비행 속도도 절반이 된다.</p>"
         },
         "HiXixxLYesv6Ff3t": {
           "name": "명령어 (2014)",
-          "key": "Command Word (2014)"
+          "key": "Command Word (2014)",
+          "text": "<p>명령어는 물품이 작동하기 위해 말해야 하는 단어나 문구이다. 명령어를 필요로 하는 마법 물품은 침묵 주문의 효과 범위처럼 소리가 차단되는 영역에서는 발동할 수 없다.</p>"
         },
         "HjKXuB8ndjcqOds7": {
           "name": "도달거리",
-          "key": "Range"
+          "key": "Range",
+          "text": "<p>당신은 지정된 사거리 안에 있는 대상에 대해서만 원거리 공격을 할 수 있다. 주문으로 하는 것처럼 단일 사거리를 가진 원거리 공격의 경우, 이 사거리를 넘어서는 대상을 공격할 수 없다.</p><p>장궁으로 하는 것처럼 일부 원거리 공격은 두 개의 사거리를 가진다. 작은 숫자는 일반 사거리이고, 큰 숫자는 장거리이다. 대상이 일반 사거리를 넘어서면 당신의 명중 굴림은 &amp;Reference[Disadvantage]를 가지며, 장거리를 넘어서는 대상은 공격할 수 없다.</p>"
         },
         "Hni8DjqLzoqsVjb6": {
           "name": "밀기, 끌기 또는 들기",
-          "key": "Push, Drag, or Lift"
+          "key": "Push, Drag, or Lift",
+          "text": "<p>당신이 운반할 수 있는 최대 중량을 초과하는 무게를 <strong>끌거나, 들거나, 밀고</strong> 있는 동안, 당신의 속도는 5피트를 넘을 수 없다.</p>"
         },
         "HoD2MwzmVbMqj9se": {
           "name": "예지",
-          "key": "Divination"
+          "key": "Divination",
+          "text": "<p><strong>예지</strong> 주문은 정보를 드러낸다.</p>"
         },
         "hrdqMF8hRXJdNzJx": {
           "name": "크리처 밀치기",
-          "key": "Shoving a Creature"
+          "key": "Shoving a Creature",
+          "text": "<p>공격 행동을 사용하여, 당신은 크리처를 밀쳐서 넘어뜨리거나 자신에게서 밀어내는 특수 근접 공격을 할 수 있다. 대상은 근력 또는 민첩 내성 굴림(어느 쪽인지는 대상이 선택)에 성공해야 하며, 그렇지 않으면 당신은 대상을 5피트 밀어내거나 대상이 &amp;Reference[Prone] 상태이상을 갖게 한다. 내성 굴림의 DC는 8에 당신의 근력 수정치와 숙련 보너스를 더한 값과 같다. 이 밀치기는 대상이 당신보다 한 단계 이상 크지 않을 때에만 가능하다.</p>"
         },
         "hv0J61IAfofuhy3Q": {
           "name": "절반 엄폐",
-          "key": "Half Cover"
+          "key": "Half Cover",
+          "text": "<p><strong>절반 엄폐</strong>를 한 대상은 AC와 민첩 내성 굴림에 +2 보너스를 받는다.</p>"
         },
         "HWHRQVBVG7K0RVVW": {
           "name": "크리처의 체격",
-          "key": "Creature Size"
+          "key": "Creature Size",
+          "text": "<p>크리처는 체격 분류에 속하며, 이는 크리처 체격과 공간 표에 나오듯 크리처가 지도에서 차지하는 정사각형 공간의 너비를 결정한다. 그 표는 가장 작은 것(초소형)부터 가장 큰 것(초대형)까지의 체격을 나열한다. 크리처의 공간은 전투에서 그것이 실질적으로 통제하는 영역이자 효과적으로 싸우기 위해 필요한 영역이다.</p><p>캐릭터의 체격은 종족에 의해 결정되고, 몬스터의 체격은 몬스터의 스텟 블록에 명시되어 있다.</p><table><caption>크리처 체격과 공간</caption><thead><tr><th><p>체격</p></th><th><p>공간(피트)</p></th><th><p>공간(칸)</p></th></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>2½ × 2½피트</p></td><td><p>칸당 4</p></td></tr><tr><td><p>소형</p></td><td><p>5 × 5피트</p></td><td><p>1칸</p></td></tr><tr><td><p>중형</p></td><td><p>5 × 5피트</p></td><td><p>1칸</p></td></tr><tr><td><p>대형</p></td><td><p>10 × 10피트</p></td><td><p>4칸(2 × 2)</p></td></tr><tr><td><p>거대형</p></td><td><p>15 × 15피트</p></td><td><p>9칸(3 × 3)</p></td></tr><tr><td><p>초대형</p></td><td><p>20 × 20피트</p></td><td><p>16칸(4 × 4)</p></td></tr></tbody></table><h3>더 작은 공간에 비집고 들어가기</h3><p>@Embed[.wKtOwagDAiNfVoPS inline]</p>"
         },
         "hwTLpAtSS5OqQsI1": {
           "name": "바닥에 엎드리기",
-          "key": "Dropping Prone"
+          "key": "Dropping Prone",
+          "text": "<p>당신의 턴에, 당신은 행동이나 속도를 전혀 사용하지 않고 자신에게 &amp;Reference[Prone] 상태이상을 부여할 수 있지만, 당신의 속도가 0이라면 그렇게 할 수 없다.</p>"
         },
         "hYT7Z06yDNBcMtGe": {
           "name": "공연",
-          "key": "Performance"
+          "key": "Performance",
+          "text": "<p><strong>예시:</strong> 연기하거나, 이야기를 들려주거나, 음악을 연주하거나, 춤춘다.</p>"
         },
         "I6OMMWUaYCWR9xip": {
           "name": "독성",
-          "key": "Poison"
+          "key": "Poison",
+          "text": "<p>그 음흉하고 치명적인 성질 때문에, 독은 암살자와 사악한 크리처들이 즐겨 쓰는 도구이다.</p><p class=\"p1\">독은 다음 네 가지 유형으로 나뉜다:</p><p>@Embed[.kXnCEqqGUWRZeZDj inline]</p><p>@Embed[.Y0vsJYSWeQcFpJ27 inline]</p><p>@Embed[.KUyN4eK1xTBzXsjP inline]</p><p>@Embed[.LUL48OUq6SJeMGc7 inline]</p>"
         },
         "ICketFqbFslqKiX9": {
           "name": "치유",
-          "key": "Healing"
+          "key": "Healing",
+          "text": "<p>히트 포인트는 @UUID[Compendium.dnd5e.spells24.Item.phbsplCureWounds]{상처 치료} 주문이나 @UUID[Compendium.dnd5e.equipment24.Item.phbagPotionofHea]{치유 물약} 같은 마법으로, 또는 &amp;reference[Short Rest]나 &amp;Reference[Long Rest]로 회복될 수 있다.</p><p>치유를 받으면, 회복된 히트 포인트를 현재 히트 포인트에 더하라. 당신의 히트 포인트는 히트 포인트 최대치를 초과할 수 없으므로, 최대치를 초과해 회복된 히트 포인트는 모두 사라진다. 예를 들어, 당신이 8 히트 포인트의 치유를 받고 14 히트 포인트와 20의 히트 포인트 최대치를 가지고 있다면, 당신은 8이 아니라 6 히트 포인트를 회복한다.</p>"
         },
         "iFzQs4AenN8ALRvw": {
           "name": "인간형",
-          "key": "Humanoids"
+          "key": "Humanoids",
+          "text": "<p class=\"p1\"><strong>인간형</strong>은 마법사, 해적, 전사처럼 자신의 역할과 직업으로 규정되는 사람들이다. 그들은 다양한 종족의 구성원을 포함한다.</p>"
         },
         "iIEI87J7lr2sqtb5": {
           "name": "물",
-          "key": "Water"
+          "key": "Water",
+          "text": "<p>크리처는 일일 물 필요량 표에 나오듯 체격에 따라 하루에 일정량의 물을 필요로 하며, 그렇지 않으면 결국 &amp;Reference[Dehydration]에 시달리게 된다.</p><table><caption>일일 물 필요량</caption><thead><tr><th><p>체격</p></th><th><p>물</p></th></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>1/4갤런</p></td></tr><tr><td><p>소형</p></td><td><p>1갤런</p></td></tr><tr><td><p>중형</p></td><td><p>1갤런</p></td></tr><tr><td><p>대형</p></td><td><p>4갤런</p></td></tr><tr><td><p>거대형</p></td><td><p>16갤런</p></td></tr><tr><td><p>초대형</p></td><td><p>64갤런</p></td></tr></tbody></table>"
         },
         "ILpAVXkFHoS8OQ8y": {
           "name": "감각",
-          "key": "Senses"
+          "key": "Senses",
+          "text": "<p>감각 항목은 몬스터의 상시 포착 점수와 더불어 몬스터가 보유한 모든 특수 감각을 명시한다. 상시 포착과 특수 감각은 “규칙 용어집”에 설명되어 있다.</p>"
         },
         "IMnpuysdrSalmZJg": {
           "name": "넘어뜨리기",
-          "key": "Topple"
+          "key": "Topple",
+          "text": "<p>당신이 이 무기로 크리처를 명중시키면, 당신은 그 크리처가 건강 내성 굴림(DC는 8에 명중 굴림에 사용한 능력 수정치와 당신의 숙련 보너스를 더한 값)을 하도록 강제할 수 있다. 내성에 실패하면 그 크리처는 넘어짐 상태이상을 갖게 된다.</p>"
         },
         "iP1hYT7zzOyrzS7j": {
           "name": "당신의 차례",
-          "key": "Your Turn"
+          "key": "Your Turn",
+          "text": "<p>자신의 차례에 당신은 자신의 &amp;Reference[Speed]까지의 거리를 이동하고 한 가지 행동을 취할 수 있습니다. 이동을 먼저 할지 행동을 먼저 할지는 당신이 결정합니다.</p><p>취할 수 있는 주요 행동들은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbActions000000]{행동}에 나열되어 있습니다. 캐릭터의 특징과 몬스터의 스텟 블록 역시 행동 선택지를 제공합니다. @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000.JournalEntryPage.E9fzdKGx4UxrtOG7]{이동과 위치}는 이동에 관한 규칙을 다룹니다.</p><p><em><strong>의사소통.</strong></em> 당신은 자신의 차례를 진행하면서 가능한 어떤 방식으로든—짧은 발성이나 몸짓을 통해—의사소통할 수 있습니다. 이렇게 하는 데는 당신의 행동도 이동도 소모되지 않습니다.</p><p>무언가에 대한 자세한 설명이나 적을 설득하려는 시도 같은 확장된 의사소통은 행동을 필요로 합니다. 영향 행동은 몬스터에게 영향을 주려는 주된 방법입니다.</p><p><em><strong>사물과 상호작용하기.</strong></em> 당신은 이동 중이든 행동 중이든 하나의 물체나 환경 요소와 무료로 상호작용할 수 있습니다. 예를 들어, 적을 향해 성큼성큼 다가가는 이동 중에 문을 열 수 있습니다.</p><p>두 번째 물체와 상호작용하고 싶다면, &amp;Reference[Utilize] 행동을 취해야 합니다. 일부 마법 물품과 그 밖의 특수한 물체들은 그 설명에 명시된 대로 사용 시 항상 행동을 필요로 합니다.</p><p>특별한 주의가 필요하거나 비정상적인 장애물이 있는 경우, GM은 이런 활동들 중 어느 것에든 행동을 사용하도록 요구할 수 있습니다. 예를 들어, GM은 끼어 있는 문을 열거나 도개교를 내리기 위해 크랭크를 돌릴 때 활용 행동을 취하도록 요구할 수 있습니다.</p><p><em><strong>자신의 차례에 아무것도 하지 않기</strong></em><strong>.</strong> 당신은 자신의 차례에 이동, 행동, 또는 그 어떤 것도 하지 않기를 선택할 수 있습니다. 무엇을 할지 결정하지 못하겠다면, 방어적인 회피 행동이나 행동을 미루기 위한 대기 행동을 고려해 보십시오.</p>"
         },
         "iPB8mGKuQx3X0Z2J": {
           "name": "물체 휴대 및 사용하기",
-          "key": "Wearing and Wielding Items"
+          "key": "Wearing and Wielding Items",
+          "text": "<p>마법 물품의 속성을 사용하려면 그것을 착용하거나 들고 있어야 할 수 있습니다. 착용하도록 만들어진 마법 물품은 의도된 방식으로 착용해야 합니다. 장화는 발에, 장갑은 손에, 모자와 투구는 머리에, 반지는 손가락에 착용합니다. 마법 방어구는 입어야 하고, 방패는 팔에 묶어야 하며, 망토는 어깨에 고정시켜야 합니다. 무기는 손에 들어야 합니다.</p><p>대부분의 경우, 착용하도록 만들어진 마법 물품은 크기나 체형에 관계없이 크리처에게 맞습니다. 마법 의복은 쉽게 조절할 수 있도록 만들어졌거나, 착용자에게 마법적으로 스스로 맞춰집니다.</p><h3>같은 종류의 여러 물품</h3><p>@Embed[.rLJdvz4Mde8GkEYQ inline]</p><h3>한 쌍을 이루는 물품</h3><p>@Embed[.rd9pCH8yFraSGN34 inline]</p>"
         },
         "IQhbKRPe1vCPdh8v": {
           "name": "산성",
-          "key": "Acid"
+          "key": "Acid",
+          "text": "<p><strong>산성. </strong>부식성 액체, 소화 효소</p>"
         },
         "iqsmMHk7FSpiNkQy": {
           "name": "천둥",
-          "key": "Thunder"
+          "key": "Thunder",
+          "text": "<p><strong>천둥. </strong>충격을 주는 음파</p>"
         },
         "iqWQPnNMz8f1rsQ8": {
           "name": "언어",
-          "key": "Languages"
+          "key": "Languages",
+          "text": "<p>이 항목에는 해당 몬스터가 아는 언어가 나열됩니다</p><h3>정신감응</h3><p>@Embed[.geTidcFIYWuUvD2L inline]</p>"
         },
         "IYWewSailtmv6qEb": {
           "name": "변환",
-          "key": "Transmutation"
+          "key": "Transmutation",
+          "text": "<p><strong>변환</strong> 주문은 크리처나 물체를 변형시킵니다.</p>"
         },
         "jayo7XVgGnRCpTW0": {
           "name": "음식",
-          "key": "Food"
+          "key": "Food",
+          "text": "<p>크리처는 하루치 음식 필요량 표에 나온 것처럼 자신의 체격에 따른 일정량의 음식을 매일 필요로 하며, 그렇지 않으면 결국 &amp;Reference[Malnutrition]에 시달리게 됩니다.</p><table><caption>하루치 음식 필요량</caption><thead><tr><th><p>체격</p></th><th><p>음식</p></th><th></th><th><p>체격</p></th><th><p>음식</p></th></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>1/4파운드</p></td><td></td><td><p>대형</p></td><td><p>4파운드</p></td></tr><tr><td><p>소형</p></td><td><p>1파운드</p></td><td></td><td><p>거대형</p></td><td><p>16파운드</p></td></tr><tr><td><p>중형</p></td><td><p>1파운드</p></td><td></td><td><p>초대형</p></td><td><p>64파운드</p></td></tr></tbody></table>"
         },
         "JEZp7QApVjyNgqrQ": {
           "name": "당신 차례의 다른 활동 (2014)",
-          "key": "Other Activity on Your Turn (2014)"
+          "key": "Other Activity on Your Turn (2014)",
+          "text": "<p>당신의 차례에는 행동도 이동도 필요로 하지 않는 다양한 부가적 동작이 포함될 수 있습니다.</p><p>당신은 자신의 차례를 진행하면서 짧은 발성이나 몸짓을 통해 가능한 어떤 방식으로든 의사소통할 수 있습니다.</p><p>또한 이동 중이든 행동 중이든 하나의 물체나 환경 요소와 무료로 상호작용할 수 있습니다. 예를 들어, 적을 향해 성큼성큼 다가가는 이동 중에 문을 열거나, 공격에 사용하는 것과 같은 행동의 일부로 무기를 뽑을 수 있습니다.</p><p>두 번째 물체와 상호작용하고 싶다면, 당신의 행동을 사용해야 합니다. 일부 마법 물품과 그 밖의 특수한 물체들은 그 설명에 명시된 대로 사용 시 항상 행동을 필요로 합니다.</p><p>특별한 주의가 필요하거나 비정상적인 장애물이 있는 경우, GM은 이런 활동들 중 어느 것에든 행동을 사용하도록 요구할 수 있습니다. 예를 들어, GM은 끼어 있는 문을 열거나 도개교를 내리기 위해 크랭크를 돌릴 때 당신이 행동을 사용하기를 합당하게 기대할 수 있습니다.</p>"
         },
         "jIvbJXZXcU4Wuzh0": {
           "name": "취약, 저항 및 면역",
-          "key": "Vulnerabilities, Resistances, and Immunities"
+          "key": "Vulnerabilities, Resistances, and Immunities",
+          "text": "<p>어떤 피해 유형에 대해 <strong>취약</strong>을 가지고 있다면, 그 유형의 피해는 당신에게 두 배가 됩니다. 취약은 한 번의 피해 발생에 단 한 번만 적용됩니다.</p><p>어떤 피해 유형에 대해 <strong>저항</strong>을 가지고 있다면, 그 유형의 피해는 당신에게 절반이 됩니다(내림). 저항은 한 번의 피해 발생에 단 한 번만 적용됩니다.</p><p>어떤 피해 유형이나 상태이상에 대해 <strong>면역</strong>을 가지고 있다면, 그것은 당신에게 어떤 식으로도 영향을 주지 않습니다.</p>"
         },
         "JL8LePEJQYFdNuLL": {
           "name": "죽음 내성 굴림",
-          "key": "Death Saving Throws"
+          "key": "Death Saving Throws",
+          "text": "<p>히트 포인트가 0인 상태로 자신의 차례를 시작할 때마다, 당신은 죽음에 더 가까이 다가가는지 아니면 목숨을 부지하는지 결정하기 위해 죽음 내성 굴림을 해야 합니다. 다른 내성 굴림과 달리, 이 굴림은 능력치와 연결되어 있지 않습니다. 당신은 이제 운명의 손에 맡겨진 것입니다.</p><p><em><strong>세 번의 성공/실패.</strong></em> 1d20을 굴립니다. 굴림이 10 이상이면 성공합니다. 그렇지 않으면 실패합니다. 성공이나 실패는 그 자체로는 아무 효과가 없습니다. 세 번째 성공을 거두면 안정 상태가 됩니다(아래 “캐릭터 안정시키기” 참조). 세 번째 실패를 하면 죽습니다.</p><p>성공과 실패가 연속될 필요는 없습니다. 어느 한쪽이 세 번 모일 때까지 양쪽을 모두 기록하십시오. 히트 포인트를 조금이라도 회복하거나 안정 상태가 되면 양쪽의 횟수가 모두 0으로 초기화됩니다.</p><p><em><strong>1 또는 20 굴리기.</strong></em> 죽음 내성 굴림의 d20에서 1을 굴리면, 두 번의 실패를 겪습니다. d20에서 20을 굴리면, 히트 포인트 1점을 회복합니다.</p><p><em><strong>히트 포인트 0에서의 피해.</strong></em> 히트 포인트가 0인 상태에서 어떤 피해라도 받으면, 죽음 내성 굴림 실패 한 번을 겪습니다. 그 피해가 치명타로 인한 것이라면, 대신 두 번의 실패를 겪습니다. 그 피해가 당신의 히트 포인트 최대치와 같거나 그것을 초과하면, 당신은 죽습니다.</p>"
         },
         "jQGAJZBZTqDFod8d": {
           "name": "구조물",
-          "key": "Constructs"
+          "key": "Constructs",
+          "text": "<p class=\"p1\"><strong>구조물</strong>은 호문쿨루스나 방패 수호자 같은, 마법적으로 만들어진 크리처입니다.</p>"
         },
         "jVOgf7DNEhkzYNIe": {
           "name": "피해 유형",
-          "key": "Damage Types"
+          "key": "Damage Types",
+          "text": "<p>공격과 그 밖의 해로운 효과들은 서로 다른 유형의 피해를 입힙니다. 피해 유형은 그 자체로 고유한 규칙을 가지지 않지만, 저항 같은 다른 규칙들이 이 유형에 의존합니다. 피해 유형 표는 GM이 새로운 효과에 유형을 지정하는 데 도움이 되는 예시를 제공합니다.</p><table><caption>피해 유형</caption><thead><tr><th><p>유형</p></th><th><p>예시</p></th></tr></thead><tbody><tr><td><p>산성</p></td><td><p>부식성 액체, 소화 효소</p></td></tr><tr><td><p>타격</p></td><td><p>둔기, 압박, 추락</p></td></tr><tr><td><p>냉기</p></td><td><p>얼어붙는 물, 차가운 돌풍</p></td></tr><tr><td><p>화염</p></td><td><p>화염, 견딜 수 없는 열기</p></td></tr><tr><td><p>역장</p></td><td><p>순수한 마법 에너지</p></td></tr><tr><td><p>번개</p></td><td><p>전기</p></td></tr><tr><td><p>사령</p></td><td><p>생명력을 빨아들이는 에너지</p></td></tr><tr><td><p>관통</p></td><td><p>송곳니, 찌르는 물체</p></td></tr><tr><td><p>독성</p></td><td><p>유독 가스, 독액</p></td></tr><tr><td><p>정신</p></td><td><p>정신을 찢는 에너지</p></td></tr><tr><td><p>광휘</p></td><td><p>신성한 에너지, 타는 듯한 빛</p></td></tr><tr><td><p>참격</p></td><td><p>발톱, 베는 물체</p></td></tr><tr><td><p>천둥</p></td><td><p>충격을 주는 음파</p></td></tr></tbody></table>"
         },
         "JwqYf9qb6gJAWZKs": {
           "name": "변형 규칙: 돌격 (2014)",
-          "key": "Variant: Encumbrance (2014)"
+          "key": "Variant: Encumbrance (2014)",
+          "text": "<p>들어 올리기와 운반하기에 관한 규칙은 의도적으로 단순합니다. 캐릭터가 장비의 무게로 인해 얼마나 방해받는지 결정하는 더 상세한 규칙을 찾고 있다면 여기에 변형 규칙이 있습니다. 이 변형 규칙을 사용할 때는 방어구 표의 근력 열을 무시하십시오.</p><p>@Embed[.Hni8DjqLzoqsVjb6 inline]</p><p>최대 운반 용량까지, 자신의 근력 점수의 10배를 초과하는 무게를 운반하면, 대신 <strong>심하게 짐을 진</strong> 상태가 되며, 이는 속도가 20피트 감소하고 근력, 민첩, 또는 건강을 사용하는 능력 판정, 명중 굴림, 내성 굴림에 불리를 받는다는 것을 의미합니다.</p>"
         },
         "jZD5mCTnMPJ9jW67": {
           "name": "소마법",
-          "key": "Cantrips"
+          "key": "Cantrips",
+          "text": "<p>소마법은 0레벨 주문으로, 주문 슬롯 없이 시전됩니다.</p>"
         },
         "jZFp4R7tXsIqkiG3": {
           "name": "원통",
-          "key": "Cylinder"
+          "key": "Cylinder",
+          "text": "<p>원통은 원통의 원형 윗면이나 아랫면의 중심에 위치한 기점에서 직선으로 뻗어 나가는 효과 범위입니다. 원통을 만드는 효과는 원통 밑면의 반지름과 원통의 높이를 지정합니다.</p><p>원통의 기점은 효과 범위에 포함됩니다.</p>"
         },
         "k2IRXZwGk9W0PM2S": {
           "name": "용",
-          "key": "Dragons"
+          "key": "Dragons",
+          "text": "<p class=\"p1\"><strong>용</strong>은 레드 드래곤이나 와이번처럼, 고대 기원을 가진 비늘 달린 존재입니다.</p>"
         },
         "k5wOYXdWPzcWwds1": {
           "name": "독성",
-          "key": "Poison"
+          "key": "Poison",
+          "text": "<p><strong>독성. </strong>유독 가스, 독액</p>"
         },
         "kdlgZOpRMB6bGCod": {
           "name": "즉시",
-          "key": "Instantaneous"
+          "key": "Instantaneous",
+          "text": "<p>즉시 지속시간은 주문의 마법이 한순간만 나타났다가 사라진다는 것을 의미합니다.</p>"
         },
         "kGp1RNuxL2SELLRC": {
           "name": "방출",
-          "key": "Evocation"
+          "key": "Evocation",
+          "text": "<p><strong>방출</strong> 주문은 에너지를 통제해 흔히 파괴적인 효과를 만들어냅니다.</p>"
         },
         "Kh16IbKZRyEer1ju": {
           "name": "지능 있는 마법 물체 만들기 (2014)",
-          "key": "Creating Sentient Magic Items (2014)"
+          "key": "Creating Sentient Magic Items (2014)",
+          "text": "<p>마법 물품을 지능 있게 만들기로 결정하면, NPC를 만들 때와 같은 방식으로 그 물품의 인격을 만들되, 여기서 설명하는 몇 가지 예외를 둡니다.</p><h4>능력치</h4><p>지능 있는 마법 물품은 지능, 지혜, 매력 점수를 가집니다. 물품의 능력치를 직접 선택하거나 무작위로 결정할 수 있습니다. 무작위로 결정하려면, 각 능력치마다 4d6을 굴려 가장 낮은 굴림을 버리고 나머지를 합산하십시오.</p><h4>의사소통</h4><p>지능 있는 물품은 감정을 공유하거나, 생각을 정신감응으로 발신하거나, 소리 내어 말하는 등의 의사소통 능력을 어느 정도 가집니다. 어떻게 의사소통하는지 직접 선택하거나 다음 표에서 굴릴 수 있습니다.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.BHckoLKDwoL9d5p3]</p><h4>감각</h4><p>지능과 함께 인식 능력이 생깁니다. 지능 있는 물품은 제한된 범위까지 주변을 감지할 수 있습니다. 그 감각을 직접 선택하거나 다음 표에서 굴릴 수 있습니다.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.gfR9uCe42xBCCktd]</p><h4>성향</h4><p>지능 있는 마법 물품은 성향을 가집니다. 그 제작자나 본성이 성향을 시사할 수 있습니다. 그렇지 않다면, 성향을 직접 고르거나 다음 표에서 굴릴 수 있습니다.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.NdjHJMSSVWw5fHsL]</p><h4>특수 목적</h4><p>지능 있는 물품에 그것이 추구하는 목표를, 어쩌면 다른 모든 것을 제쳐두고서라도 추구하는 목표를 부여할 수 있습니다. 사용자의 물품 사용이 그 특수 목적에 부합하는 한, 물품은 협조적인 상태를 유지합니다. 이 진로에서 벗어나면 사용자와 물품 사이에 갈등이 생길 수 있고, 심지어 물품이 자신의 발동 속성 사용을 막을 수도 있습니다. 특수 목적을 직접 고르거나 다음 표에서 굴릴 수 있습니다.</p><p>@Embed[Compendium.dnd5e.tables24.RollTable.b250eqNa0k8lrE9b]</p>"
         },
         "khmR2xFk1NxoQUgZ": {
           "name": "탈것 조종하기",
-          "key": "Controlling a Mount"
+          "key": "Controlling a Mount",
+          "text": "<p>당신은 탈것이 기수를 받아들이도록 훈련된 경우에만 그것을 조종할 수 있습니다. 길들여진 말, 노새, 그리고 비슷한 크리처들은 그러한 훈련을 받았습니다.</p><p>조종되는 탈것의 선제권은 당신이 그것에 올라타면 당신의 것과 일치하도록 바뀝니다. 그것은 당신의 차례에 당신이 지시하는 대로 이동하며, 그 차례 동안 오직 세 가지 행동 선택지만 가집니다. 바로 &amp;Reference[Dash], &amp;Reference[Disengage], &amp;Reference[Dodge]입니다. 조종되는 탈것은 당신이 그것에 올라타는 바로 그 차례에도 이동하고 행동할 수 있습니다.</p><p>이와 대조적으로, 당신을 태우되 조종은 무시하는 독립적인 탈것은 선제권 순서에서 자신의 자리를 유지하며 자기가 원하는 대로 이동하고 행동합니다.</p>"
         },
         "klOVUV5G1U7iaKoG": {
           "name": "사령",
-          "key": "Necrotic"
+          "key": "Necrotic",
+          "text": "<p><strong>사령. </strong>생명력을 빨아들이는 에너지</p>"
         },
         "kRBZbdWMGW9K3wdY": {
           "name": "역사",
-          "key": "History"
+          "key": "History",
+          "text": "<p><strong>예시: </strong>역사적 사건, 인물, 국가, 문화에 관한 지식을 떠올립니다.</p>"
         },
         "kREHL5pgNUOhay9f": {
           "name": "추락",
-          "key": "Falling"
+          "key": "Falling",
+          "text": "<p>추락하는 크리처는 떨어진 거리 10피트마다 추락이 끝날 때 [[/damage 1d6 type=bludgeoning]]의 피해를 받으며, 최대 [[/damage 20d6 type=bludgeoning]]의 피해까지 받는다. 크리처가 착지할 때, 추락으로 인한 피해를 전혀 받지 않은 경우가 아니라면 &amp;Reference[Prone] 상태이상을 얻는다.</p><p>물이나 다른 액체 속으로 추락하는 크리처는 &amp;Reference[Reaction]을 사용해 [[/check dc=15 ath]] 또는 [[/check dc=15 acr]] 판정을 하여 머리부터 또는 발부터 수면에 닿을 수 있다. 판정에 성공하면 추락으로 인한 피해는 절반으로 줄어든다.</p>"
         },
         "KUyN4eK1xTBzXsjP": {
           "name": "흡입형",
-          "key": "Inhaled"
+          "key": "Inhaled",
+          "text": "<p><strong>흡입형.</strong> 독성 가루와 기체는 흡입했을 때 효과가 발휘된다. 가루를 불거나 기체를 방출하면 5피트 입방체 안에 있는 크리처가 그 효과의 대상이 된다. 이렇게 생긴 구름은 직후에 즉시 흩어진다. 흡입형 독은 콧속 점막, 눈물샘, 그 밖의 신체 부위에 작용하므로 숨을 참는 것은 효과가 없다.</p>"
         },
         "kV4IIZoaMJUR4La9": {
           "name": "전설적 크리처의 본거지 (2014)",
-          "key": "A Legendary Creature's Lair (2014)"
+          "key": "A Legendary Creature's Lair (2014)",
+          "text": "<p>전설적 크리처에게는 그 본거지와, 의지에 따라 또는 단지 그곳에 존재하는 것만으로 만들어 낼 수 있는 특수 효과를 설명하는 항목이 있을 수 있다. 이러한 항목은 본거지에서 많은 시간을 보내는 전설적 크리처에게만 적용된다.</p><h4>본거지 행동</h4><p>@Embed[.07PtjpMxiRIhkBEp inline]</p><h4>지역 효과</h4><p>@Embed[.uj8W27NKFyzygPUd inline]</p>"
         },
         "kXnCEqqGUWRZeZDj": {
           "name": "접촉형",
-          "key": "Contact"
+          "key": "Contact",
+          "text": "<p><strong>접촉형.</strong> 접촉형 독은 물체에 발라 둘 수 있으며, 만지거나 씻어 내기 전까지 효력이 유지된다. 노출된 피부로 접촉형 독에 닿은 크리처는 그 효과를 받는다.</p>"
         },
         "KxUXbMrUCIAhv4AF": {
           "name": "등반, 수영 및 포복",
-          "key": "Climbing, Swimming, and Crawling"
+          "key": "Climbing, Swimming, and Crawling",
+          "text": "<p>등반하거나 수영하는 동안에는 크리처에게 등반 속도나 수영 속도가 없는 한 1피트를 이동할 때마다 추가로 1피트(험지에서는 추가로 2피트)의 비용이 든다.</p><p>DM의 선택에 따라, 거친 물속에서 어떤 거리든 이동하거나 미끄러운 표면 또는 손잡이가 거의 없는 표면을 등반하려면 [[/check dc=15 ath]] 판정에 성공해야 할 수 있다.</p>"
         },
         "l0uao3UVco5ptQso": {
           "name": "파임",
-          "key": "Nick"
+          "key": "Nick",
+          "text": "<p>경량형 속성의 추가 공격을 할 때, 보조 행동이 아니라 공격 행동의 일부로 할 수 있다. 이 추가 공격은 턴당 한 번만 할 수 있다.</p>"
         },
         "LCcejwk69VOyK5Eb": {
           "name": "지혜 내성 굴림",
-          "key": "Wisdom Saving Throw"
+          "key": "Wisdom Saving Throw",
+          "text": "<p>지혜 내성 굴림을 하여 정신적 공격에 저항한다.</p>"
         },
         "LctvYhAwwujfBccv": {
           "name": "민첩 내성 굴림",
-          "key": "Dexterity Saving Throw"
+          "key": "Dexterity Saving Throw",
+          "text": "<p>민첩 내성 굴림을 하여 위험으로부터 몸을 피한다.</p>"
         },
         "LUL48OUq6SJeMGc7": {
           "name": "부상",
-          "key": "Injury"
+          "key": "Injury",
+          "text": "<p><strong>부상형.</strong> 부상형 독은 보조 행동으로 무기, 탄약, 또는 비슷한 물체에 바를 수 있다. 이 독은 상처를 통해 전달되거나 씻겨 나가기 전까지 효력이 유지된다. 독이 발린 물체로부터 관통 또는 참격 피해를 받는 크리처는 그 효과에 노출된다.</p>"
         },
         "m4ErwsuDpgi9Hu0V": {
           "name": "도전",
-          "key": "Challenge"
+          "key": "Challenge",
+          "text": "<p>도전 지수(CR)는 몬스터가 4명의 플레이어 캐릭터로 이루어진 무리에게 가하는 위협을 요약한 것이다. 몬스터의 CR을 캐릭터들의 레벨과 비교하라. CR이 더 높으면 그 몬스터는 위험할 가능성이 높다. CR이 더 낮으면 그 몬스터는 위협이 거의 되지 않을 가능성이 높다. 그러나 실제 플레이에서는 상황과 플레이어 캐릭터의 수가 몬스터의 위협 정도를 크게 바꿀 수 있다. 게임 마스터 가이드는 잠재적 전투 조우를 계획할 때 CR을 활용하는 방법에 대해 GM에게 지침을 제공한다.</p><h3>경험치</h3><p>도전을 극복하고 모험을 완료하면서 캐릭터는 경험치(XP)를 획득하며, 이는 게임 마스터가 수여한다. 캐릭터의 XP 총합이 특정 기준을 넘어서면 캐릭터의 레벨이 상승한다. 게임 마스터 가이드는 XP 수여에 대한 지침을 제공한다.</p>"
         },
         "MAxtfJyvJV7EpzWN": {
           "name": "약간 가려짐",
-          "key": "Lightly Obscured"
+          "key": "Lightly Obscured",
+          "text": "<p><strong>약간 가려진</strong> 지역, 예를 들어 약한 빛, 듬성한 안개, 또는 적당한 수풀이 있는 곳에서는 크리처가 시야에 의존하는 지혜(통찰) 판정에 불리를 받는다.</p>"
         },
         "MFpyvUIdcBpC9kIE": {
           "name": "탈것에 올라타기와 내리기",
-          "key": "Mounting and Dismounting"
+          "key": "Mounting and Dismounting",
+          "text": "<p>이동하는 동안, 당신은 5피트 이내에 있는 크리처에 올라타거나 내릴 수 있다. 이렇게 하는 데에는 당신의 &amp;Reference[Speed]의 절반(내림)에 해당하는 이동력이 소모된다. 예를 들어, 당신의 속도가 30피트라면 말에 올라타는 데 15피트의 이동력을 소모한다.</p>"
         },
         "MpA4jnwD17Q0RPg7": {
           "name": "건강",
-          "key": "Constitution"
+          "key": "Constitution",
+          "text": "<p>건강은 건강 상태와 지구력을 측정한다.</p><h3>건강 판정</h3><p>건강 <strong>판정</strong>을 하여 몸을 평소 한계 너머로 밀어붙인다.</p><h3>히트 포인트</h3><p>당신의 건강 수정치는 히트 포인트에 기여한다. 일반적으로 당신은 히트 포인트를 위해 굴리는 각 히트 다이스에 건강 수정치를 더한다.</p>"
         },
         "mqVZ2fz0L7a9VeKJ": {
           "name": "기만",
-          "key": "Deception"
+          "key": "Deception",
+          "text": "<p><strong>예시:</strong> 그럴듯한 거짓말을 하거나, 변장을 그럴듯하게 한다.</p>"
         },
         "Ms00uWg0w77sWI4C": {
           "name": "대응",
-          "key": "Reactions"
+          "key": "Reactions",
+          "text": "<p>몬스터가 특수 대응을 할 수 있는 경우, 이 항목에 나열된다.</p>"
         },
         "MYQ51erE4wBEAOvy": {
           "name": "매력 내성 굴림",
-          "key": "Charisma Saving Throw"
+          "key": "Charisma Saving Throw",
+          "text": "<p>매력 내성 굴림을 하여 자신의 정체성을 주장한다.</p>"
         },
         "n1Ocpbyhr6HhgbCG": {
           "name": "약한 빛",
-          "key": "Dim Light"
+          "key": "Dim Light",
+          "text": "<p>그림자라고도 불리는 <strong>약한 빛</strong>은 &amp;Reference[lightly obscured] 지역을 만든다. 약한 빛 지역은 보통 횃불 같은 밝은 빛의 원천과 주변 어둠 사이의 경계이다. 황혼과 새벽의 부드러운 빛도 약한 빛에 해당한다. 특히 밝은 보름달은 땅을 약한 빛으로 적실 수 있다.</p>"
         },
         "nkEPI89CiQnOaLYh": {
           "name": "영웅적 영감",
-          "key": "Heroic Inspiration"
+          "key": "Heroic Inspiration",
+          "text": "<p>당신(플레이어 캐릭터)이 영웅적 영감을 가지고 있다면, 주사위를 굴린 직후에 그것을 소비하여 그 주사위를 다시 굴릴 수 있으며, 새로 나온 결과를 사용해야 한다. 이미 영웅적 영감을 가지고 있는 상태에서 또 얻는다면, 그것을 가지고 있지 않은 다른 플레이어 캐릭터에게 주지 않는 한 사라진다.</p>"
         },
         "NLRXcgrpRCfsA5mO": {
           "name": "적재량 (2014)",
-          "key": "Charges (2014)"
+          "key": "Charges (2014)",
+          "text": "<p>일부 마법 물품에는 그 속성을 발동하기 위해 소비해야 하는 충전량이 있다. 물품에 남아 있는 충전량은 식별 주문을 시전했을 때, 그리고 크리처가 그 물품에 조율할 때 드러난다. 또한 물품이 충전량을 회복할 때, 그 물품에 조율한 크리처는 얼마나 많은 충전량이 회복되었는지 알게 된다.</p>"
         },
         "npdEWb2egUPnB5Fa": {
           "name": "구체",
-          "key": "Sphere"
+          "key": "Sphere",
+          "text": "<p>구체는 기점에서 모든 방향으로 직선으로 뻗어 나가는 효과 범위이다. 구체를 만드는 효과는 그것이 뻗어 나가는 거리를 구체의 반지름으로 지정한다.</p><p>구체의 기점은 구체의 효과 범위에 포함된다.</p>"
         },
         "nUPv6C66Ur64BIUH": {
           "name": "근력",
-          "key": "Strength"
+          "key": "Strength",
+          "text": "<p>근력은 신체적 힘을 측정한다.</p><h3>근력 판정</h3><p>근력 <strong>판정</strong>을 하여 무언가를 들거나, 밀거나, 당기거나, 부순다.</p><h3>내성 굴림</h3><p>근력 내성 굴림을 하여 직접적인 힘에 신체적으로 저항한다.</p><h3>명중 굴림과 피해</h3><p>철퇴, 전투 도끼, 투창 같은 근접 무기로 공격할 때 당신은 명중 굴림과 피해 굴림에 근력 수정치를 더한다. 당신은 근접 무기로 백병전에서 근접 공격을 하며, 그중 일부는 던져서 원거리 공격을 할 수 있다.</p><h3>들기와 운반</h3><p>당신의 체격과 근력 점수가 운반 용량 표에 나오는 대로 당신이 운반할 수 있는 최대 무게(파운드)를 결정한다. 이 표는 또한 당신이 끌거나, 들거나, 밀 수 있는 최대 무게도 보여 준다.</p><p>@Embed[.Hni8DjqLzoqsVjb6 inline]</p><p>@Embed[.1PnjDBKbQJIVyc2t inline]</p>"
         },
         "O6hamUbI9kVASN8b": {
           "name": "시야와 빛",
-          "key": "Vision and Light"
+          "key": "Vision and Light",
+          "text": "<p>위험을 알아차리거나, 적을 명중시키거나, 특정 주문의 표적을 정하는 등 일부 모험 과제는 시야의 영향을 받으므로, 시야를 가리는 효과는 아래 설명처럼 당신을 방해할 수 있다.</p><h3>가려진 지역</h3><p>지역은 약간 또는 완전히 가려질 수 있다. 약한 빛, 듬성한 안개, 또는 적당한 수풀이 있는 곳 같은 약간 가려진 지역에서는 시야에 의존하는 지혜(통찰) 판정에 불리를 받는다.</p><p>어둠, 짙은 안개, 또는 빽빽한 수풀이 있는 곳 같은 완전히 가려진 지역은 불투명하다. 당신은 그곳에서 무언가를 보려 할 때 &amp;Reference[Blinded] 상태이상을 얻는다.</p><h3>빛</h3><p>빛의 유무가 한 지역의 조명 범주를 아래 정의된 대로 결정한다.</p><p>@Embed[.RnMokVPyKGbbL8vi inline]</p><p>@Embed[.n1Ocpbyhr6HhgbCG inline]</p><p>@Embed[.4dfREIDjG5N4fvxd inline]</p><h3>특수 감각</h3><p>일부 크리처는 특정 상황에서 사물을 지각하는 데 도움이 되는 특수 감각을 가지고 있다. 「규칙 용어집」은 다음 특수 감각들을 정의한다:</p><p>@UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.tdtmXZbUIOZGSnKT]{맹시야}</p><p>@UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.7vQ1hLQ5fS6SSUqF]{암시야}</p><p>@UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.r64UrNusMhwJVnxb]{진동감지}</p><p>@UUID[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.be7g0q1xBAwb8drv]{진시야}</p>"
         },
         "oezg742GlxmEwT85": {
           "name": "알고 있는 주문과 준비한 주문",
-          "key": "Known and Prepared Spells"
+          "key": "Known and Prepared Spells",
+          "text": "<p>주문시전자가 주문을 사용하려면 그 주문을 마음속에 확고히 새겨 두었거나, 마법 물품을 통해 그 주문에 접근할 수 있어야 한다. 바드와 소서러를 포함한 일부 클래스의 구성원은 항상 마음속에 새겨져 있는, 자신이 아는 제한된 주문 목록을 가진다. 마법을 사용하는 많은 몬스터도 마찬가지이다. 클레릭과 위저드 같은 다른 주문시전자는 주문을 준비하는 과정을 거친다. 이 과정은 클래스마다 다르며, 각 클래스 설명에 상세히 나와 있다.</p><p>모든 경우에, 시전자가 특정 시점에 마음속에 새겨 둘 수 있는 주문의 수는 캐릭터의 레벨에 따라 달라진다.</p>"
         },
         "OFsRUt3pWljgm8VC": {
           "name": "요정",
-          "key": "Fey"
+          "key": "Fey",
+          "text": "<p class=\"p1\"><strong>요정</strong>은 드라이어드와 고블린처럼 요정야생계나 자연의 힘과 연결된 크리처이다.</p>"
         },
         "oNQWvyRZkTOJ8PBq": {
           "name": "질병 (2014)",
-          "key": "Diseases (2014)"
+          "key": "Diseases (2014)",
+          "text": "<p>역병이 왕국을 휩쓸어, 모험가들이 치료법을 찾는 임무에 나선다. 한 모험가가 수백 년 동안 열리지 않았던 고대 무덤에서 나오고, 곧 쇠약해지는 질병에 시달리게 된다. 한 워락이 어떤 어둠의 권능을 노하게 하여, 주문을 시전할 때마다 퍼지는 기이한 병을 얻게 된다.</p><p>단순한 발병은 @UUID[Compendium.dnd5e.spells24.Item.phbsplLesserRest]{하급 회복}을 한 번 시전하는 것으로 치료되는, 파티 자원의 작은 소모에 지나지 않을 수도 있다. 더 복잡한 발병은 캐릭터들이 치료법을 찾고, 질병의 확산을 막고, 그 결과를 처리하는 하나 이상의 모험의 토대가 될 수 있다.</p><p>몇몇 파티원을 감염시키는 것 이상의 질병은 주로 줄거리 장치이다. 규칙은 질병의 효과와 그것을 치료하는 방법을 설명하는 데 도움을 주지만, 질병이 어떻게 작동하는지에 대한 구체적인 사항은 공통된 규칙 집합에 얽매이지 않는다. 질병은 어떤 크리처에게든 영향을 줄 수 있으며, 특정 질병은 한 종족이나 종류의 크리처에서 다른 종류로 옮겨질 수도, 옮겨지지 않을 수도 있다. 어떤 역병은 구조물이나 언데드에게만 영향을 주거나, 하플링 거주 구역을 휩쓸면서도 다른 종족은 건드리지 않을 수도 있다. 중요한 것은 당신이 들려주고 싶은 이야기이다.</p>"
         },
         "oONHbeR1vPpfU1aT": {
           "name": "체격과 근력",
-          "key": "Size and Strength"
+          "key": "Size and Strength",
+          "text": "<p><strong>체격과 근력.</strong> 더 큰 크리처는 더 많은 무게를 견딜 수 있는 반면, 초소형 크리처는 더 적게 운반할 수 있다. 중형보다 한 단계 큰 체격 범주마다 크리처의 운반 용량과 밀거나, 끌거나, 들 수 있는 양을 두 배로 한다. 초소형 크리처의 경우 이 무게들을 절반으로 한다.</p>"
         },
         "OQQ7hAp6OAxX1rXY": {
           "name": "둔화",
-          "key": "Slow"
+          "key": "Slow",
+          "text": "<p>이 무기로 크리처를 명중시켜 피해를 입히면, 당신의 다음 턴 시작까지 그 크리처의 속도를 10피트 줄일 수 있다. 그 크리처가 이 속성을 가진 무기에 두 번 이상 명중당하더라도 속도 감소는 10피트를 넘지 않는다.</p>"
         },
         "ow58p27ctAnr4VPH": {
           "name": "집중",
-          "key": "Concentration"
+          "key": "Concentration",
+          "text": "<p>일부 주문과 그 밖의 효과는 활성 상태를 유지하기 위해 집중을 요구하며, 이는 각 설명에 명시되어 있다. 효과를 만든 자가 집중을 잃으면 그 효과는 끝난다. 효과에 최대 지속 시간이 있는 경우, 효과 설명에 그 만든 자가 얼마나 오래 집중할 수 있는지(최대 1분, 1시간, 또는 다른 지속 시간)가 명시되어 있다. 만든 자는 언제든 집중을 끝낼 수 있다(행동 불필요). 다음 요인들이 집중을 깨뜨린다.</p><p><em><strong>또 다른 집중 효과.</strong></em> 집중을 요구하는 주문을 시전하기 시작하거나 집중을 요구하는 또 다른 효과를 발동하는 순간, 당신은 한 효과에 대한 집중을 잃는다.</p><p><em><strong>피해.</strong></em> 피해를 받으면, 집중을 유지하기 위해 건강 내성 굴림에 성공해야 한다. DC는 10 또는 받은 피해의 절반(내림) 중 더 높은 수치이며, 최대 DC 30까지이다.</p><p><em><strong>행동불능 또는 죽음.</strong></em> &amp;Reference[Incapacitated] 상태이상을 얻거나 사망하면 당신의 집중은 끝난다.</p>"
         },
         "PFbzoMBviI2DD9QP": {
           "name": "히트 포인트",
-          "key": "Hit Points"
+          "key": "Hit Points",
+          "text": "<p>히트 포인트(HP)는 크리처나 물체를 죽이거나 파괴하기가 얼마나 어려운지를 나타내는 척도입니다. 피해는 히트 포인트를 감소시키고, 치유는 이를 회복시킵니다. 히트 포인트는 자신의 최대 히트 포인트를 넘을 수 없으며, 0 미만이 될 수도 없습니다.</p>"
         },
         "plHuoNdS0j3umPNS": {
           "name": "숨기",
-          "key": "Hiding"
+          "key": "Hiding",
+          "text": "<p>게임 마스터가 상황이 숨기에 적합한지 판단합니다.</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.rqhOsUY4wWa1oHTy inline]</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixCRule.JournalEntryPage.Brc9AnUXBeg0MTX6 inline]</p>"
         },
         "PPnaXKPsQvAZp0J4": {
           "name": "스치기",
-          "key": "Graze"
+          "key": "Graze",
+          "text": "<p>이 무기로 한 명중 굴림이 크리처를 빗맞히면, 그 크리처에게 해당 명중 굴림에 사용한 능력 수정치만큼의 피해를 줄 수 있습니다. 이 피해는 무기가 입히는 것과 동일한 유형이며, 이 피해는 오직 그 능력 수정치를 높임으로써만 증가시킬 수 있습니다.</p>"
         },
         "PqHSxFUwaXHL7kSz": {
           "name": "물체 활성화하기 (2014)",
-          "key": "Activating an Item (2014)"
+          "key": "Activating an Item (2014)",
+          "text": "<p>일부 마법 물품을 활성화하려면 사용자가 물품을 들고 명령어를 외치는 등 특별한 행위를 해야 합니다. 각 물품 범주나 개별 물품의 설명에 그 물품을 어떻게 활성화하는지가 자세히 나와 있습니다. 특정 물품들은 그 활성화에 다음 규칙들을 사용합니다.</p><p>물품을 활성화하는 데 행동이 필요한 경우, 그 행동은 물품 사용 행동의 기능이 아니므로, 로그의 빠른 손놀림 같은 특성으로는 그 물품을 활성화할 수 없습니다.</p><h3>명령어</h3><p>@Embed[.HiXixxLYesv6Ff3t inline]</p><h3>소모품</h3><p>@Embed[.UEPAcZFzQ5x196zE inline]</p><h3>주문</h3><p>@Embed[.DABoaeeF6w31UCsj inline]</p><h3>충전</h3><p>@Embed[.NLRXcgrpRCfsA5mO inline]</p>"
         },
         "q8azjjql1Ya5DeR2": {
           "name": "게임 내 함정 (2014)",
-          "key": "Traps in Play (2014)"
+          "key": "Traps in Play (2014)",
+          "text": "<p>모험가들이 함정과 마주쳤을 때, 당신은 그 함정이 어떻게 발동되고 무슨 효과를 내는지뿐만 아니라, 캐릭터들이 그 함정을 탐지하고 무력화하거나 회피할 가능성도 알아야 합니다.</p><h3>함정 발동시키기</h3><p>대부분의 함정은 크리처가 함정 제작자가 보호하고자 했던 곳으로 가거나 무언가를 건드릴 때 발동됩니다. 흔한 발동 조건으로는 압력판이나 거짓 바닥 부분을 밟는 것, 작동선을 당기는 것, 문손잡이를 돌리는 것, 자물쇠에 잘못된 열쇠를 사용하는 것 등이 있습니다. 마법 함정은 흔히 크리처가 어떤 구역에 들어가거나 물체를 건드릴 때 발동되도록 설정되어 있습니다. 일부 마법 함정(예를 들어 @UUID[Compendium.dnd5e.spells24.Item.pB7XVYwdGNcUG935]{결계 문양} 주문)은 함정이 발동되지 않게 하는 암호 등 더 복잡한 발동 조건을 갖습니다.</p><h3>함정 탐지 및 무력화하기</h3><p>@Embed[.DZ7AhdQ94xggG4bj inline]</p><h3>함정 효과</h3><p>함정의 효과는 화살, 가시, 칼날, 독, 유독 가스, 화염 폭발, 깊은 구덩이 같은 요소를 활용하여 성가신 정도부터 치명적인 것까지 다양할 수 있습니다. 가장 치명적인 함정들은 여러 요소를 결합하여, 그것을 발동시킬 만큼 불운한 크리처라면 누구든 죽이거나, 다치게 하거나, 가두거나, 쫓아냅니다. 함정의 설명에 그것이 발동될 때 무슨 일이 일어나는지가 명시되어 있습니다.</p><p>함정의 공격 보너스, 그 효과에 저항하기 위한 내성 DC, 그리고 그것이 입히는 피해는 함정의 심각도에 따라 달라질 수 있습니다. 세 단계의 함정 심각도에 기반한 제안은 함정 내성 DC 및 공격 보너스 표와 레벨별 피해 심각도 표를 사용하십시오.</p><p><strong>경미한</strong> 함정으로 의도된 함정은 해당 레벨의 캐릭터를 죽이거나 심각하게 해칠 가능성이 낮은 반면, <strong>위험한</strong> 함정은 해당 레벨의 캐릭터를 심각하게 다치게 할(그리고 잠재적으로 죽일) 가능성이 있습니다. <strong>치명적인</strong> 함정은 해당 레벨의 캐릭터를 죽일 가능성이 있습니다.</p><table border=\"0\"><caption><h4>함정 내성 DC 및 공격 보너스</h4></caption><thead><tr><td>함정 위험도</td><td>내성 DC</td><td>공격 보너스</td></tr></thead><tbody><tr><td>경미함</td><td>10–11</td><td>+3 ~ +5</td></tr><tr><td>위험함</td><td>12–15</td><td>+6 ~ +8</td></tr><tr><td>치명적</td><td>16–20</td><td>+9 ~ +12</td></tr></tbody></table><table border=\"0\"><caption><h4>레벨별 피해 심각도</h4></caption><thead><tr><td>캐릭터 레벨</td><td>경미함</td><td>위험함</td><td>치명적</td></tr></thead><tbody><tr><td>1–4레벨</td><td>1d10</td><td>2d10</td><td>4d10</td></tr><tr><td>5–10레벨</td><td>2d10</td><td>4d10</td><td>10d10</td></tr><tr><td>11–16레벨</td><td>4d10</td><td>10d10</td><td>18d10</td></tr><tr><td>17–20레벨</td><td>10d10</td><td>18d10</td><td>24d10</td></tr></tbody></table><h3>복합 함정</h3><p>복합 함정은 일반 함정과 동일하게 작동하지만, 일단 발동되면 매 라운드마다 일련의 행동을 실행합니다. 복합 함정은 함정을 처리하는 과정을 전투 조우에 더 가까운 무언가로 바꿉니다.</p><p>복합 함정이 발동되면 선제권을 굴립니다. 함정의 설명에는 선제권 보너스가 포함되어 있습니다. 자신의 차례에 함정은 다시 발동되며, 흔히 행동을 취합니다. 침입자들에게 연속적인 공격을 가하거나, 시간이 지남에 따라 변하는 효과를 만들어 내거나, 그 밖의 방식으로 역동적인 도전을 일으킬 수 있습니다. 그 외에는 복합 함정도 일반적인 방식으로 탐지하고 무력화하거나 우회할 수 있습니다.</p><p>예를 들어, 방을 서서히 물에 잠기게 하는 함정은 복합 함정으로 가장 잘 작동합니다. 함정의 차례에 수위가 상승합니다. 여러 라운드가 지나면 방은 완전히 물에 잠깁니다.</p>"
         },
         "qAFzmGZKhVvAEUF3": {
           "name": "명중 굴림",
-          "key": "Attack Rolls"
+          "key": "Attack Rolls",
+          "text": "<p>일부 주문은 시전자가 명중 굴림을 해서 주문이 대상을 맞히는지 판정해야 합니다. 주문의 공격 수정치를 계산하는 방법은 다음과 같습니다:</p><p style=\"text-align:center\"><strong>주문 공격 수정치</strong> = 자신의 주문시전 능력 수정치 + 자신의 숙련 보너스</p>"
         },
         "qEZvxW0NM7ixSQP5": {
           "name": "근접 전투에서의 원거리 공격",
-          "key": "Ranged Attacks in Close Combat"
+          "key": "Ranged Attacks in Close Combat",
+          "text": "<p>적이 바로 옆에 있을 때 원거리 공격을 조준하기는 더 어렵습니다. 무기, 주문, 또는 그 밖의 수단으로 원거리 명중 굴림을 할 때, 당신을 볼 수 있고 &amp;Reference[Incapacitated] 상태가 아닌 적으로부터 5피트 이내에 있으면 그 굴림에 &amp;Reference[Disadvantage]를 받습니다.</p>"
         },
         "Qf9tGqO5R7yYSz8u": {
           "name": "건강 내성 굴림",
-          "key": "Constitution Saving Throw"
+          "key": "Constitution Saving Throw",
+          "text": "<p>유독한 위험 요소를 견디기 위해 건강 내성 굴림을 하십시오.</p>"
         },
         "qKmqbRFE9n2Up5bF": {
           "name": "장비",
-          "key": "Equipment"
+          "key": "Equipment",
+          "text": "<p>몬스터가 넘겨주거나 회수할 수 있는 장비를 가지고 있다면, 이 항목에 나열됩니다.</p>"
         },
         "qwUNgUNilEmZkSC9": {
           "name": "동작 (S)",
-          "key": "Somatic (S)"
+          "key": "Somatic (S)",
+          "text": "<p>동작 구성요소는 힘찬 손짓 또는 정교한 일련의 몸짓입니다. 주문시전자는 이러한 동작을 수행하기 위해 적어도 한 손을 사용해야 합니다.</p>"
         },
         "r1CgZXLcqFop6Dlx": {
           "name": "크리처 안정시키기",
-          "key": "Stabilizing a Creature"
+          "key": "Stabilizing a Creature",
+          "text": "<p>&amp;Reference[Help] 행동을 취해 0 히트 포인트인 크리처를 안정시키려 시도할 수 있으며, 이를 위해서는 [[/check 10 med]] 판정에 성공해야 합니다.</p><p>&amp;Reference[Stable] 크리처는 히트 포인트가 0임에도 죽음 내성 굴림을 하지 않지만, 여전히 무의식 상태입니다. 크리처가 피해를 받으면 안정 상태가 끝나고 다시 죽음 내성 굴림을 하기 시작합니다. 치유받지 못한 안정 크리처는 [[/r 1d4]]시간 후에 1 히트 포인트를 회복합니다.</p>"
         },
         "raPwIkqKSv60ELmy": {
           "name": "높이뛰기",
-          "key": "High Jump"
+          "key": "High Jump",
+          "text": "<p><strong>높이뛰기.</strong> 높이뛰기를 할 때, 도약 직전에 걸어서 최소 10피트를 이동했다면 3 더하기 자신의 근력 수정치(최소 0피트)와 같은 피트 수만큼 공중으로 뛰어오릅니다. 제자리 높이뛰기를 할 때는 그 거리의 절반만 뛸 수 있습니다. 어느 쪽이든, 도약한 1피트마다 이동력 1피트가 소모됩니다.</p><p>도약하는 동안 자신의 키의 절반만큼 팔을 머리 위로 뻗을 수 있습니다. 따라서, 도약 높이 더하기 자신의 키의 1.5배와 같은 거리에 닿을 수 있습니다.</p>"
         },
         "RBYPyE5z5hAZSbH6": {
           "name": "도달거리",
-          "key": "Range"
+          "key": "Range",
+          "text": "<p>주문의 도달거리는 주문의 효과가 시전자로부터 얼마나 멀리서 발생할 수 있는지를 나타내며, 주문의 설명에 효과의 어느 부분이 도달거리에 의해 제한되는지가 명시됩니다. 도달거리는 보통 다음 형태 중 하나를 취합니다:</p><p><em><strong>거리.</strong></em> 도달거리가 피트로 표현됩니다.</p><p><em><strong>접촉.</strong></em> 주문의 효과는 주문에 정의된 대로, 시전자가 반드시 접촉해야 하는 무언가에서 발생합니다.</p><p><em><strong>자신.</strong></em> 주문은 주문에 명시된 대로 시전자에게 시전되거나 시전자로부터 발산됩니다.</p><p>주문이 이동 가능한 효과를 가진 경우, 주문의 설명에서 달리 명시하지 않는 한 그 효과는 도달거리에 의해 제한되지 않습니다.</p>"
         },
         "RcwElV4GAcVXKWxo": {
           "name": "선제권",
-          "key": "Initiative"
+          "key": "Initiative",
+          "text": "<p>선제권은 전투 중 차례의 순서를 결정합니다. 1장의 전투 규칙에 선제권을 굴리는 방법이 설명되어 있습니다.</p><p>때때로 DM은 전투 참가자들이 선제권을 굴리는 대신 선제권 점수를 사용하게 할 수 있습니다. 자신의 선제권 점수는 10 더하기 자신의 민첩 수정치와 같습니다. 선제권 굴림에 유리 보정을 받는 경우, 선제권 점수를 5 증가시킵니다. 그 굴림에 불리 보정을 받는 경우, 그 점수를 5 감소시킵니다.</p>"
         },
         "rd9pCH8yFraSGN34": {
           "name": "짝이 맞는 물체",
-          "key": "Paired Items"
+          "key": "Paired Items",
+          "text": "<p>장화, 팔보호대, 건틀릿, 장갑처럼 쌍으로 이루어진 물품은 그 쌍의 두 물품을 모두 착용해야만 효과를 부여합니다. 예를 들어, 한 발에는 활보와 도약의 장화를, 다른 발에는 엘프족의 장화를 신은 캐릭터는 어느 쪽에서도 효과를 얻지 못합니다.</p>"
         },
         "rIR7ttYDUpH3tMzv": {
           "name": "운동",
-          "key": "Athletics"
+          "key": "Athletics",
+          "text": "<p><strong>예시:</strong> 평소보다 멀리 뛰기, 거친 물에서 떠 있기, 또는 무언가를 부수기.</p>"
         },
         "rLJdvz4Mde8GkEYQ": {
           "name": "같은 종류의 여러 물체",
-          "key": "Multiple Items of the Same Kind"
+          "key": "Multiple Items of the Same Kind",
+          "text": "<p>특정 마법 물품은 둘 이상 착용할 수 없습니다. 일반적으로 신발 한 켤레, 장갑이나 건틀릿 한 켤레, 팔보호대 한 켤레, 방어구 한 벌, 머리 장식 한 개, 또는 망토 한 개를 초과하여 착용할 수 없습니다. GM이 예외를 둘 수도 있습니다.</p>"
         },
         "RnMokVPyKGbbL8vi": {
           "name": "밝은 빛",
-          "key": "Bright Light"
+          "key": "Bright Light",
+          "text": "<p><strong>밝은 빛</strong>은 대부분의 크리처가 정상적으로 볼 수 있게 합니다. 흐린 날도 밝은 빛을 제공하며, 특정 반경 내의 횃불, 랜턴, 불, 그 밖의 광원들도 마찬가지입니다.</p>"
         },
         "RP1WL9FXI3aknlxZ": {
           "name": "대응과 보조 행동의 발동 조건",
-          "key": "Reaction and Bonus Action Triggers"
+          "key": "Reaction and Bonus Action Triggers",
+          "text": "<p>시전 시간이 대응인 주문은 주문의 시전 시간 항목에 정의된 발동 조건에 응하여 시전됩니다. 시전 시간이 보조 행동인 일부 주문 또한 주문에 정의된 발동 조건에 응하여 시전됩니다.</p>"
         },
         "RpvmpJcaWKJjfsfn": {
           "name": "음식과 물",
-          "key": "Food and Water"
+          "key": "Food and Water",
+          "text": "<h3>음식</h3><p>@Embed[.jayo7XVgGnRCpTW0 inline]</p><h3>물</h3><p>@Embed[.iIEI87J7lr2sqtb5 inline]</p>"
         },
         "s0ZHwT4gTb5fuw4w": {
           "name": "광기 효과 (2014)",
-          "key": "Madness Effects (2014)"
+          "key": "Madness Effects (2014)",
+          "text": "<p>광기는 단기, 장기, 또는 무기한일 수 있습니다. 비교적 평범한 효과는 대부분 단 몇 분 동안만 지속되는 단기 광기를 가합니다. 더 끔찍한 효과나 누적된 효과는 장기 또는 무기한 광기를 초래할 수 있습니다.</p><p><strong>단기 광기</strong>에 걸린 캐릭터는 @UUID[Compendium.dnd5e.tables24.RollTable.ypk2L9feVwTx0QVj]{단기 광기} 표의 효과를 1d10분 동안 받습니다.</p><p><strong>장기 광기</strong>에 걸린 캐릭터는 @UUID[Compendium.dnd5e.tables24.RollTable.kJB79nI9rju6VN8J]{장기 광기} 표의 효과를 1d10 × 10시간 동안 받습니다.</p><p><strong>무기한 광기</strong>에 걸린 캐릭터는 @UUID[Compendium.dnd5e.tables24.RollTable.MAL5r8ZKx7BVsE9R]{무기한 광기} 표에서 치료될 때까지 지속되는 새로운 캐릭터 결점을 얻습니다.</p>"
         },
         "S48JxKMOF2ZmAfav": {
           "name": "갈등 (2014)",
-          "key": "Conflict (2014)"
+          "key": "Conflict (2014)",
+          "text": "<p>지각 있는 물품은 그 성격과 성향에 의해 형성된 자신만의 의지를 갖습니다. 소지자가 물품의 성향이나 목적에 반하는 방식으로 행동하면 갈등이 발생할 수 있습니다. 그런 갈등이 일어나면, 물품은 소지자의 매력 판정에 대항하는 매력 판정을 합니다. 물품이 대결에서 이기면, 다음 요구 중 하나 이상을 제기합니다:</p><ul><li>물품이 항상 휴대되거나 착용될 것을 고집합니다.</li><li>물품이 자신이 혐오스럽게 여기는 것은 무엇이든 소지자가 처분할 것을 요구합니다.</li><li>물품이 다른 모든 목표를 배제하고 자신의 목표를 추구할 것을 소지자에게 요구합니다.</li><li>물품이 다른 누군가에게 넘겨질 것을 요구합니다.</li></ul><p>소지자가 물품의 바람에 따르기를 거부하면, 물품은 다음 중 일부 또는 전부를 할 수 있습니다:</p><ul><li>소지자가 물품에 조율하는 것을 불가능하게 만듭니다.</li><li>자신의 활성화 속성 중 하나 이상을 억제합니다.</li><li>소지자를 지배하려 시도합니다.</li></ul><p>지각 있는 물품이 소지자를 지배하려 시도하면, 소지자는 12 더하기 물품의 매력 수정치와 같은 DC로 매력 내성 굴림을 해야 합니다. 내성에 실패하면, 소지자는 1d12시간 동안 물품에게 매혹됩니다. 매혹된 동안, 소지자는 물품의 명령을 따르려 애써야 합니다. 소지자가 피해를 받으면, 내성 굴림을 다시 할 수 있으며, 성공하면 효과가 종료됩니다. 사용자를 지배하려는 시도가 성공하든 실패하든, 물품은 다음 새벽까지 이 능력을 다시 사용할 수 없습니다.</p>"
         },
         "S9aclVOCbusLE3kC": {
           "name": "원거리 공격",
-          "key": "Ranged Attacks"
+          "key": "Ranged Attacks",
+          "text": "<p>원거리 공격을 할 때, 당신은 활을 쏘거나 도끼를 던지거나 그 밖의 방법으로 투사체를 날려 멀리 있는 적을 타격한다. 많은 주문 또한 원거리 공격을 포함한다.</p><h3>거리</h3><p>@Embed[.HjKXuB8ndjcqOds7 inline]</p><h3>근접 전투 중의 원거리 공격</h3><p>@Embed[.qEZvxW0NM7ixSQP5 inline]</p>"
         },
         "sBAdGkDN7y7GmHKc": {
           "name": "다중 공격 (2014)",
-          "key": "Multiattack (2014)"
+          "key": "Multiattack (2014)",
+          "text": "<p>자기 턴에 여러 번 공격할 수 있는 크리처는 다중 공격 행동을 가진다. 크리처는 허점 공격을 할 때 다중 공격을 사용할 수 없으며, 허점 공격은 반드시 단일 근접 공격이어야 한다.</p>"
         },
         "SehPXk24ySBVOwCZ": {
           "name": "환혹",
-          "key": "Enchantment"
+          "key": "Enchantment",
+          "text": "<p><strong>환혹</strong> 주문은 정신에 영향을 미친다.</p>"
         },
         "sLw1gfc1aLg7djmZ": {
           "name": "지능 판정",
-          "key": "Intelligence Checks"
+          "key": "Intelligence Checks",
+          "text": "<p>추론하거나 기억하려면 지능 <strong>판정</strong>을 한다.</p>"
         },
         "smEk7kvVyslFozrB": {
           "name": "환영",
-          "key": "Illusion"
+          "key": "Illusion",
+          "text": "<p><strong>환영</strong> 주문은 정신이나 감각을 속인다.</p>"
         },
         "spellsDevotion00": {
           "name": "헌신의 맹세 주문",
@@ -4110,187 +4450,233 @@
         },
         "Su6wbb0O9UN4ZDIH": {
           "name": "주문 슬롯",
-          "key": "Spell Slots"
+          "key": "Spell Slots",
+          "text": "<p>주문시전은 부담이 큰 행위이므로, 주문시전자는 휴식하기 전까지 1레벨 이상의 주문을 제한된 횟수만큼만 시전할 수 있다. 주문 슬롯은 주문시전자의 마법적 잠재력을 나타내는 주된 방식이다. 각 주문시전 클래스는 그 구성원에게 특정 주문 레벨의 주문 슬롯을 제한된 수만큼 부여한다. 예를 들어 3레벨 위저드는 1레벨 주문 슬롯 네 개와 2레벨 슬롯 두 개를 가진다.</p><p>주문을 시전할 때, 당신은 그 주문의 레벨 이상의 슬롯 하나를 소모하여 사실상 슬롯을 그 주문으로 \"채우게\" 된다. 주문 슬롯을 일정한 크기의 홈이라고 상상해 보자. 1레벨 슬롯은 작고, 더 높은 레벨의 주문일수록 더 크다. 1레벨 주문은 어떤 크기의 슬롯에도 들어맞지만, 2레벨 주문은 최소 2레벨 이상의 슬롯에만 들어맞는다. 따라서 3레벨 위저드가 1레벨 주문인 마력탄을 시전하면, 그 위저드는 네 개의 1레벨 슬롯 중 하나를 소모하고 세 개가 남는다.</p><p>긴 휴식을 마치면 소모된 주문 슬롯이 모두 회복된다.</p><h3>더 높은 레벨로 주문 시전하기</h3><p>@Embed[.4H9SLM95OCLfFizz inline]</p>"
         },
         "sz2XKQ5lgsdPEJOa": {
           "name": "참격",
-          "key": "Slashing"
+          "key": "Slashing",
+          "text": "<p><strong>참격. </strong>발톱, 베는 물체</p>"
         },
         "t3EzDU5b9BVAIEVi": {
           "name": "생존",
-          "key": "Survival"
+          "key": "Survival",
+          "text": "<p><strong>예시: </strong>발자국을 따라가거나, 식량을 채집하거나, 길을 찾거나, 자연의 위험 요소를 피한다.</p>"
         },
         "T5CJwxjhBbi6oqaM": {
           "name": "천족",
-          "key": "Celestials"
+          "key": "Celestials",
+          "text": "<p class=\"p1\"><strong>천족</strong>은 천사나 페가수스처럼 상위 세계와 연결된 마법적 크리처이다.</p>"
         },
         "TeF6CKMDRpYpsLd4": {
           "name": "마법 학파",
-          "key": "The Schools of Magic"
+          "key": "The Schools of Magic",
+          "text": "<p>각 주문은 마법 학파에 속한다. 학파들은 마법 학파 표에 나열되어 있다. 이 분류는 주문을 설명하는 데 도움이 되지만 그 자체로는 규칙이 없으며, 다만 일부 다른 규칙이 이를 참조한다.</p><p>@Embed[.849AYEWw9FHD6JNz inline]</p><p>@Embed[.TWyKMhZJZGqQ6uls inline]</p><p>@Embed[.HoD2MwzmVbMqj9se inline]</p><p>@Embed[.SehPXk24ySBVOwCZ inline]</p><p>@Embed[.kGp1RNuxL2SELLRC inline]</p><p>@Embed[.smEk7kvVyslFozrB inline]</p><p>@Embed[.W0eyiV1FBmngb6Qh inline]</p><p>@Embed[.IYWewSailtmv6qEb inline]</p>"
         },
         "TMIN963hG773yZzO": {
           "name": "주문 효과 결합하기",
-          "key": "Combining Spell Effects"
+          "key": "Combining Spell Effects",
+          "text": "<p>서로 다른 주문의 효과는 지속시간이 겹치는 동안 합산된다. 반면, 같은 주문을 여러 번 시전한 효과는 결합되지 않는다. 대신 그 시전들 중 가장 강력한 효과(예: 가장 높은 보너스)가 지속시간이 겹치는 동안 적용된다. 시전들이 동등하게 강력하고 지속시간이 겹친다면 가장 최근의 효과가 적용된다. 예를 들어 두 클레릭이 같은 대상에게 축복을 시전하면, 그 대상은 주문의 이점을 한 번만 얻으며 보너스 주사위를 두 개 받지 않는다. 다만 두 주문의 지속시간이 겹친다면, 효과는 두 번째 축복의 지속시간이 끝날 때까지 이어진다.</p>"
         },
         "tVyTG8DkzYAi7wxc": {
           "name": "주변 물체와 상호작용하기",
-          "key": "Interacting with Objects Around You"
+          "key": "Interacting with Objects Around You",
+          "text": "<p>물체와의 상호작용은 대개 간단하게 처리된다. 플레이어가 GM에게 자신의 캐릭터가 레버를 당기거나 문을 여는 등의 행동을 한다고 말하면, GM이 무슨 일이 일어나는지 묘사한다. 그러나 때로는 @UUID[Compendium.dnd5e.content24.JournalEntry.phbExploration00.JournalEntryPage.sLBr24g1xnsSApaG]{주변 물체와 상호작용하기}에 자세히 설명된 것처럼 물체로 무엇을 할 수 있는지를 규칙이 정한다.</p>"
         },
         "TWyKMhZJZGqQ6uls": {
           "name": "소환",
-          "key": "Conjuration"
+          "key": "Conjuration",
+          "text": "<p><strong>소환</strong> 주문은 크리처나 물체를 이동시킨다.</p>"
         },
         "TX0yPEFTn79AMZ8P": {
           "name": "괴물체",
-          "key": "Monstrosities"
+          "key": "Monstrosities",
+          "text": "<p class=\"p1\"><strong>괴물체</strong>는 미믹이나 아울베어처럼 기이한 기원을 가진 부자연스러운 크리처이다.</p>"
         },
         "u46Rva9Nrm9bG1Mu": {
           "name": "주문 시전 능력치",
-          "key": "Spellcasting Ability"
+          "key": "Spellcasting Ability",
+          "text": "<p>위저드는 지능을 주문시전 능력치로 사용하며, 이는 자신이 시전하는 주문의 내성 굴림 DC를 결정하는 데 쓰인다.</p>"
         },
         "ueMx3uF2PQlcye31": {
           "name": "자연",
-          "key": "Nature"
+          "key": "Nature",
+          "text": "<p><strong>예시: </strong>지형, 식물, 동물, 날씨에 관한 지식을 떠올린다.</p>"
         },
         "UEPAcZFzQ5x196zE": {
           "name": "소모품 (2014)",
-          "key": "Consumables (2014)"
+          "key": "Consumables (2014)",
+          "text": "<p>일부 물건은 활성화될 때 소모된다. 물약이나 영약은 삼켜야 하고, 기름은 몸에 발라야 한다. 두루마리는 읽으면 글씨가 사라진다. 한 번 사용하면 소모성 물건은 마법을 잃는다.</p>"
         },
         "uj8W27NKFyzygPUd": {
           "name": "지역 효과 (2014)",
-          "key": "Regional Effects (2014)"
+          "key": "Regional Effects (2014)",
+          "text": "<p>이 항목에 기술된 것처럼, 전설적 크리처가 단지 존재하는 것만으로도 그 환경에 기묘하고 경이로운 효과를 미칠 수 있다. 지역 효과는 전설적 크리처가 죽으면 갑자기 끝나거나 시간이 지나며 흩어진다.</p>"
         },
         "ULDpodOdTxTTiNEx": {
           "name": "가르기",
-          "key": "Cleave"
+          "key": "Cleave",
+          "text": "<p>이 무기로 한 근접 명중 굴림으로 크리처를 맞히면, 첫 번째 크리처로부터 5피트 이내에 있으면서 당신의 간격 안에도 있는 두 번째 크리처를 상대로 이 무기로 근접 명중 굴림을 할 수 있다. 명중하면 두 번째 크리처는 그 무기의 피해를 받지만, 그 능력 수정치가 음수가 아닌 한 피해에 당신의 능력 수정치를 더하지 않는다. 이 추가 공격은 턴당 한 번만 할 수 있다.</p>"
         },
         "UQ65OwIyGK65eiOK": {
           "name": "조율",
-          "key": "Attunement"
+          "key": "Attunement",
+          "text": "<p>일부 마법 물건은 크리처가 그 마법적 속성을 사용하려면 먼저 물건과 조율이라 불리는 유대를 맺어야 한다. 크리처는 한 번에 최대 세 개의 마법 물건과 조율할 수 있다. 조율이 필요한 물건에 조율하지 않으면, 그 설명에 달리 명시되지 않는 한 비마법적 이점만 얻는다. 예를 들어 조율이 필요한 마법 방패는, 당신이 조율하지 않았다면 일반 방패의 이점만 제공하고 마법적 속성은 전혀 제공하지 않는다.</p><h3>짧은 휴식 동안 조율하기</h3><p>물건에 조율하려면 그 물건과 물리적으로 접촉한 상태로 오직 그 물건에만 집중하며 짧은 휴식을 보내야 한다(이 짧은 휴식은 물건의 속성을 익히는 데 사용한 짧은 휴식과 같을 수 없다). 이 집중은 (무기의 경우) 무기 연습, (마법봉의 경우) 명상, 또는 그 밖의 적절한 활동의 형태를 취할 수 있다. 짧은 휴식이 방해받으면 조율 시도는 실패한다. 그렇지 않으면 짧은 휴식이 끝날 때 당신은 그 마법 물건에 조율되어 그 모든 마법적 능력을 사용할 수 있다.</p><h3>조율 종료하기</h3><p>조율의 전제 조건을 더 이상 충족하지 않거나, 물건이 100피트 넘게 떨어진 채로 24시간 이상 지나거나, 당신이 죽거나, 다른 크리처가 그 물건에 조율하면 그 물건에 대한 당신의 조율이 끝난다. 또한 물건이 저주받지 않은 한, 그 물건에 집중하며 또 한 번의 짧은 휴식을 보내 자발적으로 조율을 종료할 수도 있다.</p>"
         },
         "uQWQpRKQ1kWhuvjZ": {
           "name": "강행군 (2014)",
-          "key": "Forced March (2014)"
+          "key": "Forced March (2014)",
+          "text": "<p><strong>강행군. </strong>이동 속도 표는 캐릭터가 하루에 8시간 이동한다고 가정한다. 캐릭터는 탈진의 위험을 무릅쓰고 그 한계를 넘어 계속 나아갈 수 있다.</p><p>8시간을 초과하는 추가 이동 시간 매 1시간마다, 캐릭터는 자신의 속도에 해당하는 시간 칸에 표시된 거리를 이동하며, 각 캐릭터는 그 시간이 끝날 때 건강 내성 굴림을 해야 한다. DC는 10에 8시간을 초과한 시간 1시간마다 +1이다. 내성 굴림에 실패한 캐릭터는 &amp;Reference[Exhaustion] 1단계를 받는다.</p>"
         },
         "v0UFDQcAt4aVwvxI": {
           "name": "체격",
-          "key": "Size"
+          "key": "Size",
+          "text": "<p>크리처나 물체는 초소형, 소형, 중형, 대형, 거대형, 초대형 중 하나의 크기 범주에 속한다. 크리처의 크기는 전투에서 그 크리처가 차지하는 공간의 크기를 결정한다. 물체의 크기는 그 HP에 영향을 준다.</p><table><caption>크리처 크기와 공간</caption><thead><tr><th><p>크기</p></th><th><p>공간(피트)</p></th><th><p>공간(칸)</p></th></tr></thead><tbody><tr><td><p>초소형</p></td><td><p>2½×2½피트</p></td><td><p>칸당 4</p></td></tr><tr><td><p>소형</p></td><td><p>5×5피트</p></td><td><p>1칸</p></td></tr><tr><td><p>중형</p></td><td><p>5×5피트</p></td><td><p>1칸</p></td></tr><tr><td><p>대형</p></td><td><p>10×10피트</p></td><td><p>4칸(2×2)</p></td></tr><tr><td><p>거대형</p></td><td><p>15×15피트</p></td><td><p>9칸(3×3)</p></td></tr><tr><td><p>초대형</p></td><td><p>20×20피트</p></td><td><p>16칸(4×4)</p></td></tr></tbody></table>"
         },
         "v0WE18nT5SJO8Ft7": {
           "name": "피해 저항과 취약",
-          "key": "Damage Resistance and Vulnerability"
+          "key": "Damage Resistance and Vulnerability",
+          "text": "<p>일부 크리처와 물체는 특정 피해 유형에 대해 저항이나 취약을 가진다. 어떤 피해 유형에 저항이 있으면 그 유형의 피해는 당신에게 절반으로 줄어든다(내림). 어떤 피해 유형에 취약이 있으면 그 유형의 피해는 당신에게 두 배가 된다. 예를 들어 냉기 피해에 저항이 있으면 그러한 피해는 당신에게 절반이 되고, 화염 피해에 취약이 있으면 그러한 피해는 당신에게 두 배가 된다.</p><h3>중첩 없음</h3><p>같은 피해 유형에 영향을 주는 여러 건의 저항이나 취약은 단 한 건으로만 친다. 예를 들어 사령 피해에 대한 저항과 모든 피해에 대한 저항을 함께 가지고 있어도, 사령 피해는 당신에게 절반으로 줄어든다.</p><h3>적용 순서</h3><p>피해에 대한 수정치는 다음 순서로 적용된다. 보너스, 페널티, 배수 같은 조정이 먼저 적용되고, 두 번째로 저항이 적용되며, 세 번째로 취약이 적용된다.</p><p>예를 들어 어떤 크리처가 모든 피해에 대한 저항과 화염 피해에 대한 취약을 가지고 있으며, 모든 피해를 5 줄이는 마법적 오라 안에 있다고 하자. 이 크리처가 화염 피해 28을 받으면, 피해는 먼저 5만큼 줄어들고(23으로), 그다음 크리처의 저항으로 절반이 되고(내림하여 11로), 그다음 취약으로 두 배가 된다(22로).</p>"
         },
         "v3IPyTtqvXqN934s": {
           "name": "지혜",
-          "key": "Wisdom"
+          "key": "Wisdom",
+          "text": "<p>지혜는 통찰력과 정신적 강인함을 측정한다.</p><h3>지혜 판정</h3><p>환경이나 크리처의 행동에서 무언가를 알아채려면 지혜 <strong>판정</strong>을 한다.</p><h3>주문시전 능력치</h3><p>클레릭, 드루이드, 레인저는 지혜를 주문시전 능력치로 사용하며, 이는 자신이 시전하는 주문의 내성 굴림 DC를 결정하는 데 도움이 된다.</p>"
         },
         "VWG9qe8PUNtS28Pw": {
           "name": "포복",
-          "key": "Crawling"
+          "key": "Crawling",
+          "text": "<p>포복하는 동안에는 이동 1피트마다 1피트의 추가 비용이 든다(&amp;Reference[Difficult Terrain]에서는 2피트 추가).</p>"
         },
         "W0eyiV1FBmngb6Qh": {
           "name": "사령술",
-          "key": "Necromancy"
+          "key": "Necromancy",
+          "text": "<p><strong>사령술</strong> 주문은 삶과 죽음을 조작한다.</p>"
         },
         "W7f7PcRubNUMIq2S": {
           "name": "엄폐",
-          "key": "Cover"
+          "key": "Cover",
+          "text": "<p>엄폐는 그 뒤에 있는 대상에게 일정한 정도의 보호를 제공한다. 엄폐에는 세 가지 정도가 있으며, 각각 대상에게 다른 이점을 제공한다.</p><p>@Embed[.hv0J61IAfofuhy3Q inline]</p><p>@Embed[.zAMStUjUrPV10dFm inline]</p><p>@Embed[.BKUAxXuPEzxiEOeL inline]</p><p>두 가지 이상의 엄폐 뒤에 있다면, 대상은 가장 보호력이 높은 정도만 적용받는다. <em>또한 참조:</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{전투}.</p>"
         },
         "wAMCoSlvbZH5G7lS": {
           "name": "이동 나누기",
-          "key": "Breaking Up Your Move"
+          "key": "Breaking Up Your Move",
+          "text": "<p>이동을 나누어, 같은 턴에 취하는 행동, 보조 행동, 대응 전후로 이동의 일부씩을 사용할 수 있다. 예를 들어 속도가 30피트라면, 10피트를 가고 행동을 취한 다음 20피트를 갈 수 있다.</p><p><em><strong>공격 사이의 이동.</strong></em> 턴에 이동하면서 추가 공격 같은 특징을 가지고 있어 공격 행동의 일부로 두 번 이상 공격할 수 있다면, 그 이동의 일부 또는 전부를 그 공격들 사이에 이동하는 데 사용할 수 있다.</p><p><em><strong>여러 속도 사용하기.</strong></em> 두 가지 이상의 속도를 가지고 있다면, 이동할 때 어느 것을 사용할지 선택한다. 이동 도중에 속도를 전환할 수도 있다. 전환할 때마다 이미 이동한 거리를 새 속도에서 빼라. 그 결과가 얼마나 더 이동할 수 있는지를 결정한다. 결과가 0 이하라면 이번 이동 동안 새 속도를 사용할 수 없다. 예를 들어 속도 30과 비행 속도 40을 가지고 있다면, 10피트를 날고, 10피트를 걷고, 공중으로 도약해 20피트를 더 날 수 있다.</p>"
         },
         "Whmua4WYwTPfvjm8": {
           "name": "능력치",
-          "key": "Ability Scores"
+          "key": "Ability Scores",
+          "text": "<p>모든 몬스터는 여섯 가지 능력치와 그에 대응하는 능력치 수정치 및 내성 굴림 수정치를 가진다.</p>"
         },
         "WIA5bs3P45PmO3OS": {
           "name": "공간 (2014)",
-          "key": "Space (2014)"
+          "key": "Space (2014)",
+          "text": "<p>크리처의 공간은 그 크리처가 전투에서 실질적으로 통제하는 영역(피트 단위)이며, 물리적 크기를 나타내는 것이 아니다. 예를 들어 일반적인 중형 크리처는 폭이 5피트가 아니지만, 그만큼 넓은 공간을 통제한다. 만약 중형 홉고블린이 폭 5피트의 출입구에 서 있다면, 홉고블린이 허락하지 않는 한 다른 크리처들은 그곳을 통과할 수 없다.</p><p>크리처의 공간은 또한 효과적으로 싸우기 위해 필요한 영역을 반영한다. 그런 이유로, 전투에서 한 크리처를 둘러쌀 수 있는 크리처의 수에는 한계가 있다. 중형 전투원을 가정할 때, 한 크리처 주위 반경 5피트 안에는 여덟 크리처가 들어갈 수 있다.</p><p>더 큰 크리처는 더 많은 공간을 차지하므로, 그 수는 줄어든다. 다섯 대형 크리처가 중형 이하 크리처 주위에 몰려들면, 다른 누군가가 들어설 공간은 거의 없다. 반면, 초대형 크리처 하나는 최대 스무 중형 크리처가 둘러쌀 수 있다.</p>"
         },
         "wKtOwagDAiNfVoPS": {
           "name": "더 작은 공간에 비집고 들어가기",
-          "key": "Squeezing into a Smaller Space"
+          "key": "Squeezing into a Smaller Space",
+          "text": "<p>크리처는 자신보다 한 체격 작은 크리처에 맞는 좁은 틈을 비집고 통과할 수 있다.</p>"
         },
         "wPFjfRruboxhtL4b": {
           "name": "완전히 가려짐",
-          "key": "Heavily Obscured"
+          "key": "Heavily Obscured",
+          "text": "<p>어둠, 불투명한 안개, 빽빽한 수풀과 같은 <strong>완전히 가려진 </strong>영역은 시야를 완전히 차단한다. 크리처가 그 영역 안의 무언가를 보려 할 때, 사실상 &amp;Reference[condition=blinded] 상태이상을 겪는다.</p>"
         },
         "wvtCeGHgnUmh0cuj": {
           "name": "효과 범위",
-          "key": "Areas of Effect"
+          "key": "Areas of Effect",
+          "text": "<p>천둥파와 같은 일부 주문은 효과 범위라 불리는 영역을 덮으며, 이는 규칙 용어집에 정의되어 있다. 이 영역은 주문이 무엇을 대상으로 하는지 결정한다. 주문의 설명은 그 주문이 효과 범위를 가지는지 명시하며, 효과 범위는 일반적으로 다음 형태 중 하나이다: 원뿔, 입방체, 원통, 발산, 직선, 또는 구체.</p><p>@Embed[.8HxbRceQQUAhyWRt inline]</p><h3>원뿔</h3><p>@Embed[.DqqAOr5JnX71OCOw inline]</p><h3>입방체</h3><p>@Embed[.dRfDIwuaHmUQ06uA inline]</p><h3>원통</h3><p>@Embed[.jZFp4R7tXsIqkiG3 inline]</p><h3>직선</h3><p>@Embed[.6DOoBgg7okm9gBc6 inline]</p><h3>구체</h3><p>@Embed[.npdEWb2egUPnB5Fa inline]</p>"
         },
         "WzWWcTIppki35YvF": {
           "name": "지능",
-          "key": "Intelligence"
+          "key": "Intelligence",
+          "text": "<p>지능은 추론과 기억을 측정한다.</p><h3>지능 판정</h3><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.sLw1gfc1aLg7djmZ inline]</p><h3>주문시전 능력치</h3><p>@Embed[Compendium.dnd5e.rules.JournalEntry.NizgRXLNUqtdlC1s.JournalEntryPage.u46Rva9Nrm9bG1Mu inline]</p>"
         },
         "x5bUdhAD7u5Bt2rg": {
           "name": "붙잡힌 크리처 이동시키기",
-          "key": "Moving a Grappled Creature"
+          "key": "Moving a Grappled Creature",
+          "text": "<p><strong>붙잡힌 크리처 이동시키기. </strong>이동할 때, 붙잡힌 크리처를 끌거나 데리고 함께 움직일 수 있지만, 그 크리처가 당신보다 두 체격 이상 작지 않은 한 당신의 속도는 절반이 된다.</p>"
         },
         "xb3MCjUvopOU4viE": {
           "name": "동물 다루기",
-          "key": "Animal Handling"
+          "key": "Animal Handling",
+          "text": "<p><strong>예시: </strong>동물을 진정시키거나 훈련시키기, 또는 동물이 특정한 방식으로 행동하게 만들기.</p>"
         },
         "xBOHFPuQWeudrfqy": {
           "name": "제한된 사용 (2014)",
-          "key": "Limited Usage (2014)"
+          "key": "Limited Usage (2014)",
+          "text": "<p>일부 특수 능력은 사용 가능한 횟수에 제한이 있다.</p><p><strong>X/일. </strong>“X/일” 표기는 특수 능력을 X번 사용할 수 있으며, 몬스터가 소진한 사용 횟수를 회복하려면 긴 휴식을 마쳐야 함을 의미한다. 예를 들어 “1/일”은 특수 능력을 한 번 사용할 수 있고, 다시 사용하려면 몬스터가 긴 휴식을 마쳐야 함을 뜻한다.</p><p><strong>재충전 X–Y. </strong>“재충전 X–Y” 표기는 몬스터가 특수 능력을 한 번 사용할 수 있으며, 그 후 전투의 매 라운드마다 무작위 확률로 재충전될 수 있음을 의미한다. 몬스터의 각 턴이 시작될 때 d6을 굴린다. 그 결과가 재충전 표기의 숫자 중 하나라면, 몬스터는 그 특수 능력의 사용 횟수를 회복한다. 이 능력은 또한 몬스터가 짧은 휴식이나 긴 휴식을 마칠 때 재충전된다.</p><p>예를 들어 “재충전 5–6”은 몬스터가 특수 능력을 한 번 사용할 수 있음을 뜻한다. 그 후 몬스터의 턴이 시작될 때 d6에서 5 또는 6이 나오면 그 능력의 사용 횟수를 회복한다.</p><p><strong>짧은 휴식 또는 긴 휴식 후 재충전. </strong>이 표기는 몬스터가 특수 능력을 한 번 사용할 수 있으며, 다시 사용하려면 짧은 휴식이나 긴 휴식을 마쳐야 함을 의미한다.</p>"
         },
         "xeHthAF9lxfn2tII": {
           "name": "구성요소",
-          "key": "Components"
+          "key": "Components",
+          "text": "<p>주문의 구성요소는 주문시전자가 그 주문을 시전하기 위해 충족해야 하는 물리적 요구 조건이다. 각 주문의 설명은 그 주문이 음성(V), 동작(S), 또는 물질(M) 구성요소를 요구하는지 나타낸다. 주문시전자가 주문의 구성요소 중 하나 이상을 제공할 수 없다면, 그 주문을 시전할 수 없다.</p><h3>음성 (V)</h3><p>@Embed[.6UXTNWMCQ0nSlwwx inline]</p><h3>동작 (S)</h3><p>@Embed[.qwUNgUNilEmZkSC9 inline]</p><h3>물질 (M)</h3><p>@Embed[.AeH5eDS4YeM9RETC inline]</p>"
         },
         "xJjJ4lhymAYXAOvO": {
           "name": "비무장 공격",
-          "key": "Unarmed Strike"
+          "key": "Unarmed Strike",
+          "text": "<p>근접 공격을 할 때 무기를 사용하는 대신, 주먹질, 발차기, 박치기, 또는 그와 유사한 강력한 타격을 가할 수 있다. 게임 용어로 이는 비무장 공격이다. 즉, 자신의 몸을 사용하여 5피트 이내의 대상에게 피해를 주거나, 붙잡거나, 밀어내는 근접 공격이다.</p><p>비무장 공격을 사용할 때마다, 그 효과로 다음 선택지 중 하나를 고른다.</p><p><em><strong>피해.</strong></em> 대상에게 명중 굴림을 한다. 굴림에 더하는 보너스는 당신의 근력 수정치에 숙련 보너스를 더한 값과 같다. 명중하면, 대상은 1에 당신의 근력 수정치를 더한 값과 같은 타격 피해를 입는다.</p><p><em><strong>붙잡기.</strong></em> 대상은 근력 또는 민첩 내성 굴림(대상이 선택)에 성공해야 하며, 그렇지 못하면 &amp;reference[Grappled] 상태이상을 갖는다. 내성 굴림과 모든 탈출 시도의 DC는 8에 당신의 근력 수정치와 숙련 보너스를 더한 값과 같다. 이 붙잡기는 대상이 당신보다 한 체격 이상 크지 않고, 당신이 대상을 붙잡을 빈 손이 있을 때만 가능하다. <em>참조:</em> &amp;reference[Grappling].</p><p><em><strong>밀어내기.</strong></em> 대상은 근력 또는 민첩 내성 굴림(대상이 선택)에 성공해야 하며, 그렇지 못하면 당신은 대상을 5피트 밀어내거나 &amp;reference[Prone] 상태이상을 갖게 만든다. 내성 굴림의 DC는 8에 당신의 근력 수정치와 숙련 보너스를 더한 값과 같다. 이 밀어내기는 대상이 당신보다 한 체격 이상 크지 않을 때만 가능하다.</p>"
         },
         "Y0vsJYSWeQcFpJ27": {
           "name": "섭취형",
-          "key": "Ingested"
+          "key": "Ingested",
+          "text": "<p><strong>섭취형.</strong> 크리처는 섭취형 독의 효과를 받으려면 한 회분 전체를 삼켜야 한다. 한 회분은 음식이나 액체에 넣어 전달할 수 있다. DM은 일부만 섭취한 경우 효과가 줄어든다고 결정할 수 있는데, 예를 들어 내성 굴림에 유리를 부여하거나 실패 시 피해를 절반만 입히는 식이다.</p>"
         },
         "Y7nmbQAruWOs7WRM": {
           "name": "조사",
-          "key": "Investigation"
+          "key": "Investigation",
+          "text": "<p><strong>예시:</strong> 책에서 잘 알려지지 않은 정보를 찾거나, 무언가가 어떻게 작동하는지 추론하기.</p>"
         },
         "YAhGI1Pyff166NF9": {
           "name": "물체 수치",
-          "key": "Statistics for Objects"
+          "key": "Statistics for Objects",
+          "text": "<p>물체는 아래 규칙에 따라 공격과 일부 주문으로 피해를 입을 수 있다. 물체가 극도로 약하다면, GM은 크리처가 &amp;Reference[Attack] 또는 &amp;Reference[Utilize] 행동으로 그것을 자동으로 부술 수 있도록 허용할 수 있다.</p><p><em><strong>방어도.</strong></em> 물체 AC 표는 다양한 물질에 대한 AC를 제시한다.</p><table><caption>물체 AC</caption><thead><tr><th><p>AC</p></th><th><p>물질</p></th></tr></thead><tbody><tr><td><p>11</p></td><td><p>천, 종이, 밧줄</p></td></tr><tr><td><p>13</p></td><td><p>수정, 유리, 얼음</p></td></tr><tr><td><p>15</p></td><td><p>나무</p></td></tr><tr><td><p>17</p></td><td><p>돌</p></td></tr><tr><td><p>19</p></td><td><p>철, 강철</p></td></tr><tr><td><p>21</p></td><td><p>미스랄</p></td></tr><tr><td><p>23</p></td><td><p>아다만틴</p></td></tr></tbody></table><p><em><strong>히트 포인트.</strong></em> 물체는 히트 포인트가 0이 되면 파괴된다. 물체 HP 표는 대형 이하의 약한 물체와 견고한 물체에 대한 히트 포인트를 제시한다.</p><table><caption>물체 HP</caption><thead><tr><th><p>체격</p></th><th><p>약함</p></th><th><p>견고함</p></th></tr></thead><tbody><tr><td><p>초소형 (병, 자물쇠)</p></td><td><p>2 (1d4)</p></td><td><p>5 ([[/r 2d4]])</p></td></tr><tr><td><p>소형 (상자, 류트)</p></td><td><p>3 (1d6)</p></td><td><p>10 ([[/r 3d6]])</p></td></tr><tr><td><p>중형 (통, 샹들리에)</p></td><td><p>4 (1d8)</p></td><td><p>18 ([[/r 4d8]])</p></td></tr><tr><td><p>대형 (수레, 식탁)</p></td><td><p>5 (1d10)</p></td><td><p>27 ([[/r 5d10]])</p></td></tr></tbody></table><p><em><strong>거대형 및 초대형 물체.</strong></em> 거대형 또는 초대형 물체의 히트 포인트를 추적하려면, 그것을 대형 이하의 구획으로 나누고 각 구획의 히트 포인트를 따로 추적한다. 물체의 일부를 파괴하는 것이 전체를 붕괴시키는지는 DM이 결정한다.</p><p><em><strong>피해 유형과 물체.</strong></em> 물체는 독성 및 정신 피해에 면역이다. GM은 일부 피해 유형이 물체에 더 효과적이거나 덜 효과적이라고 결정할 수 있다. 예를 들어 타격 피해는 물건을 부수는 데는 효과적이지만 베는 데는 그렇지 않다. 종이나 천으로 된 물체는 화염 피해에 취약할 수 있다.</p><p>@Embed[.9LJZhqvCburpags3 inline]</p>"
         },
         "yg6SRpGNVz9nDW0A": {
           "name": "손재주",
-          "key": "Sleight of Hand"
+          "key": "Sleight of Hand",
+          "text": "<p><strong>예시: </strong>소매치기, 손에 든 물건 숨기기, 또는 손재간 부리기.</p>"
         },
         "YIKbDv4zYqbE5teJ": {
           "name": "정신",
-          "key": "Psychic"
+          "key": "Psychic",
+          "text": "<p><strong>정신. </strong>정신을 찢어발기는 에너지</p>"
         },
         "YmOt8HderKveA19K": {
           "name": "기습",
-          "key": "Surprise"
+          "key": "Surprise",
+          "text": "<p>전투 시작 시 크리처가 무방비로 당하면, 그 크리처는 기습당하며, 이로 인해 선제권 굴림에 &amp;Reference[disadvantage]를 받는다.</p>"
         },
         "yy50qVC1JhPHt4LC": {
           "name": "기괴체",
-          "key": "Aberrations"
+          "key": "Aberrations",
+          "text": "<p class=\"p1\"><strong>기괴체</strong>는 아볼레스나 클로커처럼 완전히 이질적인 존재이다.</p>"
         },
         "z4A8vHSK2pb8YA9X": {
           "name": "방어구를 착용한 채 주문 시전하기",
-          "key": "Casting in Armor"
+          "key": "Casting in Armor",
+          "text": "<p>방어구를 착용한 채 주문을 시전하려면 그 방어구에 대한 훈련이 있어야 한다. 그렇지 않으면 방어구에 너무 방해를 받아 주문을 시전할 수 없다.</p>"
         },
         "zAMStUjUrPV10dFm": {
           "name": "3/4 엄폐",
-          "key": "Three-Quarters Cover"
+          "key": "Three-Quarters Cover",
+          "text": "<p><strong>3/4 엄폐</strong>를 받는 대상은 AC와 민첩 내성 굴림에 +5 보너스를 받는다.</p>"
         },
         "zjEeHCUqfuprfzhY": {
           "name": "포착",
-          "key": "Perception"
+          "key": "Perception",
+          "text": "<p><strong>예시:</strong> 여러 감각을 종합하여 놓치기 쉬운 것을 알아채기.</p>"
         },
         "zRVW8Tvyk6BECjZD": {
           "name": "시전 시간",
-          "key": "Casting Time"
+          "key": "Casting Time",
+          "text": "<p>대부분의 주문은 시전하는 데 마법 행동이 필요하지만, 일부 주문은 보조 행동, 대응, 또는 1분 이상이 필요하다. 주문의 시전 시간 항목은 그중 무엇이 필요한지 명시한다.</p><h3>대응 및 보조 행동 발동조건</h3><p>@Embed[.RP1WL9FXI3aknlxZ inline]</p><h3>더 긴 시전 시간</h3><p>@Embed[.gOAIRFCyPUx42axn inline]</p>"
         },
         "ZWYqwR5xKGfLQH9u": {
           "name": "몬스터 붙잡기 규칙 (2014)",
-          "key": "Grapple Rules for Monsters (2014)"
+          "key": "Grapple Rules for Monsters (2014)",
+          "text": "<p>많은 몬스터는 먹잇감을 신속하게 붙잡는 특수 공격을 갖고 있다. 몬스터가 그러한 공격을 명중시키면, 공격에 달리 명시되지 않는 한 붙잡기 성공 여부를 판정하기 위해 추가 능력 판정을 할 필요가 없다.</p><p>몬스터에게 붙잡힌 크리처는 자신의 행동을 사용하여 탈출을 시도할 수 있다. 그러려면 몬스터의 스텟 블록에 있는 탈출 DC를 상대로 근력(운동) 또는 민첩(곡예) 판정에 성공해야 한다. 탈출 DC가 주어지지 않은 경우, DC는 10 + 몬스터의 근력(운동) 수정치로 간주한다.</p>"
         }
       }
     },
