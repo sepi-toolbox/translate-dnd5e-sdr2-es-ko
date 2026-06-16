@@ -1,25 +1,3 @@
-/* ===== 한국어 폴백 폰트 (Korean fallback fonts) ===== */
-@font-face {
-  font-family: "Nanum Myeongjo";
-  src: url("/modules/translate-dnd5e-sdr2-es/fonts/korean/NanumMyeongjo-Regular.woff2") format("woff2");
-  font-weight: 400; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "Nanum Myeongjo";
-  src: url("/modules/translate-dnd5e-sdr2-es/fonts/korean/NanumMyeongjo-Bold.woff2") format("woff2");
-  font-weight: 700; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "Pretendard";
-  src: url("/modules/translate-dnd5e-sdr2-es/fonts/korean/Pretendard-Regular.woff2") format("woff2");
-  font-weight: 400; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "Pretendard";
-  src: url("/modules/translate-dnd5e-sdr2-es/fonts/korean/Pretendard-Bold.woff2") format("woff2");
-  font-weight: 700; font-style: normal; font-display: swap;
-}
-
 /* POPOUT */
 .uuid-hover-popout {
   position: absolute;

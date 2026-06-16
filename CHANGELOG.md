@@ -18,6 +18,13 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 
 ---
 
+## [2.0.5] - 2026-06-16
+
+### Changed
+- **한국어 번들 폰트 제거, 기본 폰트로 전환** — 본문 나눔명조·UI Pretendard 번들 폰트와 관련 `@font-face`·`font-family` 주입·module.json `fonts` 등록을 제거. 한국어 텍스트는 이제 OS/Foundry 기본 폰트로 렌더된다. (D&D 2024 일지/스탯블록 레이아웃 자체는 유지)
+
+---
+
 ## [2.0.4] - 2026-06-16
 
 ### Fixed

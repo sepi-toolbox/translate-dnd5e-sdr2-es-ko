@@ -54,12 +54,12 @@
 }
 
 .journal-entry-page {
-    font-family: "Bookinsanity", "Nanum Myeongjo", serif !important;
+    font-family: "Bookinsanity", serif !important;
     letter-spacing: 0.02em !important;
 }
 
 .journal-entry-page h1 {
-    font-family: "NodestoCapsCondensed", "Nanum Myeongjo", serif !important;
+    font-family: "NodestoCapsCondensed", serif !important;
     font-weight: normal !important;
 }
 
@@ -68,7 +68,7 @@
 .journal-entry-page h4,
 .journal-entry-page h5,
 .journal-entry-page h6 {
-    font-family: "MrEavesSmallCaps", "Nanum Myeongjo", serif !important;
+    font-family: "MrEavesSmallCaps", serif !important;
     font-weight: normal !important;
 }
 
@@ -77,6 +77,6 @@
 }
 
 .dnd-readaloud p {
-    font-family: "ScalaSans", "Pretendard", sans-serif !important;
+    font-family: "ScalaSans", sans-serif !important;
     letter-spacing: normal !important;
 }
