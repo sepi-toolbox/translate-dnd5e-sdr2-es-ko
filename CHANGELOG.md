@@ -18,6 +18,13 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 
 ---
 
+## [2.0.6] - 2026-06-16
+
+### Fixed
+- **스킬 용어 통일** — 혼용되던 스킬명을 정본으로 통일: 감지→**포착**(Perception, 상시 포착과 일치), 동물 다루기→**동물 조련**(Animal Handling), 비전학→**비전**(Arcana). lang 스킬 라벨 + 컴펜디움 스킬 참조 일괄 수정(동사 "감지하다/감지기" 등은 보존). 비전학 94건·감지(스킬) 86건·동물 조련 15건 치환.
+
+---
+
 ## [2.0.5] - 2026-06-16
 
 ### Changed

@@ -159,7 +159,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -177,7 +177,7 @@
               "name": "인도 (손재주)"
             },
             "qPowjrduxnzKpH8x": {
-              "name": "인도 (감지)"
+              "name": "인도 (포착)"
             },
             "sPkLWVpkJ7NqDQT0": {
               "name": "인도 (운동)"
@@ -208,7 +208,7 @@
         },
         "WQXP1pikBoQMJGEr": {
           "activities": {},
-          "description": "<p>당신은 원하는 다음 신성한 역할 중 하나에 헌신했습니다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 중갑 훈련을 얻습니다.</p><p><strong>단순마술사.</strong> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 추가 소마법 하나를 압니다. 또한, 신성과의 신비로운 연결로 인해 지능 판정(비전학 또는 종교)에 보너스를 받습니다. 보너스는 당신의 지혜 수정치와 같습니다(최소 +1).</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 노트</strong></p><p>레벨업 중에 원하는 옵션을 선택할 수 있습니다.</p></section>",
+          "description": "<p>당신은 원하는 다음 신성한 역할 중 하나에 헌신했습니다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 중갑 훈련을 얻습니다.</p><p><strong>단순마술사.</strong> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 추가 소마법 하나를 압니다. 또한, 신성과의 신비로운 연결로 인해 지능 판정(비전 또는 종교)에 보너스를 받습니다. 보너스는 당신의 지혜 수정치와 같습니다(최소 +1).</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 노트</strong></p><p>레벨업 중에 원하는 옵션을 선택할 수 있습니다.</p></section>",
           "effects": {},
           "name": "신성한 명령",
           "requirements": "클레릭"
@@ -274,7 +274,7 @@
         },
         "iMmQeBNdGSm9eGRT": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있습니다. 그 주제에 대한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능 판정(비전학, 역사, 자연 또는 종교)에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있습니다. 그 주제에 대한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능 판정(비전, 역사, 자연 또는 종교)에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책 (기도서)"
         },
@@ -593,7 +593,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -611,13 +611,13 @@
               "name": "인도 (손재주)"
             },
             "qPowjrduxnzKpH8x": {
-              "name": "인도 (감지)"
+              "name": "인도 (포착)"
             },
             "sPkLWVpkJ7NqDQT0": {
               "name": "인도 (운동)"
             },
             "y6aODSkiubtFt6Ap": {
-              "name": "인도 (동물 다루기)"
+              "name": "인도 (동물 조련)"
             }
           },
           "name": "인도"
@@ -664,7 +664,7 @@
         },
         "WQXP1pikBoQMJGEr": {
           "activities": {},
-          "description": "<p>당신은 다음 신성한 역할 중 하나를 선택하여 자신을 봉헌했다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기에 대한 숙련과 무거운 갑옷에 대한 훈련을 얻는다.</p><p><strong>단순마술사.</strong> 당신은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 소마법을 하나 추가로 안다. 또한, 신성과의 신비로운 연결로 인해 지능(비전학 또는 종교) 판정에 보너스를 얻는다. 이 보너스는 당신의 지혜 수정치와 같다(최소 +1).</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 참고</strong></p><p>레벨이 상승하는 동안 원하는 옵션을 선택할 수 있다.</p></section>",
+          "description": "<p>당신은 다음 신성한 역할 중 하나를 선택하여 자신을 봉헌했다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기에 대한 숙련과 무거운 갑옷에 대한 훈련을 얻는다.</p><p><strong>단순마술사.</strong> 당신은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 소마법을 하나 추가로 안다. 또한, 신성과의 신비로운 연결로 인해 지능(비전 또는 종교) 판정에 보너스를 얻는다. 이 보너스는 당신의 지혜 수정치와 같다(최소 +1).</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 참고</strong></p><p>레벨이 상승하는 동안 원하는 옵션을 선택할 수 있다.</p></section>",
           "effects": {},
           "name": "신성한 명령",
           "requirements": "클레릭"
@@ -765,7 +765,7 @@
         },
         "iMmQeBNdGSm9eGRT": {
           "activities": {},
-          "description": "<p>책은 소설 또는 비소설을 담고 있다. 어떤 주제에 대해 정확한 비소설 책을 참조하면, 그 주제와 관련된 지능(비전학, 역사, 자연 또는 종교) 판정에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책은 소설 또는 비소설을 담고 있다. 어떤 주제에 대해 정확한 비소설 책을 참조하면, 그 주제와 관련된 지능(비전, 역사, 자연 또는 종교) 판정에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책 (기도서)"
         },
@@ -1228,7 +1228,7 @@
               "name": "인도 (손재주)"
             },
             "qPowjrduxnzKpH8x": {
-              "name": "인도 (감지)"
+              "name": "인도 (포착)"
             },
             "sPkLWVpkJ7NqDQT0": {
               "name": "인도 (운동)"
@@ -1310,7 +1310,7 @@
         },
         "WQXP1pikBoQMJGEr": {
           "activities": {},
-          "description": "<p>당신은 다음 신성한 역할 중 하나에 헌신했으며, 선택은 당신에게 달려 있다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 중갑 훈련을 얻는다.</p><p><strong>단순마술사.</strong> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 추가 소마법 하나를 안다. 또한 신성과의 신비로운 연결로 지능(비전학 또는 종교) 판정에 보너스를 얻는다. 보너스는 당신의 지혜 수정치와 같다(최소 +1).</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 참고</strong></p><p>성장하는 동안 선호하는 옵션을 선택할 수 있다.</p></section>",
+          "description": "<p>당신은 다음 신성한 역할 중 하나에 헌신했으며, 선택은 당신에게 달려 있다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 중갑 훈련을 얻는다.</p><p><strong>단순마술사.</strong> @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 추가 소마법 하나를 안다. 또한 신성과의 신비로운 연결로 지능(비전 또는 종교) 판정에 보너스를 얻는다. 보너스는 당신의 지혜 수정치와 같다(최소 +1).</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 참고</strong></p><p>성장하는 동안 선호하는 옵션을 선택할 수 있다.</p></section>",
           "effects": {},
           "name": "신성한 명령",
           "requirements": "클레릭"
@@ -1481,7 +1481,7 @@
         },
         "iMmQeBNdGSm9eGRT": {
           "activities": {},
-          "description": "<p>책에는 소설 또는 비소설이 담겨 있다. 주제에 관해 정확한 비소설 책을 참조하면, 그 주제와 관련된 지능(비전학, 역사, 자연 또는 종교) 판정에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책에는 소설 또는 비소설이 담겨 있다. 주제에 관해 정확한 비소설 책을 참조하면, 그 주제와 관련된 지능(비전, 역사, 자연 또는 종교) 판정에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책 (기도서)"
         },
@@ -2055,7 +2055,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -2073,7 +2073,7 @@
               "name": "인도 (손재주)"
             },
             "qPowjrduxnzKpH8x": {
-              "name": "인도 (감지)"
+              "name": "인도 (포착)"
             },
             "sPkLWVpkJ7NqDQT0": {
               "name": "인도 (운동)"
@@ -2155,7 +2155,7 @@
         },
         "WQXP1pikBoQMJGEr": {
           "activities": {},
-          "description": "<p>당신은 선택한 다음의 신성한 역할 중 하나에 헌신했습니다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받은 당신은 군용 무기 숙련과 중갑옷 훈련을 얻습니다.</p><p><strong>단순마술사.</strong> 당신은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 추가 소마법 하나를 익힙니다. 추가로, 신성과의 신비로운 연결로 인해 지능 판정(비전학 또는 종교)에 보너스를 얻습니다. 이 보너스는 당신의 지혜 수정치(최소 +1)와 같습니다.</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 참고</strong></p><p>성장 과정에서 원하는 옵션을 선택할 수 있습니다.</p></section>",
+          "description": "<p>당신은 선택한 다음의 신성한 역할 중 하나에 헌신했습니다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받은 당신은 군용 무기 숙련과 중갑옷 훈련을 얻습니다.</p><p><strong>단순마술사.</strong> 당신은 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj]{클레릭 주문 목록}에서 추가 소마법 하나를 익힙니다. 추가로, 신성과의 신비로운 연결로 인해 지능 판정(비전 또는 종교)에 보너스를 얻습니다. 이 보너스는 당신의 지혜 수정치(최소 +1)와 같습니다.</p><section class=\"secret\" id=\"secret-mBkdTF86GHVjdNKD\"><p><strong>Foundry 참고</strong></p><p>성장 과정에서 원하는 옵션을 선택할 수 있습니다.</p></section>",
           "effects": {},
           "name": "신성한 명령",
           "requirements": "클레릭"
@@ -2700,7 +2700,7 @@
         },
         "PC4BrUcf3LeplS7g": {
           "activities": {},
-          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 다루기, 비전학, 통찰, 의학, 자연, 감지, 종교 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 배낭}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻는다.</li><li>드루이드 특징 표에 나열된, 드루이드의 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>히트 다이스와 경갑 및 방패 훈련을 얻는다.</li><li>드루이드의 1레벨 특징을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
+          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전, 통찰, 의학, 자연, 포착, 종교 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 배낭}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻는다.</li><li>드루이드 특징 표에 나열된, 드루이드의 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>히트 다이스와 경갑 및 방패 훈련을 얻는다.</li><li>드루이드의 1레벨 특징을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
           "effects": {},
           "name": "드루이드"
         },
@@ -2961,7 +2961,7 @@
         },
         "EPZBzyu35z61qIxw": {
           "activities": {},
-          "description": "<p>너는 다음 중 네가 선택한 신성한 역할 중 하나에 헌신해 왔다.</p><p><strong>자연 마법사.</strong> 드루이드 주문 목록에서 소마법 하나를 추가로 안다. 또한, 자연과의 신비한 연결이 너의 지능(비전학 또는 자연학) 판정에 보너스를 부여한다. 그 보너스는 너의 지혜 수정치와 같다(최소 +1).</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 평갑 훈련을 얻는다.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry 메모</strong></p><p>성장 도중 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>너는 다음 중 네가 선택한 신성한 역할 중 하나에 헌신해 왔다.</p><p><strong>자연 마법사.</strong> 드루이드 주문 목록에서 소마법 하나를 추가로 안다. 또한, 자연과의 신비한 연결이 너의 지능(비전 또는 자연학) 판정에 보너스를 부여한다. 그 보너스는 너의 지혜 수정치와 같다(최소 +1).</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 평갑 훈련을 얻는다.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry 메모</strong></p><p>성장 도중 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "원초적 위계",
           "requirements": "드루이드"
@@ -3045,7 +3045,7 @@
         },
         "PC4BrUcf3LeplS7g": {
           "activities": {},
-          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전학, 통찰, 의학, 자연학, 감지, 종교학 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻는다.</li><li>드루이드 특징 표에 나열된 드루이드 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>드루이드 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스 그리고 경갑과 방패 훈련.</li><li>드루이드 특징 표에 나열된 드루이드 1레벨 특징을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
+          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전, 통찰, 의학, 자연학, 포착, 종교학 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻는다.</li><li>드루이드 특징 표에 나열된 드루이드 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>드루이드 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스 그리고 경갑과 방패 훈련.</li><li>드루이드 특징 표에 나열된 드루이드 1레벨 특징을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
           "effects": {},
           "name": "드루이드"
         },
@@ -3337,7 +3337,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -3507,7 +3507,7 @@
         },
         "EPZBzyu35z61qIxw": {
           "activities": {},
-          "description": "<p>당신은 다음의 신성한 역할 중 하나를 선택하여 헌신했습니다.</p><p><strong>자연 마법사.</strong> 드루이드 주문 목록에서 소마법 하나를 추가로 익힙니다. 또한, 자연과의 신비로운 연결 덕분에 지능(비전학 또는 자연학) 판정에 보너스를 받습니다. 그 보너스는 당신의 지혜 수정치와 같습니다(최소 +1).</p><p><strong>수호자.</strong> 전투 훈련을 받아, 군용 무기 숙련과 평갑 훈련을 얻습니다.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>레벨업 중에 선택하라는 요청을 받게 됩니다.</p></section>",
+          "description": "<p>당신은 다음의 신성한 역할 중 하나를 선택하여 헌신했습니다.</p><p><strong>자연 마법사.</strong> 드루이드 주문 목록에서 소마법 하나를 추가로 익힙니다. 또한, 자연과의 신비로운 연결 덕분에 지능(비전 또는 자연학) 판정에 보너스를 받습니다. 그 보너스는 당신의 지혜 수정치와 같습니다(최소 +1).</p><p><strong>수호자.</strong> 전투 훈련을 받아, 군용 무기 숙련과 평갑 훈련을 얻습니다.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>레벨업 중에 선택하라는 요청을 받게 됩니다.</p></section>",
           "effects": {},
           "name": "태고의 명령",
           "requirements": "드루이드"
@@ -3625,7 +3625,7 @@
         },
         "PC4BrUcf3LeplS7g": {
           "activities": {},
-          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>핵심 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전학, 통찰, 의학, 자연학, 감지, 종교학 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체(다양함)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 배낭}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻습니다.</li><li>드루이드 특징 표에 나열된 드루이드의 1레벨 특징을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>드루이드 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스 그리고 경갑과 방패 훈련.</li><li>드루이드의 1레벨 특징을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하세요.</li></ul>",
+          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>핵심 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전, 통찰, 의학, 자연학, 포착, 종교학 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체(다양함)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 배낭}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻습니다.</li><li>드루이드 특징 표에 나열된 드루이드의 1레벨 특징을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>드루이드 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스 그리고 경갑과 방패 훈련.</li><li>드루이드의 1레벨 특징을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하세요.</li></ul>",
           "effects": {},
           "name": "드루이드"
         },
@@ -4005,7 +4005,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -4023,13 +4023,13 @@
               "name": "인도 (손재주)"
             },
             "qPowjrduxnzKpH8x": {
-              "name": "인도 (감지)"
+              "name": "인도 (포착)"
             },
             "sPkLWVpkJ7NqDQT0": {
               "name": "인도 (운동)"
             },
             "y6aODSkiubtFt6Ap": {
-              "name": "인도 (동물 다루기)"
+              "name": "인도 (동물 조련)"
             }
           },
           "name": "인도"
@@ -4200,7 +4200,7 @@
         },
         "EPZBzyu35z61qIxw": {
           "activities": {},
-          "description": "<p>당신은 다음 신성한 역할 중 하나를 선택해 헌신했다.</p><p><strong>마법사.</strong> 드루이드 주문 목록에서 소마법 하나를 추가로 안다. 또한 자연과의 신비로운 연결 덕분에 지능(비전학 또는 자연학) 판정에 보너스를 얻는다. 그 보너스는 당신의 지혜 수정치(최소 +1)와 같다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 평갑 갑옷 훈련을 얻는다.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>레벨 상승 중에 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>당신은 다음 신성한 역할 중 하나를 선택해 헌신했다.</p><p><strong>마법사.</strong> 드루이드 주문 목록에서 소마법 하나를 추가로 안다. 또한 자연과의 신비로운 연결 덕분에 지능(비전 또는 자연학) 판정에 보너스를 얻는다. 그 보너스는 당신의 지혜 수정치(최소 +1)와 같다.</p><p><strong>수호자.</strong> 전투를 위해 훈련받아, 군용 무기 숙련과 평갑 갑옷 훈련을 얻는다.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>레벨 상승 중에 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "태초의 질서",
           "requirements": "드루이드"
@@ -4328,7 +4328,7 @@
         },
         "PC4BrUcf3LeplS7g": {
           "activities": {},
-          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전학, 통찰, 의학, 자연학, 감지, 종교학 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>갑옷 훈련</strong></p></th><td><p>경갑 갑옷과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻는다.</li><li>드루이드 특성 표에 나오는 드루이드 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>드루이드 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스 및 경갑 갑옷과 방패 훈련.</li><li>드루이드 특성 표에 나오는 드루이드 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
+          "description": "<h3>드루이드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>드루이드 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 비전, 통찰, 의학, 자연학, 포착, 종교학 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>도구 숙련</strong></p></th><td><p>약초학 키트</p></td></tr><tr><th scope=\"row\"><p><strong>갑옷 훈련</strong></p></th><td><p>경갑 갑옷과 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbarmShield0000]{방패}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulHerbalismK]{약초학 키트}, 그리고 [[/award 9GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbdrdDruid00000 inline classes=\"free-rules-embed\"]</p><h2>드루이드가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>드루이드 기본 특성 표의 모든 특성을 얻는다.</li><li>드루이드 특성 표에 나오는 드루이드 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>드루이드 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스 및 경갑 갑옷과 방패 훈련.</li><li>드루이드 특성 표에 나오는 드루이드 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
           "effects": {},
           "name": "드루이드"
         },
@@ -4787,7 +4787,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -4805,7 +4805,7 @@
               "name": "인도 (손재주)"
             },
             "qPowjrduxnzKpH8x": {
-              "name": "인도 (감지)"
+              "name": "인도 (포착)"
             },
             "sPkLWVpkJ7NqDQT0": {
               "name": "인도 (운동)"
@@ -4888,7 +4888,7 @@
         },
         "7tH6fUs83R4ijKn0": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>크기: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특별한 특성을 지닙니다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>당신은 캐릭터 레벨 3과 5에 도달할 때, 표에 나온 대로 더 높은 레벨의 주문을 익힙니다. 당신은 그 주문을 항상 준비한 상태로 둡니다. 당신은 주문 슬롯을 소모하지 않고 그 주문을 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그런 방식으로 시전하는 능력을 회복합니다. 또한 당신은 적절한 레벨의 보유 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 이 특성으로 시전하는 주문의 주문 시전 특성은 지능, 지혜, 또는 매력입니다(혈통을 선택할 때 특성을 고릅니다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 알고 있습니다. 긴 휴식을 마칠 때마다, 당신은 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{위저드 주문 목록}의 다른 소마법으로 대체할 수 있습니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 종료하기 위해 하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지, 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 잠들게 할 수 없습니다. 당신은 4시간을 트랜스와 유사한 명상으로 보낸다면 그 시간 동안 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지합니다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>크기: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특별한 특성을 지닙니다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>당신은 캐릭터 레벨 3과 5에 도달할 때, 표에 나온 대로 더 높은 레벨의 주문을 익힙니다. 당신은 그 주문을 항상 준비한 상태로 둡니다. 당신은 주문 슬롯을 소모하지 않고 그 주문을 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그런 방식으로 시전하는 능력을 회복합니다. 또한 당신은 적절한 레벨의 보유 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 이 특성으로 시전하는 주문의 주문 시전 특성은 지능, 지혜, 또는 매력입니다(혈통을 선택할 때 특성을 고릅니다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 알고 있습니다. 긴 휴식을 마칠 때마다, 당신은 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{위저드 주문 목록}의 다른 소마법으로 대체할 수 있습니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 종료하기 위해 하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착, 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 잠들게 할 수 없습니다. 당신은 4시간을 트랜스와 유사한 명상으로 보낸다면 그 시간 동안 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지합니다.</p>",
           "effects": {},
           "name": "엘프(하이)"
         },
@@ -4912,7 +4912,7 @@
         },
         "BPahbbr4D0oqYX2P": {
           "activities": {},
-          "description": "<p>당신은 통찰, 감지, 또는 생존 기술에 숙련을 지닙니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하도록 요청받습니다.</p></section>",
+          "description": "<p>당신은 통찰, 포착, 또는 생존 기술에 숙련을 지닙니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하도록 요청받습니다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -5210,7 +5210,7 @@
         },
         "7tH6fUs83R4ijKn0": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음과 같은 특별한 특성을 가집니다.</p><p><strong>암시야.</strong> 당신은 60피트 사거리의 암시야를 가집니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p><strong>요정 혈통.</strong> Charmed 상태를 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 통찰, 감지 또는 생존 중 하나에 숙련을 가집니다.</p><p><strong>트랜스.</strong> 당신은 잠잘 필요가 없으며 마법으로 잠들게 할 수도 없습니다. 트랜스와 유사한 명상에 4시간을 보내면 그 시간 동안 의식을 유지하면서 긴 휴식을 완료할 수 있습니다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음과 같은 특별한 특성을 가집니다.</p><p><strong>암시야.</strong> 당신은 60피트 사거리의 암시야를 가집니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p><strong>요정 혈통.</strong> Charmed 상태를 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 통찰, 포착 또는 생존 중 하나에 숙련을 가집니다.</p><p><strong>트랜스.</strong> 당신은 잠잘 필요가 없으며 마법으로 잠들게 할 수도 없습니다. 트랜스와 유사한 명상에 4시간을 보내면 그 시간 동안 의식을 유지하면서 긴 휴식을 완료할 수 있습니다.</p>",
           "effects": {},
           "name": "엘프, 하이"
         },
@@ -5228,7 +5228,7 @@
         },
         "BPahbbr4D0oqYX2P": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 중 하나에 숙련을 가집니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 됩니다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 중 하나에 숙련을 가집니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 됩니다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -5707,7 +5707,7 @@
         },
         "7tH6fUs83R4ijKn0": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특수 특성을 가집니다.</p><p><strong>암시야.</strong> 당신은 60피트 사정거리의 암시야를 가집니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>당신이 캐릭터 레벨 3과 5에 도달하면, 표에 나타난 대로 상위 주문을 익힙니다. 당신은 항상 그 주문을 준비하고 있습니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그 방식으로 시전하는 능력을 회복합니다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 시전할 수도 있습니다. 지능, 지혜, 또는 매력이 이 특성으로 주문을 시전하기 위한 당신의 능력치입니다(혈통을 선택할 때 능력치를 선택합니다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 소마법 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술}을 알고 있습니다. 긴 휴식을 마칠 때마다, 그것을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{위저드 주문 목록}의 다른 소마법으로 대체할 수 있습니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 종료하기 위한 내성 굴림에서 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지, 또는 생존에 숙련을 가집니다.</p><p><strong>비몽.</strong> 당신은 잠을 잘 필요가 없으며 마법은 당신을 잠들게 할 수 없습니다. 당신이 의식을 유지한 채로 비몽과 유사한 명상에 그 시간을 보낸다면, 당신은 4시간 만에 긴 휴식을 완료할 수 있습니다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특수 특성을 가집니다.</p><p><strong>암시야.</strong> 당신은 60피트 사정거리의 암시야를 가집니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>당신이 캐릭터 레벨 3과 5에 도달하면, 표에 나타난 대로 상위 주문을 익힙니다. 당신은 항상 그 주문을 준비하고 있습니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그 방식으로 시전하는 능력을 회복합니다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 시전할 수도 있습니다. 지능, 지혜, 또는 매력이 이 특성으로 주문을 시전하기 위한 당신의 능력치입니다(혈통을 선택할 때 능력치를 선택합니다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 소마법 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술}을 알고 있습니다. 긴 휴식을 마칠 때마다, 그것을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{위저드 주문 목록}의 다른 소마법으로 대체할 수 있습니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 종료하기 위한 내성 굴림에서 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착, 또는 생존에 숙련을 가집니다.</p><p><strong>비몽.</strong> 당신은 잠을 잘 필요가 없으며 마법은 당신을 잠들게 할 수 없습니다. 당신이 의식을 유지한 채로 비몽과 유사한 명상에 그 시간을 보낸다면, 당신은 4시간 만에 긴 휴식을 완료할 수 있습니다.</p>",
           "effects": {},
           "name": "엘프, 하이"
         },
@@ -6233,7 +6233,7 @@
         },
         "BPahbbr4D0oqYX2P": {
           "activities": {},
-          "description": "<p>당신은 통찰, 감지, 또는 생존 기술에 숙련을 가집니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 노트</strong></p><p>이 종족을 선택한 후 당신의 선택을 묻는 메시지가 표시됩니다.</p></section>",
+          "description": "<p>당신은 통찰, 포착, 또는 생존 기술에 숙련을 가집니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 노트</strong></p><p>이 종족을 선택한 후 당신의 선택을 묻는 메시지가 표시됩니다.</p></section>",
           "effects": {},
           "name": "예민한 감각",
           "requirements": "엘프"
@@ -6410,7 +6410,7 @@
         },
         "7tH6fUs83R4ijKn0": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">고급 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 다음의 특수 특성을 가진다.</p><p><strong>암시야.</strong> 사정거리 60피트의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 자신에게 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나온 대로 상위 레벨의 주문을 익힌다. 항상 그 주문을 준비된 상태로 가진다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그렇게 할 수 있는 능력을 회복한다. 또한 자신이 가진 적절한 주문 슬롯을 사용하여 시전할 수도 있다. 이 특성으로 시전하는 주문에 대해서는 지능, 지혜 또는 매력이 자신의 주문 시전 능력치이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>고급 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 안다. 긴 휴식을 마칠 때마다, 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{위저드 주문 목록}의 다른 소마법으로 교체할 수 있다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><p><strong>황홀경.</strong> 잠잘 필요가 없으며, 마법으로 자신을 잠들게 할 수 없다. 황홀경과 유사한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">고급 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 다음의 특수 특성을 가진다.</p><p><strong>암시야.</strong> 사정거리 60피트의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 자신에게 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나온 대로 상위 레벨의 주문을 익힌다. 항상 그 주문을 준비된 상태로 가진다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마칠 때 그렇게 할 수 있는 능력을 회복한다. 또한 자신이 가진 적절한 주문 슬롯을 사용하여 시전할 수도 있다. 이 특성으로 시전하는 주문에 대해서는 지능, 지혜 또는 매력이 자신의 주문 시전 능력치이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>고급 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 안다. 긴 휴식을 마칠 때마다, 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{위저드 주문 목록}의 다른 소마법으로 교체할 수 있다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><p><strong>황홀경.</strong> 잠잘 필요가 없으며, 마법으로 자신을 잠들게 할 수 없다. 황홀경과 유사한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
           "effects": {},
           "name": "엘프, 고급"
         },
@@ -6428,7 +6428,7 @@
         },
         "BPahbbr4D0oqYX2P": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 고르라는 요청을 받게 됩니다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 고르라는 요청을 받게 됩니다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -7993,7 +7993,7 @@
         },
         "ffwiR8N4kIQoLIFM": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 근력, 건강, 매력</p><p><strong>재주:</strong> 경계</p><p><strong>기술 숙련:</strong> 동물 다루기, 생존</p><p><strong>도구 숙련:</strong> <em>장인의 도구 중 한 종류 선택</em></p><p><strong>장비:</strong> <em>A 또는 B 선택: </em>(A) 장인의 도구(위와 동일), @UUID[Compendium.dnd5e.equipment24.Item.phbagClothesTrav]{여행자의 의상}, [[/award 32gp]] 또는 (B) [[/award 50gp]]</p>",
+          "description": "<p><strong>능력치:</strong> 근력, 건강, 매력</p><p><strong>재주:</strong> 경계</p><p><strong>기술 숙련:</strong> 동물 조련, 생존</p><p><strong>도구 숙련:</strong> <em>장인의 도구 중 한 종류 선택</em></p><p><strong>장비:</strong> <em>A 또는 B 선택: </em>(A) 장인의 도구(위와 동일), @UUID[Compendium.dnd5e.equipment24.Item.phbagClothesTrav]{여행자의 의상}, [[/award 32gp]] 또는 (B) [[/award 50gp]]</p>",
           "effects": {},
           "name": "지역 영웅"
         },
@@ -8654,7 +8654,7 @@
         },
         "ffwiR8N4kIQoLIFM": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 근력, 건강, 매력</p><p><strong>재주:</strong> 경계</p><p><strong>기술 숙련:</strong> 동물 다루기, 생존</p><p><strong>도구 숙련:</strong> <em>장인 도구 한 종류를 선택</em></p><p><strong>장비:</strong> <em>A 또는 B를 선택: </em>(A) 장인 도구(위와 동일), @UUID[Compendium.dnd5e.equipment24.Item.phbagClothesTrav]{여행자의 의상}, [[/award 32gp]] 또는 (B) [[/award 50gp]]</p>",
+          "description": "<p><strong>능력치:</strong> 근력, 건강, 매력</p><p><strong>재주:</strong> 경계</p><p><strong>기술 숙련:</strong> 동물 조련, 생존</p><p><strong>도구 숙련:</strong> <em>장인 도구 한 종류를 선택</em></p><p><strong>장비:</strong> <em>A 또는 B를 선택: </em>(A) 장인 도구(위와 동일), @UUID[Compendium.dnd5e.equipment24.Item.phbagClothesTrav]{여행자의 의상}, [[/award 32gp]] 또는 (B) [[/award 50gp]]</p>",
           "effects": {},
           "name": "지역 챔피언"
         },
@@ -8989,7 +8989,7 @@
         },
         "7nHPYFob0vjlhbfL": {
           "activities": {},
-          "description": "<h3>바바리안 기본 특징</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>핵심 능력치</p></th><td><p>근력</p></td></tr><tr><th><p><strong>히트 다이스</strong></p></th><td><p>바바리안 레벨당 D12</p></td></tr><tr><th><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 다루기, 운동, 위협, 자연, 감지, 생존</p></td></tr><tr><th><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑, 방패</p></td></tr><tr><th><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{대형 도끼}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{손도끼} 4개, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, 그리고 [[/award 15GP]]; 또는 (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>바바리안이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>바바리안 기본 특징 표의 모든 특징을 얻는다.</li><li>바바리안 특징 표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>바바리안 기본 특징 표에서 다음 특징을 얻는다: 히트 다이스, 군용 무기 숙련, 방패 훈련.</li><li>바바리안 특징 표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul>",
+          "description": "<h3>바바리안 기본 특징</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>핵심 능력치</p></th><td><p>근력</p></td></tr><tr><th><p><strong>히트 다이스</strong></p></th><td><p>바바리안 레벨당 D12</p></td></tr><tr><th><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 운동, 위협, 자연, 포착, 생존</p></td></tr><tr><th><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑, 방패</p></td></tr><tr><th><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{대형 도끼}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{손도끼} 4개, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, 그리고 [[/award 15GP]]; 또는 (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>바바리안이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>바바리안 기본 특징 표의 모든 특징을 얻는다.</li><li>바바리안 특징 표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>바바리안 기본 특징 표에서 다음 특징을 얻는다: 히트 다이스, 군용 무기 숙련, 방패 훈련.</li><li>바바리안 특징 표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul>",
           "effects": {},
           "name": "바바리안"
         },
@@ -9155,7 +9155,7 @@
         },
         "32AkX6in3z423w8o": {
           "activities": {},
-          "description": "<p>1레벨 바바리안이 선택할 수 있는 목록에서 당신이 선택한 다른 기술 한 가지에 숙련을 얻는다.</p><p>또한, 당신의 분노가 활성화된 동안에는 특정 작업을 시도할 때 원시의 힘을 끌어낼 수 있다. 다음 기술 중 하나를 사용해 능력 판정을 할 때마다, 일반적으로는 다른 능력치를 사용하더라도 근력 판정으로 수행할 수 있다: 곡예, 위협, 감지, 은신 또는 생존. 이 능력을 사용할 때, 당신의 근력은 당신을 통해 흐르는 원시의 힘을 나타내며, 당신의 민첩성, 존재감, 감각을 예리하게 한다.</p><section class=\"secret\" id=\"secret-himIRZuFGInNkZgU\"><p><strong>Foundry 참고</strong></p><p>이 특성에는 해당 기술들이 자동으로 당신의 근력 수정치를 사용하도록 하는 활성 효과가 포함되어 있으며, 이는 그 기술과 연관된 일반 능력치의 수정치보다 근력 수정치가 더 높을 경우에 적용된다.</p></section>",
+          "description": "<p>1레벨 바바리안이 선택할 수 있는 목록에서 당신이 선택한 다른 기술 한 가지에 숙련을 얻는다.</p><p>또한, 당신의 분노가 활성화된 동안에는 특정 작업을 시도할 때 원시의 힘을 끌어낼 수 있다. 다음 기술 중 하나를 사용해 능력 판정을 할 때마다, 일반적으로는 다른 능력치를 사용하더라도 근력 판정으로 수행할 수 있다: 곡예, 위협, 포착, 은신 또는 생존. 이 능력을 사용할 때, 당신의 근력은 당신을 통해 흐르는 원시의 힘을 나타내며, 당신의 민첩성, 존재감, 감각을 예리하게 한다.</p><section class=\"secret\" id=\"secret-himIRZuFGInNkZgU\"><p><strong>Foundry 참고</strong></p><p>이 특성에는 해당 기술들이 자동으로 당신의 근력 수정치를 사용하도록 하는 활성 효과가 포함되어 있으며, 이는 그 기술과 연관된 일반 능력치의 수정치보다 근력 수정치가 더 높을 경우에 적용된다.</p></section>",
           "effects": {
             "ufbJRsGGW3REMmJm": {
               "name": "원시의 지식"
@@ -9194,7 +9194,7 @@
         },
         "7nHPYFob0vjlhbfL": {
           "activities": {},
-          "description": "<h3>바바리안 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>근력</p></td></tr><tr><th><p><strong>히트 다이스</strong></p></th><td><p>바바리안 레벨당 D12</p></td></tr><tr><th><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 건강</p></td></tr><tr><th><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 운동, 위협, 자연, 감지 또는 생존</p></td></tr><tr><th><p><strong>무기 숙련</strong></p></th><td><p>단순 및 군용 무기</p></td></tr><tr><th><p><strong>방어구 훈련</strong></p></th><td><p>경갑 및 평갑 방어구와 방패</p></td></tr><tr><th><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{대형 도끼}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{손도끼} 4개, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, 그리고 [[/award 15GP]]; 또는 (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>바바리안이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>바바리안 기본 특성표의 모든 특성을 얻는다.</li><li>바바리안 특성표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>바바리안 기본 특성표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 방패 훈련.</li><li>바바리안 특성표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul>",
+          "description": "<h3>바바리안 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>근력</p></td></tr><tr><th><p><strong>히트 다이스</strong></p></th><td><p>바바리안 레벨당 D12</p></td></tr><tr><th><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 건강</p></td></tr><tr><th><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 운동, 위협, 자연, 포착 또는 생존</p></td></tr><tr><th><p><strong>무기 숙련</strong></p></th><td><p>단순 및 군용 무기</p></td></tr><tr><th><p><strong>방어구 훈련</strong></p></th><td><p>경갑 및 평갑 방어구와 방패</p></td></tr><tr><th><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{대형 도끼}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{손도끼} 4개, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, 그리고 [[/award 15GP]]; 또는 (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>바바리안이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>바바리안 기본 특성표의 모든 특성을 얻는다.</li><li>바바리안 특성표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>바바리안 기본 특성표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 방패 훈련.</li><li>바바리안 특성표에 표시된 바바리안 1레벨 특징을 얻는다.</li></ul>",
           "effects": {},
           "name": "바바리안"
         },
@@ -9435,7 +9435,7 @@
         },
         "32AkX6in3z423w8o": {
           "activities": {},
-          "description": "<p>1레벨 바바리안이 선택할 수 있는 목록에서 당신이 선택한 다른 기술 하나에 숙련을 얻는다.</p><p>또한, 당신의 분노가 활성화되어 있는 동안에는 특정 작업을 시도할 때 원시의 힘을 끌어낼 수 있다. 다음 기술 중 하나를 사용하여 능력 판정을 할 때마다, 보통은 다른 능력치를 사용하더라도 이를 근력 판정으로 할 수 있다: 곡예, 위협, 감지, 은신 또는 생존. 이 능력을 사용할 때, 당신의 근력은 당신을 통해 흐르는 원시의 힘을 나타내며, 당신의 민첩성과 자세, 감각을 예리하게 다듬는다.</p><section class=\"secret\" id=\"secret-himIRZuFGInNkZgU\"><p><strong>Foundry 참고</strong></p><p>이 특성에는 해당 기술이 일반적으로 연결된 능력치보다 근력 수정치가 더 높을 경우 자동으로 근력 수정치를 사용하도록 하는 액티브 이펙트가 포함되어 있다.</p></section>",
+          "description": "<p>1레벨 바바리안이 선택할 수 있는 목록에서 당신이 선택한 다른 기술 하나에 숙련을 얻는다.</p><p>또한, 당신의 분노가 활성화되어 있는 동안에는 특정 작업을 시도할 때 원시의 힘을 끌어낼 수 있다. 다음 기술 중 하나를 사용하여 능력 판정을 할 때마다, 보통은 다른 능력치를 사용하더라도 이를 근력 판정으로 할 수 있다: 곡예, 위협, 포착, 은신 또는 생존. 이 능력을 사용할 때, 당신의 근력은 당신을 통해 흐르는 원시의 힘을 나타내며, 당신의 민첩성과 자세, 감각을 예리하게 다듬는다.</p><section class=\"secret\" id=\"secret-himIRZuFGInNkZgU\"><p><strong>Foundry 참고</strong></p><p>이 특성에는 해당 기술이 일반적으로 연결된 능력치보다 근력 수정치가 더 높을 경우 자동으로 근력 수정치를 사용하도록 하는 액티브 이펙트가 포함되어 있다.</p></section>",
           "effects": {
             "ufbJRsGGW3REMmJm": {
               "name": "원시의 지식"
@@ -9875,7 +9875,7 @@
         },
         "32AkX6in3z423w8o": {
           "activities": {},
-          "description": "<p>1레벨 바바리안에게 제공되는 기술 목록 중에서 당신이 선택한 다른 기술 하나에 숙련을 얻습니다.</p><p>또한 당신의 분노가 활성화되어 있는 동안 특정 작업을 시도할 때 원시의 힘을 발휘할 수 있습니다. 다음 기술 중 하나를 사용하여 능력 판정을 할 때마다, 평소에는 다른 능력치를 사용하더라도 그것을 근력 판정으로 할 수 있습니다: 곡예, 위협, 감지, 은신 또는 생존. 이 능력을 사용할 때, 당신의 근력은 당신의 몸을 타고 흐르며 민첩성과 존재감, 감각을 예리하게 다듬는 원시의 힘을 나타냅니다.</p><section class=\"secret\" id=\"secret-himIRZuFGInNkZgU\"><p><strong>Foundry 참고</strong></p><p>이 특징에는 해당 기술들이 당신의 근력 수정치가 그 기술에 연관된 일반 능력치보다 높을 경우 자동으로 근력 수정치를 사용하게 하는 활성 효과가 포함되어 있습니다.</p></section>",
+          "description": "<p>1레벨 바바리안에게 제공되는 기술 목록 중에서 당신이 선택한 다른 기술 하나에 숙련을 얻습니다.</p><p>또한 당신의 분노가 활성화되어 있는 동안 특정 작업을 시도할 때 원시의 힘을 발휘할 수 있습니다. 다음 기술 중 하나를 사용하여 능력 판정을 할 때마다, 평소에는 다른 능력치를 사용하더라도 그것을 근력 판정으로 할 수 있습니다: 곡예, 위협, 포착, 은신 또는 생존. 이 능력을 사용할 때, 당신의 근력은 당신의 몸을 타고 흐르며 민첩성과 존재감, 감각을 예리하게 다듬는 원시의 힘을 나타냅니다.</p><section class=\"secret\" id=\"secret-himIRZuFGInNkZgU\"><p><strong>Foundry 참고</strong></p><p>이 특징에는 해당 기술들이 당신의 근력 수정치가 그 기술에 연관된 일반 능력치보다 높을 경우 자동으로 근력 수정치를 사용하게 하는 활성 효과가 포함되어 있습니다.</p></section>",
           "effects": {
             "ufbJRsGGW3REMmJm": {
               "name": "원시의 지식"
@@ -9930,7 +9930,7 @@
         },
         "7nHPYFob0vjlhbfL": {
           "activities": {},
-          "description": "<h3>바바리안 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>근력</p></td></tr><tr><th><p><strong>히트 다이스</strong></p></th><td><p>바바리안 레벨당 d12</p></td></tr><tr><th><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 운동, 위협, 자연, 감지 또는 생존</p></td></tr><tr><th><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑, 그리고 방패</p></td></tr><tr><th><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{대형 도끼}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{손도끼} 4개, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 및 [[/award 15GP]]; 또는 (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>바바리안이 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>바바리안 기본 특성표의 모든 특성을 얻습니다.</li><li>바바리안 특성표에 나타나는 바바리안 1레벨 특징을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>바바리안 기본 특성표에서 다음 특성을 얻습니다: 히트 다이스, 군용 무기 숙련, 방패 훈련.</li><li>바바리안 특성표에 나타나는 바바리안 1레벨 특징을 얻습니다.</li></ul>",
+          "description": "<h3>바바리안 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>근력</p></td></tr><tr><th><p><strong>히트 다이스</strong></p></th><td><p>바바리안 레벨당 d12</p></td></tr><tr><th><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 동물 조련, 운동, 위협, 자연, 포착 또는 생존</p></td></tr><tr><th><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑, 그리고 방패</p></td></tr><tr><th><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreataxe00]{대형 도끼}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepHandaxe000]{손도끼} 4개, @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 및 [[/award 15GP]]; 또는 (B) [[/award 75GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbbrbBarbarian0 inline classes=\"free-rules-embed\"]</p><h2>바바리안이 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>바바리안 기본 특성표의 모든 특성을 얻습니다.</li><li>바바리안 특성표에 나타나는 바바리안 1레벨 특징을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>바바리안 기본 특성표에서 다음 특성을 얻습니다: 히트 다이스, 군용 무기 숙련, 방패 훈련.</li><li>바바리안 특성표에 나타나는 바바리안 1레벨 특징을 얻습니다.</li></ul>",
           "effects": {},
           "name": "바바리안"
         },
@@ -10380,7 +10380,7 @@
         },
         "54kCbZAOM89Nbgt0": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 매력, 건강, 지능</p><p><strong>재주:</strong> 마법 입문 (위저드)</p><p><strong>기술 숙련:</strong> 비전학, 역사학</p><p><strong>도구 숙련:</strong> 연금술사의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000]{잉크 펜}, @UUID[Compendium.dnd5e.equipment24.Item.phbagInk00000000]{잉크}, @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (악마), [[/award 13gp]]; 또는 (B) [[/award 50gp]]</p>",
+          "description": "<p><strong>능력치:</strong> 매력, 건강, 지능</p><p><strong>재주:</strong> 마법 입문 (위저드)</p><p><strong>기술 숙련:</strong> 비전, 역사학</p><p><strong>도구 숙련:</strong> 연금술사의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000]{잉크 펜}, @UUID[Compendium.dnd5e.equipment24.Item.phbagInk00000000]{잉크}, @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (악마), [[/award 13gp]]; 또는 (B) [[/award 50gp]]</p>",
           "effects": {},
           "name": "악마학자"
         },
@@ -10498,7 +10498,7 @@
         },
         "WENNRbwQWmHquB6C": {
           "activities": {},
-          "description": "<h3>소서러 기본 특징</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 기만, 통찰, 위협, 설득, 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미}, 그리고 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러 기본 특징표의 모든 특징을 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{소서러 특징표}에 나열된 소서러 1레벨 특징을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러 기본 특징표의 히트 다이스를 얻습니다.</li><li>소서러 특징표에 나열된 소서러 1레벨 특징을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하세요.</li></ul>",
+          "description": "<h3>소서러 기본 특징</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 기만, 통찰, 위협, 설득, 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미}, 그리고 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기 …</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러 기본 특징표의 모든 특징을 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{소서러 특징표}에 나열된 소서러 1레벨 특징을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러 기본 특징표의 히트 다이스를 얻습니다.</li><li>소서러 특징표에 나열된 소서러 1레벨 특징을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하세요.</li></ul>",
           "effects": {},
           "name": "소서러"
         },
@@ -10605,7 +10605,7 @@
         },
         "sccUk1qhcQVwPBnK": {
           "activities": {},
-          "description": "<p>책에는 픽션이나 논픽션이 담겨 있습니다. 어떤 주제에 대해 정확한 논픽션 책을 참고하면, 그 주제에 대해 하는 지능(비전학, 역사학, 자연학, 또는 종교학) 판정에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책에는 픽션이나 논픽션이 담겨 있습니다. 어떤 주제에 대해 정확한 논픽션 책을 참고하면, 그 주제에 대해 하는 지능(비전, 역사학, 자연학, 또는 종교학) 판정에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책 (악마)"
         },
@@ -10671,7 +10671,7 @@
         },
         "54kCbZAOM89Nbgt0": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 매력, 건강, 지능</p><p><strong>재주:</strong> 마법 입문(위저드)</p><p><strong>기술 숙련:</strong> 비전학, 역사학</p><p><strong>도구 숙련:</strong> 연금술사의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInk00000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00] (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000] (악마), [[/award 13gp]] 또는 (B) [[/award 50gp]]</p>",
+          "description": "<p><strong>능력치:</strong> 매력, 건강, 지능</p><p><strong>재주:</strong> 마법 입문(위저드)</p><p><strong>기술 숙련:</strong> 비전, 역사학</p><p><strong>도구 숙련:</strong> 연금술사의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInk00000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00] (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000] (악마), [[/award 13gp]] 또는 (B) [[/award 50gp]]</p>",
           "effects": {},
           "name": "악마학자"
         },
@@ -10869,7 +10869,7 @@
         },
         "WENNRbwQWmHquB6C": {
           "activities": {},
-          "description": "<h3>소서러 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 d6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 기만, 통찰, 위협, 설득 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭} 및 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러 기본 특성 표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{소서러 특성 표}에 나열된 소서러의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러 기본 특성 표의 히트 다이스를 얻는다.</li><li>소서러 특성 표에 나열된 소서러의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
+          "description": "<h3>소서러 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 d6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 기만, 통찰, 위협, 설득 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭} 및 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러 기본 특성 표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{소서러 특성 표}에 나열된 소서러의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러 기본 특성 표의 히트 다이스를 얻는다.</li><li>소서러 특성 표에 나열된 소서러의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
           "effects": {},
           "name": "소서러"
         },
@@ -11500,7 +11500,7 @@
         },
         "WENNRbwQWmHquB6C": {
           "activities": {},
-          "description": "<h3>소서러의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 기만, 통찰, 위협, 설득, 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B를 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>소서러 특성 표에 나타나는, 소서러의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러의 기본 특성 표에 있는 히트 다이스를 얻는다.</li><li>소서러의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 멀티클래스 규칙을 참조하라.</li></ul>",
+          "description": "<h3>소서러의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 기만, 통찰, 위협, 설득, 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B를 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>소서러 특성 표에 나타나는, 소서러의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러의 기본 특성 표에 있는 히트 다이스를 얻는다.</li><li>소서러의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 멀티클래스 규칙을 참조하라.</li></ul>",
           "effects": {},
           "name": "소서러"
         },
@@ -12020,7 +12020,7 @@
         },
         "54kCbZAOM89Nbgt0": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 매력, 건강, 지능</p><p><strong>재주:</strong> 마법 입문(위저드)</p><p><strong>기술 숙련:</strong> 비전학, 역사</p><p><strong>도구 숙련:</strong> 연금술사의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInk00000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00] (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000] (악마), [[/award 13gp]]; 또는 (B) [[/award 50gp]]</p>",
+          "description": "<p><strong>능력치:</strong> 매력, 건강, 지능</p><p><strong>재주:</strong> 마법 입문(위저드)</p><p><strong>기술 숙련:</strong> 비전, 역사</p><p><strong>도구 숙련:</strong> 연금술사의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInkPen00000], @UUID[Compendium.dnd5e.equipment24.Item.phbagInk00000000], @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00] (10장), @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000] (악마), [[/award 13gp]]; 또는 (B) [[/award 50gp]]</p>",
           "effects": {},
           "name": "마족학자"
         },
@@ -12409,7 +12409,7 @@
         },
         "WENNRbwQWmHquB6C": {
           "activities": {},
-          "description": "<h3>소서러 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 기만, 통찰, 위협, 설득 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러 기본 특성 표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{소서러 특성 표}에 나열된 소서러 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러 기본 특성 표에서 히트 다이스를 얻는다.</li><li>소서러 특성 표에 나열된 소서러 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
+          "description": "<h3>소서러 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>소서러 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>건강과 매력</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 기만, 통찰, 위협, 설득 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepSpear00000]{창}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcCrystal000]{수정}), @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 28GP]]; 또는 (B) [[/award 50GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbscrSorcerer00 inline classes=\"free-rules-embed\"]</p><h2>소서러가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>소서러 기본 특성 표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbSorcerer00000.JournalEntryPage.fsqRUA4acVXH4I3O#class-features]{소서러 특성 표}에 나열된 소서러 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>소서러 기본 특성 표에서 히트 다이스를 얻는다.</li><li>소서러 특성 표에 나열된 소서러 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
           "effects": {},
           "name": "소서러"
         },
@@ -12826,7 +12826,7 @@
         },
         "sccUk1qhcQVwPBnK": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 대한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능(비전학, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 대한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능(비전, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책 (악마)"
         },
@@ -12932,7 +12932,7 @@
         },
         "BFN4y4b5hEfAFDIR": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설 내용이 담겨 있다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 대해 수행하는 지능 판정(비전학, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책에는 소설이나 비소설 내용이 담겨 있다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 대해 수행하는 지능 판정(비전, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책 (기도서)"
         },
@@ -13089,7 +13089,7 @@
               "name": "인도 (의학)"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도 (비전학)"
+              "name": "인도 (비전)"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도 (통찰)"
@@ -13239,7 +13239,7 @@
         },
         "BFN4y4b5hEfAFDIR": {
           "activities": {},
-          "description": "<p>책에는 소설 또는 비소설이 담겨 있습니다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능 판정(비전학, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻습니다.</p>",
+          "description": "<p>책에는 소설 또는 비소설이 담겨 있습니다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능 판정(비전, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻습니다.</p>",
           "effects": {},
           "name": "책(기도서)"
         },
@@ -13435,7 +13435,7 @@
               "name": "인도: 의학"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도: 비전학"
+              "name": "인도: 비전"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도: 통찰"
@@ -13459,7 +13459,7 @@
               "name": "인도: 운동"
             },
             "y6aODSkiubtFt6Ap": {
-              "name": "인도: 동물 다루기"
+              "name": "인도: 동물 조련"
             }
           },
           "name": "인도"
@@ -13650,7 +13650,7 @@
         },
         "BFN4y4b5hEfAFDIR": {
           "activities": {},
-          "description": "<p>책은 소설이나 비소설을 담고 있습니다. 특정 주제에 대한 정확한 비소설 책을 참고하면, 그 주제에 대해 수행하는 지능 판정(비전학, 역사, 자연 또는 종교)에 +5 보너스를 얻습니다.</p>",
+          "description": "<p>책은 소설이나 비소설을 담고 있습니다. 특정 주제에 대한 정확한 비소설 책을 참고하면, 그 주제에 대해 수행하는 지능 판정(비전, 역사, 자연 또는 종교)에 +5 보너스를 얻습니다.</p>",
           "effects": {},
           "name": "책 (기도서)"
         },
@@ -13888,7 +13888,7 @@
               "name": "인도: 의학"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "인도: 비전학"
+              "name": "인도: 비전"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "인도: 통찰"
@@ -13912,7 +13912,7 @@
               "name": "인도: 운동"
             },
             "y6aODSkiubtFt6Ap": {
-              "name": "인도: 동물 다루기"
+              "name": "인도: 동물 조련"
             }
           },
           "name": "인도"
@@ -14143,7 +14143,7 @@
         },
         "BFN4y4b5hEfAFDIR": {
           "activities": {},
-          "description": "<p>책은 허구 또는 비허구의 내용을 담을 수 있습니다. 주제에 대해 정확한 비허구 책을 참고하면, 그 주제에 대해 수행하는 지능(비전학, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책은 허구 또는 비허구의 내용을 담을 수 있습니다. 주제에 대해 정확한 비허구 책을 참고하면, 그 주제에 대해 수행하는 지능(비전, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책(기도서)"
         },
@@ -14419,7 +14419,7 @@
               "name": "의학 안내"
             },
             "Vlfh8IFOezrSpeBZ": {
-              "name": "비전학 안내"
+              "name": "비전 안내"
             },
             "VsU5vUhMioT9pCwG": {
               "name": "통찰 안내"
@@ -14443,7 +14443,7 @@
               "name": "운동 안내"
             },
             "y6aODSkiubtFt6Ap": {
-              "name": "동물 다루기 안내"
+              "name": "동물 조련 안내"
             }
           },
           "name": "안내"
@@ -14745,7 +14745,7 @@
         },
         "NuNBKjUuSNIRsF9M": {
           "activities": {},
-          "description": "<h3>레인저 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>민첩과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 포인트 주사위</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3개 선택:</em> 동물 조련, 운동, 통찰, 수사, 자연, 감지, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 및 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저 기본 특성표의 모든 특성을 얻는다.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저 기본 특성표에서 다음 특성을 얻는다: 히트 포인트 주사위, 군용 무기 숙련, 레인저 목록에서 선택한 기술 하나의 숙련, 그리고 경갑과 평갑 및 방패의 방어구 훈련.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참고하라.</li></ul>",
+          "description": "<h3>레인저 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>민첩과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 포인트 주사위</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3개 선택:</em> 동물 조련, 운동, 통찰, 수사, 자연, 포착, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 및 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저 기본 특성표의 모든 특성을 얻는다.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저 기본 특성표에서 다음 특성을 얻는다: 히트 포인트 주사위, 군용 무기 숙련, 레인저 목록에서 선택한 기술 하나의 숙련, 그리고 경갑과 평갑 및 방패의 방어구 훈련.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참고하라.</li></ul>",
           "effects": {},
           "name": "레인저"
         },
@@ -14765,7 +14765,7 @@
         },
         "Qx4tiV5PQRuSITm0": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 옵션 하나를 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 옵션 하나를 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "예민한 감각",
           "requirements": "엘프"
@@ -14870,7 +14870,7 @@
         },
         "tFVkCkuuFo4ucCrc": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형 (약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 이 특수 특성들을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 배운다. 그 주문은 항상 준비된 상태이다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 레벨의 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전하기 위한 당신의 주문시전 능력치이다(혈통을 선택할 때 능력치를 선택한다).</p><table><caption>혈통 특성: 숲의 엘프</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 매혹 상태를 방지하거나 종료하기 위해 수행하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예민한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><p><strong>무아지경.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 잠들지 않는다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형 (약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 이 특수 특성들을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 배운다. 그 주문은 항상 준비된 상태이다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 레벨의 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전하기 위한 당신의 주문시전 능력치이다(혈통을 선택할 때 능력치를 선택한다).</p><table><caption>혈통 특성: 숲의 엘프</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 매혹 상태를 방지하거나 종료하기 위해 수행하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예민한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><p><strong>무아지경.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 잠들지 않는다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
           "effects": {},
           "name": "엘프, 숲의 엘프"
         },
@@ -15086,7 +15086,7 @@
         },
         "NuNBKjUuSNIRsF9M": {
           "activities": {},
-          "description": "<h3>레인저 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>민첩과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 포인트 주사위</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3개 선택:</em> 동물 조련, 운동, 통찰, 수사, 자연, 감지, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 및 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저 기본 특성표의 모든 특성을 얻는다.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저 기본 특성표에서 다음 특성을 얻는다: 히트 포인트 주사위, 군용 무기 숙련, 레인저 목록에서 선택한 기술 하나의 숙련, 그리고 경갑과 평갑 및 방패의 방어구 훈련.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참고하라.</li></ul>",
+          "description": "<h3>레인저 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>민첩과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 포인트 주사위</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3개 선택:</em> 동물 조련, 운동, 통찰, 수사, 자연, 포착, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (종류 다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 및 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저 기본 특성표의 모든 특성을 얻는다.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저 기본 특성표에서 다음 특성을 얻는다: 히트 포인트 주사위, 군용 무기 숙련, 레인저 목록에서 선택한 기술 하나의 숙련, 그리고 경갑과 평갑 및 방패의 방어구 훈련.</li><li>레인저 특성표에 나열된 레인저의 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참고하라.</li></ul>",
           "effects": {},
           "name": "레인저"
         },
@@ -15125,7 +15125,7 @@
         },
         "Qx4tiV5PQRuSITm0": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 옵션 하나를 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 옵션 하나를 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "예민한 감각",
           "requirements": "엘프"
@@ -15283,7 +15283,7 @@
         },
         "tFVkCkuuFo4ucCrc": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 다음 특수 특성을 가진다.</p><p><strong>암시야.</strong> 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 배운다. 그 주문은 항상 준비된 상태이다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전하기 위한 당신의 능력치이다(혈통을 선택할 때 능력치를 선택한다).</p><table><caption>숲의 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 공포 상태를 방지하거나 종료하기 위해 수행하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예민한 감각.</strong> 통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><p><strong>무아지경.</strong> 잠을 잘 필요가 없으며 마법으로 잠들지 않는다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 다음 특수 특성을 가진다.</p><p><strong>암시야.</strong> 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 배운다. 그 주문은 항상 준비된 상태이다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 주문 슬롯을 사용해 그 주문을 시전할 수도 있다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전하기 위한 당신의 능력치이다(혈통을 선택할 때 능력치를 선택한다).</p><table><caption>숲의 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 공포 상태를 방지하거나 종료하기 위해 수행하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예민한 감각.</strong> 통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><p><strong>무아지경.</strong> 잠을 잘 필요가 없으며 마법으로 잠들지 않는다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
           "effects": {},
           "name": "엘프, 숲의"
         },
@@ -15581,7 +15581,7 @@
         },
         "NuNBKjUuSNIRsF9M": {
           "activities": {},
-          "description": "<h3>레인저 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>핵심 능력치</strong></p></th><td><p>민첩과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>HP 주사위</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3가지 선택:</em> 동물 다루기, 운동, 통찰, 조사, 자연, 감지, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑, 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체(가변)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 그리고 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저 기본 특성표의 모든 특성을 얻는다.</li><li>레인저 특성표에 나오는 레인저 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저 기본 특성표에서 다음 특성을 얻는다: HP 주사위, 군용 무기 숙련, 레인저 기술 목록에서 당신이 선택한 한 가지 기술의 숙련, 그리고 경갑과 평갑 및 방패 방어구 훈련.</li><li>레인저 특성표에 나오는 레인저 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
+          "description": "<h3>레인저 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>핵심 능력치</strong></p></th><td><p>민첩과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>HP 주사위</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3가지 선택:</em> 동물 조련, 운동, 통찰, 조사, 자연, 포착, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑과 평갑, 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체(가변)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미} 그리고 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저 기본 특성표의 모든 특성을 얻는다.</li><li>레인저 특성표에 나오는 레인저 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저 기본 특성표에서 다음 특성을 얻는다: HP 주사위, 군용 무기 숙련, 레인저 기술 목록에서 당신이 선택한 한 가지 기술의 숙련, 그리고 경갑과 평갑 및 방패 방어구 훈련.</li><li>레인저 특성표에 나오는 레인저 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하라.</li></ul>",
           "effects": {},
           "name": "레인저"
         },
@@ -15626,7 +15626,7 @@
         },
         "Qx4tiV5PQRuSITm0": {
           "activities": {},
-          "description": "<p>당신은 통찰, 감지 또는 생존 기술에 숙련을 가집니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 고르라는 요청을 받게 됩니다.</p></section>",
+          "description": "<p>당신은 통찰, 포착 또는 생존 기술에 숙련을 가집니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 고르라는 요청을 받게 됩니다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -15841,7 +15841,7 @@
         },
         "tFVkCkuuFo4ucCrc": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (키 약 5–6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특별한 특성을 가집니다.</p><p><strong>암시야.</strong> 당신은 사거리 60피트의 암시야를 가집니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비하고 있습니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 능력을 회복합니다. 또한 보유한 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 이 특성으로 주문을 시전하기 위한 능력치는 지능, 지혜 또는 매력입니다(혈통을 선택할 때 능력치를 고릅니다).</p><table><caption>숲의 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가합니다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 압니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 매혹 상태이상을 피하거나 종료시키기 위해 수행하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 가집니다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 당신을 잠들게 할 수 없습니다. 트랜스와 유사한 명상으로 그 시간을 보내면 4시간 만에 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지합니다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (키 약 5–6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특별한 특성을 가집니다.</p><p><strong>암시야.</strong> 당신은 사거리 60피트의 암시야를 가집니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원입니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비하고 있습니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 능력을 회복합니다. 또한 보유한 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 이 특성으로 주문을 시전하기 위한 능력치는 지능, 지혜 또는 매력입니다(혈통을 선택할 때 능력치를 고릅니다).</p><table><caption>숲의 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가합니다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 압니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 매혹 상태이상을 피하거나 종료시키기 위해 수행하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련을 가집니다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 당신을 잠들게 할 수 없습니다. 트랜스와 유사한 명상으로 그 시간을 보내면 4시간 만에 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지합니다.</p>",
           "effects": {},
           "name": "엘프, 숲의"
         },
@@ -16230,7 +16230,7 @@
         },
         "NuNBKjUuSNIRsF9M": {
           "activities": {},
-          "description": "<h3>레인저의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>민첩 및 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3개 선택:</em> 동물 다루기, 운동, 통찰, 조사, 자연, 감지, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 및 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑 및 평갑, 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, 20 @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (가변)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, 그리고 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되는 법…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저의 기본 특성 표에 있는 모든 특성을 얻습니다.</li><li>레인저 특성 표에 나열된 레인저의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저의 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스, 군용 무기 숙련, 레인저 기술 목록에서 선택한 기술 하나의 숙련, 그리고 경갑 및 평갑, 그리고 방패의 방어구 훈련.</li><li>레인저 특성 표에 나열된 레인저의 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하십시오.</li></ul>",
+          "description": "<h3>레인저의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>민첩 및 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>레인저 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>3개 선택:</em> 동물 조련, 운동, 통찰, 조사, 자연, 포착, 은신 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 및 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑 및 평갑, 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, 20 @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살}, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDruidicFocu]{드루이드 매개체 (가변)} (@UUID[Compendium.dnd5e.equipment24.Item.phbdfcSprigofmis]{겨우살이 가지}), @UUID[Compendium.dnd5e.equipment24.Item.phbagExplorersPa]{탐험가의 꾸러미}, 그리고 [[/award 7GP]]; 또는 (B) [[/award 150GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgrRanger0000 inline classes=\"free-rules-embed\"]</p><h2>레인저가 되는 법…</h2><h3>1레벨 캐릭터로서</h3><ul><li>레인저의 기본 특성 표에 있는 모든 특성을 얻습니다.</li><li>레인저 특성 표에 나열된 레인저의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>레인저의 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스, 군용 무기 숙련, 레인저 기술 목록에서 선택한 기술 하나의 숙련, 그리고 경갑 및 평갑, 그리고 방패의 방어구 훈련.</li><li>레인저 특성 표에 나열된 레인저의 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 2장의 멀티클래스 규칙을 참조하십시오.</li></ul>",
           "effects": {},
           "name": "레인저"
         },
@@ -16275,7 +16275,7 @@
         },
         "Qx4tiV5PQRuSITm0": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 기술에 숙련을 갖습니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후에 선택하라는 요청을 받게 됩니다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 기술에 숙련을 갖습니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후에 선택하라는 요청을 받게 됩니다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -16543,7 +16543,7 @@
         },
         "tFVkCkuuFo4ucCrc": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (대략 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특별한 특성을 가진다.</p><p><strong>암시야.</strong> 당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 익힌다. 당신은 그 주문을 항상 준비된 상태로 둔다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있다. 지능, 지혜 또는 매력이 이 주문들을 시전하기 위한 능력치이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>숲의 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가한다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 익힌다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 매혹 상태이상을 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존에 숙련을 가진다.</p><p><strong>몽환경.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 잠들게 할 수 없다. 의식을 유지하는 몽환과 유사한 명상에 4시간을 보내면 그 시간 동안 긴 휴식을 완료할 수 있다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">숲의 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (대략 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음의 특별한 특성을 가진다.</p><p><strong>암시야.</strong> 당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 익힌다. 당신은 그 주문을 항상 준비된 상태로 둔다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있다. 지능, 지혜 또는 매력이 이 주문들을 시전하기 위한 능력치이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>숲의 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가한다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 익힌다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 매혹 상태이상을 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착 또는 생존에 숙련을 가진다.</p><p><strong>몽환경.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 잠들게 할 수 없다. 의식을 유지하는 몽환과 유사한 명상에 4시간을 보내면 그 시간 동안 긴 휴식을 완료할 수 있다.</p>",
           "effects": {},
           "name": "엘프, 숲"
         },
@@ -16735,7 +16735,7 @@
         },
         "QHXDB2W8dIydJ3yE": {
           "activities": {},
-          "description": "<h3>파이터 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사, 통찰, 위협, 설득, 감지 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑, 중갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되기…</h2><h3>레벨 1 캐릭터로서</h3><ul><li>파이터 기본 특성 표의 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 레벨 1 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑·평갑 및 방패 방어구 훈련.</li><li>파이터 특성 표에 나열된 파이터의 레벨 1 특성을 얻는다.</li></ul>",
+          "description": "<h3>파이터 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사, 통찰, 위협, 설득, 포착 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑, 중갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 배낭}, 그리고 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되기…</h2><h3>레벨 1 캐릭터로서</h3><ul><li>파이터 기본 특성 표의 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 레벨 1 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑·평갑 및 방패 방어구 훈련.</li><li>파이터 특성 표에 나열된 파이터의 레벨 1 특성을 얻는다.</li></ul>",
           "effects": {},
           "name": "파이터"
         },
@@ -16972,7 +16972,7 @@
         },
         "QHXDB2W8dIydJ3yE": {
           "activities": {},
-          "description": "<h3>파이터의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사, 통찰, 위협, 설득, 감지 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기 및 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑 및 중갑 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미}, 그리고 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미}, 그리고 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑 및 평갑 방어구 훈련과 방패.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul>",
+          "description": "<h3>파이터의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사, 통찰, 위협, 설득, 포착 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기 및 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑 및 중갑 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미}, 그리고 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미}, 그리고 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑 및 평갑 방어구 훈련과 방패.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul>",
           "effects": {},
           "name": "파이터"
         },
@@ -17265,7 +17265,7 @@
         },
         "QHXDB2W8dIydJ3yE": {
           "activities": {},
-          "description": "<h3>파이터의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 다루기, 운동, 역사, 통찰, 위협, 설득, 감지 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기 및 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑, 중갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 및 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 및 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑 및 평갑과 방패의 방어구 훈련.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul>",
+          "description": "<h3>파이터의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력 및 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사, 통찰, 위협, 설득, 포착 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기 및 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑, 평갑, 중갑 및 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 및 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 및 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터의 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑 및 평갑과 방패의 방어구 훈련.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul>",
           "effects": {},
           "name": "파이터"
         },
@@ -17655,7 +17655,7 @@
         },
         "QHXDB2W8dIydJ3yE": {
           "activities": {},
-          "description": "<h3>파이터 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사학, 통찰, 위협, 설득, 감지 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑옷, 평갑옷, 중갑옷, 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 그리고 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 그리고 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되려면…</h2><h3>1레벨 캐릭터로서</h3><ul><li>파이터 기본 특성 표의 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑옷, 평갑옷, 방패의 방어구 훈련.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul>",
+          "description": "<h3>파이터 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>근력 또는 민첩</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>파이터 레벨당 D10</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>근력과 건강</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 곡예, 동물 조련, 운동, 역사학, 통찰, 위협, 설득, 포착 또는 생존</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기와 군용 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>경갑옷, 평갑옷, 중갑옷, 그리고 방패</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A, B 또는 C 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmChainMail0]{사슬 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepGreatsword]{대검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepFlail00000]{도리깨}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepJavelin000]{투창} 8개, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 그리고 [[/award 4GP]]; (B) @UUID[Compendium.dnd5e.equipment24.Item.phbarmStuddedLea]{징 박힌 가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepScimitar00]{시미터}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepLongbow000]{장궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbagDungeoneers]{던전 탐색자의 꾸러미} 그리고 [[/award 11GP]]; 또는 (C) [[/award 155GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbftrFighter000 inline classes=\"free-rules-embed\"]</p><h2>파이터가 되려면…</h2><h3>1레벨 캐릭터로서</h3><ul><li>파이터 기본 특성 표의 모든 특성을 얻는다.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>파이터 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 군용 무기 숙련, 그리고 경갑옷, 평갑옷, 방패의 방어구 훈련.</li><li>파이터 특성 표에 나열된 파이터의 1레벨 특성을 얻는다.</li></ul>",
           "effects": {},
           "name": "파이터"
         },
@@ -18149,7 +18149,7 @@
         },
         "lH31F7SHJiElCaQI": {
           "activities": {},
-          "description": "<h3>로그 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩과 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4가지 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 감지, 설득, 손속임, 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기와 교묘함 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미}, 그리고 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그 기본 특성 표의 모든 특성을 얻는다.</li><li>로그 특성 표에 나열된 로그 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그 기본 특성 표에서 다음 특성들을 얻는다: 히트 다이스, 로그 목록에서 선택한 기술 하나의 숙련, 도둑 도구 숙련, 그리고 경갑옷 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그 특성 표}에 나열된 로그 1레벨 특성을 얻는다.</li></ul>",
+          "description": "<h3>로그 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩과 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4가지 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 포착, 설득, 손속임, 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기와 교묘함 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미}, 그리고 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그 기본 특성 표의 모든 특성을 얻는다.</li><li>로그 특성 표에 나열된 로그 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그 기본 특성 표에서 다음 특성들을 얻는다: 히트 다이스, 로그 목록에서 선택한 기술 하나의 숙련, 도둑 도구 숙련, 그리고 경갑옷 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그 특성 표}에 나열된 로그 1레벨 특성을 얻는다.</li></ul>",
           "effects": {},
           "name": "로그"
         },
@@ -18264,7 +18264,7 @@
         },
         "CqmrnNL3Ah75KIAB": {
           "activities": {},
-          "description": "<h3>로그의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩 및 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4개 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 감지, 설득, 손재주 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기, 그리고 교묘함 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미} 및 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>로그 특성 표에 나열된 로그의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그의 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 로그 목록에서 당신이 선택한 기술 한 가지의 숙련, 도둑 도구 숙련, 그리고 경갑옷 방어구 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그 특성 표}에 나열된 로그의 1레벨 특성을 얻는다.</li></ul>",
+          "description": "<h3>로그의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩 및 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4개 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 포착, 설득, 손재주 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기, 그리고 교묘함 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미} 및 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>로그 특성 표에 나열된 로그의 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그의 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스, 로그 목록에서 당신이 선택한 기술 한 가지의 숙련, 도둑 도구 숙련, 그리고 경갑옷 방어구 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그 특성 표}에 나열된 로그의 1레벨 특성을 얻는다.</li></ul>",
           "effects": {},
           "name": "로그"
         },
@@ -18618,7 +18618,7 @@
         },
         "CqmrnNL3Ah75KIAB": {
           "activities": {},
-          "description": "<h3>로그 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩 및 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4가지 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 감지, 설득, 요술 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기와 교묘 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미} 및 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그 기본 특성 표의 모든 특성을 얻습니다.</li><li>로그 특성 표에 나열된 로그의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스, 로그 목록에서 당신이 선택한 기술 하나의 숙련, 도둑 도구 숙련, 경갑옷 방어구 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그 특성 표}에 나열된 로그의 1레벨 특성을 얻습니다.</li></ul>",
+          "description": "<h3>로그 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩 및 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4가지 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 포착, 설득, 요술 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기와 교묘 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미} 및 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그 기본 특성 표의 모든 특성을 얻습니다.</li><li>로그 특성 표에 나열된 로그의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스, 로그 목록에서 당신이 선택한 기술 하나의 숙련, 도둑 도구 숙련, 경갑옷 방어구 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그 특성 표}에 나열된 로그의 1레벨 특성을 얻습니다.</li></ul>",
           "effects": {},
           "name": "로그"
         },
@@ -19186,7 +19186,7 @@
         },
         "CqmrnNL3Ah75KIAB": {
           "activities": {},
-          "description": "<h3>로그의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩 및 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4개 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 감지, 설득, 손재주 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기 및 교묘함 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미}, 그리고 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>로그의 특성 표에 나온 로그의 1레벨 특징들을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그의 기본 특성 표에서 다음 특성들을 얻는다: 히트 다이스, 당신이 선택한 로그 목록의 기술 하나에 대한 숙련, 도둑 도구 숙련, 그리고 경갑옷 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그의 특성 표}에 나온 로그의 1레벨 특징들을 얻는다.</li></ul>",
+          "description": "<h3>로그의 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>민첩</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>로그 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>민첩 및 지능</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>4개 선택:</em> 곡예, 운동, 기만, 통찰, 위협, 조사, 포착, 설득, 손재주 또는 은신</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기 및 교묘함 또는 경량 속성을 가진 군용 무기</p></td></tr><tr><th scope=\"row\"><p>도구 숙련</p></th><td><p>도둑 도구</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortsword]{소검}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepShortbow00]{단궁}, @UUID[Compendium.dnd5e.equipment24.Item.phbamoArrows0000]{화살} 20개, @UUID[Compendium.dnd5e.equipment24.Item.phbagQuiver00000]{화살통}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulThievesToo]{도둑 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBurglarsPac]{도둑의 꾸러미}, 그리고 [[/award 8GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbrgeRogue00000 inline classes=\"free-rules-embed\"]</p><h2>로그가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>로그의 기본 특성 표에 있는 모든 특성을 얻는다.</li><li>로그의 특성 표에 나온 로그의 1레벨 특징들을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>로그의 기본 특성 표에서 다음 특성들을 얻는다: 히트 다이스, 당신이 선택한 로그 목록의 기술 하나에 대한 숙련, 도둑 도구 숙련, 그리고 경갑옷 훈련.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbRogue00000000.JournalEntryPage.gJV8iDqdNhRMLi5r#class-features]{로그의 특성 표}에 나온 로그의 1레벨 특징들을 얻는다.</li></ul>",
           "effects": {},
           "name": "로그"
         },
@@ -20037,7 +20037,7 @@
         },
         "IFy0jt1IZ1AdPV0F": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 메모</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 메모</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -20084,7 +20084,7 @@
         },
         "QFBv4dxxy81JvoJv": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 다음과 같은 특별한 특성을 가진다.</p><p><strong>암시야.</strong> 60피트 사정거리의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 초자연적 능력을 부여하는 혈통의 일원이다.</p><p>3레벨과 5레벨 캐릭터 레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 배운다. 그 주문은 항상 준비된 상태다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 능력을 회복한다. 또한 적절한 레벨의 가지고 있는 주문 슬롯을 사용하여 시전할 수도 있다. 지능, 지혜 또는 매력이 이 특성으로 얻은 주문을 위한 주문 시전 능력치다(혈통을 선택할 때 능력치를 정한다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>암시야의 사정거리가 120피트로 증가한다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> &amp;Reference[Charmed] 상태를 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 통찰, 감지 또는 생존에 숙련을 가진다.</p><p><strong>무아지경.</strong> 잠을 잘 필요가 없으며 마법으로도 잠들게 만들 수 없다. 무아지경과 비슷한 명상에 그 시간을 보내면 4시간 만에 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 다음과 같은 특별한 특성을 가진다.</p><p><strong>암시야.</strong> 60피트 사정거리의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 초자연적 능력을 부여하는 혈통의 일원이다.</p><p>3레벨과 5레벨 캐릭터 레벨에 도달하면, 표에 표시된 대로 더 높은 레벨의 주문을 배운다. 그 주문은 항상 준비된 상태다. 주문 슬롯을 소비하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 능력을 회복한다. 또한 적절한 레벨의 가지고 있는 주문 슬롯을 사용하여 시전할 수도 있다. 지능, 지혜 또는 매력이 이 특성으로 얻은 주문을 위한 주문 시전 능력치다(혈통을 선택할 때 능력치를 정한다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>암시야의 사정거리가 120피트로 증가한다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> &amp;Reference[Charmed] 상태를 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 통찰, 포착 또는 생존에 숙련을 가진다.</p><p><strong>무아지경.</strong> 잠을 잘 필요가 없으며 마법으로도 잠들게 만들 수 없다. 무아지경과 비슷한 명상에 그 시간을 보내면 4시간 만에 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
           "effects": {},
           "name": "엘프, 드로우"
         },
@@ -20102,7 +20102,7 @@
         },
         "dO559vHQTab8mqo4": {
           "activities": {},
-          "description": "<p>책은 소설이나 비소설을 담을 수 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 수행하는 지능(비전학, 역사, 자연 또는 종교) 판정에 +5 보너스를 받는다.</p>",
+          "description": "<p>책은 소설이나 비소설을 담을 수 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 수행하는 지능(비전, 역사, 자연 또는 종교) 판정에 +5 보너스를 받는다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -20146,7 +20146,7 @@
         },
         "le2dlm21iO1Z8OMQ": {
           "activities": {},
-          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜 및 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택:</em> 비전학, 기만, 역사, 위협, 조사, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>간단한 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 중 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(가변)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책}(비밀스러운 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭} 및 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성 표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특징 표}에 나오는 워락 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스 및 경갑옷 훈련.</li><li>워락 특징 표에 나오는 워락 1레벨 특징을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
+          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜 및 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택:</em> 비전, 기만, 역사, 위협, 조사, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>간단한 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 중 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(가변)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책}(비밀스러운 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭} 및 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성 표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특징 표}에 나오는 워락 1레벨 특징을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성 표에서 다음 특성을 얻는다: 히트 다이스 및 경갑옷 훈련.</li><li>워락 특징 표에 나오는 워락 1레벨 특징을 얻는다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
           "effects": {},
           "name": "워락"
         },
@@ -20180,7 +20180,7 @@
         },
         "yNmLK6y3lpJoFurQ": {
           "activities": {},
-          "description": "<p>책은 소설이나 비소설을 담을 수 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 수행하는 지능(비전학, 역사, 자연 또는 종교) 판정에 +5 보너스를 받는다.</p>",
+          "description": "<p>책은 소설이나 비소설을 담을 수 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 수행하는 지능(비전, 역사, 자연 또는 종교) 판정에 +5 보너스를 받는다.</p>",
           "effects": {},
           "name": "책(비밀스러운 지식)"
         },
@@ -20399,7 +20399,7 @@
         },
         "IFy0jt1IZ1AdPV0F": {
           "activities": {},
-          "description": "<p>통찰, 감지 또는 생존 기술에 숙련을 갖는다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>통찰, 포착 또는 생존 기술에 숙련을 갖는다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -20463,7 +20463,7 @@
         },
         "QFBv4dxxy81JvoJv": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 너는 이러한 특수 특성들을 갖는다.</p><p><strong>암시야.</strong> 60피트 사거리의 암시야를 갖는다.</p><p><strong>엘프 혈통.</strong> 너는 초자연적 능력을 부여하는 혈통의 일원이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 표시된 대로 상위 레벨의 주문을 배운다. 그 주문은 항상 준비되어 있다. 주문 슬롯 없이 한 번 시전할 수 있으며, 긴 휴식을 끝내면 그런 식으로 시전하는 능력을 회복한다. 또한 적절한 레벨의 가진 주문 슬롯을 사용하여 그 주문을 시전할 수도 있다. 이 특성으로 시전하는 주문에 대한 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>네 암시야 사거리가 120피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위해 하는 내성 굴림에서 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 통찰, 감지 또는 생존 기술에 숙련을 갖는다.</p><p><strong>명상 상태.</strong> 너는 잠을 잘 필요가 없으며 마법으로도 잠들게 할 수 없다. 그 시간 동안 의식을 유지하는 명상 상태에서 4시간을 보내면 긴 휴식을 완료할 수 있다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(약 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 너는 이러한 특수 특성들을 갖는다.</p><p><strong>암시야.</strong> 60피트 사거리의 암시야를 갖는다.</p><p><strong>엘프 혈통.</strong> 너는 초자연적 능력을 부여하는 혈통의 일원이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 표시된 대로 상위 레벨의 주문을 배운다. 그 주문은 항상 준비되어 있다. 주문 슬롯 없이 한 번 시전할 수 있으며, 긴 휴식을 끝내면 그런 식으로 시전하는 능력을 회복한다. 또한 적절한 레벨의 가진 주문 슬롯을 사용하여 그 주문을 시전할 수도 있다. 이 특성으로 시전하는 주문에 대한 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>네 암시야 사거리가 120피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위해 하는 내성 굴림에서 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 통찰, 포착 또는 생존 기술에 숙련을 갖는다.</p><p><strong>명상 상태.</strong> 너는 잠을 잘 필요가 없으며 마법으로도 잠들게 할 수 없다. 그 시간 동안 의식을 유지하는 명상 상태에서 4시간을 보내면 긴 휴식을 완료할 수 있다.</p>",
           "effects": {},
           "name": "엘프, 드로우"
         },
@@ -20568,7 +20568,7 @@
         },
         "dO559vHQTab8mqo4": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있습니다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 대해 수행하는 지능(비전학, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 얻습니다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있습니다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 대해 수행하는 지능(비전, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 얻습니다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -20640,7 +20640,7 @@
         },
         "le2dlm21iO1Z8OMQ": {
           "activities": {},
-          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 d8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜와 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택:</em> 비전학, 기만, 역사학, 위협, 조사, 자연학 또는 종교학</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양함)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책} (숨겨진 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 꾸러미} 및 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되는 법…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성표의 모든 특성을 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특성표}에 나열된 워락 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성표에서 다음 특성을 얻습니다: 히트 다이스 및 경갑옷 훈련.</li><li>워락 특성표에 나열된 워락 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참고하십시오.</li></ul>",
+          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 d8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜와 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택:</em> 비전, 기만, 역사학, 위협, 조사, 자연학 또는 종교학</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양함)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책} (숨겨진 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 꾸러미} 및 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되는 법…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성표의 모든 특성을 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특성표}에 나열된 워락 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성표에서 다음 특성을 얻습니다: 히트 다이스 및 경갑옷 훈련.</li><li>워락 특성표에 나열된 워락 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참고하십시오.</li></ul>",
           "effects": {},
           "name": "워락"
         },
@@ -20714,7 +20714,7 @@
         },
         "yNmLK6y3lpJoFurQ": {
           "activities": {},
-          "description": "<p>책에는 허구 또는 비허구의 내용이 담겨 있습니다. 어떤 주제에 관한 정확한 비허구 책을 참고하면, 그 주제에 대해 수행하는 지능(비전학, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책에는 허구 또는 비허구의 내용이 담겨 있습니다. 어떤 주제에 관한 정확한 비허구 책을 참고하면, 그 주제에 대해 수행하는 지능(비전, 역사학, 자연학 또는 종교학) 판정에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책 (비밀 지식)"
         },
@@ -20997,7 +20997,7 @@
         },
         "IFy0jt1IZ1AdPV0F": {
           "activities": {},
-          "description": "<p>당신은 통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>당신은 통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "예리한 감각",
           "requirements": "엘프"
@@ -21113,7 +21113,7 @@
         },
         "QFBv4dxxy81JvoJv": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (대략 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음과 같은 특수 특성을 지닙니다.</p><p><strong>암시야.</strong> 당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부입니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 배웁니다. 당신은 항상 그 주문을 준비한 상태로 둡니다. 주문 슬롯을 소비하지 않고 이를 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복합니다. 또한 당신이 보유한 적절한 레벨의 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 시전하는 주문의 주문 시전 능력치입니다(혈통을 선택할 때 능력치를 정하세요).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 암시야 범위가 120피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 알게 됩니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>혼수.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 강제로 잠들게 할 수 없습니다. 4시간 동안 혼수와 유사한 명상 상태로 보내면 긴 휴식을 마칠 수 있으며, 그동안 의식을 유지합니다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형 (대략 5~6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음과 같은 특수 특성을 지닙니다.</p><p><strong>암시야.</strong> 당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일부입니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 배웁니다. 당신은 항상 그 주문을 준비한 상태로 둡니다. 주문 슬롯을 소비하지 않고 이를 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복합니다. 또한 당신이 보유한 적절한 레벨의 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 시전하는 주문의 주문 시전 능력치입니다(혈통을 선택할 때 능력치를 정하세요).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 암시야 범위가 120피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 알게 됩니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>혼수.</strong> 당신은 잠을 잘 필요가 없으며 마법으로 강제로 잠들게 할 수 없습니다. 4시간 동안 혼수와 유사한 명상 상태로 보내면 긴 휴식을 마칠 수 있으며, 그동안 의식을 유지합니다.</p>",
           "effects": {},
           "name": "엘프, 드로우"
         },
@@ -21253,7 +21253,7 @@
         },
         "dO559vHQTab8mqo4": {
           "activities": {},
-          "description": "<p>책은 소설이나 비소설을 담고 있습니다. 그 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능 판정(비전학, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻습니다.</p>",
+          "description": "<p>책은 소설이나 비소설을 담고 있습니다. 그 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능 판정(비전, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻습니다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -21361,7 +21361,7 @@
         },
         "le2dlm21iO1Z8OMQ": {
           "activities": {},
-          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 d8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜, 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택: </em>비전학, 기만, 역사, 위협, 수사, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>평범한 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책} (비밀스러운 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 꾸러미}, 그리고 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성 표의 모든 특성을 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특성 표}에 나열된 워락의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스, 그리고 경갑 훈련.</li><li>워락 특성 표에 나열된 워락의 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스} 규칙을 참조하십시오.</li></ul>",
+          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 d8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜, 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택: </em>비전, 기만, 역사, 위협, 수사, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>평범한 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책} (비밀스러운 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 꾸러미}, 그리고 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성 표의 모든 특성을 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특성 표}에 나열된 워락의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성 표에서 다음 특성을 얻습니다: 히트 다이스, 그리고 경갑 훈련.</li><li>워락 특성 표에 나열된 워락의 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스} 규칙을 참조하십시오.</li></ul>",
           "effects": {},
           "name": "워락"
         },
@@ -21512,7 +21512,7 @@
         },
         "yNmLK6y3lpJoFurQ": {
           "activities": {},
-          "description": "<p>책에는 소설 또는 비소설이 담겨 있습니다. 어떤 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 수행하는 지능(비전학, 역사, 자연 또는 종교) 판정에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책에는 소설 또는 비소설이 담겨 있습니다. 어떤 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 수행하는 지능(비전, 역사, 자연 또는 종교) 판정에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책 (비밀스러운 지식)"
         },
@@ -21877,7 +21877,7 @@
         },
         "IFy0jt1IZ1AdPV0F": {
           "activities": {},
-          "description": "<p>당신은 통찰, 감지 또는 생존 기술에 숙련되어 있다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
+          "description": "<p>당신은 통찰, 포착 또는 생존 기술에 숙련되어 있다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 선택하라는 요청을 받게 된다.</p></section>",
           "effects": {},
           "name": "예민한 감각",
           "requirements": "엘프"
@@ -21999,7 +21999,7 @@
         },
         "QFBv4dxxy81JvoJv": {
           "activities": {},
-          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(약 5–6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야.</strong> 당신은 60피트 사정거리의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 상위 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비된 상태로 둔다. 주문 슬롯 없이 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 적절한 레벨의 보유한 어떤 주문 슬롯을 사용해서든 그 주문을 시전할 수 있다. 이 특성으로 시전하는 주문에 대한 당신의 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 선택한다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 암시야 사정거리가 120피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예민한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련되어 있다.</p><p><strong>무아지경.</strong> 당신은 잠을 잘 필요가 없으며, 마법으로도 당신을 잠재울 수 없다. 그 시간을 무아지경 명상에 보내면 4시간 만에 긴 휴식을 마칠 수 있으며, 그 동안 의식을 유지한다.</p>",
+          "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"drow\">드로우</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspDrow0000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격:</strong> 중형(약 5–6피트 높이)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서, 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야.</strong> 당신은 60피트 사정거리의 암시야를 가진다.</p><p><strong>엘프 혈통.</strong> 당신은 초자연적 능력을 부여하는 혈통의 일원이다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 상위 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비된 상태로 둔다. 주문 슬롯 없이 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 적절한 레벨의 보유한 어떤 주문 슬롯을 사용해서든 그 주문을 시전할 수 있다. 이 특성으로 시전하는 주문에 대한 당신의 주문 시전 능력치는 지능, 지혜 또는 매력이다(혈통을 선택할 때 능력치를 선택한다).</p><table><caption>드로우 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신의 암시야 사정거리가 120피트로 증가한다. 또한, @UUID[Compendium.dnd5e.spells24.Item.phbsplDancingLig]{춤추는 빛} 소마법을 안다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplFaerieFire]{요정불}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDarkness00]{어둠}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 하는 내성 굴림에 유리 보정을 받는다.</p><p><strong>예민한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련되어 있다.</p><p><strong>무아지경.</strong> 당신은 잠을 잘 필요가 없으며, 마법으로도 당신을 잠재울 수 없다. 그 시간을 무아지경 명상에 보내면 4시간 만에 긴 휴식을 마칠 수 있으며, 그 동안 의식을 유지한다.</p>",
           "effects": {},
           "name": "엘프, 드로우"
         },
@@ -22165,7 +22165,7 @@
         },
         "dO559vHQTab8mqo4": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 관해 하는 지능 판정(비전학, 역사, 자연 또는 종교)에 +5 보너스를 받는다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 관해 하는 지능 판정(비전, 역사, 자연 또는 종교)에 +5 보너스를 받는다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -22289,7 +22289,7 @@
         },
         "le2dlm21iO1Z8OMQ": {
           "activities": {},
-          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜와 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택: </em>비전학, 기만, 역사, 위협, 조사, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책}(숨겨진 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭} 및 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특성표}에 나열된 워락 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성표에서 다음 특성을 얻는다: 히트 다이스 및 경갑옷 훈련.</li><li>워락 특성표에 나열된 워락 1레벨 특성을 얻는다. 당신이 사용할 수 있는 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
+          "description": "<h3>워락 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p>주요 능력치</p></th><td><p>매력</p></td></tr><tr><th scope=\"row\"><p>히트 다이스</p></th><td><p>워락 레벨당 D8</p></td></tr><tr><th scope=\"row\"><p>내성 굴림 숙련</p></th><td><p>지혜와 매력</p></td></tr><tr><th scope=\"row\"><p>기술 숙련</p></th><td><p><em>2개 선택: </em>비전, 기만, 역사, 위협, 조사, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p>무기 숙련</p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p>방어구 훈련</p></th><td><p>경갑옷</p></td></tr><tr><th scope=\"row\"><p>초기 장비</p></th><td><p><em>A 또는 B 선택: </em>(A) @UUID[Compendium.dnd5e.equipment24.Item.phbarmLeatherArm]{가죽 갑옷}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepSickle0000]{낫}, @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbafcOrb0000000]{보주}), @UUID[Compendium.dnd5e.equipment24.Item.phiPN9UzkXk3i5xh]{책}(숨겨진 지식), @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭} 및 [[/award 15GP]]; 또는 (B) [[/award 100GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwlkWarlock000 inline classes=\"free-rules-embed\"]</p><h2>워락이 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>워락 기본 특성표의 모든 특성을 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{워락 특성표}에 나열된 워락 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>워락 기본 특성표에서 다음 특성을 얻는다: 히트 다이스 및 경갑옷 훈련.</li><li>워락 특성표에 나열된 워락 1레벨 특성을 얻는다. 당신이 사용할 수 있는 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하라.</li></ul>",
           "effects": {},
           "name": "워락"
         },
@@ -22471,7 +22471,7 @@
         },
         "yNmLK6y3lpJoFurQ": {
           "activities": {},
-          "description": "<p>책은 소설 또는 비소설을 담고 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 하는 지능(비전학, 역사학, 자연학, 또는 종교학) 판정에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책은 소설 또는 비소설을 담고 있다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 하는 지능(비전, 역사학, 자연학, 또는 종교학) 판정에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책(비전 지식)"
         },
@@ -22630,7 +22630,7 @@
         },
         "Qq29yDl8ROC6f3NH": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능(비전학, 역사학, 자연학, 종교학) 판정에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능(비전, 역사학, 자연학, 종교학) 판정에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -22652,7 +22652,7 @@
         },
         "T06z1NrdygayWPur": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문}(위저드)</p><p><strong>기술 숙련:</strong> 비전학과 역사학</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B를 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책}(역사), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지}(8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 PO; 또는 (B) 50 PO</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
+          "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문}(위저드)</p><p><strong>기술 숙련:</strong> 비전과 역사학</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B를 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책}(역사), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지}(8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 PO; 또는 (B) 50 PO</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
           "effects": {},
           "name": "현자"
         },
@@ -22691,7 +22691,7 @@
         },
         "gB0al25v0g0uEJRA": {
           "activities": {},
-          "description": "<h3>위저드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지능</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>위저드 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 역사학, 통찰, 조사, 의학, 자연학 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>갑옷 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B를 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양)}(@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.items.Item.LBajgahniRJbAgDr]{주문서}, @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭}, 그리고 [[/award 5GP]]; 또는 (B) [[/award 55GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>위저드가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 모든 특성을 얻는다.</li><li>위저드 특성 표에 나열된 위저드 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>위저드 기본 특성 표에서 히트 다이스를 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{위저드 특성 표}에 나열된 위저드 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참고하라.</li></ul><aside class=\"notable\"><p><strong>주문서 확장과 교체</strong></p><p>레벨이 오를 때 주문서에 추가하는 주문들은 너의 지속적인 마법 연구를 반영하지만, 모험 중에 책에 추가할 수 있는 다른 주문을 발견할 수도 있다. 예를 들어 주문 두루마리에서 위저드 주문을 발견한 다음, 그것을 주문서에 베껴 적을 수 있다.</p><p><strong>주문서에 주문 베껴 적기.</strong> 1레벨 이상의 위저드 주문을 발견하면, 그것이 네가 준비할 수 있는 레벨이고 베껴 적을 시간이 있다면 주문서에 베껴 적을 수 있다. 주문의 레벨마다 필사에는 2시간이 걸리고 50 PO가 든다. 그 후에는 주문서의 다른 주문들처럼 그 주문을 준비할 수 있다.</p><p><strong>주문서 베껴 적기.</strong> 주문서의 주문을 다른 책에 베껴 적을 수 있다. 이것은 주문서에 새 주문을 베껴 적는 것과 비슷하지만, 이미 그것을 시전하는 법을 알고 있으므로 더 빠르다. 베껴 적는 주문의 레벨마다 1시간과 10 PO만 필요하다.</p><p>주문서를 잃어버리면, 같은 절차로 준비해 둔 위저드 주문들을 새 주문서에 필사할 수 있다. 새 책의 나머지를 채우려면 그렇게 할 새 주문을 찾아야 한다. 이런 이유로 많은 위저드가 예비 주문서를 보관한다.</p></aside>",
+          "description": "<h3>위저드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지능</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>위저드 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 역사학, 통찰, 조사, 의학, 자연학 또는 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>갑옷 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>시작 장비</strong></p></th><td><p><em>A 또는 B를 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양)}(@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.items.Item.LBajgahniRJbAgDr]{주문서}, @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭}, 그리고 [[/award 5GP]]; 또는 (B) [[/award 55GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>위저드가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 모든 특성을 얻는다.</li><li>위저드 특성 표에 나열된 위저드 1레벨 특성을 얻는다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>위저드 기본 특성 표에서 히트 다이스를 얻는다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{위저드 특성 표}에 나열된 위저드 1레벨 특성을 얻는다. 사용 가능한 주문 슬롯을 정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참고하라.</li></ul><aside class=\"notable\"><p><strong>주문서 확장과 교체</strong></p><p>레벨이 오를 때 주문서에 추가하는 주문들은 너의 지속적인 마법 연구를 반영하지만, 모험 중에 책에 추가할 수 있는 다른 주문을 발견할 수도 있다. 예를 들어 주문 두루마리에서 위저드 주문을 발견한 다음, 그것을 주문서에 베껴 적을 수 있다.</p><p><strong>주문서에 주문 베껴 적기.</strong> 1레벨 이상의 위저드 주문을 발견하면, 그것이 네가 준비할 수 있는 레벨이고 베껴 적을 시간이 있다면 주문서에 베껴 적을 수 있다. 주문의 레벨마다 필사에는 2시간이 걸리고 50 PO가 든다. 그 후에는 주문서의 다른 주문들처럼 그 주문을 준비할 수 있다.</p><p><strong>주문서 베껴 적기.</strong> 주문서의 주문을 다른 책에 베껴 적을 수 있다. 이것은 주문서에 새 주문을 베껴 적는 것과 비슷하지만, 이미 그것을 시전하는 법을 알고 있으므로 더 빠르다. 베껴 적는 주문의 레벨마다 1시간과 10 PO만 필요하다.</p><p>주문서를 잃어버리면, 같은 절차로 준비해 둔 위저드 주문들을 새 주문서에 필사할 수 있다. 새 책의 나머지를 채우려면 그렇게 할 새 주문을 찾아야 한다. 이런 이유로 많은 위저드가 예비 주문서를 보관한다.</p></aside>",
           "effects": {},
           "name": "위저드"
         },
@@ -22755,7 +22755,7 @@
         },
         "uNHPEZDH3QLrz1ef": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능(비전학, 역사학, 자연학, 종교학) 판정에 +5 보너스를 얻는다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있다. 어떤 주제에 관한 정확한 비소설 책을 참고하면, 그 주제에 관해 하는 지능(비전, 역사학, 자연학, 종교학) 판정에 +5 보너스를 얻는다.</p>",
           "effects": {},
           "name": "책(역사)"
         },
@@ -22968,7 +22968,7 @@
         },
         "Qq29yDl8ROC6f3NH": {
           "activities": {},
-          "description": "<p>책에는 픽션이나 논픽션이 담겨 있습니다. 어떤 주제에 대해 정확한 논픽션 책을 참고하면, 그 주제에 관해 하는 지능(비전학, 역사, 자연, 종교) 판정에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책에는 픽션이나 논픽션이 담겨 있습니다. 어떤 주제에 대해 정확한 논픽션 책을 참고하면, 그 주제에 관해 하는 지능(비전, 역사, 자연, 종교) 판정에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -22990,7 +22990,7 @@
         },
         "T06z1NrdygayWPur": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전학 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
+          "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
           "effects": {},
           "name": "현자"
         },
@@ -23064,7 +23064,7 @@
         },
         "fay375sv2fCUNuaa": {
           "activities": {},
-          "description": "<p>마법을 공부하는 동안, 당신은 다른 학문 분야에도 정통했습니다. 당신이 숙련을 가진 다음 기술 중 하나를 선택하세요: 비전학, 역사, 조사, 의학, 자연 또는 종교. 선택한 기술에 통달을 얻습니다.</p>",
+          "description": "<p>마법을 공부하는 동안, 당신은 다른 학문 분야에도 정통했습니다. 당신이 숙련을 가진 다음 기술 중 하나를 선택하세요: 비전, 역사, 조사, 의학, 자연 또는 종교. 선택한 기술에 통달을 얻습니다.</p>",
           "effects": {},
           "name": "학자"
         },
@@ -23081,7 +23081,7 @@
         },
         "gB0al25v0g0uEJRA": {
           "activities": {},
-          "description": "<h3>위저드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지능</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>위저드 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능 및 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 역사, 통찰, 조사, 의학, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.items.Item.LBajgahniRJbAgDr]{주문서}, @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭} 및 [[/award 5GP]]; 또는 (B) [[/award 55GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>위저드가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 모든 특성을 얻습니다.</li><li>위저드 특성 표에 나오는 위저드의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 히트 다이스를 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{위저드 특성 표}에 나오는 위저드의 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참고하세요.</li></ul><aside class=\"notable\"><p><strong>주문서 확장 및 교체</strong></p><p>레벨이 오를 때 주문서에 추가하는 주문은 당신의 지속적인 마법 연구를 반영하지만, 모험 중에 책에 추가할 수 있는 다른 주문을 발견할 수도 있습니다. 예를 들어 주문 두루마리에서 위저드 주문을 발견한 뒤 그것을 주문서에 베껴 쓸 수 있습니다.</p><p><strong>주문을 책에 베끼기.</strong> 1레벨 이상의 위저드 주문을 발견했을 때, 그것이 당신이 준비할 수 있는 레벨이고 베껴 쓸 시간이 있다면 주문서에 베껴 쓸 수 있습니다. 주문 레벨당 옮겨 적는 데 2시간이 걸리고 50 gp가 듭니다. 그 후에는 주문서의 다른 주문들처럼 그 주문을 준비할 수 있습니다.</p><p><strong>책 베끼기.</strong> 주문서의 주문을 다른 책에 베껴 쓸 수 있습니다. 새 주문을 베끼는 것과 같지만, 이미 시전법을 알고 있으므로 더 빠릅니다. 베끼는 주문 레벨당 1시간과 10 gp만 필요합니다.</p><p>주문서를 잃어버린 경우, 같은 절차로 준비해 둔 위저드 주문들을 새 책에 옮겨 적을 수 있습니다. 책의 나머지를 채우려면 새 주문을 찾아야 합니다. 이런 이유로 많은 위저드가 예비 주문서를 보관합니다.</p></aside>",
+          "description": "<h3>위저드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지능</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>위저드 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능 및 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 역사, 통찰, 조사, 의학, 자연 또는 종교</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>평범한 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검} 2개, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체 (다양)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.items.Item.LBajgahniRJbAgDr]{주문서}, @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 배낭} 및 [[/award 5GP]]; 또는 (B) [[/award 55GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>위저드가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 모든 특성을 얻습니다.</li><li>위저드 특성 표에 나오는 위저드의 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 히트 다이스를 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{위저드 특성 표}에 나오는 위저드의 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참고하세요.</li></ul><aside class=\"notable\"><p><strong>주문서 확장 및 교체</strong></p><p>레벨이 오를 때 주문서에 추가하는 주문은 당신의 지속적인 마법 연구를 반영하지만, 모험 중에 책에 추가할 수 있는 다른 주문을 발견할 수도 있습니다. 예를 들어 주문 두루마리에서 위저드 주문을 발견한 뒤 그것을 주문서에 베껴 쓸 수 있습니다.</p><p><strong>주문을 책에 베끼기.</strong> 1레벨 이상의 위저드 주문을 발견했을 때, 그것이 당신이 준비할 수 있는 레벨이고 베껴 쓸 시간이 있다면 주문서에 베껴 쓸 수 있습니다. 주문 레벨당 옮겨 적는 데 2시간이 걸리고 50 gp가 듭니다. 그 후에는 주문서의 다른 주문들처럼 그 주문을 준비할 수 있습니다.</p><p><strong>책 베끼기.</strong> 주문서의 주문을 다른 책에 베껴 쓸 수 있습니다. 새 주문을 베끼는 것과 같지만, 이미 시전법을 알고 있으므로 더 빠릅니다. 베끼는 주문 레벨당 1시간과 10 gp만 필요합니다.</p><p>주문서를 잃어버린 경우, 같은 절차로 준비해 둔 위저드 주문들을 새 책에 옮겨 적을 수 있습니다. 책의 나머지를 채우려면 새 주문을 찾아야 합니다. 이런 이유로 많은 위저드가 예비 주문서를 보관합니다.</p></aside>",
           "effects": {},
           "name": "위저드"
         },
@@ -23169,7 +23169,7 @@
         },
         "uNHPEZDH3QLrz1ef": {
           "activities": {},
-          "description": "<p>책에는 픽션이나 논픽션이 담겨 있습니다. 어떤 주제에 대해 정확한 논픽션 책을 참고하면, 그 주제와 관련된 지능(비전학, 역사, 자연, 종교) 판정에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책에는 픽션이나 논픽션이 담겨 있습니다. 어떤 주제에 대해 정확한 논픽션 책을 참고하면, 그 주제와 관련된 지능(비전, 역사, 자연, 종교) 판정에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책 (역사)"
         },
@@ -23780,7 +23780,7 @@
         },
         "uNHPEZDH3QLrz1ef": {
           "activities": {},
-          "description": "<p>책에는 소설이나 비소설이 담겨 있습니다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 하는 지능 판정(비전학, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻습니다.</p>",
+          "description": "<p>책에는 소설이나 비소설이 담겨 있습니다. 어떤 주제에 대한 정확한 비소설 책을 참조하면, 그 주제에 대해 하는 지능 판정(비전, 역사학, 자연학 또는 종교학)에 +5 보너스를 얻습니다.</p>",
           "effects": {},
           "name": "책 (역사)"
         },
@@ -24210,7 +24210,7 @@
         },
         "Qq29yDl8ROC6f3NH": {
           "activities": {},
-          "description": "<p>책에는 허구 또는 비허구의 내용이 담겨 있습니다. 어떤 주제에 대해 정확한 비허구 서적을 참고하면, 그 주제에 관해 수행하는 지능 판정(비전학, 역사, 자연 또는 종교)에 +5 보너스를 얻습니다.</p>",
+          "description": "<p>책에는 허구 또는 비허구의 내용이 담겨 있습니다. 어떤 주제에 대해 정확한 비허구 서적을 참고하면, 그 주제에 관해 수행하는 지능 판정(비전, 역사, 자연 또는 종교)에 +5 보너스를 얻습니다.</p>",
           "effects": {},
           "name": "책"
         },
@@ -24242,7 +24242,7 @@
         },
         "T06z1NrdygayWPur": {
           "activities": {},
-          "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전학 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
+          "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
           "effects": {},
           "name": "현자"
         },
@@ -24415,7 +24415,7 @@
         },
         "fay375sv2fCUNuaa": {
           "activities": {},
-          "description": "<p>마법을 연구하는 동안, 당신은 다른 학문 분야에도 전문성을 갖추게 되었습니다. 당신이 숙련된 다음 기술 중 하나를 고르십시오: 비전학, 역사학, 수사, 의학, 자연학, 종교학. 선택한 기술에 통달을 얻습니다.</p>",
+          "description": "<p>마법을 연구하는 동안, 당신은 다른 학문 분야에도 전문성을 갖추게 되었습니다. 당신이 숙련된 다음 기술 중 하나를 고르십시오: 비전, 역사학, 수사, 의학, 자연학, 종교학. 선택한 기술에 통달을 얻습니다.</p>",
           "effects": {},
           "name": "박식가"
         },
@@ -24435,7 +24435,7 @@
         },
         "gB0al25v0g0uEJRA": {
           "activities": {},
-          "description": "<h3>위저드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지능</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>위저드 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전학, 역사학, 통찰, 수사, 의학, 자연학, 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) 2 @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검}, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양함)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.items.Item.LBajgahniRJbAgDr]{주문서}, @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 꾸러미} 및 [[/award 5GP]]; 또는 (B) [[/award 55GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>위저드가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 모든 특성을 얻습니다.</li><li>위저드 특성 표에 나열된 위저드 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 히트 다이스를 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{위저드 특성 표}에 나열된 위저드 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하십시오.</li></ul><aside class=\"notable\"><p><strong>주문서 확장 및 교체</strong></p><p>레벨이 오를 때 주문서에 추가하는 주문은 당신의 지속적인 마법 연구를 반영하지만, 모험 중에 주문서에 추가할 수 있는 다른 주문을 발견할 수도 있습니다. 예를 들어 주문 두루마리에서 위저드 주문을 발견한 다음 그것을 주문서에 베껴 쓸 수 있습니다.</p><p><strong>주문을 주문서에 베껴 쓰기.</strong> 1레벨 이상의 위저드 주문을 발견하면, 그것이 당신이 준비할 수 있는 레벨이고 베껴 쓸 시간이 있다면 주문서에 베껴 쓸 수 있습니다. 주문 레벨당 필사에는 2시간이 걸리고 50 gp가 듭니다. 그 후에는 주문서의 다른 주문처럼 그 주문을 준비할 수 있습니다.</p><p><strong>주문서 베껴 쓰기.</strong> 주문서의 주문을 다른 책에 베껴 쓸 수 있습니다. 이는 주문서에 새 주문을 베껴 쓰는 것과 같지만, 이미 그 주문을 시전하는 법을 알고 있으므로 더 빠릅니다. 베껴 쓰는 주문 레벨당 1시간과 10 gp만 있으면 됩니다.</p><p>주문서를 잃어버리면, 같은 절차를 사용하여 당신이 준비한 위저드 주문을 새 책에 필사할 수 있습니다. 새 책의 나머지를 채우려면 새 주문을 찾아야 합니다. 이런 이유로 많은 위저드들이 예비 주문서를 보관합니다.</p></aside>",
+          "description": "<h3>위저드 기본 특성</h3><table class=\"core-class-traits\"><tbody><tr><th scope=\"row\"><p><strong>주요 능력치</strong></p></th><td><p>지능</p></td></tr><tr><th scope=\"row\"><p><strong>히트 다이스</strong></p></th><td><p>위저드 레벨당 D6</p></td></tr><tr><th scope=\"row\"><p><strong>내성 굴림 숙련</strong></p></th><td><p>지능과 지혜</p></td></tr><tr><th scope=\"row\"><p><strong>기술 숙련</strong></p></th><td><p><em>2개 선택:</em> 비전, 역사학, 통찰, 수사, 의학, 자연학, 종교학</p></td></tr><tr><th scope=\"row\"><p><strong>무기 숙련</strong></p></th><td><p>단순 무기</p></td></tr><tr><th scope=\"row\"><p><strong>방어구 훈련</strong></p></th><td><p>없음</p></td></tr><tr><th scope=\"row\"><p><strong>초기 장비</strong></p></th><td><p><em>A 또는 B 선택:</em> (A) 2 @UUID[Compendium.dnd5e.equipment24.Item.phbwepDagger0000]{단검}, @UUID[Compendium.dnd5e.equipment24.Item.phbagArcaneFocus]{비전 매개체(다양함)} (@UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉(Quarterstaff)}), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, @UUID[Compendium.dnd5e.items.Item.LBajgahniRJbAgDr]{주문서}, @UUID[Compendium.dnd5e.equipment24.Item.phbagScholarsPac]{학자의 꾸러미} 및 [[/award 5GP]]; 또는 (B) [[/award 55GP]]</p></td></tr></tbody></table><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixClass.JournalEntryPage.phbwzdWizard0000 inline classes=\"free-rules-embed\"]</p><h2>위저드가 되기…</h2><h3>1레벨 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 모든 특성을 얻습니다.</li><li>위저드 특성 표에 나열된 위저드 1레벨 특성을 얻습니다.</li></ul><h3>멀티클래스 캐릭터로서</h3><ul><li>위저드 기본 특성 표의 히트 다이스를 얻습니다.</li><li>@UUID[Compendium.dnd5e.content24.JournalEntry.phbWizard0000000.JournalEntryPage.g7cMRWzsgAsEF7zC#class-features]{위저드 특성 표}에 나열된 위저드 1레벨 특성을 얻습니다. 사용 가능한 주문 슬롯을 결정하려면 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCreatingAChar.JournalEntryPage.vcs4jfEKRxPCsgXm]{멀티클래스}를 참조하십시오.</li></ul><aside class=\"notable\"><p><strong>주문서 확장 및 교체</strong></p><p>레벨이 오를 때 주문서에 추가하는 주문은 당신의 지속적인 마법 연구를 반영하지만, 모험 중에 주문서에 추가할 수 있는 다른 주문을 발견할 수도 있습니다. 예를 들어 주문 두루마리에서 위저드 주문을 발견한 다음 그것을 주문서에 베껴 쓸 수 있습니다.</p><p><strong>주문을 주문서에 베껴 쓰기.</strong> 1레벨 이상의 위저드 주문을 발견하면, 그것이 당신이 준비할 수 있는 레벨이고 베껴 쓸 시간이 있다면 주문서에 베껴 쓸 수 있습니다. 주문 레벨당 필사에는 2시간이 걸리고 50 gp가 듭니다. 그 후에는 주문서의 다른 주문처럼 그 주문을 준비할 수 있습니다.</p><p><strong>주문서 베껴 쓰기.</strong> 주문서의 주문을 다른 책에 베껴 쓸 수 있습니다. 이는 주문서에 새 주문을 베껴 쓰는 것과 같지만, 이미 그 주문을 시전하는 법을 알고 있으므로 더 빠릅니다. 베껴 쓰는 주문 레벨당 1시간과 10 gp만 있으면 됩니다.</p><p>주문서를 잃어버리면, 같은 절차를 사용하여 당신이 준비한 위저드 주문을 새 책에 필사할 수 있습니다. 새 책의 나머지를 채우려면 새 주문을 찾아야 합니다. 이런 이유로 많은 위저드들이 예비 주문서를 보관합니다.</p></aside>",
           "effects": {},
           "name": "위저드"
         },
@@ -24661,7 +24661,7 @@
         },
         "uNHPEZDH3QLrz1ef": {
           "activities": {},
-          "description": "<p>책은 소설 또는 비소설을 담고 있습니다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 관해 수행하는 지능 판정(비전학, 역사학, 자연학 또는 종교학)에 +5 보너스를 받습니다.</p>",
+          "description": "<p>책은 소설 또는 비소설을 담고 있습니다. 어떤 주제에 대해 정확한 비소설 책을 참고하면, 그 주제에 관해 수행하는 지능 판정(비전, 역사학, 자연학 또는 종교학)에 +5 보너스를 받습니다.</p>",
           "effects": {},
           "name": "책 (역사)"
         },

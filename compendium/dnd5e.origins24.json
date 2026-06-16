@@ -79,7 +79,7 @@
     },
     "phbbgSage0000000": {
       "name": "현자",
-      "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전학 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사서), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
+      "description": "<p><strong>능력치:</strong> 건강, 지능, 지혜</p><p><strong>재주:</strong> @UUID[Compendium.dnd5e.feats24.Item.phbftMagicInitia]{마법 입문} (위저드)</p><p><strong>기술 숙련:</strong> 비전 및 역사</p><p><strong>도구 숙련:</strong> 서기의 도구</p><p><strong>장비:</strong> <em>A 또는 B 선택:</em> (A) @UUID[Compendium.dnd5e.equipment24.Item.phbwepQuartersta]{육척봉 (Quarterstaff)}, @UUID[Compendium.dnd5e.equipment24.Item.phbtulCalligraph]{서기의 도구}, @UUID[Compendium.dnd5e.equipment24.Item.phbagBook0000000]{책} (역사서), @UUID[Compendium.dnd5e.equipment24.Item.phbagParchment00]{양피지} (8장), @UUID[Compendium.dnd5e.equipment24.Item.phbagRobe0000000]{로브}, 8 gp; 또는 (B) 50 gp</p><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixBackg.JournalEntryPage.phbbgSage0000000 inline classes=\"free-rules-embed\"]</p>",
       "activities": {},
       "effects": {},
       "advancement": {
@@ -89,7 +89,7 @@
         },
         "DMd8rikwPlZdpP1l": {
           "title": "배경 숙련",
-          "hint": "당신의 배경은 비전학과 역사에 숙련을 부여한다. 또한 서기의 도구에 숙련을 부여한다."
+          "hint": "당신의 배경은 비전과 역사에 숙련을 부여한다. 또한 서기의 도구에 숙련을 부여한다."
         },
         "kKt7VMmZUuRr35dP": {
           "title": "배경 재주",
@@ -343,7 +343,7 @@
     },
     "phbspHighElf0000": {
       "name": "엘프, 하이",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형 (키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나타난 대로 더 높은 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비한 상태이다. 당신은 주문 슬롯을 소모하지 않고 한 번 이를 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 레벨의 어떤 주문 슬롯이든 사용하여 그 주문을 시전할 수 있다. 이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 안다. 긴 휴식을 마칠 때마다, 당신은 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{마법사 주문 목록}의 다른 소마법으로 교체할 수 있다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 가진다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 당신을 잠들게 할 수 없다. 당신은 트랜스와 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"high-elves\">하이 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspHighElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형 (키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특수 특성을 가진다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 가진다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통의 일부이다.</p><p>캐릭터 3레벨과 5레벨에 도달하면, 표에 나타난 대로 더 높은 레벨의 주문을 배운다. 당신은 항상 그 주문을 준비한 상태이다. 당신은 주문 슬롯을 소모하지 않고 한 번 이를 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 시전하는 능력을 회복한다. 또한 당신이 가진 적절한 레벨의 어떤 주문 슬롯이든 사용하여 그 주문을 시전할 수 있다. 이 특성으로 주문을 시전하는 당신의 능력치는 지능, 지혜, 매력 중 하나이다(혈통을 선택할 때 능력치를 고른다).</p><table><caption>하이 엘프 혈통 특성</caption><thead><tr><td>1레벨</td><td>3레벨</td><td>5레벨</td></tr></thead><tbody><tr><td>당신은 @UUID[Compendium.dnd5e.spells24.Item.phbsplPrestidigi]{요술} 소마법을 안다. 긴 휴식을 마칠 때마다, 당신은 그 소마법을 @UUID[Compendium.dnd5e.content24.JournalEntry.phbSpells0000000.JournalEntryPage.6AnqLUowgdsqMFvz]{마법사 주문 목록}의 다른 소마법으로 교체할 수 있다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplDetectMagi]{마법 탐지}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplMistyStep0]{안개 걸음}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태이상을 피하거나 끝내기 위한 내성 굴림에 유리 보정을 받는다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련을 가진다.</p><p><strong>트랜스.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 당신을 잠들게 할 수 없다. 당신은 트랜스와 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 의식을 유지한다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
@@ -357,7 +357,7 @@
         },
         "wyzOrBj4qIVsCKc7": {
           "title": "예리한 감각",
-          "hint": "당신은 통찰, 감지 또는 생존 기술에 숙련을 가진다."
+          "hint": "당신은 통찰, 포착 또는 생존 기술에 숙련을 가진다."
         },
         "hraql8YRB41ssDA6": {
           "title": "하이 엘프 특성",
@@ -683,7 +683,7 @@
     },
     "phbsptKeenSenses": {
       "name": "예리한 감각",
-      "description": "<p>당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 기술을 선택하라는 요청을 받게 됩니다.</p></section>",
+      "description": "<p>당신은 통찰, 포착 또는 생존 기술에 숙련을 지닙니다.</p><section id=\"secret-Tecxufp7EFDVqTEY\" class=\"secret\"><p><strong>Foundry 참고</strong></p><p>이 종족을 선택한 후 기술을 선택하라는 요청을 받게 됩니다.</p></section>",
       "activities": {},
       "effects": {},
       "advancement": {},
@@ -848,7 +848,7 @@
     },
     "phbspWoodElf0000": {
       "name": "엘프, 우드",
-      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">우드 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특별한 특성을 지닙니다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통에 속해 있습니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비 상태로 둡니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 다시 시전할 수 있는 능력을 회복합니다. 또한 보유한 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 능력치입니다(혈통을 선택할 때 능력치를 고릅니다).</p><table><caption>우드 엘프 혈통 특성</caption><thead><tr><td>레벨 1</td><td>레벨 3</td><td>레벨 5</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 익힙니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 실시하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>망아.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 잠들지 않습니다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 당신은 의식을 유지합니다.</p>",
+      "description": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspElf00000000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"wood-elves\">우드 엘프</h3><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixSpeci.JournalEntryPage.phbspWoodElf0000 inline classes=\"free-rules-embed\"]</p><h3 data-anchor=\"elf-traits\">엘프 특성</h3><p><strong>크리처 유형:</strong> 인간형</p><p><strong>체격: </strong>중형(키 약 5~6피트)</p><p><strong>속도:</strong> 30피트</p><p>엘프로서 당신은 다음과 같은 특별한 특성을 지닙니다.</p><p><strong>암시야. </strong>당신은 60피트 범위의 암시야를 지닙니다.</p><p><strong>엘프 혈통. </strong>당신은 초자연적 능력을 부여하는 혈통에 속해 있습니다.</p><p>캐릭터 레벨 3과 5에 도달하면, 표에 나온 대로 더 높은 레벨의 주문을 익힙니다. 당신은 항상 그 주문을 준비 상태로 둡니다. 주문 슬롯을 소모하지 않고 한 번 시전할 수 있으며, 긴 휴식을 마치면 그 방식으로 다시 시전할 수 있는 능력을 회복합니다. 또한 보유한 적절한 주문 슬롯을 사용하여 그 주문을 시전할 수도 있습니다. 지능, 지혜 또는 매력이 이 특성으로 주문을 시전할 때의 능력치입니다(혈통을 선택할 때 능력치를 고릅니다).</p><table><caption>우드 엘프 혈통 특성</caption><thead><tr><td>레벨 1</td><td>레벨 3</td><td>레벨 5</td></tr></thead><tbody><tr><td>당신의 속도가 35피트로 증가합니다. 또한 @UUID[Compendium.dnd5e.spells24.Item.phbsplDruidcraft]{드루이드술} 소마법을 익힙니다.</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplLongstride]{활보}</td><td>@UUID[Compendium.dnd5e.spells24.Item.phbsplPasswithou]{신출귀몰}</td></tr></tbody></table><p><strong>요정 혈통.</strong> 당신은 &amp;Reference[Charmed] 상태를 피하거나 끝내기 위해 실시하는 내성 굴림에 유리 보정을 받습니다.</p><p><strong>예리한 감각.</strong> 당신은 통찰, 포착 또는 생존 기술에 숙련을 지닙니다.</p><p><strong>망아.</strong> 당신은 잠을 잘 필요가 없으며 마법으로도 잠들지 않습니다. 무아지경과 비슷한 명상에 4시간을 보내면 긴 휴식을 완료할 수 있으며, 그동안 당신은 의식을 유지합니다.</p>",
       "activities": {},
       "effects": {},
       "advancement": {
@@ -874,7 +874,7 @@
         },
         "RwuXccrKfMuuWLKr": {
           "title": "예리한 감각",
-          "hint": "당신은 통찰, 감지 또는 생존 기술에 숙련을 지닙니다."
+          "hint": "당신은 통찰, 포착 또는 생존 기술에 숙련을 지닙니다."
         }
       }
     }
