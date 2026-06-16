@@ -60,7 +60,8 @@
           "description": "<p>[[lookup @name lowercase]]이(가) &amp;Reference[Acid] 피해를 받을 때마다, 피해를 받지 않고 대신 받은 산성 피해와 같은 양의 히트 포인트를 회복한다.</p>"
         }
       },
-      "advancement": {}
+      "advancement": {},
+      "requirements": "산성 피해를 받음"
     },
     "mmAcidBreath0000": {
       "name": "산성 숨결",
@@ -101,7 +102,8 @@
           "description": "<p class=\"feature\">[[lookup @name lowercase]]은(는) 자신을 건드리는 모든 것에 들러붙는다. [[lookup @name lowercase]]에 들러붙은 거대형 이하의 크리처는 &amp;Reference[Grappled apply=false] 상태이상이 된다(탈출 CD [[lookup @skills.ath.passive]]). 이 붙잡기에서 벗어나기 위한 능력 판정은 불리 보정을 받는다.</p>"
         }
       },
-      "advancement": {}
+      "advancement": {},
+      "requirements": "물체 형태 전용"
     },
     "mmAgile000000000": {
       "name": "민첩함",
@@ -224,7 +226,8 @@
         }
       },
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "행동불능 아님"
     },
     "mmAversionToFire": {
       "name": "화염 혐오",
@@ -236,7 +239,8 @@
           "description": "<p>[[lookup @name lowercase]]이(가) 화염 피해를 받으면, 다음 턴이 끝날 때까지 명중 굴림과 능력 판정에 불리 보정을 받는다.</p>"
         }
       },
-      "advancement": {}
+      "advancement": {},
+      "requirements": "화염 피해를 받음"
     },
     "mmBalefulCommand": {
       "name": "불길한 명령",
@@ -469,21 +473,24 @@
       "description": "<p>&amp;Reference[Bloodied] 상태인 동안, [[lookup @name lowercase]]은(는) 명중 굴림과 내성 굴림에 유리 보정을 받는다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "피투성이일 때"
     },
     "mmBloodiedFury00": {
       "name": "피투성이 분노",
       "description": "<p>&amp;Reference[Bloodied] 상태인 동안, [[lookup @name lowercase]]은(는) 명중 굴림에 유리 보정을 받는다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "피투성이일 때"
     },
     "mmBlurredForm000": {
       "name": "흐릿한 형체",
       "description": "<p>[[lookup @name lowercase]]이(가) 행동불능 상태이상이 아닌 한, [[lookup @name lowercase]]에 대한 명중 굴림은 불리 보정으로 이루어진다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "행동불능 아님"
     },
     "mmBoneBow0000000": {
       "name": "뼈 활",
@@ -550,7 +557,8 @@
         }
       },
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "수중에 있을 때"
     },
     "mmBurn0000000000": {
       "name": "화상",
@@ -1054,7 +1062,8 @@
         }
       },
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "죽을 때"
     },
     "mmDeathGlare0000": {
       "name": "죽음의 응시",
@@ -1130,7 +1139,8 @@
       "description": "<p>[[lookup @name lowercase]]이(가) 어비스 밖에서 죽으면, 그 몸은 이코르로 녹아버리고 즉시 새로운 몸을 얻어 어비스 어딘가에서 모든 히트 포인트를 가지고 되살아난다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "어비스 밖에서 죽음"
     },
     "mmDestroyMetal00": {
       "name": "금속 파괴",
@@ -1159,7 +1169,8 @@
       "description": "<p>[[lookup @name lowercase]]이(가) 나인 헬 밖에서 죽으면, 그 몸은 유황 연기 속으로 사라지고 즉시 새로운 몸을 얻어 나인 헬 어딘가에서 모든 히트 포인트를 가지고 되살아난다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "나인 헬 밖에서 죽음"
     },
     "mmDisruptLife000": {
       "name": "생명 교란",
@@ -1352,7 +1363,8 @@
       "description": "<p class=\"feature\">[[lookup @name lowercase]]이(가) [[lookup @item.requirements]]하면, 그 몸은 흙으로 녹아내리고 [[/r 1d4#Days]]일 후 새로운 몸을 얻어, 흙의 정령계 어딘가에서 모든 히트 포인트를 갖고 되살아난다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "대지의 정령계 밖에서 죽음"
     },
     "mmEnchantingBow0": {
       "name": "매혹의 활",
@@ -1403,7 +1415,8 @@
           "description": "<p class=\"feature\"><em>근력 내성 굴림:</em> CD [[lookup @save.dc.value activity=n8nEah4vbrEPphNF]], [[lookup @name lowercase]]이(가) [[lookup @range.value activity=n8nEah4vbrEPphNF]]피트 내에서 볼 수 있는 크리처. <em>실패:</em> [[/damage average]] 피해, 그리고 목표는 밧줄이 파괴되거나, [[lookup @name lowercase]]이(가) 보조 행동을 사용해 목표를 풀어주거나, [[lookup @name lowercase]]이(가) 휘감는 밧줄을 다시 사용할 때까지 &amp;Reference[Restrained apply=false] 상태가 된다.</p>"
         }
       },
-      "advancement": {}
+      "advancement": {},
+      "requirements": "마법 밧줄 필요"
     },
     "mmEnthrallingPan": {
       "name": "매료시키는 멋",
@@ -1519,7 +1532,8 @@
       "description": "<p>[[lookup @name lowercase]]이(가) 게헨나 밖에서 죽으면, 그 몸은 진액으로 녹아내리고 즉시 새로운 몸을 얻어 게헨나에서 모든 히트 포인트를 갖고 되살아난다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "게헨나 밖에서 죽음"
     },
     "mmFiendishTouch0": {
       "name": "마족의 손길",
@@ -1675,7 +1689,8 @@
       "description": "<p>[[lookup @name lowercase]]은(는) 적의 사거리 밖으로 날아갈 때 &amp;Reference[OpportunityAttacks]{허점 공격}을 유발하지 않는다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "적의 사정거리 밖으로 비행함"
     },
     "mmFlyingSword000": {
       "name": "비행 검",
@@ -2368,7 +2383,8 @@
       "description": "<p class=\"feature\">[[lookup @name lowercase]]이(가) 번개 피해를 받을 때마다, 입은 번개 피해와 동일한 양의 히트 포인트를 회복한다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "번개 피해를 받음"
     },
     "mmLightningBlade": {
       "name": "번개 칼날",
@@ -2724,7 +2740,8 @@
         }
       },
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "영혼 주머니 필요"
     },
     "mmNightmareRay00": {
       "name": "악몽 광선",
@@ -2827,7 +2844,8 @@
       "description": "<p>[[lookup @name lowercase]]의 아군 중 적어도 하나가 어떤 크리처로부터 5피트 이내에 있고 그 아군이 행동불능 상태가 아니라면, [[lookup @name lowercase]]는 그 크리처에 대한 명중 굴림에 유리 보정을 받는다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "공격 대상 5피트 내 아군"
     },
     "mmPactBlade00000": {
       "name": "계약의 칼날",
@@ -3360,7 +3378,8 @@
         }
       },
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "히트 포인트 1 이상"
     },
     "mmRend0000000000": {
       "name": "찢기",
@@ -4052,14 +4071,16 @@
       "description": "<p>햇빛 속에 있는 동안 [[lookup @name lowercase]]는 능력 판정과 명중 굴림에 불리 보정을 받는다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "햇빛 속에 있을 때"
     },
     "mmSunlightWeakne": {
       "name": "햇빛 약점",
       "description": "<p class=\"feature\">햇빛 속에 있는 동안 [[lookup @name lowercase]]는 d20 테스트에 불리 보정을 받는다.</p>",
       "activities": {},
       "effects": {},
-      "advancement": {}
+      "advancement": {},
+      "requirements": "햇빛 속에 있을 때"
     },
     "mmSwallow0000000": {
       "name": "삼키기",

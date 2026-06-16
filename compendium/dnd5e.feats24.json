@@ -188,7 +188,8 @@
           "title": "능력치 향상",
           "hint": ""
         }
-      }
+      },
+      "requirements": "근력 또는 민첩 13 이상"
     },
     "phbftMagicInitia": {
       "name": "마법 입문",

@@ -2,7 +2,7 @@
   "id": "translate-dnd5e-sdr2-es",
   "title": "D&D 5e 한국어 번역 (시스템 UI + SRD 2024)",
   "description": "Foundry VTT의 dnd5e 시스템 한국어 번역본. 시스템 UI(능력치·시트·상태·주문 등) 전체 한국어화 + D&D 2024 SRD 주제집(주문·몬스터·장비·클래스·기원·규칙·표) Babele 번역 + D&D 2024 스타일 일지/스탯블록 + 한국어 폰트. 원본: LuckyFrico(이탈리아어)·foundryvtt-sinregistrar(스페인어).",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "14"

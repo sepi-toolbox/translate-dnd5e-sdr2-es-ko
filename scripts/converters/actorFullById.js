@@ -95,6 +95,13 @@ function mergeItemsByIdOnActor(actor, tItems) {
             it.system.description.value = d;
         }
 
+        // requirements (전제/발동 조건 — 아이템 부제로 표시)
+        const reqv = t.requirements ?? t?.system?.requirements;
+        if (typeof reqv === "string") {
+            it.system = it.system ?? {};
+            it.system.requirements = reqv;
+        }
+
         // activities por _id: it.system.activities.{id}.name
         if (t.activities) {
             const tActById = normalizeByIdObject(t.activities);

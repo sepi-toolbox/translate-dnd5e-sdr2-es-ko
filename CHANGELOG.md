@@ -18,6 +18,14 @@ The format is based on **Keep a Changelog**, and this project follows a custom v
 
 ---
 
+## [2.0.2] - 2026-06-16
+
+### Fixed
+- **아이템 `requirements`(전제/발동 조건) 번역** — 특성/재주/클래스 기능의 부제로 표시되는 `system.requirements`가 영어로 남던 문제 수정(예: 마족 재생 "Dies outside of Gehanna" → "게헨나 밖에서 죽음"). 66종 고유 조건문을 캔들킵 정본(클래스/종족명 포함)으로 번역해 actors24(임베디드 395)·classes24(81)·origins24(36)·monsterfeatures24(21)·feats24(1) 총 534개 아이템에 주입.
+- Babele 기본 Item 매핑에 `requirements` 필드 추가(`registerMapping`), `actorFullById` 컨버터가 임베디드 아이템 `requirements`를 적용하도록 확장.
+
+---
+
 ## [2.0.1] - 2026-06-16
 
 ### Fixed
